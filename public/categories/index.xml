@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IT Blog</title>
+    <link>http://blog.desecho.org/categories/</link>
+    <description>Recent content in Categories on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://blog.desecho.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Db</title>
+      <link>http://blog.desecho.org/categories/db/</link>
+      <pubDate>Sun, 22 Jun 2014 00:22:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://blog.desecho.org/categories/git/</link>
+      <pubDate>Sun, 22 Jun 2014 00:24:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iphone</title>
+      <link>http://blog.desecho.org/categories/iphone/</link>
+      <pubDate>Sun, 09 Apr 2017 18:59:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://blog.desecho.org/categories/javascript/</link>
+      <pubDate>Wed, 13 Jul 2016 22:21:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macos</title>
+      <link>http://blog.desecho.org/categories/macos/</link>
+      <pubDate>Wed, 20 Jul 2016 01:41:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://blog.desecho.org/categories/python/</link>
+      <pubDate>Wed, 13 Jul 2016 22:21:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sublime Text</title>
+      <link>http://blog.desecho.org/categories/sublime-text/</link>
+      <pubDate>Sun, 13 Jul 2014 17:28:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/sublime-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>http://blog.desecho.org/categories/ubuntu/</link>
+      <pubDate>Mon, 11 Jul 2016 02:28:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://blog.desecho.org/categories/web-development/</link>
+      <pubDate>Wed, 13 Jul 2016 22:21:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://blog.desecho.org/categories/windows/</link>
+      <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on IT Blog</title>
+    <link>http://blog.desecho.org/posts/</link>
+    <description>Recent content in Posts on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2018 01:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.desecho.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows Applications</title>
+      <link>http://blog.desecho.org/posts/windows-applications/</link>
+      <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/windows-applications/</guid>
+      <description> Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Steam Uplay Windowed Borderless Gaming  Cloud Storage  Dropbox Yandex Disk  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.  Paid  1Password - 3$/month Adobe Photoshop CC - 10$/month  </description>
+    </item>
+    
+    <item>
+      <title>iOS iPhone Apps</title>
+      <link>http://blog.desecho.org/posts/ios-apps/</link>
+      <pubDate>Sun, 09 Apr 2017 18:59:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/ios-apps/</guid>
+      <description>Internet  Google Chrome  Email  Gmail - Email by Google Microsoft Outlook  Messengers  Telegram Messenger Skype Viber Messenger Messenger WhatsApp Messenger Hangouts Slack Snapchat  Cloud Storage  Google Drive – online backup Google Docs Dropbox  Misc  The Weather Network Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Binary Calc  Readers  Bookmate.</description>
+    </item>
+    
+    <item>
+      <title>MacOS Stuff</title>
+      <link>http://blog.desecho.org/posts/macos-stuff/</link>
+      <pubDate>Wed, 20 Jul 2016 01:41:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/macos-stuff/</guid>
+      <description> Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  </description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://blog.desecho.org/posts/web-development/</link>
+      <pubDate>Wed, 13 Jul 2016 22:21:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/web-development/</guid>
+      <description>Javascript jQuery Add jQuery through console var jq = document.createElement(&#39;script&#39;); jq.src = &amp;quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js&amp;quot;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(jq); // ... give time for script to load, then type. jQuery.noConflict();  Extend jQuery $.fn.visible = function() { return this.css(&#39;visibility&#39;, &#39;visible&#39;); }; $.fn.invisible = function() { return this.css(&#39;visibility&#39;, &#39;hidden&#39;); };  Python A good way to start any python2 script # -*- coding: utf-8 -*- from __future__ import unicode_literals  Helpful command if anything behaves strangely find .</description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>http://blog.desecho.org/posts/nginx/</link>
+      <pubDate>Mon, 11 Jul 2016 02:28:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/nginx/</guid>
+      <description> PHP setup apt-get install php5-fpm php5-mysql nano /etc/php5/fpm/php.ini  Change cgi.fix_pathinfo=0
+Restart php
+service php5-fpm restart  Create configuration file in /etc/nginx/sites-enabled/
+server { server_name [domain]; charset utf-8; root [path_to_site]; index index.php; location ~ \.php$ { fastcgi_split_path_info ^(.+\.php)(/.+)$; try_files $uri =404; fastcgi_pass unix:/var/run/php5-fpm.sock; fastcgi_index index.php; include fastcgi_params; } }  service nginx restart  </description>
+    </item>
+    
+    <item>
+      <title>Installation of Services on Ubuntu</title>
+      <link>http://blog.desecho.org/posts/installation-of-services-on-ubuntu/</link>
+      <pubDate>Sat, 07 Mar 2015 15:55:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/installation-of-services-on-ubuntu/</guid>
+      <description>Install a service Create file with contents:
+/etc/systemd/system/[name].service [Unit] Description=[Service Name] After=syslog.target [Service] ExecStart=[command] Restart=always RestartSec=5s KillSignal=SIGQUIT [Install] WantedBy=multi-user.target  Run
+chmod 644 /etc/systemd/system/[name].service systemctl daemon-reload  Samba sudo apt-get install samba sudo smbpasswd -a [user] # Set a password for your user in Samba sudo nano /etc/samba/smb.conf  Add this to the end of the file:
+[[name]] path = [path] available = yes valid users = [user] read only = no browseable = yes public = yes writable = yes  sudo restart smbd  stunnel4 Stunnel allows old devices which don&amp;rsquo;t support smtp connections through ssl to support them.</description>
+    </item>
+    
+    <item>
+      <title>Sublime Text</title>
+      <link>http://blog.desecho.org/posts/sublime-text/</link>
+      <pubDate>Sun, 13 Jul 2014 17:28:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/sublime-text/</guid>
+      <description>Sublime Text
+Settings Project settings example { &amp;quot;folders&amp;quot;: [ { &amp;quot;path&amp;quot;: &amp;quot;[project_path]&amp;quot;, &amp;quot;folder_exclude_patterns&amp;quot;: [&amp;quot;[project_exclude_path]&amp;quot;], &amp;quot;file_exclude_patterns&amp;quot;: [&amp;quot;[*.txt]&amp;quot;], } ] }  Tips The way to edit current projects (in the switch project list): Edit workspaces: ~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session
+Hotkeys  [cmd + p] - switch files [cmd + r] - go to functions/classes [cmd + d] - quick select [cmd + k], [cmd + d] - skip selection [cmd + shift + l] - create multiple cursors [cmd + shift + p] - command mode [cmd + f] - find text [cmd + f], [alt + enter] - find text and then select them all [cmd + alt + f] - replace text [cmd + /] - comment / uncomment [cmd + ctrl + f] - full screen [cmd + ctrl + shift + f] - distraction free [cmd + k + b] - toggle sidebar [ctrl + g] - go to line number [ctrl + l] - center window [cmd + l] - select line [ctrl + shift + k] - delete line [cmd + ]] - indent [cmd + [] - unindent [cmd + shift + alt + 2&amp;frasl;3] - change window layout to 2 or 3 rows [cmd + alt + 1/2/3] - change window layout to 1/2/3 columns [ctrl + m] - go to matching bracket Bookmarks  [cmd + F2] - create/delete bookmark [cmd + shift + F2] - clear bookmarks [F2] - go to next bookmark [shift + F2] - go to previous bookmark   Ubuntu Enable middle mouse support.</description>
+    </item>
+    
+    <item>
+      <title>MacOS Applications</title>
+      <link>http://blog.desecho.org/posts/macos-applications/</link>
+      <pubDate>Wed, 09 Jul 2014 21:37:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/macos-applications/</guid>
+      <description>Homebrew  Homebrew — The missing package manager for OS X. Cakebrew - The Mac App for Homebrew. Packages  git wget python3   Movies / Video  MPlayer OSX Extended  Administration  Chicken - Chicken is a VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC. iTerm2 - a replacement for Terminal and the successor to iTerm.</description>
+    </item>
+    
+    <item>
+      <title>Documentation and Styleguides</title>
+      <link>http://blog.desecho.org/posts/documentation-and-styleguides/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/documentation-and-styleguides/</guid>
+      <description>Styleguides Python  PEP 8 - Style Guide for Python Code. PEP 257 &amp;ndash; Docstring Conventions Google Python Style Guide Django Coding style  Frontend Javascript  Google JavaScript Style Guide Node.js Style Guide Vue.js Style Guide  HTML/CSS  Google HTML/CSS Style Guide Code Guide by @mdo - Standards for developing flexible, durable, and sustainable HTML and CSS. Gamepad  URL  URL Structure  SASS  SASS Style Guide My Current CSS and Sass Styleguide  Documentation Javascript  JavaScript Reference JavaScript and HTML DOM Reference  Python  The Python Language Reference The Python Standard Library Porting to Python 3 Django  SASS  Sass - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.</description>
+    </item>
+    
+    <item>
+      <title>Web Development Tools</title>
+      <link>http://blog.desecho.org/posts/web-development-tools/</link>
+      <pubDate>Sun, 06 Jul 2014 21:53:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/web-development-tools/</guid>
+      <description>Misc Paid  ngrok - Introspected tunnels to localhost.  Web  Codepen - a playground for the front end web. Diff Checker Hurl.it - Make HTTP Requests My regex tester JS Nice - Statistical Renaming, Type Inference And Deobfuscation.  MacOS, Ubuntu and Windows Apps Paid  Genymotion Android Emulator - The most powerful Android emulation platform for app developers &amp;amp; testers. PyCharm - Python IDE for Professional Developers.</description>
+    </item>
+    
+    <item>
+      <title>Reference materials for web development and programming</title>
+      <link>http://blog.desecho.org/posts/reference-materials-for-web-development-and-programming/</link>
+      <pubDate>Sun, 06 Jul 2014 13:54:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/reference-materials-for-web-development-and-programming/</guid>
+      <description>JavaScript Important  ECMAScript compatibility table  ES6  6 reasons Web developers need to learn JavaScript ES6 now  ECMAScript 6 — New Features: Overview &amp;amp; Comparison What&amp;rsquo;s the difference between using “let” and “var” to declare a variable?  Misc  Superhero.js - A collection of the best articles, videos and presentations on &amp;ldquo;Creating, testing and maintaining a large JavaScript code base&amp;rdquo;. JavaScript: The Good Parts - Javascript presentation.</description>
+    </item>
+    
+    <item>
+      <title>Python Modules Installation</title>
+      <link>http://blog.desecho.org/posts/python-modules-installation/</link>
+      <pubDate>Sun, 29 Jun 2014 03:09:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/python-modules-installation/</guid>
+      <description>Python Create a requirements.txt file with the following format:
+Django==2.0.2 mysql-python&amp;gt;=1.0 -e git+https://github.com/desecho/django-tqdm@1.0.3.git#egg=django-tqdm # comment  Install using command: pip install -r requirements.txt --exists-action s</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://blog.desecho.org/posts/git/</link>
+      <pubDate>Sun, 22 Jun 2014 00:24:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/git/</guid>
+      <description>Git Git Documentation
+Basics  master : default branch origin : upstream repository by default head : current branch head^ : parent branch of the current branch head~~ or head~2 : n-th parent of the current branch  Commands git init [project-name] git clone [url] &amp;lt;dir&amp;gt; git remot­e add origi­n git@g­ithub.com:[user]/[project].git git pull git push git push -f # Force push git branch # List all local branches git branch -r # List all remote branches git branch -a # List local and remote branches git branch -D [branch] # Delete a branch git branch -m [branch] # Rename current branch to [branch] git branch [branch] # Create a branch git checkout [branch] git checkout -b [branch] # Create a new branch and checkout the new branch.</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://blog.desecho.org/posts/postgresql/</link>
+      <pubDate>Sun, 22 Jun 2014 00:22:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/postgresql/</guid>
+      <description>Main commands  \list - show list of DBs \dt - show tables \d+ [table] - show database structure  Copy DB CREATE DATABASE [db2] WITH TEMPLATE [db1] OWNER [user];  Commands Connect to DB sudo -u postgres psql &amp;quot;user=&#39;[user]&#39; password=&#39;[password]&#39; host=&#39;[localhost]&#39; port=&#39;[port]&#39; dbname=&#39;[db_name]&#39;&amp;quot;  Create database: sudo -u postgres createdb -O user_owner --encoding=&#39;utf-8&#39; --locale=en_US.utf8 my_database  Run command: sudo -u postgres psql &amp;quot;user=&#39;postgres&#39; password=&#39;password&#39; host=&#39;localhost&#39; port=&#39;5432&#39; dbname=my_database&amp;quot; -c &amp;quot;CREATE EXTENSION postgis&amp;quot;;  Import dump sudo -u postgres psql &amp;quot;user=&#39;postgres&#39; password=&#39;password&#39; host=&#39;localhost&#39; port=&#39;5432&#39; dbname=my_database&amp;quot; -f file.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Apps</title>
+      <link>http://blog.desecho.org/posts/ubuntu-apps/</link>
+      <pubDate>Mon, 16 Jun 2014 10:40:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/ubuntu-apps/</guid>
+      <description>Administration Monitoring  htop - monitor system resources iotop - hard drive monitoring iftop - network monitoring ngxtop - nginx monitoring mc - File manager  Misc  httpie - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. git-sh - A customized bash environment suitable for git work. GNU Shockwave Flash (SWF) player git-gui Ring - Ring is free software for universal communication which respects freedoms and privacy of its users.</description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>http://blog.desecho.org/posts/mysql/</link>
+      <pubDate>Mon, 16 Jun 2014 01:29:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/mysql/</guid>
+      <description>Reset root password sudo service mysql stop sudo mysqld --skip-grant-tables &amp;amp; mysql -u root mysql  UPDATE user SET Password=PASSWORD(&#39;[password]&#39;) WHERE User=&#39;root&#39;; FLUSH PRIVILEGES;  Administer users [ip] can be %, which means any, localhost, or ip-address
+CREATE USER &#39;[user]&#39;@&#39;[ip]&#39; IDENTIFIED BY &#39;[password]&#39;; DROP USER &#39;[user]&#39;@&#39;[ip]&#39;;  Open access Instead of [db] and [table] can be *, which means any. [privilege] can be ALL, USAGE, SELECT etc.
+Details
+GRANT [privilege] ON `[db]`.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Installation</title>
+      <link>http://blog.desecho.org/posts/ubuntu-desktop-installation/</link>
+      <pubDate>Tue, 09 Jul 2013 08:10:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/ubuntu-desktop-installation/</guid>
+      <description> Write Ubuntu image on a flash drive hdiutil convert -format UDRW -o ~/image ubuntu-12.10-desktop-amd64.iso diskutil list # find which drive is a flash drive diskutil unmountDisk /dev/disk2 # disk2 is an example sudo dd if=~/image.dmg of=/dev/rdisk2 bs=1m diskutil eject /dev/disk2  </description>
+    </item>
+    
+    <item>
+      <title>Initial Ubuntu configuration</title>
+      <link>http://blog.desecho.org/posts/initial-ubuntu-configuration/</link>
+      <pubDate>Wed, 05 Sep 2012 02:09:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/initial-ubuntu-configuration/</guid>
+      <description>Setup SSH Access from one computer to another without the need of entering password each time ssh-keygen -t rsa -C &amp;quot;[email]&amp;quot; -f ~/.ssh/id_rsa -N &#39;&#39; ssh-copy-id -i ~/.ssh/id_rsa.pub &#39;-p [port] [username]@[ip]&#39;  Run sudo commands without password request sudo visudo Add to the end: [user] ALL=(ALL) NOPASSWD: ALL
+Set up DNS server nano /etc/resolv.conf nameserver 8.8.8.8  Protect from attacks How To Protect SSH with Fail2Ban on Ubuntu 14.04</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu commands</title>
+      <link>http://blog.desecho.org/posts/ubuntu-commands/</link>
+      <pubDate>Thu, 30 Aug 2012 02:28:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/ubuntu-commands/</guid>
+      <description>Simple program execution: program -[option1][option2] --[special_option]
+Directories  ls [dir]  -h - show file size in Kb, Mb. -l - show extended information. -a - show hidden files. -t - sort by date. -S - sort by size.  cd [dir] mkdir [dir] pwd - current directory. du -sh [dir] - show how much size a directory takes. du -hsx * | sort -rh | head -10 - show 10 biggest files/directories in the current directory.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu network settings</title>
+      <link>http://blog.desecho.org/posts/ubuntu-network-settings/</link>
+      <pubDate>Tue, 28 Aug 2012 22:17:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/ubuntu-network-settings/</guid>
+      <description>IP Configuration  Clear the configuration file sudo cat /dev/null &amp;gt; /etc/network/interfaces Edit configuration file with appropriate settings Restart networking service  sudo service networking restart  Static IP auto lo eth0 iface lo inet loopback iface eth0 inet static address 192.168.0.2 netmask 255.255.255.0 network 192.168.0.0 broadcast 192.168.0.255 gateway 192.168.0.1 dns-nameservers 8.8.8.8  Dynamic IP auto lo eth0 iface lo inet loopback iface eth0 inet dhcp  Vlan Configuration sudo apt-get install -y vlan  auto lo eth0.</description>
+    </item>
+    
+  </channel>
+</rss>

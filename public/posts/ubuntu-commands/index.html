@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+         
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ubuntu commands</title>
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: #2196F3;
+        --border-width:  0 ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="http://blog.desecho.org//css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/javascript.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script> 
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.25.1" />
+        
+        
+        
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-655582-4"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)};
+          gtag('js', new Date());
+
+          gtag('config', 'UA-655582-4');
+        </script>
+        
+    </head>
+
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
+
+    <body>
+         
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <div class="container">
+
+                <div class="navbar-header">
+
+                    <a class="navbar-brand visible-xs" href="#">Ubuntu commands</a>
+
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+
+                <div class="collapse navbar-collapse">
+
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">IT Blog</a></li>
+                            
+                                <li><a href="/categories/">Categories</a></li>
+                            
+                                <li><a href="/posts/">Posts</a></li>
+                            
+                                <li><a href="https://desecho.org">desecho.org</a></li>
+                            
+                        </ul>
+                    
+
+                    
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+      
+
+    <h4><a href="/posts/ubuntu-commands/">Ubuntu commands</a></h4>
+    <h5>Ubuntu CLI commands.</h5>
+    
+
+</div>
+
+
+    <br> <div class="text-justify">
+
+<p>Simple program execution: <code>program -[option1][option2] --[special_option]</code></p>
+
+<h2 id="directories">Directories</h2>
+
+<ul>
+<li><code>ls [dir]</code>
+
+<ul>
+<li><code>-h</code> - show file size in Kb, Mb.</li>
+<li><code>-l</code> - show extended information.</li>
+<li><code>-a</code> - show hidden files.</li>
+<li><code>-t</code> - sort by date.</li>
+<li><code>-S</code> - sort by size.</li>
+</ul></li>
+<li><code>cd [dir]</code></li>
+<li><code>mkdir [dir]</code></li>
+<li><code>pwd</code> - current directory.</li>
+<li><code>du -sh [dir]</code> - show how much size a directory takes.</li>
+<li><code>du -hsx * | sort -rh | head -10</code> - show 10 biggest files/directories in the current directory.</li>
+</ul>
+
+<h2 id="files">Files</h2>
+
+<ul>
+<li><code>rm [file]</code>
+
+<ul>
+<li><code>-r</code> - delete recursively, also to delete directories.</li>
+<li><code>-f</code> - force-delete files.</li>
+</ul></li>
+<li><code>cp [file1] [file2]</code>
+
+<ul>
+<li><code>-r</code> - copy recursively.</li>
+<li><code>-i</code> - show notification on conflicts.</li>
+<li><code>-n</code> - don&rsquo;t ovewrite.</li>
+</ul></li>
+<li><code>mv [file1] [file2]</code></li>
+<li><code>cat [file]</code></li>
+<li><code>more [file]</code></li>
+<li><code>scp -P [port] [user]@[hostname]:[file1] [file2]</code></li>
+<li><code>rsync -ah --stats -P [source-file] [destination]</code> - copy files with ability to resume.</li>
+<li><code>ln -s [existing-file] [link-file]</code> - create symbolic link (need to use full paths).</li>
+</ul>
+
+<h2 id="processes">Processes</h2>
+
+<ul>
+<li><code>ps</code> - show running processes by current user.
+
+<ul>
+<li><code>ps ax</code> - show all running processes.</li>
+</ul></li>
+<li><code>kill [PID]</code> - kill process <em>PID</em> (soft).
+
+<ul>
+<li><code>-9</code> -  kill process <em>PID</em> (hard).</li>
+</ul></li>
+</ul>
+
+<h2 id="access-rights">Access rights</h2>
+
+<p>For all of the commands below: <code>-r</code> - recursive change.</p>
+
+<ul>
+<li><code>chgrp [group] [file]</code></li>
+<li><code>chown</code>
+
+<ul>
+<li><code>chown[user]:[group] [file]</code></li>
+<li><code>chown[user] [file]</code></li>
+</ul></li>
+<li><code>chmod</code></li>
+</ul>
+
+<h2 id="search">Search</h2>
+
+<ul>
+<li>Search directories and subsirectories.
+
+<ul>
+<li><code>grep [text] [dir]</code>
+
+<ul>
+<li><code>-r</code> - recursive search.</li>
+<li><code>-i</code> - case insensitive search.</li>
+<li><code>-I</code> - ignore binary files.</li>
+</ul></li>
+</ul></li>
+<li>Search files using locate
+
+<ul>
+<li><code>locate [file]</code></li>
+<li><code>sudo updatedb</code> - update search index.</li>
+</ul></li>
+<li><code>find [dir] -name &quot;[*.*]&quot; -type f</code> - list files in a directory recursively.
+
+<ul>
+<li>add <code>-delete</code> to remove the files.</li>
+</ul></li>
+<li><code>find . -type f -exec cat {} +</code> - output contents of all files in the current folder.</li>
+</ul>
+
+<h2 id="file-reading">File reading</h2>
+
+<ul>
+<li><code>head [file]</code>
+
+<ul>
+<li><code>-n [x]</code> - show <em>x</em> number of lines.</li>
+</ul></li>
+<li><code>tail [file]</code>
+
+<ul>
+<li><code>-n [x]</code> - show <em>x</em> number of lines.</li>
+<li><code>-f</code> - auto update.</li>
+</ul></li>
+</ul>
+
+<h2 id="device-mounting">Device mounting</h2>
+
+<ul>
+<li><code>mount [device] [directory]</code></li>
+<li><code>umount [dir]</code> / <code>umount [device]</code></li>
+</ul>
+
+<h2 id="network">Network</h2>
+
+<ul>
+<li><code>netstat -nat</code> - show open ports.</li>
+<li><code>netstat -peant | grep &quot;:[port]&quot;</code> - find process which uses port.</li>
+</ul>
+
+<h2 id="administration">Administration</h2>
+
+<ul>
+<li><code>sudo [program]</code>
+
+<ul>
+<li><code>sudo su</code> - switch to user root.</li>
+<li><code>sudo su [user]</code> - switch user.</li>
+</ul></li>
+<li><code>sudo shutdown now</code> / <code>sudo init 0</code>  - shutdown.</li>
+<li><code>sudo reboot</code> - reboot.</li>
+<li><code>df -h</code> - show disk space.</li>
+<li><code>lsb_release -a</code> - show Ubuntu information.</li>
+<li><code>free -h</code> - RAM utilization.</li>
+<li><code>uname -a</code> - show information about the installed version of linux.</li>
+</ul>
+
+<h3 id="user-administration">User administration</h3>
+
+<ul>
+<li><code>sudo useradd [user] -m</code> - create user and a home directory.</li>
+<li><code>sudo userdel [user]</code></li>
+<li><code>sudo passwd [user]</code></li>
+</ul>
+
+<h3 id="package-management">Package management</h3>
+
+<ul>
+<li><code>sudo dpkg -i</code> - install package.</li>
+<li><code>apt-get</code> - package manager.
+
+<ul>
+<li><code>install [package]</code></li>
+<li><code>remove --purge [package]</code> - remove <em>package</em>.</li>
+<li><code>clean</code> - remove unused packages.</li>
+<li><code>update</code></li>
+<li><code>upgrade</code> - upgrade installed packages.</li>
+</ul></li>
+</ul>
+
+<h2 id="additional">Additional</h2>
+
+<ul>
+<li><code>wget [file-url]</code> - download file.</li>
+<li><code>grep [text]</code></li>
+<li><code>man [program]</code></li>
+<li><code>date</code> - show current date and time.
+
+<ul>
+<li><code>sudo date --set=&quot;25 March 2014 10:00:00&quot;</code> - example to set up date and time.</li>
+<li><code>sudo /usr/sbin/ntpdate ntp.ubuntu.com</code> - syncronize date and time.</li>
+</ul></li>
+<li><code>echo [text]</code></li>
+<li><code>touch [file]</code></li>
+<li><code>time [program]</code> - show how long a program is running.</li>
+<li><code>sleep [x]</code></li>
+<li>Patches
+
+<ul>
+<li><code>diff [old_file] [new_file] &gt; [patch].diff</code> - create patch.</li>
+<li><code>patch old_file patch</code> - apply patch.</li>
+</ul></li>
+<li><code>sudo hostname your-new-name</code> - change hostname. Permanent value is in <code>/etc/hostname</code>.</li>
+<li><code>bzip2 -c [file] &gt; [archive.bz2]</code> - Create bz2 archive</li>
+</ul>
+
+<h2 id="shortcuts">Shortcuts</h2>
+
+<ul>
+<li><a href="http://www.bigsmoke.us/readline/shortcuts" target="_blank">Readline shortcuts</a></li>
+</ul>
+
+<h2 id="howtos">HowTos</h2>
+
+<ul>
+<li><a href="https://www.cyberciti.biz/faq/find-linux-distribution-name-version-number/" target="_blank">HowTo: Find Out My Linux Distribution Name and Version</a></li>
+<li><a href="http://www.ducea.com/2006/08/07/how-to-change-the-hostname-of-a-linux-system/" target="_blank">How to Change the Hostname of a Linux System</a></li>
+</ul>
+</div>
+
+    
+    
+
+    
+
+    
+
+        <h4 class="page-header">Comments</h4>
+
+        <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "desechosblog" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    
+
+</main>
+
+        <footer>
+
+            <p class="copyright text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> and <a href="https://github.com/calintat/minimal" target="_blank">Minimal</a></p>
+
+        </footer>
+       
+    </body>
+
+</html>
+

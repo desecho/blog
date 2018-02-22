@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Db on IT Blog</title>
+    <link>http://blog.desecho.org/categories/db/</link>
+    <description>Recent content in Db on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2014 00:22:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.desecho.org/categories/db/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://blog.desecho.org/posts/postgresql/</link>
+      <pubDate>Sun, 22 Jun 2014 00:22:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/postgresql/</guid>
+      <description>Main commands  \list - show list of DBs \dt - show tables \d+ [table] - show database structure  Copy DB CREATE DATABASE [db2] WITH TEMPLATE [db1] OWNER [user];  Commands Connect to DB sudo -u postgres psql &amp;quot;user=&#39;[user]&#39; password=&#39;[password]&#39; host=&#39;[localhost]&#39; port=&#39;[port]&#39; dbname=&#39;[db_name]&#39;&amp;quot;  Create database: sudo -u postgres createdb -O user_owner --encoding=&#39;utf-8&#39; --locale=en_US.utf8 my_database  Run command: sudo -u postgres psql &amp;quot;user=&#39;postgres&#39; password=&#39;password&#39; host=&#39;localhost&#39; port=&#39;5432&#39; dbname=my_database&amp;quot; -c &amp;quot;CREATE EXTENSION postgis&amp;quot;;  Import dump sudo -u postgres psql &amp;quot;user=&#39;postgres&#39; password=&#39;password&#39; host=&#39;localhost&#39; port=&#39;5432&#39; dbname=my_database&amp;quot; -f file.</description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>http://blog.desecho.org/posts/mysql/</link>
+      <pubDate>Mon, 16 Jun 2014 01:29:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/mysql/</guid>
+      <description>Reset root password sudo service mysql stop sudo mysqld --skip-grant-tables &amp;amp; mysql -u root mysql  UPDATE user SET Password=PASSWORD(&#39;[password]&#39;) WHERE User=&#39;root&#39;; FLUSH PRIVILEGES;  Administer users [ip] can be %, which means any, localhost, or ip-address
+CREATE USER &#39;[user]&#39;@&#39;[ip]&#39; IDENTIFIED BY &#39;[password]&#39;; DROP USER &#39;[user]&#39;@&#39;[ip]&#39;;  Open access Instead of [db] and [table] can be *, which means any. [privilege] can be ALL, USAGE, SELECT etc.
+Details
+GRANT [privilege] ON `[db]`.</description>
+    </item>
+    
+  </channel>
+</rss>

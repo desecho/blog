@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sublime Text on IT Blog</title>
+    <link>http://blog.desecho.org/categories/sublime-text/</link>
+    <description>Recent content in Sublime Text on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jul 2014 17:28:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.desecho.org/categories/sublime-text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sublime Text</title>
+      <link>http://blog.desecho.org/posts/sublime-text/</link>
+      <pubDate>Sun, 13 Jul 2014 17:28:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/sublime-text/</guid>
+      <description>Sublime Text
+Settings Project settings example { &amp;quot;folders&amp;quot;: [ { &amp;quot;path&amp;quot;: &amp;quot;[project_path]&amp;quot;, &amp;quot;folder_exclude_patterns&amp;quot;: [&amp;quot;[project_exclude_path]&amp;quot;], &amp;quot;file_exclude_patterns&amp;quot;: [&amp;quot;[*.txt]&amp;quot;], } ] }  Tips The way to edit current projects (in the switch project list): Edit workspaces: ~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session
+Hotkeys  [cmd + p] - switch files [cmd + r] - go to functions/classes [cmd + d] - quick select [cmd + k], [cmd + d] - skip selection [cmd + shift + l] - create multiple cursors [cmd + shift + p] - command mode [cmd + f] - find text [cmd + f], [alt + enter] - find text and then select them all [cmd + alt + f] - replace text [cmd + /] - comment / uncomment [cmd + ctrl + f] - full screen [cmd + ctrl + shift + f] - distraction free [cmd + k + b] - toggle sidebar [ctrl + g] - go to line number [ctrl + l] - center window [cmd + l] - select line [ctrl + shift + k] - delete line [cmd + ]] - indent [cmd + [] - unindent [cmd + shift + alt + 2&amp;frasl;3] - change window layout to 2 or 3 rows [cmd + alt + 1/2/3] - change window layout to 1/2/3 columns [ctrl + m] - go to matching bracket Bookmarks  [cmd + F2] - create/delete bookmark [cmd + shift + F2] - clear bookmarks [F2] - go to next bookmark [shift + F2] - go to previous bookmark   Ubuntu Enable middle mouse support.</description>
+    </item>
+    
+  </channel>
+</rss>

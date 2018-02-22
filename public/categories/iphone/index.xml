@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iphone on IT Blog</title>
+    <link>http://blog.desecho.org/categories/iphone/</link>
+    <description>Recent content in Iphone on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 18:59:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.desecho.org/categories/iphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iOS iPhone Apps</title>
+      <link>http://blog.desecho.org/posts/ios-apps/</link>
+      <pubDate>Sun, 09 Apr 2017 18:59:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/ios-apps/</guid>
+      <description>Internet  Google Chrome  Email  Gmail - Email by Google Microsoft Outlook  Messengers  Telegram Messenger Skype Viber Messenger Messenger WhatsApp Messenger Hangouts Slack Snapchat  Cloud Storage  Google Drive – online backup Google Docs Dropbox  Misc  The Weather Network Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Binary Calc  Readers  Bookmate.</description>
+    </item>
+    
+  </channel>
+</rss>

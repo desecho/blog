@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on IT Blog</title>
+    <link>http://blog.desecho.org/categories/javascript/</link>
+    <description>Recent content in Javascript on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jul 2016 22:21:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.desecho.org/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://blog.desecho.org/posts/web-development/</link>
+      <pubDate>Wed, 13 Jul 2016 22:21:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/web-development/</guid>
+      <description>Javascript jQuery Add jQuery through console var jq = document.createElement(&#39;script&#39;); jq.src = &amp;quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js&amp;quot;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(jq); // ... give time for script to load, then type. jQuery.noConflict();  Extend jQuery $.fn.visible = function() { return this.css(&#39;visibility&#39;, &#39;visible&#39;); }; $.fn.invisible = function() { return this.css(&#39;visibility&#39;, &#39;hidden&#39;); };  Python A good way to start any python2 script # -*- coding: utf-8 -*- from __future__ import unicode_literals  Helpful command if anything behaves strangely find .</description>
+    </item>
+    
+    <item>
+      <title>Documentation and Styleguides</title>
+      <link>http://blog.desecho.org/posts/documentation-and-styleguides/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/documentation-and-styleguides/</guid>
+      <description>Styleguides Python  PEP 8 - Style Guide for Python Code. PEP 257 &amp;ndash; Docstring Conventions Google Python Style Guide Django Coding style  Frontend Javascript  Google JavaScript Style Guide Node.js Style Guide Vue.js Style Guide  HTML/CSS  Google HTML/CSS Style Guide Code Guide by @mdo - Standards for developing flexible, durable, and sustainable HTML and CSS. Gamepad  URL  URL Structure  SASS  SASS Style Guide My Current CSS and Sass Styleguide  Documentation Javascript  JavaScript Reference JavaScript and HTML DOM Reference  Python  The Python Language Reference The Python Standard Library Porting to Python 3 Django  SASS  Sass - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.</description>
+    </item>
+    
+    <item>
+      <title>Reference materials for web development and programming</title>
+      <link>http://blog.desecho.org/posts/reference-materials-for-web-development-and-programming/</link>
+      <pubDate>Sun, 06 Jul 2014 13:54:00 +0000</pubDate>
+      
+      <guid>http://blog.desecho.org/posts/reference-materials-for-web-development-and-programming/</guid>
+      <description>JavaScript Important  ECMAScript compatibility table  ES6  6 reasons Web developers need to learn JavaScript ES6 now  ECMAScript 6 — New Features: Overview &amp;amp; Comparison What&amp;rsquo;s the difference between using “let” and “var” to declare a variable?  Misc  Superhero.js - A collection of the best articles, videos and presentations on &amp;ldquo;Creating, testing and maintaining a large JavaScript code base&amp;rdquo;. JavaScript: The Good Parts - Javascript presentation.</description>
+    </item>
+    
+  </channel>
+</rss>

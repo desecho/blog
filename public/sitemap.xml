@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/windows-applications/</loc>
+    <lastmod>2018-01-30T01:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/ios-apps/</loc>
+    <lastmod>2017-04-09T18:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/macos-stuff/</loc>
+    <lastmod>2016-07-20T01:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/web-development/</loc>
+    <lastmod>2016-07-13T22:21:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/nginx/</loc>
+    <lastmod>2016-07-11T02:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/installation-of-services-on-ubuntu/</loc>
+    <lastmod>2015-03-07T15:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/sublime-text/</loc>
+    <lastmod>2014-07-13T17:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/macos-applications/</loc>
+    <lastmod>2014-07-09T21:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/documentation-and-styleguides/</loc>
+    <lastmod>2014-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/web-development-tools/</loc>
+    <lastmod>2014-07-06T21:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/reference-materials-for-web-development-and-programming/</loc>
+    <lastmod>2014-07-06T13:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/python-modules-installation/</loc>
+    <lastmod>2014-06-29T03:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/git/</loc>
+    <lastmod>2014-06-22T00:24:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/postgresql/</loc>
+    <lastmod>2014-06-22T00:22:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/ubuntu-apps/</loc>
+    <lastmod>2014-06-16T10:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/mysql/</loc>
+    <lastmod>2014-06-16T01:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/ubuntu-desktop-installation/</loc>
+    <lastmod>2013-07-09T08:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/initial-ubuntu-configuration/</loc>
+    <lastmod>2012-09-05T02:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/ubuntu-commands/</loc>
+    <lastmod>2012-08-30T02:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/ubuntu-network-settings/</loc>
+    <lastmod>2012-08-28T22:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/</loc>
+    <lastmod>2018-01-30T01:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/all-posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/db/</loc>
+    <lastmod>2014-06-22T00:22:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/git/</loc>
+    <lastmod>2014-06-22T00:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/iphone/</loc>
+    <lastmod>2017-04-09T18:59:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/javascript/</loc>
+    <lastmod>2016-07-13T22:21:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/macos/</loc>
+    <lastmod>2016-07-20T01:41:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/posts/</loc>
+    <lastmod>2018-01-30T01:33:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/python/</loc>
+    <lastmod>2016-07-13T22:21:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/sublime-text/</loc>
+    <lastmod>2014-07-13T17:28:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/ubuntu/</loc>
+    <lastmod>2016-07-11T02:28:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/web-development/</loc>
+    <lastmod>2016-07-13T22:21:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/categories/windows/</loc>
+    <lastmod>2018-01-30T01:33:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
