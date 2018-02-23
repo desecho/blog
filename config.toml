@@ -1,4 +1,4 @@
-baseURL = "http://blog.desecho.org/"
+baseURL = "https://blog.desecho.org"
 languageCode = "en-us"
 title = "IT Blog"
 theme = "minimal"

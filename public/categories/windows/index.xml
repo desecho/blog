@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on IT Blog</title>
-    <link>http://blog.desecho.org/categories/windows/</link>
+    <link>https://blog.desecho.org/categories/windows/</link>
     <description>Recent content in Windows on IT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jan 2018 01:33:00 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.desecho.org/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.desecho.org/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Windows Applications</title>
-      <link>http://blog.desecho.org/posts/windows-applications/</link>
+      <link>https://blog.desecho.org/posts/windows-applications/</link>
       <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
       
-      <guid>http://blog.desecho.org/posts/windows-applications/</guid>
+      <guid>https://blog.desecho.org/posts/windows-applications/</guid>
       <description> Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Steam Uplay Windowed Borderless Gaming  Cloud Storage  Dropbox Yandex Disk  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.  Paid  1Password - 3$/month Adobe Photoshop CC - 10$/month  </description>
     </item>
     
