@@ -2,7 +2,7 @@
 
 <main>
 
-{{ range .Site.Pages.ByPublishDate }}
+{{ range .Site.RegularPages.ByPublishDate }}
   <h1>{{ .Title }}</h1>
     <div class="text-justify">
       {{.Content}}
@@ -10,7 +10,5 @@
   <hr>
 {{ end }}
 </main>
-
-{{ partial "paginator" . }}
 
 {{ partial "footer" . }}
