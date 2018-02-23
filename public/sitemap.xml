@@ -103,10 +103,6 @@
   </url>
   
   <url>
-    <loc>https://blog.desecho.org/all-posts/</loc>
-  </url>
-  
-  <url>
     <loc>https://blog.desecho.org/categories/</loc>
     <priority>0</priority>
   </url>
