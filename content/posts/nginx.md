@@ -3,7 +3,6 @@ title: "nginx"
 date: 2016-07-11T2:28:00
 comments: true
 categories: Ubuntu
-description: nginx
 keywords: ubuntu, server, nginx, hosting, php
 ---
 ## PHP setup

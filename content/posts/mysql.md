@@ -2,7 +2,6 @@
 title: "MySQL"
 date: 2014-06-16T01:29:00
 comments: true
-description: MySQL
 categories: DB
 keywords: mysql, db
 ---

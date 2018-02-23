@@ -3,7 +3,6 @@ title: "Web Development"
 date: 2016-07-13T22:21:00
 comments: true
 categories: ['Python', 'JavaScript', 'Web Development']
-description: Web Development
 keywords: python, javascript, web development
 
 ---

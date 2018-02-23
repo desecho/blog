@@ -3,7 +3,6 @@ title: "Web Development Tools"
 date: 2014-07-06T21:53:00
 comments: true
 categories: ['Web Development']
-description: Web Development Tools
 keywords: web development, tools
 ---
 
@@ -53,3 +52,7 @@ for Professional Developers.
 ## Ubuntu Apps
 * [P4merge](https://pempek.net/articles/2014/04/18/git-p4merge/) - Installation guide
 
+## Windows Apps
+
+### Virtual Machines
+[VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)

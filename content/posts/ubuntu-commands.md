@@ -3,7 +3,6 @@ title: "Ubuntu commands"
 date: 2012-08-30T02:28:00
 comments: true
 categories: Ubuntu
-description: Ubuntu CLI commands.
 keywords: ubuntu, commands, programs, ubuntu cli, ls, cd, mkdir, pwd, du, rm, cp, mv, cat, more, nano, ps, kill, chgrp, chown, chmod, sudo, df, apt-get, grep, man, date, echo, locate, useradd, userdel, passwd, head, tail, mount, umount, touch, time, sleep, pwgen
 ---
 

@@ -3,7 +3,6 @@ title: "Python Modules Installation"
 date: 2014-06-29T03:09:00
 comments: true
 categories: ['Python', 'Web Development']
-description: Python Modules Installation
 keywords: python, installation, modules
 ---
 ## Python

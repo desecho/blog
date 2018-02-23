@@ -103,11 +103,6 @@
   </url>
   
   <url>
-    <loc>http://blog.desecho.org/</loc>
-    <lastmod>2018-01-30T01:33:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.desecho.org/all-posts/</loc>
   </url>
   
@@ -125,6 +120,12 @@
   <url>
     <loc>http://blog.desecho.org/categories/git/</loc>
     <lastmod>2014-06-22T00:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.desecho.org/</loc>
+    <lastmod>2018-01-30T01:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -3,8 +3,7 @@ title: "Installation of Services on Ubuntu"
 date: 2015-03-07T15:55:00
 comments: true
 categories: Ubuntu
-description: Installation of Services on Ubuntu
-keywords: ubuntu, samba, installation, vpn, ssl, octopress, grive, stunnel4
+keywords: ubuntu, samba, installation, vpn, ssl, grive, stunnel4
 ---
 
 ## Install a service
@@ -92,25 +91,6 @@ Add: (example)
 client = yes
 accept = 0.0.0.0:25
 connect = smtp.yandex.ru:465
-```
-
-## Octopress
-
-```bash
-sudo su
-gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-\curl -sSL https://get.rvm.io | bash -s stable
-export PATH=$PATH:/usr/local/rvm/bin
-rvmsudo rvm get stable --auto-dotfiles
-apt-get install ruby-dev ruby
-rvm install 1.9.3
-exit
-/bin/bash --login
-rvm --default use 1.9.3
-sudo gem install bundler
-rvm fix-permissions system
-rvm group add rvm $USER
-sudo bundle install
 ```
 
 ## Grive

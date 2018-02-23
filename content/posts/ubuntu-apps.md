@@ -3,7 +3,6 @@ title: "Ubuntu Apps"
 date: 2014-06-16T10:40:00
 comments: true
 categories: Ubuntu
-description: Ubuntu Apps
 keywords: ubuntu, commands, programs, applications, apps
 ---
 

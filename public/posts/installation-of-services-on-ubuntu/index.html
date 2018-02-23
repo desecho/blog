@@ -131,10 +131,10 @@
     
 
     
-      
+    
 
     <h4><a href="/posts/installation-of-services-on-ubuntu/">Installation of Services on Ubuntu</a></h4>
-    <h5>Installation of Services on Ubuntu</h5>
+    <h5>March 7, 2015</h5>
     
 
 </div>
@@ -219,24 +219,6 @@ sslVersion = all
 client = yes
 accept = 0.0.0.0:25
 connect = smtp.yandex.ru:465
-</code></pre>
-
-<h2 id="octopress">Octopress</h2>
-
-<pre><code class="language-bash">sudo su
-gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-\curl -sSL https://get.rvm.io | bash -s stable
-export PATH=$PATH:/usr/local/rvm/bin
-rvmsudo rvm get stable --auto-dotfiles
-apt-get install ruby-dev ruby
-rvm install 1.9.3
-exit
-/bin/bash --login
-rvm --default use 1.9.3
-sudo gem install bundler
-rvm fix-permissions system
-rvm group add rvm $USER
-sudo bundle install
 </code></pre>
 
 <h2 id="grive">Grive</h2>

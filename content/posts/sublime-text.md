@@ -3,7 +3,6 @@ title: "Sublime Text"
 date: 2014-07-13T17:28:00
 comments: true
 categories: ['Sublime Text']
-description: Sublime Text
 keywords: sublime text, editor
 ---
 

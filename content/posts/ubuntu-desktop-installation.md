@@ -3,7 +3,6 @@ title: "Ubuntu Installation"
 date: 2013-07-09T08:10:00
 comments: true
 categories: Ubuntu
-description: Ubuntu Installation
 keywords: ubuntu, installation
 ---
 

@@ -3,7 +3,6 @@ title: "Initial Ubuntu configuration"
 date: 2012-09-05T02:09:00
 comments: true
 categories: Ubuntu
-description: Initial Ubuntu configuration
 keywords: ubuntu
 ---
 

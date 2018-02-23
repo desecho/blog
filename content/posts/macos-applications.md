@@ -3,7 +3,6 @@ title: "MacOS Applications"
 date: 2014-07-09T21:37:00
 comments: true
 categories: MacOS
-description: MacOS Applications
 keywords: macos
 ---
 

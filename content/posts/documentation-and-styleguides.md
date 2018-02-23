@@ -3,7 +3,6 @@ title: "Documentation and Styleguides"
 date: 2014-07-07T00:00:00
 comments: true
 categories: ['Python', 'JavaScript', 'Web Development']
-description: Documentation and Styleguides
 keywords: documentation, styleguide, python, javascript, html, css, sass
 ---
 

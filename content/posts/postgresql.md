@@ -2,7 +2,6 @@
 title: "PostgreSQL"
 date: 2014-06-22T00:22:00
 comments: true
-description: PostgreSQL
 categories: DB
 keywords: postgresql, db
 ---

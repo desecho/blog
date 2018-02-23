@@ -3,7 +3,6 @@ title: "Windows Applications"
 date: 2018-01-30T01:33:00
 comments: true
 categories: Windows
-description: Windows Applications
 keywords: windows
 ---
 

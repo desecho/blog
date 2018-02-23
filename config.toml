@@ -4,6 +4,7 @@ title = "IT Blog"
 theme = "minimal"
 disqusShortname = "desechosblog"
 googleAnalytics = "UA-655582-4"
+enableEmoji = "true"
 
 # Number of blog posts in each pagination page
 paginate = 100

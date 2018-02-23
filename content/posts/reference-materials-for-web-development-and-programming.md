@@ -3,7 +3,6 @@ title: "Reference materials for web development and programming"
 date: 2014-07-06T13:54:00
 comments: true
 categories: ['Python', 'JavaScript', 'Web Development']
-description: Reference materials for web development and programming
 keywords: webdev, reference, javascript, python, django, css, regex
 ---
 ## JavaScript

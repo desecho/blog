@@ -3,7 +3,6 @@ title: "Git"
 date: 2014-06-22T00:24:00
 comments: true
 categories: Git
-description: Git
 keywords: git, source control
 ---
 

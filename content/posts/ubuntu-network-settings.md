@@ -3,7 +3,6 @@ title: "Ubuntu network settings"
 date: 2012-08-28T22:17:00
 comments: true
 categories: Ubuntu
-description: Ubuntu network settings. Static IP, DHCP, VLAN
 keywords: ubuntu, network configuration, administration
 ---
 
