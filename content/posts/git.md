@@ -81,7 +81,9 @@ git revert [commit]
 git commit -m'[commit message]'
 git commit -a  # Commit all changed files accept for untracked files. Also delete deleted
 			   # files.
-git commit --amend  #  Ammend a commit (with staged files)
+git commit --amend  # Amend a commit (with staged files)
+git commit --amend --author="Anton Samarchyan <desecho@gmail.com>"  # Change the author of previous commit
+git commit --amend --no-edit  # Amend a commit without changing the commit message
 
 git stash
 git stash pop <stash>

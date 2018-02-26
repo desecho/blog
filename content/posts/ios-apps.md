@@ -141,3 +141,4 @@ keywords: ios, mobile, apps, iphone
 
 ## Paid
 * [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 35$
+* [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 2.79$

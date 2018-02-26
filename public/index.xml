@@ -6,10 +6,23 @@
     <description>Recent content on IT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 01:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2018 20:43:49 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.desecho.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Windows Tips</title>
+      <link>https://blog.desecho.org/posts/windows-tips/</link>
+      <pubDate>Sun, 25 Feb 2018 20:43:49 -0500</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/windows-tips/</guid>
+      <description>Setup Color management -&amp;gt; Advanced -&amp;gt; Display calibration -&amp;gt; Calibrate display.
+Change display settings -&amp;gt; Scale and layout -&amp;gt; Change the size of text, apps, and other items -&amp;gt; 200%.
+Taskbar settings -&amp;gt; Automatically hide the taskbar in desktop mode.
+Usage Remember to run GeForce Experience to update drivers from time to time.
+Open Add or remove programs to uninstall programs.</description>
+    </item>
     
     <item>
       <title>Windows Applications</title>

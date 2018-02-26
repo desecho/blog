@@ -136,6 +136,27 @@
 <main>
 
 
+  <h1>Windows Tips</h1>
+    <div class="text-justify">
+      
+
+<h2 id="setup">Setup</h2>
+
+<p>Color management -&gt; Advanced -&gt; Display calibration -&gt; Calibrate display.</p>
+
+<p>Change display settings -&gt; Scale and layout -&gt; Change the size of text, apps, and other items -&gt; 200%.</p>
+
+<p>Taskbar settings -&gt; Automatically hide the taskbar in desktop mode.</p>
+
+<h2 id="usage">Usage</h2>
+
+<p>Remember to run <code>GeForce Experience</code> to update drivers from time to time.</p>
+
+<p>Open <code>Add or remove programs</code> to uninstall programs.</p>
+
+    </div>
+  <hr>
+
   <h1>Windows Applications</h1>
     <div class="text-justify">
       
@@ -424,6 +445,7 @@ for Remote Support and Online Meetings.</li>
 
 <ul>
 <li><a href="https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">AnkiMobile Flashcards</a> - 35$</li>
+<li><a href="https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">Hours &amp; Minutes Calculator</a> - 2.79$</li>
 </ul>
 
     </div>
@@ -1431,7 +1453,9 @@ git revert [commit]
 git commit -m'[commit message]'
 git commit -a  # Commit all changed files accept for untracked files. Also delete deleted
 			   # files.
-git commit --amend  #  Ammend a commit (with staged files)
+git commit --amend  # Amend a commit (with staged files)
+git commit --amend --author=&quot;Anton Samarchyan &lt;desecho@gmail.com&gt;&quot;  # Change the author of previous commit
+git commit --amend --no-edit  # Amend a commit without changing the commit message
 
 git stash
 git stash pop &lt;stash&gt;
