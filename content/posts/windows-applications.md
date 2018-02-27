@@ -32,8 +32,10 @@ keywords: windows
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
 
 ## Administration
-* [TeamViewer](http://www.teamviewer.com/) - the All-In-One Software
-for Remote Support and Online Meetings.
+* [TeamViewer](http://www.teamviewer.com/) - the All-In-One Software for Remote Support and Online Meetings.
+
+## Utils
+* [Easy Window Switcher](https://neosmart.net/EasySwitch/)
 
 ## Paid
 * [1Password](https://agilebits.com/onepassword) - 3$/month

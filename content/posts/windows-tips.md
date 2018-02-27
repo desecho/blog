@@ -6,13 +6,17 @@ categories: Windows
 keywords: windows
 ---
 
-## Setup
+## Configuration
 
 Color management -> Advanced -> Display calibration -> Calibrate display.
 
 Change display settings -> Scale and layout -> Change the size of text, apps, and other items -> 200%.
 
-Taskbar settings -> Automatically hide the taskbar in desktop mode.
+Right click on the taskbar -> Cortana -> Hidden.
+
+Right click on the taskbar -> Show People Button -> uncheck.
+
+Your account picture and profile settings -> Create your picture -> Browser for one -> Choose your avatar.
 
 ## Usage
 
