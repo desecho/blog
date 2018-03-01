@@ -6,10 +6,19 @@
     <description>Recent content in Posts on IT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2018 20:43:49 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Mar 2018 00:41:11 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.desecho.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How To Watch Movies And Tv Shows On Pc</title>
+      <link>https://blog.desecho.org/posts/how-to-watch-movies-and-tv-shows-on-pc/</link>
+      <pubDate>Thu, 01 Mar 2018 00:41:11 -0500</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/how-to-watch-movies-and-tv-shows-on-pc/</guid>
+      <description>Netflix This is the only streaming service which allows you to watch 4K videos on a PC. It costs 14 C$/month. It only works with Microsoft Edge browser and Netflix recomments you to have at least 25Mbit/s internet connection. You should also use the Display Port or an HDMI port and cable which supports 4K. See details on Netflix on the page &amp;ldquo;Can I stream Netflix in Ultra HD?&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Windows Tips</title>
@@ -17,12 +26,11 @@
       <pubDate>Sun, 25 Feb 2018 20:43:49 -0500</pubDate>
       
       <guid>https://blog.desecho.org/posts/windows-tips/</guid>
-      <description>Configuration Color management -&amp;gt; Advanced -&amp;gt; Display calibration -&amp;gt; Calibrate display.
+      <description>Windows Configuration Color management -&amp;gt; Advanced -&amp;gt; Display calibration -&amp;gt; Calibrate display.
 Change display settings -&amp;gt; Scale and layout -&amp;gt; Change the size of text, apps, and other items -&amp;gt; 200%.
 Right click on the taskbar -&amp;gt; Cortana -&amp;gt; Hidden.
 Right click on the taskbar -&amp;gt; Show People Button -&amp;gt; uncheck.
-Your account picture and profile settings -&amp;gt; Create your picture -&amp;gt; Browser for one -&amp;gt; Choose your avatar.
-Usage Remember to run GeForce Experience to update drivers from time to time.</description>
+Your account picture and profile settings -&amp;gt; Create your picture -&amp;gt; Browser for one -&amp;gt; Choose your avatar.</description>
     </item>
     
     <item>
@@ -31,7 +39,7 @@ Usage Remember to run GeForce Experience to update drivers from time to time.</d
       <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/windows-applications/</guid>
-      <description> Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Steam Uplay Windowed Borderless Gaming  Cloud Storage  Dropbox Yandex Disk  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.  Utils  Easy Window Switcher  Paid  1Password - 3$/month Adobe Photoshop CC - 10$/month  </description>
+      <description>Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Steam Uplay Windowed Borderless Gaming  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.  Utils  Easy Window Switcher  Downloaders  Free Download Manager Zona  TV / Movies  Kodi  Paid  1Password - 3 C$/month Adobe Photoshop CC - 10 C$/month NordVPN - ~3.</description>
     </item>
     
     <item>

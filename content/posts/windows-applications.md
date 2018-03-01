@@ -24,6 +24,9 @@ keywords: windows
 * [Dropbox](https://www.dropbox.com/)
 * [Yandex Disk](https://disk.yandex.com/)
 
+## Media
+* [K-Lite Codec Pack](http://codecguide.com/)
+
 ## Music
 * [Spotify](https://www.spotify.com)
 
@@ -37,6 +40,14 @@ keywords: windows
 ## Utils
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/)
 
+## Downloaders
+* [Free Download Manager](http://freedownloadmanager.org)
+* [Zona](http://zona.ru/en/)
+
+## TV / Movies
+* [Kodi](https://kodi.tv/)
+
 ## Paid
-* [1Password](https://agilebits.com/onepassword) - 3$/month
-* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10$/month
+* [1Password](https://agilebits.com/onepassword) - 3 C$/month
+* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month
+* [NordVPN](https://nordvpn.com) - ~3.5 C$/month

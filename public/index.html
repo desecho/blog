@@ -136,11 +136,74 @@
 <main>
 
 
+  <h1>How To Watch Movies And Tv Shows On Pc</h1>
+    <div class="text-justify">
+      
+
+<h2 id="netflix">Netflix</h2>
+
+<p>This is the only streaming service which allows you to watch 4K videos on a PC. It costs 14 C$/month. It only works with Microsoft Edge browser and Netflix recomments you to have at least 25Mbit/s internet connection. You should also use the Display Port or an HDMI port and cable which supports 4K. See details on Netflix on the page <a href="https://help.netflix.com/en/node/13444" target="_blank">&ldquo;Can I stream Netflix in Ultra HD?&rdquo;</a>.</p>
+
+<h2 id="kodi">Kodi</h2>
+
+<p>First, download <a href="https://kodi.tv/" target="_blank">Kodi</a>.</p>
+
+<p>Then you can download some of available add-on repositories:</p>
+
+<ul>
+<li><a href="https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/repository.StreamArmy-8.0.zip" target="_blank">https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/repository.StreamArmy-8.0.zip</a></li>
+<li><a href="http://mavericktv.net/mavrepo/repository.maverickrepo-3.0.zip" target="_blank">http://mavericktv.net/mavrepo/repository.maverickrepo-3.0.zip</a></li>
+<li><a href="http://repo.mrblamo.xyz/repository.blamo-0.1.1.zip" target="_blank">http://repo.mrblamo.xyz/repository.blamo-0.1.1.zip</a></li>
+<li><a href="http://repozip.zerotolerance.gq/repository.zt-5.0.zip" target="_blank">http://repozip.zerotolerance.gq/repository.zt-5.0.zip</a></li>
+</ul>
+
+<p>Then you can install them by running Kodi and clicking the gear -&gt; Settings -&gt; Add-ons -&gt; Enable &ldquo;Unknown sources&rdquo; -&gt; Back -&gt; Add-ons -&gt; Install from zip file -&gt; Choose zip file location.
+After that, Install from repository -&gt; Choose repository and install the video add-ons you like.
+Then you can open the add-ons by hovering over Add-ons.</p>
+
+<p>You should also install an add-on &ldquo;Services - Unpause Jumpack&rdquo;. To install it, search for it&rsquo;s name.
+Then configure it so that &ldquo;Jump back onpause&rdquo; section has the following values:
+* Jump seconds - 1
+* Minimum pause before jumpback - 0
+There is a problem with muted sound after pausing and that is a workaround to resolve this issue.</p>
+
+<p>Kodi will probably works better with a VPN. I would recommend <a href="https://nordvpn.com" target="_blank">NordVPN</a>. It costs about 3.5 C$/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix videos which are not available in your country.</p>
+
+<p>To be able to access more content you can subcribe to <a href="https://real-debrid.com" target="_blank">&ldquo;Real Debrid&rdquo;</a>. It costs about 4.25 C$/month.
+You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, Nemesis. Select Dependenies -&gt; ResolveURL -&gt; Configure -&gt; Universal Resolvers -&gt; Real-Debrid -&gt; (Re)Authorize My Account -&gt; Follow instructions on the screen.</p>
+
+<p>If something ever goes wrong and you see an error, you can find the log here: <code>%APPDATA%\Roaming\Kodi\kodi.log</code>.</p>
+
+<p>On the right side of the screen, make sure to enable support for unknown sources.Double-check if you’ve set the available toggle to ON.</p>
+
+<p>You should also create this file <code>%APPDATA%\kodi\userdata\advancedsettings.xml</code> with this content:</p>
+
+<pre><code class="language-xml">&lt;advancedsettings&gt;
+    &lt;cache&gt;
+        &lt;buffermode&gt;2&lt;/buffermode&gt;
+        &lt;memorysize&gt;529530880&lt;/memorysize&gt;
+        &lt;readfactor&gt;5&lt;/readfactor&gt;
+    &lt;/cache&gt;
+&lt;/advancedsettings&gt;
+</code></pre>
+
+<p>See details on the page <a href="https://kodi.wiki/view/HOW-TO:Modify_the_cache" target="_blank">&ldquo;How to modify the cache&rdquo;</a> on Kodi wiki.</p>
+
+<h2 id="zona">Zona</h2>
+
+<p>You can also install <a href="http://zona.ru/en/" target="_blank">Zona</a> which enables to stream torrents.
+Configure it like this:
+Settings -&gt; Scale -&gt; Auto
+Settings -&gt; Downloads -&gt; Set the &ldquo;Downloads folder&rdquo;. Set the &ldquo;Speed limit&rdquo;.</p>
+
+    </div>
+  <hr>
+
   <h1>Windows Tips</h1>
     <div class="text-justify">
       
 
-<h2 id="configuration">Configuration</h2>
+<h2 id="windows-configuration">Windows Configuration</h2>
 
 <p>Color management -&gt; Advanced -&gt; Display calibration -&gt; Calibrate display.</p>
 
@@ -152,11 +215,29 @@
 
 <p>Your account picture and profile settings -&gt; Create your picture -&gt; Browser for one -&gt; Choose your avatar.</p>
 
+<h2 id="software-configuration">Software Configuration</h2>
+
+<h3 id="free-download-manager">Free Download Manager</h3>
+
+<p>Open hamburger menu -&gt; Settings.
+Browser Integration -&gt; Enable integration with your browser and install the extension.
+Browser Integration -&gt; Automatically catch downloads from browsers -&gt; Deselect &ldquo;Use browser if you cancel download via FDM&rdquo;.
+Traffic Limits -&gt; Set limits.</p>
+
+<h3 id="nordvpn">NordVPN</h3>
+
+<p>Countries -&gt; Select a country you&rsquo;d like to save as a favorite -&gt; Hamburger menu -&gt; Heart.
+Settings:
+Enable &ldquo;CyberSec&rdquo;, &ldquo;Auto connect&rdquo;, &ldquo;Start NordVPN on startup&rdquo;, &ldquo;Start minimized&rdquo;, &ldquo;App Kill Switch&rdquo; and select applications you want to kill if a VPN connection drops. The apps have to be running while setting this up. Choose System of measurement.</p>
+
 <h2 id="usage">Usage</h2>
 
 <p>Remember to run <code>GeForce Experience</code> to update drivers from time to time.</p>
 
 <p>Open <code>Add or remove programs</code> to uninstall programs.</p>
+
+<p>Manage processes: Task Manager -&gt; Processes.
+Monitor network activity: Task Manager -&gt; Performance -&gt; Select Ethernet.</p>
 
     </div>
   <hr>
@@ -195,6 +276,12 @@
 <li><a href="https://disk.yandex.com/" target="_blank">Yandex Disk</a></li>
 </ul>
 
+<h2 id="media">Media</h2>
+
+<ul>
+<li><a href="http://codecguide.com/" target="_blank">K-Lite Codec Pack</a></li>
+</ul>
+
 <h2 id="music">Music</h2>
 
 <ul>
@@ -220,11 +307,25 @@
 <li><a href="https://neosmart.net/EasySwitch/" target="_blank">Easy Window Switcher</a></li>
 </ul>
 
+<h2 id="downloaders">Downloaders</h2>
+
+<ul>
+<li><a href="http://freedownloadmanager.org" target="_blank">Free Download Manager</a></li>
+<li><a href="http://zona.ru/en/" target="_blank">Zona</a></li>
+</ul>
+
+<h2 id="tv-movies">TV / Movies</h2>
+
+<ul>
+<li><a href="https://kodi.tv/" target="_blank">Kodi</a></li>
+</ul>
+
 <h2 id="paid">Paid</h2>
 
 <ul>
-<li><a href="https://agilebits.com/onepassword" target="_blank">1Password</a> - 3$/month</li>
-<li><a href="https://www.adobe.com/ca/products/photoshop/free-trial-download.html" target="_blank">Adobe Photoshop CC</a> - 10$/month</li>
+<li><a href="https://agilebits.com/onepassword" target="_blank">1Password</a> - 3 C$/month</li>
+<li><a href="https://www.adobe.com/ca/products/photoshop/free-trial-download.html" target="_blank">Adobe Photoshop CC</a> - 10 C$/month</li>
+<li><a href="https://nordvpn.com" target="_blank">NordVPN</a> - ~3.5 C$/month</li>
 </ul>
 
     </div>
@@ -453,8 +554,8 @@
 <h2 id="paid-1">Paid</h2>
 
 <ul>
-<li><a href="https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">AnkiMobile Flashcards</a> - 35$</li>
-<li><a href="https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">Hours &amp; Minutes Calculator</a> - 2.79$</li>
+<li><a href="https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">AnkiMobile Flashcards</a> - 35 C$</li>
+<li><a href="https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">Hours &amp; Minutes Calculator</a> - 2.79 C$</li>
 </ul>
 
     </div>
@@ -1050,16 +1151,29 @@ for Remote Support and Online Meetings.</li>
 <li><a href="http://store.steampowered.com/" target="_blank">Steam</a></li>
 </ul>
 
+<h2 id="downloaders">Downloaders</h2>
+
+<ul>
+<li><a href="http://freedownloadmanager.org" target="_blank">Free Download Manager</a></li>
+</ul>
+
+<h2 id="tv-movies">TV / Movies</h2>
+
+<ul>
+<li><a href="https://kodi.tv/" target="_blank">Kodi</a></li>
+</ul>
+
 <h2 id="paid">Paid</h2>
 
 <ul>
-<li><a href="http://macpaw.com/cleanmymac" target="_blank">CleanMyMac</a> - The Simplest, Safest Way to Clean Your Mac - 40$</li>
-<li><a href="https://agilebits.com/onepassword" target="_blank">1Password</a> - 3$/month</li>
-<li><a href="https://www.adobe.com/ca/products/photoshop/free-trial-download.html" target="_blank">Adobe Photoshop CC</a> - 10$/month</li>
-<li><a href="http://www.binarynights.com/forklift/" target="_blank">ForkLift</a> - The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS - 30$</li>
-<li><a href="http://www.codeweavers.com/products/" target="_blank">CrossOver</a> - Install Windows applications and PC Games on your Mac OS - 40$</li>
-<li><a href="http://www.obdev.at/products/littlesnitch/index.html" target="_blank">Little Snitch</a> - Firewall - 45$</li>
-<li><a href="https://www.taskpaper.com/" target="_blank">TaskPaper</a> - Plain text to-do lists for Mac - 25$</li>
+<li><a href="http://macpaw.com/cleanmymac" target="_blank">CleanMyMac</a> - The Simplest, Safest Way to Clean Your Mac - 40 C$</li>
+<li><a href="https://agilebits.com/onepassword" target="_blank">1Password</a> - 3 C$/month</li>
+<li><a href="https://www.adobe.com/ca/products/photoshop/free-trial-download.html" target="_blank">Adobe Photoshop CC</a> - 10 C$/month</li>
+<li><a href="http://www.binarynights.com/forklift/" target="_blank">ForkLift</a> - The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS - 30 C$</li>
+<li><a href="http://www.codeweavers.com/products/" target="_blank">CrossOver</a> - Install Windows applications and PC Games on your Mac OS - 40 C$</li>
+<li><a href="http://www.obdev.at/products/littlesnitch/index.html" target="_blank">Little Snitch</a> - Firewall - 45 C$</li>
+<li><a href="https://www.taskpaper.com/" target="_blank">TaskPaper</a> - Plain text to-do lists for Mac - 25 C$</li>
+<li><a href="https://nordvpn.com" target="_blank">NordVPN</a> - ~3.5 C$/month</li>
 </ul>
 
     </div>

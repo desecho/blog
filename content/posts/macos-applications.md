@@ -65,11 +65,18 @@ for Remote Support and Online Meetings.
 ## Games
 * [Steam](http://store.steampowered.com/)
 
+## Downloaders
+* [Free Download Manager](http://freedownloadmanager.org)
+
+## TV / Movies
+* [Kodi](https://kodi.tv/)
+
 ## Paid
-* [CleanMyMac](http://macpaw.com/cleanmymac) - The Simplest, Safest Way to Clean Your Mac - 40$
-* [1Password](https://agilebits.com/onepassword) - 3$/month
-* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10$/month
-* [ForkLift](http://www.binarynights.com/forklift/) - The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS - 30$
-* [CrossOver](http://www.codeweavers.com/products/) - Install Windows applications and PC Games on your Mac OS - 40$
-* [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) - Firewall - 45$
-* [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists for Mac - 25$
+* [CleanMyMac](http://macpaw.com/cleanmymac) - The Simplest, Safest Way to Clean Your Mac - 40 C$
+* [1Password](https://agilebits.com/onepassword) - 3 C$/month
+* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month
+* [ForkLift](http://www.binarynights.com/forklift/) - The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS - 30 C$
+* [CrossOver](http://www.codeweavers.com/products/) - Install Windows applications and PC Games on your Mac OS - 40 C$
+* [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) - Firewall - 45 C$
+* [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists for Mac - 25 C$
+* [NordVPN](https://nordvpn.com) - ~3.5 C$/month
