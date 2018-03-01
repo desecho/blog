@@ -1131,12 +1131,6 @@ for Remote Support and Online Meetings.</li>
 <li><a href="https://disk.yandex.com/" target="_blank">Yandex Disk</a></li>
 </ul>
 
-<h2 id="internet">Internet</h2>
-
-<ul>
-<li><a href="http://www.utorrent.com/intl/en" target="_blank">uTorrent</a> - Elegant, efficient torrent downloading.</li>
-</ul>
-
 <h2 id="browsers">Browsers</h2>
 
 <ul>
@@ -1351,7 +1345,9 @@ for Professional Developers.</li>
 
 <h3 id="virtual-machines-1">Virtual Machines</h3>
 
-<p><a href="https://www.vmware.com/products/workstation-player.html" target="_blank">VMware Workstation Player</a></p>
+<ul>
+<li><a href="https://www.vmware.com/products/workstation-player.html" target="_blank">VMware Workstation Player</a></li>
+</ul>
 
     </div>
   <hr>
@@ -1512,7 +1508,7 @@ mysql-python&gt;=1.0
     <div class="text-justify">
       
 
-<p><a href="http://git-scm.com/" target="_blank">Git</a>
+<p><a href="http://git-scm.com/" target="_blank">Git</a><br />
 <a href="https://git-scm.com/doc" target="_blank">Git Documentation</a></p>
 
 <h2 id="basics">Basics</h2>
@@ -1657,17 +1653,15 @@ git rebase upstream/master
 
 <p>Create a repository specific diff driver:</p>
 
-<p>for Linux:
+<p>for Linux:<br />
 <code>$true = /bin/true</code></p>
 
-<p>for Mac OS:
-<code>$true = /usr/bin/true</code></p>
+<p>for Mac OS:<br />
+<code>$true = /usr/bin/true</code><br />
+<code>git config diff.nodiff.command $true</code></p>
 
-<p><code>git config diff.nodiff.command $true</code></p>
-
-<p>Then, assign the new diff driver to those files you want ignored in your <code>.git/info/attributes</code> file.</p>
-
-<p><code>[file]    diff=nodiff</code></p>
+<p>Then, assign the new diff driver to those files you want ignored in your <code>.git/info/attributes</code> file.<br />
+<code>[file]    diff=nodiff</code></p>
 
 <h2 id="remove-data-from-repository-s-history">Remove data from repository&rsquo;s history</h2>
 

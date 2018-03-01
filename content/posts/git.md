@@ -6,7 +6,7 @@ categories: Git
 keywords: git, source control
 ---
 
-[Git](http://git-scm.com/)
+[Git](http://git-scm.com/)  
 [Git Documentation](https://git-scm.com/doc)
 
 ## Basics
@@ -143,18 +143,15 @@ Edit file `.git/info/exclude`
 ### Ignore files only in diff command
 Create a repository specific diff driver:
 
-for Linux:
+for Linux:  
 `$true = /bin/true`
 
-for Mac OS:
-`$true = /usr/bin/true`
-
+for Mac OS:  
+`$true = /usr/bin/true`  
 `git config diff.nodiff.command $true`
 
-Then, assign the new diff driver to those files you want ignored in your `.git/info/attributes` file.
-
+Then, assign the new diff driver to those files you want ignored in your `.git/info/attributes` file.  
 `[file]    diff=nodiff`
-
 
 ## Remove data from repository's history
 

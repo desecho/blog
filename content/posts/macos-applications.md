@@ -46,9 +46,6 @@ for Remote Support and Online Meetings.
 * [Dropbox](https://www.dropbox.com/)
 * [Yandex Disk](https://disk.yandex.com/)
 
-## Internet
-* [uTorrent](http://www.utorrent.com/intl/en) - Elegant, efficient torrent downloading.
-
 ## Browsers
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)

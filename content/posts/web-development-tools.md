@@ -55,4 +55,4 @@ for Professional Developers.
 ## Windows Apps
 
 ### Virtual Machines
-[VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
+* [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)

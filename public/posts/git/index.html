@@ -150,7 +150,7 @@
 
     <br> <div class="text-justify">
 
-<p><a href="http://git-scm.com/" target="_blank">Git</a>
+<p><a href="http://git-scm.com/" target="_blank">Git</a><br />
 <a href="https://git-scm.com/doc" target="_blank">Git Documentation</a></p>
 
 <h2 id="basics">Basics</h2>
@@ -295,17 +295,15 @@ git rebase upstream/master
 
 <p>Create a repository specific diff driver:</p>
 
-<p>for Linux:
+<p>for Linux:<br />
 <code>$true = /bin/true</code></p>
 
-<p>for Mac OS:
-<code>$true = /usr/bin/true</code></p>
+<p>for Mac OS:<br />
+<code>$true = /usr/bin/true</code><br />
+<code>git config diff.nodiff.command $true</code></p>
 
-<p><code>git config diff.nodiff.command $true</code></p>
-
-<p>Then, assign the new diff driver to those files you want ignored in your <code>.git/info/attributes</code> file.</p>
-
-<p><code>[file]    diff=nodiff</code></p>
+<p>Then, assign the new diff driver to those files you want ignored in your <code>.git/info/attributes</code> file.<br />
+<code>[file]    diff=nodiff</code></p>
 
 <h2 id="remove-data-from-repository-s-history">Remove data from repository&rsquo;s history</h2>
 

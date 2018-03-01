@@ -156,7 +156,8 @@ Django==2.0.2 mysql-python&amp;gt;=1.0 -e git+https://github.com/desecho/django-
       <pubDate>Sun, 22 Jun 2014 00:24:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/git/</guid>
-      <description>Git Git Documentation
+      <description>Git
+Git Documentation
 Basics  master : default branch origin : upstream repository by default head : current branch head^ : parent branch of the current branch head~~ or head~2 : n-th parent of the current branch  Commands git init [project-name] git clone [url] &amp;lt;dir&amp;gt; git remot­e add origi­n git@g­ithub.com:[user]/[project].git git pull git push git push -f # Force push git branch # List all local branches git branch -r # List all remote branches git branch -a # List local and remote branches git branch -D [branch] # Delete a branch git branch -m [branch] # Rename current branch to [branch] git branch [branch] # Create a branch git checkout [branch] git checkout -b [branch] # Create a new branch and checkout the new branch.</description>
     </item>
     
