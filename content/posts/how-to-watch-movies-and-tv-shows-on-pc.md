@@ -16,24 +16,25 @@ First, download [Kodi](https://kodi.tv/).
 
 Then you can download some of available add-on repositories:
 
-* https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/repository.StreamArmy-8.0.zip
-* http://mavericktv.net/mavrepo/repository.maverickrepo-3.0.zip
-* http://repo.mrblamo.xyz/repository.blamo-0.1.1.zip
-* http://repozip.zerotolerance.gq/repository.zt-5.0.zip
+* [The Official Repo for Mr Blamo](http://repo.mrblamo.xyz/repository.blamo-0.1.1.zip)
+* [The MaverickTV Repository](http://mavericktv.net/mavrepo/repository.maverickrepo-3.0.zip)
+* [Stream Army Repo](https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/repository.StreamArmy-8.0.zip)
+* [Zero Tolerance Repository](http://repozip.zerotolerance.gq/repository.zt-5.0.zip)
 
-Then you can install them by running Kodi and clicking the gear -> Settings -> Add-ons -> Enable "Unknown sources" -> Back -> Add-ons -> Install from zip file -> Choose zip file location.
-After that, Install from repository -> Choose repository and install the video add-ons you like.
+Then you can install them by running Kodi and clicking the gear -> Settings -> Add-ons -> Enable "Unknown sources" -> Back -> Add-ons -> Install from zip file -> Choose zip file location.  
+After that, Install from repository -> Choose repository and install the video add-ons you like.  
 Then you can open the add-ons by hovering over Add-ons.
 
-You should also install an add-on "Services - Unpause Jumpack". To install it, search for it's name.
-Then configure it so that "Jump back onpause" section has the following values:
+You should also install an add-on "Services - Unpause Jumpack". To install it, search for it's name.  
+Then configure it so that "Jump back onpause" section has the following values:  
 * Jump seconds - 1
 * Minimum pause before jumpback - 0
+
 There is a problem with muted sound after pausing and that is a workaround to resolve this issue.
 
 Kodi will probably works better with a VPN. I would recommend [NordVPN](https://nordvpn.com). It costs about 3.5 C$/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix videos which are not available in your country.
 
-To be able to access more content you can subcribe to ["Real Debrid"](https://real-debrid.com). It costs about 4.25 C$/month.
+To be able to access more content you can subcribe to ["Real Debrid"](https://real-debrid.com). It costs about 4.25 C$/month.  
 You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, Nemesis. Select Dependenies -> ResolveURL -> Configure -> Universal Resolvers -> Real-Debrid -> (Re)Authorize My Account -> Follow instructions on the screen.
 
 If something ever goes wrong and you see an error, you can find the log here: `%APPDATA%\Roaming\Kodi\kodi.log`.
@@ -55,7 +56,7 @@ You should also create this file `%APPDATA%\kodi\userdata\advancedsettings.xml` 
 See details on the page ["How to modify the cache"](https://kodi.wiki/view/HOW-TO:Modify_the_cache) on Kodi wiki.
 
 ## Zona
-You can also install [Zona](http://zona.ru/en/) which enables to stream torrents.
+You can also install [Zona](http://zona.ru/en/) which enables to stream torrents.  
 Configure it like this:
-Settings -> Scale -> Auto
-Settings -> Downloads -> Set the "Downloads folder". Set the "Speed limit".
+* Settings -> Scale -> Auto
+* Settings -> Downloads -> Set the "Downloads folder". Set the "Speed limit".
