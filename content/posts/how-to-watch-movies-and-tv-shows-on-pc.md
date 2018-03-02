@@ -17,10 +17,10 @@ First, download [Kodi](https://kodi.tv/).
 
 Then you can download some of available add-on repositories:
 
-* [The Official Repo for Mr Blamo](http://repo.mrblamo.xyz/repository.blamo-0.1.1.zip)
-* [The MaverickTV Repository](http://mavericktv.net/mavrepo/repository.maverickrepo-3.0.zip)
-* [Stream Army Repo](https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/repository.StreamArmy-8.0.zip)
-* [Zero Tolerance Repository](http://repozip.zerotolerance.gq/repository.zt-5.0.zip)
+* [The Official Repo for Mr Blamo](http://repo.mrblamo.xyz)
+* [The MaverickTV Repository](http://mavericktv.net/mavrepo/)
+* [Stream Army Repo](https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/)
+* [Zero Tolerance Repository](http://repozip.zerotolerance.gq/)
 
 ### Installation
 Then you can install them by running Kodi and clicking the gear -> Settings -> Add-ons -> Enable "Unknown sources" -> Back -> Add-ons -> Install from zip file -> Choose zip file location.  
