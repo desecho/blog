@@ -120,7 +120,9 @@ For all of the commands below: `-r` - recursive change.
     * `diff [old_file] [new_file] > [patch].diff` - create patch.
     * `patch old_file patch` - apply patch.
 * `sudo hostname your-new-name` - change hostname. Permanent value is in `/etc/hostname`.
-* `bzip2 -c [file] > [archive.bz2]` - Create bz2 archive
+* `bzip2 -c [file] > [archive.bz2]` 
+* `tar -cvzf [archive.tar.gz] [file]`
+
 
 ## Shortcuts
 * [Readline shortcuts](http://www.bigsmoke.us/readline/shortcuts)
