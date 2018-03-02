@@ -39,6 +39,7 @@ keywords: windows
 
 ## Utils
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/)
+* [WinDirStat](https://windirstat.net/)
 
 ## Downloaders
 * [Free Download Manager](http://freedownloadmanager.org)
