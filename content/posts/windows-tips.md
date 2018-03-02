@@ -28,7 +28,7 @@ Traffic Limits -> Set limits.
 Countries -> Select a country you'd like to save as a favorite -> Hamburger menu -> Heart.
 
 Settings:  
-Enable "CyberSec", "Auto connect", "Start NordVPN on startup", "Start minimized", "App Kill Switch" and select applications you want to kill if a VPN connection drops. The apps have to be running while setting this up. Choose System of measurement.
+Enable "Auto connect", "Start NordVPN on startup", "Start minimized", "App Kill Switch" and select applications you want to kill if a VPN connection drops. The apps have to be running while setting this up. Choose System of measurement.
 
 ## Usage
 

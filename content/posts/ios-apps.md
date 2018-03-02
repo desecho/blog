@@ -139,6 +139,9 @@ keywords: ios, mobile, apps, iphone
 ### Mobile
 * [Fido My Account](https://itunes.apple.com/ca/app/fido-my-account/id337632423?mt=8&uo=4&at=11l6hc&ct=fnd)
 
+### Health
+* [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
 ## Paid
 * [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 35 C$
 * [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 2.79 C$
