@@ -8,7 +8,7 @@ keywords: ubuntu, network configuration, administration
 
 ## IP Configuration
 
-1. Clear the configuration file ```sudo cat /dev/null > /etc/network/interfaces```
+1. Clear the configuration file `sudo cat /dev/null > /etc/network/interfaces`
 2. Edit configuration file with appropriate settings
 3. Restart networking service
 
