@@ -10,8 +10,7 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/)
 
 ### ES6
-* [6 reasons Web developers need to learn JavaScript ES6 now
-](https://thenextweb.com/dd/2016/03/09/6-reasons-need-learn-javascript-es6-now-not-later/)
+* [6 reasons Web developers need to learn JavaScript ES6 now](https://thenextweb.com/dd/2016/03/09/6-reasons-need-learn-javascript-es6-now-not-later/)
 * [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
 * [What's the difference between using “let” and “var” to declare a variable?](http://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable)
 

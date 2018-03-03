@@ -52,11 +52,11 @@ Your account picture and profile settings -&amp;gt; Create your picture -&amp;gt
     </item>
     
     <item>
-      <title>MacOS Stuff</title>
-      <link>https://blog.desecho.org/posts/macos-stuff/</link>
+      <title>MacOS Tips</title>
+      <link>https://blog.desecho.org/posts/macos-tips/</link>
       <pubDate>Wed, 20 Jul 2016 01:41:00 +0000</pubDate>
       
-      <guid>https://blog.desecho.org/posts/macos-stuff/</guid>
+      <guid>https://blog.desecho.org/posts/macos-tips/</guid>
       <description> Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  </description>
     </item>
     
@@ -100,8 +100,8 @@ chmod 644 /etc/systemd/system/[name].service systemctl daemon-reload  Samba sudo
       
       <guid>https://blog.desecho.org/posts/sublime-text/</guid>
       <description>Sublime Text
-Settings Project settings example { &amp;quot;folders&amp;quot;: [ { &amp;quot;path&amp;quot;: &amp;quot;[project_path]&amp;quot;, &amp;quot;folder_exclude_patterns&amp;quot;: [&amp;quot;[project_exclude_path]&amp;quot;], &amp;quot;file_exclude_patterns&amp;quot;: [&amp;quot;[*.txt]&amp;quot;], } ] }  Tips The way to edit current projects (in the switch project list): Edit workspaces: ~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session
-Hotkeys  [cmd + p] - switch files [cmd + r] - go to functions/classes [cmd + d] - quick select [cmd + k], [cmd + d] - skip selection [cmd + shift + l] - create multiple cursors [cmd + shift + p] - command mode [cmd + f] - find text [cmd + f], [alt + enter] - find text and then select them all [cmd + alt + f] - replace text [cmd + /] - comment / uncomment [cmd + ctrl + f] - full screen [cmd + ctrl + shift + f] - distraction free [cmd + k + b] - toggle sidebar [ctrl + g] - go to line number [ctrl + l] - center window [cmd + l] - select line [ctrl + shift + k] - delete line [cmd + ]] - indent [cmd + [] - unindent [cmd + shift + alt + 2&amp;frasl;3] - change window layout to 2 or 3 rows [cmd + alt + 1/2/3] - change window layout to 1/2/3 columns [ctrl + m] - go to matching bracket Bookmarks  [cmd + F2] - create/delete bookmark [cmd + shift + F2] - clear bookmarks [F2] - go to next bookmark [shift + F2] - go to previous bookmark   Ubuntu Enable middle mouse support.</description>
+Settings Project settings example { &amp;quot;folders&amp;quot;: [ { &amp;quot;path&amp;quot;: &amp;quot;[project_path]&amp;quot;, &amp;quot;folder_exclude_patterns&amp;quot;: [&amp;quot;[project_exclude_path]&amp;quot;], &amp;quot;file_exclude_patterns&amp;quot;: [&amp;quot;[*.txt]&amp;quot;], } ] }  Tips The way to edit current projects (in the switch project list): Edit workspaces: ~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session.
+Hotkeys  [Cmd + P] - switch files [Cmd + R] - go to functions/classes [Cmd + D] - quick select [Cmd + K], [Cmd + d] - skip selection [Cmd + Shift + L] - create multiple cursors [Cmd + Shift + P] - command mode [Cmd + F] - find text [Cmd + F], [alt + enter] - find text and then select them all [Cmd + Alt + F] - replace text [Cmd + /] - comment / uncomment [Cmd + Ctrl + F] - full screen [Cmd + Ctrl + Shift + F] - distraction free [Cmd + K + B] - toggle sidebar [Ctrl + G] - go to line number [Ctrl + L] - center window [Cmd + L] - select line [Ctrl + Shift + K] - delete line [Cmd + ]] - indent [Cmd + [] - unindent [Cmd + Shift + Alt + 2&amp;frasl;3] - change window layout to 2 or 3 rows [Cmd + Alt + 1/2/3] - change window layout to 1/2/3 columns [Ctrl + M] - go to matching bracket Bookmarks  [Cmd + F2] - create/delete bookmark [Cmd + Shift + F2] - clear bookmarks [F2] - go to next bookmark [Shift + F2] - go to previous bookmark   Ubuntu Enable middle mouse support.</description>
     </item>
     
     <item>
@@ -137,7 +137,7 @@ Hotkeys  [cmd + p] - switch files [cmd + r] - go to functions/classes [cmd + d] 
       <pubDate>Sun, 06 Jul 2014 13:54:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/reference-materials-for-web-development-and-programming/</guid>
-      <description>JavaScript Important  ECMAScript compatibility table  ES6  6 reasons Web developers need to learn JavaScript ES6 now  ECMAScript 6 — New Features: Overview &amp;amp; Comparison What&amp;rsquo;s the difference between using “let” and “var” to declare a variable?  Misc  Superhero.js - A collection of the best articles, videos and presentations on &amp;ldquo;Creating, testing and maintaining a large JavaScript code base&amp;rdquo;. JavaScript: The Good Parts - Javascript presentation.</description>
+      <description>JavaScript Important  ECMAScript compatibility table  ES6  6 reasons Web developers need to learn JavaScript ES6 now ECMAScript 6 — New Features: Overview &amp;amp; Comparison What&amp;rsquo;s the difference between using “let” and “var” to declare a variable?  Misc  Superhero.js - A collection of the best articles, videos and presentations on &amp;ldquo;Creating, testing and maintaining a large JavaScript code base&amp;rdquo;. JavaScript: The Good Parts - Javascript presentation.</description>
     </item>
     
     <item>

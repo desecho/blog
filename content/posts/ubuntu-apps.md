@@ -50,8 +50,8 @@ Screen manager.
 
 * `screen` - run screen.
 * `screen -r` - restore screen
-* [Ctrl + A, d] - detach from screen
-* [Ctrl + A, c] - create a new screen
+* [Ctrl + A, D] - detach from screen
+* [Ctrl + A, C] - create a new screen
 * [Ctrl + A, Space] - switch screens
 
 ## How to be able to run programs for X server
