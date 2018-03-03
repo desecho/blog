@@ -38,11 +38,11 @@ Examples:
 ## Nano
 
 * [F3] - save file
-* [Ctrl+X] - quit
-* [Ctrl+C] - show current cursor position
-* [Ctrl+W] - search
-    * [Ctrl+R] - replace
-    * [Ctrl+C] - cancel
+* [Ctrl + X] - quit
+* [Ctrl + C] - show current cursor position
+* [Ctrl + W] - search
+    * [Ctrl + R] - replace
+    * [Ctrl + C] - cancel
 
 ## Screen
 
@@ -50,9 +50,9 @@ Screen manager.
 
 * `screen` - run screen.
 * `screen -r` - restore screen
-* [Ctrl+A, d] - detach from screen
-* [Ctrl+A, c] - create a new screen
-* [Ctrl+A, Space] - switch screens
+* [Ctrl + A, d] - detach from screen
+* [Ctrl + A, c] - create a new screen
+* [Ctrl + A, Space] - switch screens
 
 ## How to be able to run programs for X server
 
@@ -84,3 +84,22 @@ vboxmanage setextradata [vbox] "VBoxInternal/Devices/VMMDev/0/Config/GetHostTime
 * `lssitepackages`
 * `workon [env]`
 * `deactivate`
+
+
+## Terminator
+
+Hotkeys:
+
+* [Ctrl + Page Down] - go to next tab
+* [Ctrl + Page Up] - go to previous tab
+* F11 - toggle fullscreen
+* [Ctrl + Shift + O] - split terminals horizontally
+* [Ctrl + Shift + E] - split terminals vertically
+* [Ctrl + Shift + W] - close current Panel
+* [Ctrl + Shift + T] - open new tab
+* [Alt + ↑] - move to the terminal above the current one
+* [Alt + ↓] - move to the terminal below the current one 
+* [Alt + ←] - move to the terminal left of the current one 
+* [Alt + →] - move to the terminal right of the current one 
+* [Ctrl + Shift + G] - reset terminal state and clear window
+* [Ctrl + Shift + X] - toggle  between  showing  all  terminals  and  only  showing the current one (maximise)

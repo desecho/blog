@@ -51,6 +51,11 @@ For all of the commands below: `-r` - recursive change.
     * `chown[user] [file]`
 * `chmod`
 
+```bash
+find [path] -type d -exec chmod 755 {} \;
+find [path] -type f -exec chmod 644 {} \;
+```
+
 ## Search
 
 * Search directories and subsirectories.
