@@ -6,9 +6,29 @@ categories: Windows
 keywords: windows
 ---
 
-## Netflix
+## VPN 
 
-This is the only streaming service which allows you to watch 4K videos on a PC. It costs 14 C$/month. It only works with Microsoft Edge browser and Netflix recomments you to have at least 25Mbit/s internet connection. You should also use the Display Port or an HDMI port and cable which supports 4K. See details on Netflix on the page ["Can I stream Netflix in Ultra HD?"](https://help.netflix.com/en/node/13444).
+It is better to use VPN to stream videos. I would recommend [NordVPN](https://nordvpn.com). It costs about 3.5 C$/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix & Amazon Prime videos which are not available in your country.
+
+## Netflix & Amazon Prime
+
+You can find a list of Movies and TV-shows available on Netflix & Amazon Prime on [JustWatch](https://www.justwatch.com/).
+
+### Netflix 
+
+Website - http://netflix.com.  
+Price - 11 C$/month (FullHD), 14 C$/month (4K).
+
+Netflix is the only streaming service which allows you to watch 4K videos on a PC. It only works with Microsoft Edge browser and Netflix recommends you to have at least 25Mbit/s internet connection. You should also use the Display Port or an HDMI port and cable which supports 4K. See details on Netflix on the page ["Can I stream Netflix in Ultra HD?"](https://help.netflix.com/en/node/13444).
+
+### Amazon Prime
+
+Websites:
+
+* https://www.primevideo.com/
+* [Amazon Prime US Video Search](https://www.amazon.com/Amazon-Video/b/ref=topnav_storetab_atv?_encoding=UTF8&node=2858778011)
+
+Price - about 6.6 C$/month. It includes other [benefits](https://www.amazon.com/gp/help/customer/display.html?nodeId=201910360) as well.
 
 ## Kodi
 
@@ -53,9 +73,6 @@ See details on the page ["How to modify the cache"](https://kodi.wiki/view/HOW-T
 
 ### Logs
 If something ever goes wrong and you see an error, you can find the log here: `%APPDATA%\Roaming\Kodi\kodi.log`.  
-
-### VPN
-Kodi will probably works better with a VPN. I would recommend [NordVPN](https://nordvpn.com). It costs about 3.5 C$/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix videos which are not available in your country.
 
 ### Real Debrid
 To be able to access more content you can subcribe to ["Real Debrid"](https://real-debrid.com). It costs about 4.25 C$/month.  

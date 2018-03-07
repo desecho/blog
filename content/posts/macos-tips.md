@@ -6,6 +6,10 @@ categories: MacOS
 keywords: macos
 ---
 
+## MacOS Configuration
+
+Contacts -> File -> New Smart Group -> Card / is not member of / any group
+
 ## Remove duplicates in "open with"
 
 ```bash

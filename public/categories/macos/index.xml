@@ -17,7 +17,8 @@
       <pubDate>Wed, 20 Jul 2016 01:41:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/macos-tips/</guid>
-      <description> Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  </description>
+      <description> MacOS Configuration Contacts -&amp;gt; File -&amp;gt; New Smart Group -&amp;gt; Card / is not member of / any group
+Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  </description>
     </item>
     
     <item>

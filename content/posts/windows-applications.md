@@ -7,7 +7,7 @@ keywords: windows
 ---
 
 ## Communication
-* [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
+* [Slack](https://slack.com/)
 * [Skype](http://www.skype.com/)
 * [Ring](https://ring.cx/)
 
@@ -16,9 +16,12 @@ keywords: windows
 * [Atom](https://atom.io/)
 
 ## Games
-* [Steam](http://store.steampowered.com/)
-* [Uplay](https://uplay.ubi.com/)
+* [Uplay](https://uplay.ubi.com/) - Ubisoft's PC games portal.
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
+
+### Steam 
+* [Steam](http://store.steampowered.com/)
+* [Depressurizer](https://github.com/mvegter/Depressurizer) - Manage steam library.
 
 ## Cloud Storage
 * [Dropbox](https://www.dropbox.com/)
@@ -38,8 +41,8 @@ keywords: windows
 * [TeamViewer](http://www.teamviewer.com/) - the All-In-One Software for Remote Support and Online Meetings.
 
 ## Utils
-* [Easy Window Switcher](https://neosmart.net/EasySwitch/)
-* [WinDirStat](https://windirstat.net/)
+* [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Easy Window Switcher brings the convenience of Mac's easy window switching to Windows.
+* [WinDirStat](https://windirstat.net/) - a disk usage statistics viewer and cleanup tool.
 
 ## Downloaders
 * [Free Download Manager](http://freedownloadmanager.org)
@@ -48,7 +51,10 @@ keywords: windows
 ## TV / Movies
 * [Kodi](https://kodi.tv/)
 
+## Graphics 
+* [Paint.NET](https://www.getpaint.net)
+
 ## Paid
-* [1Password](https://agilebits.com/onepassword) - 3 C$/month
-* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month
-* [NordVPN](https://nordvpn.com) - ~3.5 C$/month
+* [1Password](https://agilebits.com/onepassword) - 3 C$/month.
+* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month.
+* [NordVPN](https://nordvpn.com) - ~3.5 C$/month.

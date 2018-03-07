@@ -17,7 +17,8 @@
       <pubDate>Thu, 01 Mar 2018 00:41:11 -0500</pubDate>
       
       <guid>https://blog.desecho.org/posts/how-to-watch-movies-and-tv-shows-on-pc/</guid>
-      <description>Netflix This is the only streaming service which allows you to watch 4K videos on a PC. It costs 14 C$/month. It only works with Microsoft Edge browser and Netflix recomments you to have at least 25Mbit/s internet connection. You should also use the Display Port or an HDMI port and cable which supports 4K. See details on Netflix on the page &amp;ldquo;Can I stream Netflix in Ultra HD?&amp;rdquo;.</description>
+      <description>VPN It is better to use VPN to stream videos. I would recommend NordVPN. It costs about 3.5 C$/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix &amp;amp; Amazon Prime videos which are not available in your country.
+Netflix &amp;amp; Amazon Prime You can find a list of Movies and TV-shows available on Netflix &amp;amp; Amazon Prime on JustWatch.</description>
     </item>
     
     <item>
@@ -39,7 +40,7 @@ Your account picture and profile settings -&amp;gt; Create your picture -&amp;gt
       <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/windows-applications/</guid>
-      <description>Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Steam Uplay Windowed Borderless Gaming  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.  Utils  Easy Window Switcher WinDirStat  Downloaders  Free Download Manager Zona  TV / Movies  Kodi  Paid  1Password - 3 C$/month Adobe Photoshop CC - 10 C$/month NordVPN - ~3.</description>
+      <description>Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Uplay - Ubisoft&amp;rsquo;s PC games portal. Windowed Borderless Gaming  Steam  Steam Depressurizer - Manage steam library.  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.  Utils  Easy Window Switcher - Easy Window Switcher brings the convenience of Mac&amp;rsquo;s easy window switching to Windows.</description>
     </item>
     
     <item>
@@ -57,7 +58,8 @@ Your account picture and profile settings -&amp;gt; Create your picture -&amp;gt
       <pubDate>Wed, 20 Jul 2016 01:41:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/macos-tips/</guid>
-      <description> Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  </description>
+      <description> MacOS Configuration Contacts -&amp;gt; File -&amp;gt; New Smart Group -&amp;gt; Card / is not member of / any group
+Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  </description>
     </item>
     
     <item>
