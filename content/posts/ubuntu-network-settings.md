@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu network settings"
+title: "Ubuntu Network Settings"
 date: 2012-08-28T22:17:00
 comments: true
 categories: Ubuntu

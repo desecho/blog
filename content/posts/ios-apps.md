@@ -6,8 +6,10 @@ categories: ['iPhone']
 keywords: ios, mobile, apps, iphone
 ---
 
-## Internet
+## Games
+* [Steam Mobile](https://itunes.apple.com/ca/app/steam-mobile/id495369748?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
+## Internet
 * [Google Chrome](https://itunes.apple.com/ca/app/chrome-web-browser-by-google/id535886823?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ## Email
@@ -47,24 +49,6 @@ keywords: ios, mobile, apps, iphone
 * [LinkedIn](https://itunes.apple.com/ca/app/linkedin/id288429040?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Google+ – interests, communities, discovery](https://itunes.apple.com/ca/app/google-interests-communities-discovery/id447119634?mt=8&uo=4&at=11l6hc&ct=fnd)
 
-## Russia
-
-### Social
-* [OK](https://itunes.apple.com/ca/app/ok/id398465290?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [VK](https://itunes.apple.com/ca/app/vk/id564177498?mt=8&uo=4&at=11l6hc&ct=fnd)
-
-### Maps
-* [Yandex.Maps](https://itunes.apple.com/ca/app/yandex-maps/id313877526?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [2GIS – Offline maps](https://itunes.apple.com/ca/app/2gis-offline-maps/id481627348?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-### Transport
-* [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Yandex.Trains](https://itunes.apple.com/ca/app/yandex-trains/id387272416?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Yandex.Metro](https://itunes.apple.com/ca/app/yandex-metro/id392589075?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-### News
-* [TechMedia – Хабрахабр и Geektimes](https://itunes.apple.com/ca/app/techmedia-%D1%85%D0%B0%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%B1%D1%80-%D0%B8-geektimes/id778613673?mt=8&uo=4&at=11l6hc&ct=fnd)
-
 ## Entertainment
 * [9GAG: Best LOL Pics & GIFs](https://itunes.apple.com/ca/app/9gag-best-lol-pics-gifs/id545551605?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Overcast: Podcast Player](https://itunes.apple.com/ca/app/overcast-podcast-player/id888422857?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -89,7 +73,6 @@ keywords: ios, mobile, apps, iphone
 * [Multitran](https://itunes.apple.com/ca/app/multitran/id1090468498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Images
-
 * [CamScanner Free| PDF Document Scanner and OCR](https://itunes.apple.com/ca/app/camscanner-free-pdf-document-scanner-and-ocr/id388627783?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ## Utilities
@@ -117,6 +100,7 @@ keywords: ios, mobile, apps, iphone
 * [Airbnb](https://itunes.apple.com/ca/app/airbnb/id401626263?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [WiFi Map - Scan & Get Fast Internet password Free](https://itunes.apple.com/ca/app/wifi-map-scan-get-fast-internet-password-free/id548925969?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Booking.com Travel Deals](https://itunes.apple.com/ca/app/booking-com-travel-deals/id367003839?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Expedia: Hotels, Flights & Car](https://itunes.apple.com/ca/app/expedia-hotels-flights-car/id427916203?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Canada
 ### Shopping
@@ -141,6 +125,24 @@ keywords: ios, mobile, apps, iphone
 
 ### Health
 * [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+## Russia
+
+### Social
+* [OK](https://itunes.apple.com/ca/app/ok/id398465290?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [VK](https://itunes.apple.com/ca/app/vk/id564177498?mt=8&uo=4&at=11l6hc&ct=fnd)
+
+### Maps
+* [Yandex.Maps](https://itunes.apple.com/ca/app/yandex-maps/id313877526?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [2GIS – Offline maps](https://itunes.apple.com/ca/app/2gis-offline-maps/id481627348?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+### Transport
+* [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Yandex.Trains](https://itunes.apple.com/ca/app/yandex-trains/id387272416?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Yandex.Metro](https://itunes.apple.com/ca/app/yandex-metro/id392589075?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+### News
+* [TechMedia – Хабрахабр и Geektimes](https://itunes.apple.com/ca/app/techmedia-%D1%85%D0%B0%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%B1%D1%80-%D0%B8-geektimes/id778613673?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ## Paid
 * [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 35 C$

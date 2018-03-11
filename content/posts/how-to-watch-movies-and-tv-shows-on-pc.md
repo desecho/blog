@@ -1,9 +1,9 @@
 ---
-title: "How To Watch Movies And Tv Shows On Pc"
+title: "How To Watch Movies And TV Shows On PC"
 date: 2018-03-01T00:41:11-05:00
 comments: true
 categories: Windows
-keywords: windows
+keywords: windows, tv, movies, tv-shows
 ---
 
 ## VPN 
@@ -48,7 +48,7 @@ After that, Install from repository -> Choose repository and install the video a
 Then you can open the add-ons by hovering over Add-ons.
 
 ### Resolve an audio issue
-There is a problem with muted sound after pausing and that is a workaround to resolve this issue.
+There is a problem with muted sound after pausing and this is a workaround to resolve this issue.
 
 You should also install an add-on "Services - Unpause Jumpack". To install it, search for it's name.  
 Then configure it so that "Jump back onpause" section has the following values:
@@ -57,7 +57,7 @@ Then configure it so that "Jump back onpause" section has the following values:
 * Minimum pause before jumpback - 0
 
 ### Cache settings
-You should also create this file `%APPDATA%\kodi\userdata\advancedsettings.xml` with this content:  
+You should also create a file `%APPDATA%\kodi\userdata\advancedsettings.xml` with the following content:  
 
 ```xml
 <advancedsettings>

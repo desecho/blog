@@ -1,5 +1,5 @@
 ---
-title: "Installation of Services on Ubuntu"
+title: "Installation Of Services On Ubuntu"
 date: 2015-03-07T15:55:00
 comments: true
 categories: Ubuntu

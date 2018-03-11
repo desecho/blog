@@ -1,5 +1,5 @@
 ---
-title: "Documentation and Styleguides"
+title: "Documentation And Styleguides"
 date: 2014-07-07T00:00:00
 comments: true
 categories: ['Python', 'JavaScript', 'Web Development']

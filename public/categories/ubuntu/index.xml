@@ -24,7 +24,7 @@ server { server_name [domain]; charset utf-8; root [path_to_site]; index index.p
     </item>
     
     <item>
-      <title>Installation of Services on Ubuntu</title>
+      <title>Installation Of Services On Ubuntu</title>
       <link>https://blog.desecho.org/posts/installation-of-services-on-ubuntu/</link>
       <pubDate>Sat, 07 Mar 2015 15:55:00 +0000</pubDate>
       
@@ -54,7 +54,7 @@ chmod 644 /etc/systemd/system/[name].service systemctl daemon-reload  Samba sudo
     </item>
     
     <item>
-      <title>Initial Ubuntu configuration</title>
+      <title>Initial Ubuntu Configuration</title>
       <link>https://blog.desecho.org/posts/initial-ubuntu-configuration/</link>
       <pubDate>Wed, 05 Sep 2012 02:09:00 +0000</pubDate>
       
@@ -74,7 +74,7 @@ Directories  ls [dir]  -h - show file size in Kb, Mb. -l - show extended informa
     </item>
     
     <item>
-      <title>Ubuntu network settings</title>
+      <title>Ubuntu Network Settings</title>
       <link>https://blog.desecho.org/posts/ubuntu-network-settings/</link>
       <pubDate>Tue, 28 Aug 2012 22:17:00 +0000</pubDate>
       

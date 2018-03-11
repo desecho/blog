@@ -17,6 +17,7 @@ keywords: windows
 
 ## Games
 * [Uplay](https://uplay.ubi.com/) - Ubisoft's PC games portal.
+* [GOG Galaxy](https://www.gog.com/galaxy)
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
 
 ### Steam 
@@ -43,6 +44,8 @@ keywords: windows
 ## Utils
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Easy Window Switcher brings the convenience of Mac's easy window switching to Windows.
 * [WinDirStat](https://windirstat.net/) - a disk usage statistics viewer and cleanup tool.
+* [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+* [SMTP Prober](http://www.alexnolan.net/software/SMTPProber.htm)
 
 ## Downloaders
 * [Free Download Manager](http://freedownloadmanager.org)

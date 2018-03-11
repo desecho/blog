@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.desecho.org/posts/google-chrome-extensions/</loc>
+    <lastmod>2018-03-11T04:39:01-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.desecho.org/posts/how-to-watch-movies-and-tv-shows-on-pc/</loc>
     <lastmod>2018-03-01T00:41:11-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.desecho.org/posts/windows-tips/</loc>
+    <lastmod>2018-02-25T20:43:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.desecho.org/posts/ios-tips/</loc>
     <lastmod>2018-02-25T20:43:49-05:00</lastmod>
   </url>
   
@@ -131,13 +141,13 @@
   
   <url>
     <loc>https://blog.desecho.org/</loc>
-    <lastmod>2018-03-01T00:41:11-05:00</lastmod>
+    <lastmod>2018-03-11T04:39:01-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.desecho.org/categories/iphone/</loc>
-    <lastmod>2017-04-09T18:59:00+00:00</lastmod>
+    <lastmod>2018-02-25T20:43:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,7 +165,7 @@
   
   <url>
     <loc>https://blog.desecho.org/posts/</loc>
-    <lastmod>2018-03-01T00:41:11-05:00</lastmod>
+    <lastmod>2018-03-11T04:39:01-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,6 +201,12 @@
   <url>
     <loc>https://blog.desecho.org/categories/windows/</loc>
     <lastmod>2018-03-01T00:41:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.desecho.org/categories/windows-ubuntu-macos/</loc>
+    <lastmod>2018-03-11T04:39:01-04:00</lastmod>
     <priority>0</priority>
   </url>
   

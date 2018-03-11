@@ -7,11 +7,9 @@ keywords: macos
 ---
 
 ## MacOS Configuration
-
 Contacts -> File -> New Smart Group -> Card / is not member of / any group
 
 ## Remove duplicates in "open with"
-
 ```bash
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user
 ```

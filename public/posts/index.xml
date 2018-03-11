@@ -6,13 +6,22 @@
     <description>Recent content in Posts on IT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Mar 2018 00:41:11 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 11 Mar 2018 04:39:01 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.desecho.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How To Watch Movies And Tv Shows On Pc</title>
+      <title>Google Chrome Extensions</title>
+      <link>https://blog.desecho.org/posts/google-chrome-extensions/</link>
+      <pubDate>Sun, 11 Mar 2018 04:39:01 -0400</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/google-chrome-extensions/</guid>
+      <description> Development  EditThisCookie JSONView Validity Vue.js devtools  Google Drive  Google Drive Quick Drive  Miscellaneous  Amazon Assistant for Chrome Open Multiple URLs Read Mode uBlock Origin View Image iMacros for Chrome  </description>
+    </item>
+    
+    <item>
+      <title>How To Watch Movies And TV Shows On PC</title>
       <link>https://blog.desecho.org/posts/how-to-watch-movies-and-tv-shows-on-pc/</link>
       <pubDate>Thu, 01 Mar 2018 00:41:11 -0500</pubDate>
       
@@ -35,12 +44,25 @@ Your account picture and profile settings -&amp;gt; Create your picture -&amp;gt
     </item>
     
     <item>
+      <title>iOS Tips</title>
+      <link>https://blog.desecho.org/posts/ios-tips/</link>
+      <pubDate>Sun, 25 Feb 2018 20:43:49 -0500</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/ios-tips/</guid>
+      <description>Initial configuration Settings Accounts &amp;amp; Passwords -&amp;gt; iCloud -&amp;gt; enable Mail, Contacts, Calendars and Notes
+Contacts -&amp;gt; Sort Order and Display Order -&amp;gt; First, Last
+Maps -&amp;gt; Preferred transportation type -&amp;gt; Walking
+Messages -&amp;gt; enable iMessage and Send as SMS Wallet &amp;amp; Apple Pay -&amp;gt; Add Credit or Debit Card Camera -&amp;gt; Record Video -&amp;gt; set quality Display &amp;amp; Brightness -&amp;gt; Raise to Wake -&amp;gt; disable
+Clock World Clock -&amp;gt; Add Moscow, Seattle, Montreal, Tbilisi Bedtime -&amp;gt; Enable for weekdays</description>
+    </item>
+    
+    <item>
       <title>Windows Applications</title>
       <link>https://blog.desecho.org/posts/windows-applications/</link>
       <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/windows-applications/</guid>
-      <description>Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Uplay - Ubisoft&amp;rsquo;s PC games portal. Windowed Borderless Gaming  Steam  Steam Depressurizer - Manage steam library.  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.  Utils  Easy Window Switcher - Easy Window Switcher brings the convenience of Mac&amp;rsquo;s easy window switching to Windows.</description>
+      <description>Communication  Slack Skype Ring  Editors  Sublime Text Atom  Games  Uplay - Ubisoft&amp;rsquo;s PC games portal. GOG Galaxy Windowed Borderless Gaming  Steam  Steam Depressurizer - Manage steam library.  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.</description>
     </item>
     
     <item>
@@ -49,7 +71,7 @@ Your account picture and profile settings -&amp;gt; Create your picture -&amp;gt
       <pubDate>Sun, 09 Apr 2017 18:59:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/ios-apps/</guid>
-      <description>Internet  Google Chrome  Email  Gmail - Email by Google Microsoft Outlook  Messengers  Telegram Messenger Skype Viber Messenger Messenger WhatsApp Messenger Hangouts Slack Snapchat  Cloud Storage  Google Drive – online backup Google Docs Dropbox  Misc  The Weather Network Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Binary Calc  Readers  Bookmate.</description>
+      <description>Games  Steam Mobile  Internet  Google Chrome  Email  Gmail - Email by Google Microsoft Outlook  Messengers  Telegram Messenger Skype Viber Messenger Messenger WhatsApp Messenger Hangouts Slack Snapchat  Cloud Storage  Google Drive – online backup Google Docs Dropbox  Misc  The Weather Network Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Binary Calc  Readers  Bookmate.</description>
     </item>
     
     <item>
@@ -84,7 +106,7 @@ server { server_name [domain]; charset utf-8; root [path_to_site]; index index.p
     </item>
     
     <item>
-      <title>Installation of Services on Ubuntu</title>
+      <title>Installation Of Services On Ubuntu</title>
       <link>https://blog.desecho.org/posts/installation-of-services-on-ubuntu/</link>
       <pubDate>Sat, 07 Mar 2015 15:55:00 +0000</pubDate>
       
@@ -116,7 +138,7 @@ Hotkeys  [Cmd + P] - switch files [Cmd + R] - go to functions/classes [Cmd + D] 
     </item>
     
     <item>
-      <title>Documentation and Styleguides</title>
+      <title>Documentation And Styleguides</title>
       <link>https://blog.desecho.org/posts/documentation-and-styleguides/</link>
       <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
       
@@ -134,7 +156,7 @@ Hotkeys  [Cmd + P] - switch files [Cmd + R] - go to functions/classes [Cmd + D] 
     </item>
     
     <item>
-      <title>Reference materials for web development and programming</title>
+      <title>Reference Materials For Web Development And Programming</title>
       <link>https://blog.desecho.org/posts/reference-materials-for-web-development-and-programming/</link>
       <pubDate>Sun, 06 Jul 2014 13:54:00 +0000</pubDate>
       
@@ -203,7 +225,7 @@ GRANT [privilege] ON `[db]`.</description>
     </item>
     
     <item>
-      <title>Initial Ubuntu configuration</title>
+      <title>Initial Ubuntu Configuration</title>
       <link>https://blog.desecho.org/posts/initial-ubuntu-configuration/</link>
       <pubDate>Wed, 05 Sep 2012 02:09:00 +0000</pubDate>
       
@@ -223,7 +245,7 @@ Directories  ls [dir]  -h - show file size in Kb, Mb. -l - show extended informa
     </item>
     
     <item>
-      <title>Ubuntu network settings</title>
+      <title>Ubuntu Network Settings</title>
       <link>https://blog.desecho.org/posts/ubuntu-network-settings/</link>
       <pubDate>Tue, 28 Aug 2012 22:17:00 +0000</pubDate>
       

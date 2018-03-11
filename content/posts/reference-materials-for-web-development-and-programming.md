@@ -1,5 +1,5 @@
 ---
-title: "Reference materials for web development and programming"
+title: "Reference Materials For Web Development And Programming"
 date: 2014-07-06T13:54:00
 comments: true
 categories: ['Python', 'JavaScript', 'Web Development']
@@ -26,7 +26,6 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 
 ### Coffeescript
-
 * [Why I Don't Use CoffeeScript](http://oscargodson.com/posts/why-i-dont-use-coffeescript.html)
 * [We Don't Use CoffeeScript Ever](http://billpatrianakos.me/blog/2015/07/06/we-dont-use-coffeescript-ever/)
 
