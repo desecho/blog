@@ -29,6 +29,7 @@ keywords: ios, mobile, apps, iphone
 ## Cloud Storage
 * [Google Drive – online backup](https://itunes.apple.com/ca/app/google-drive-free-online-storage/id507874739?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Google Docs](https://itunes.apple.com/ca/app/google-docs/id842842640?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Google Sheets](https://itunes.apple.com/ca/app/google-sheets/id842849113?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Dropbox](https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ## Misc
