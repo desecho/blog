@@ -36,3 +36,22 @@ Remember to run `GeForce Experience` to update drivers from time to time.
 Open `Add or remove programs` to uninstall programs.  
 Manage processes: Task Manager -> Processes.  
 Monitor network activity: Task Manager -> Performance -> Select Ethernet.
+
+## Games
+
+### Steam
+Steam -> Settings -> Downloads -> Content Libraries -> Steam library folders -> Add library folder
+Steam -> Settings -> Account -> Beta participation -> Change -> Steam Beta Update
+Steam -> Settings -> Downloads -> Download Restrictions -> Limit bandwidth to
+Steam -> Settings -> Downloads -> Download Restrictions -> Allow downloads during gameplay
+
+### Uplay
+
+Settings -> Downloads -> Default game installation location -> Change
+Settings -> Downloads -> Bandwidth usage limit
+
+### GOG Galaxy
+Settings -> Downloads -> Installing games -> Game installation folder
+Settings -> Downloads -> Installing games -> Create shortcut on desktop -> check
+Settings -> Downloads -> Bandwidth -> While playing -> Pause downloads when playing -> uncheck
+Settings -> Downloads -> Bandwidth -> Bandwidth limit

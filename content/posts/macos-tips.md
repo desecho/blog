@@ -6,6 +6,9 @@ categories: MacOS
 keywords: macos
 ---
 
+## Installation
+Do not format your drive as a case sensitive partition. You won't be able to run applications like Steam or Photoshop.
+
 ## MacOS Configuration
 Contacts -> File -> New Smart Group -> Card / is not member of / any group
 

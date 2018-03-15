@@ -75,8 +75,16 @@ See details on the page ["How to modify the cache"](https://kodi.wiki/view/HOW-T
 If something ever goes wrong and you see an error, you can find the log here: `%APPDATA%\Roaming\Kodi\kodi.log`.  
 
 ### Real Debrid
-To be able to access more content you can subcribe to ["Real Debrid"](https://real-debrid.com). It costs about 4.25 C$/month.  
+To be able to access more content you can subcribe to ["Real Debrid"](http://real-debrid.com/?id=2307762). It costs about 4.25 C$/month.  
 You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, Nemesis. Select Dependenies -> ResolveURL -> Configure -> Universal Resolvers -> Real-Debrid -> (Re)Authorize My Account -> Follow instructions on the screen.
+
+### 4K
+
+Nemesis -> Movie Zone -> 4K Movies
+Skynet -> Watch The Latest Movies And Shows At The Flix -> Watch At The Flix -> 4K UHD Movies ->
+Skynet -> Maverick TV -> Maverick 4K UHD Movies
+Skynet -> Maverick TV -> Real Debrid 4k UHD and FHD
+Skynet -> Supremacy -> 4K Movies
 
 ## Zona
 You can also install [Zona](http://zona.ru/en/) which enables to stream torrents.  
