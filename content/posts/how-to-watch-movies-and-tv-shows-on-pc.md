@@ -81,14 +81,7 @@ You have to configure it after. To configure it, search for one of the video add
 ### 4K
 
 Nemesis -> Movie Zone -> 4K Movies
-Skynet -> Watch The Latest Movies And Shows At The Flix -> Watch At The Flix -> 4K UHD Movies ->
+Skynet -> Watch The Latest Movies And Shows At The Flix -> Watch At The Flix -> 4K UHD Movies
 Skynet -> Maverick TV -> Maverick 4K UHD Movies
 Skynet -> Maverick TV -> Real Debrid 4k UHD and FHD
 Skynet -> Supremacy -> 4K Movies
-
-## Zona
-You can also install [Zona](http://zona.ru/en/) which enables to stream torrents.  
-Configure it like this:
-
-* Settings -> Scale -> Auto
-* Settings -> Downloads -> Set the "Downloads folder". Set the "Speed limit".

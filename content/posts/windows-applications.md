@@ -48,8 +48,8 @@ keywords: windows
 * [SMTP Prober](http://www.alexnolan.net/software/SMTPProber.htm)
 
 ## Downloaders
-* [Free Download Manager](http://freedownloadmanager.org)
-* [Zona](http://zona.ru/en/)
+* [μTorrent](http://www.utorrent.com/)
+* [Flashget](http://www.flashget.com/)
 
 ## TV / Movies / Streams
 * [Kodi](https://kodi.tv/)

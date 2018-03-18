@@ -38,10 +38,12 @@ keywords: ios, mobile, apps, iphone
 * [Tabata Stopwatch Pro - Tabata Timer and HIIT Timer](https://itunes.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Asana: organize tasks & work](https://itunes.apple.com/ca/app/asana-team-tasks-conversations/id489969512?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Binary Calc](https://itunes.apple.com/ca/app/binary-calc/id301630595?mt=8&uo=4&at=11l6hc&ct=fnd)
-
-## Readers
-* [Bookmate. Reading made easy.](https://itunes.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564?mt=8&uo=4&at=11l6hc&ct=fnd)
+
+## Books
+* [Bookmate. Reading made easy.](https://itunes.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Audible audio books & podcasts](https://itunes.apple.com/ca/app/audible-audio-books-podcasts/id379693831?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Kindle](https://itunes.apple.com/ca/app/kindle/id302584613?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Social
 * [Twitter](https://itunes.apple.com/ca/app/twitter/id333903271?mt=8&uo=4&at=11l6hc&ct=fnd)

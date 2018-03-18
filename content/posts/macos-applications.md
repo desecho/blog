@@ -64,6 +64,7 @@ for Remote Support and Online Meetings.
 
 ## Downloaders
 * [Free Download Manager](http://freedownloadmanager.org)
+* [μTorrent](http://www.utorrent.com/)
 
 ## TV / Movies
 * [Kodi](https://kodi.tv/)
