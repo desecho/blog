@@ -49,7 +49,7 @@ keywords: windows
 
 ## Downloaders
 * [μTorrent](http://www.utorrent.com/)
-* [Flashget](http://www.flashget.com/)
+* [Free Download Manager](http://freedownloadmanager.org)
 
 ## TV / Movies / Streams
 * [Kodi](https://kodi.tv/)
