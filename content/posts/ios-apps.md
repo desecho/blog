@@ -61,7 +61,7 @@ keywords: ios, mobile, apps, iphone
 
 ### TV
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Next Episode - Track TV Shows](https://itunes.apple.com/ca/app/next-episode-track-tv-shows/id347009526?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -104,6 +104,10 @@ keywords: ios, mobile, apps, iphone
 * [Expedia: Hotels, Flights & Car](https://itunes.apple.com/ca/app/expedia-hotels-flights-car/id427916203?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Canada
+
+### Taxi
+[Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
 ### Shopping
 * [Best Buy Canada](https://itunes.apple.com/ca/app/best-buy-canada/id386960831?mt=8&uo=4&at=11l6hc&ct=fnd)
 
@@ -148,3 +152,5 @@ keywords: ios, mobile, apps, iphone
 ## Paid
 * [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 35 C$
 * [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 2.79 C$
+* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051?mt=8&uo=4&at=11l6hc&ct=fnd) - 11 C$/month (FullHD), 14 C$/month (4K)
+* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 6.58 C$/month

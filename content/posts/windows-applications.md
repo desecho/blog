@@ -51,8 +51,9 @@ keywords: windows
 * [Free Download Manager](http://freedownloadmanager.org)
 * [Zona](http://zona.ru/en/)
 
-## TV / Movies
+## TV / Movies / Streams
 * [Kodi](https://kodi.tv/)
+* [Twitch Desktop App](https://app.twitch.tv/)
 
 ## Graphics 
 * [Paint.NET](https://www.getpaint.net)
