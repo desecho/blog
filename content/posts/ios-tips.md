@@ -2,8 +2,8 @@
 title: "iOS Tips"
 date: 2018-02-25T20:43:49-05:00
 comments: true
-categories: ['iPhone']
-keywords: ios, mobile, iphone
+categories: ['iOS']
+keywords: iOS
 ---
 
 ## Initial configuration
@@ -27,5 +27,5 @@ Double tap on Home - see running apps
 Home + Power - take screenshot
 Hold Power - turn off
 
-## Before phone reset
+## Before resetting
 Remove authenticator from Steam Mobile.

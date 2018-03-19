@@ -61,4 +61,4 @@ keywords: windows
 ## Paid
 * [1Password](https://agilebits.com/onepassword) - 3 C$/month.
 * [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month.
-* [NordVPN](https://nordvpn.com) - ~3.5 C$/month.
+* [NordVPN](https://nordvpn.com) - 3.5 C$/month.
