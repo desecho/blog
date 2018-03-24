@@ -118,7 +118,19 @@ git show :2:[file] > [file2]  # Version from current branch
 git show :3:[file] > [file3]  # Version from test branch
 ```
 
-## How to remove a submodule
+## Submodules
+### Initiate submodules and load them
+```
+git submodule init
+git submodule update
+```
+
+### How to add a submodule
+```
+git submodule add http://github.com/[username]/[repo].git my/path
+```
+
+### How to remove a submodule
 1. Delete the relevant section from the .gitmodules file.
 2. `git add .gitmodules`
 3. Delete the relevant section from .git/config

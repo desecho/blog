@@ -265,7 +265,20 @@ git show :2:[file] &gt; [file2]  # Version from current branch
 git show :3:[file] &gt; [file3]  # Version from test branch
 </code></pre>
 
-<h2 id="how-to-remove-a-submodule">How to remove a submodule</h2>
+<h2 id="submodules">Submodules</h2>
+
+<h3 id="initiate-submodules-and-load-them">Initiate submodules and load them</h3>
+
+<pre><code>git submodule init
+git submodule update
+</code></pre>
+
+<h3 id="how-to-add-a-submodule">How to add a submodule</h3>
+
+<pre><code>git submodule add http://github.com/[username]/[repo].git my/path
+</code></pre>
+
+<h3 id="how-to-remove-a-submodule">How to remove a submodule</h3>
 
 <ol>
 <li>Delete the relevant section from the .gitmodules file.</li>

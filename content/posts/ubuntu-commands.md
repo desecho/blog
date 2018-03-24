@@ -127,7 +127,7 @@ find [path] -type f -exec chmod 644 {} \;
 * `sudo hostname your-new-name` - change hostname. Permanent value is in `/etc/hostname`.
 * `bzip2 -c [file] > [archive.bz2]` 
 * `tar -cvzf [archive.tar.gz] [file]`
-
+* `curl -I http://google.com` - get headers only
 
 ## Shortcuts
 * [Readline shortcuts](http://www.bigsmoke.us/readline/shortcuts)

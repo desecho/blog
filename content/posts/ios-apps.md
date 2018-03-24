@@ -157,6 +157,7 @@ keywords: iOS, apps
 ### Utilities
 * [Speedtest by Ookla](https://itunes.apple.com/ca/app/speedtest-by-ookla/id300704847?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [RSA SecurID Software Token](https://itunes.apple.com/ca/app/rsa-securid-software-token/id318038618?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Squaready](https://itunes.apple.com/ca/app/squaready/id440279995?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
 #### Taxi

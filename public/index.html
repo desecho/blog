@@ -727,6 +727,7 @@ Hold Power - turn off</p>
 <ul>
 <li><a href="https://itunes.apple.com/ca/app/speedtest-by-ookla/id300704847?mt=8&amp;uo=4&amp;at=11l6hc&amp;ct=fnd" target="_blank">Speedtest by Ookla</a></li>
 <li><a href="https://itunes.apple.com/ca/app/rsa-securid-software-token/id318038618?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">RSA SecurID Software Token</a></li>
+<li><a href="https://itunes.apple.com/ca/app/squaready/id440279995?mt=8&amp;uo=4&amp;at=11l6hc&amp;app=itunes&amp;ct=fnd" target="_blank">Squaready</a></li>
 </ul>
 
 <h3 id="canada-1">Canada</h3>
@@ -1835,7 +1836,20 @@ git show :2:[file] &gt; [file2]  # Version from current branch
 git show :3:[file] &gt; [file3]  # Version from test branch
 </code></pre>
 
-<h2 id="how-to-remove-a-submodule">How to remove a submodule</h2>
+<h2 id="submodules">Submodules</h2>
+
+<h3 id="initiate-submodules-and-load-them">Initiate submodules and load them</h3>
+
+<pre><code>git submodule init
+git submodule update
+</code></pre>
+
+<h3 id="how-to-add-a-submodule">How to add a submodule</h3>
+
+<pre><code>git submodule add http://github.com/[username]/[repo].git my/path
+</code></pre>
+
+<h3 id="how-to-remove-a-submodule">How to remove a submodule</h3>
 
 <ol>
 <li>Delete the relevant section from the .gitmodules file.</li>
@@ -2416,6 +2430,7 @@ find [path] -type f -exec chmod 644 {} \;
 <li><code>sudo hostname your-new-name</code> - change hostname. Permanent value is in <code>/etc/hostname</code>.</li>
 <li><code>bzip2 -c [file] &gt; [archive.bz2]</code></li>
 <li><code>tar -cvzf [archive.tar.gz] [file]</code></li>
+<li><code>curl -I http://google.com</code> - get headers only</li>
 </ul>
 
 <h2 id="shortcuts">Shortcuts</h2>
