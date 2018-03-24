@@ -103,12 +103,15 @@ find [path] -type f -exec chmod 644 {} \;
 
 ### Package management
 * `sudo dpkg -i` - install package.
-* `apt-get` - package manager.
+* `sudo apt-get` - package manager.
     * `install [package]`
     * `remove --purge [package]` - remove *package*.
     * `clean` - remove unused packages.
     * `update`
     * `upgrade` - upgrade installed packages.
+* `sudo add-apt-repository ppa:[user]/[name]`
+* `sudo add-apt-repository ppa:[user]/[name] --remove`
+
 
 ## Additional
 * `wget [file-url]` - download file.

@@ -38,6 +38,7 @@ keywords: iOS, apps
 * [Tabata Stopwatch Pro - Tabata Timer and HIIT Timer](https://itunes.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Asana: organize tasks & work](https://itunes.apple.com/ca/app/asana-team-tasks-conversations/id489969512?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Microsoft Word](https://itunes.apple.com/ca/app/microsoft-word/id586447913?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Calculators
 * [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -157,6 +158,9 @@ keywords: iOS, apps
 ### Utilities
 * [Speedtest by Ookla](https://itunes.apple.com/ca/app/speedtest-by-ookla/id300704847?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [RSA SecurID Software Token](https://itunes.apple.com/ca/app/rsa-securid-software-token/id318038618?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+## Photos
+* [Focos](https://itunes.apple.com/ca/app/focos/id1274938524?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Squaready](https://itunes.apple.com/ca/app/squaready/id440279995?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada

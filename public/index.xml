@@ -71,7 +71,7 @@ Clock World Clock -&amp;gt; Add Moscow, Seattle, Montreal, Tbilisi Bedtime -&amp
       <pubDate>Sun, 09 Apr 2017 18:59:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/ios-apps/</guid>
-      <description>iPad + iPhone Games  Steam Mobile  Internet  Google Chrome  Email  Gmail - Email by Google Microsoft Outlook  Messengers  Telegram Messenger Skype Viber Messenger Messenger Hangouts Slack  Cloud Storage  Google Drive – online backup Google Docs Google Sheets Dropbox  Misc  The Weather Network Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Adobe Acrobat Reader  Calculators  Calculator iRocks  Books  Bookmate.</description>
+      <description>iPad + iPhone Games  Steam Mobile  Internet  Google Chrome  Email  Gmail - Email by Google Microsoft Outlook  Messengers  Telegram Messenger Skype Viber Messenger Messenger Hangouts Slack  Cloud Storage  Google Drive – online backup Google Docs Google Sheets Dropbox  Misc  The Weather Network Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Adobe Acrobat Reader Microsoft Word  Calculators  Calculator iRocks  Books  Bookmate.</description>
     </item>
     
     <item>
@@ -80,9 +80,9 @@ Clock World Clock -&amp;gt; Add Moscow, Seattle, Montreal, Tbilisi Bedtime -&amp
       <pubDate>Wed, 20 Jul 2016 01:41:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/macos-tips/</guid>
-      <description> Installation Do not format your drive as a case sensitive partition. You won&amp;rsquo;t be able to run applications like Steam or Photoshop.
+      <description>Installation Do not format your drive as a case sensitive partition. You won&amp;rsquo;t be able to run applications like Steam or Photoshop.
 MacOS Configuration Contacts -&amp;gt; File -&amp;gt; New Smart Group -&amp;gt; Card / is not member of / any group
-Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  </description>
+Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user  View sleep/wake log pmset -g log|grep -e &amp;quot; Sleep &amp;quot; -e &amp;quot; Wake &amp;quot;  Reindex Spotlight index sudo mdutil -E / sudo mdutil -i on /  How to wipe your Mac &amp;amp; reset to factory settings  Restart, then hold down the [Command + R] until you see an Apple logo or spinning globe.</description>
     </item>
     
     <item>
