@@ -78,6 +78,7 @@ keywords: iOS, apps
 ### Utilities
 * [Google Authenticator](https://itunes.apple.com/ca/app/google-authenticator/id388497605?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335?mt=8&uo=4&at=11l6hc&ct=fnd) 
+* [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Paid
 * [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783?mt=8&uo=4&at=11l6hc&ct=fnd) - 1 C$.
@@ -162,6 +163,9 @@ keywords: iOS, apps
 ## Photos
 * [Focos](https://itunes.apple.com/ca/app/focos/id1274938524?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Squaready](https://itunes.apple.com/ca/app/squaready/id440279995?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+## Devices
+* [Ember - A few degrees better](https://itunes.apple.com/ca/app/ember-a-few-degrees-better/id1147470931?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
 #### Taxi
