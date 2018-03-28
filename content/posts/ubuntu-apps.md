@@ -97,6 +97,7 @@ Hotkeys:
 * [Ctrl + Shift + E] - split terminals vertically
 * [Ctrl + Shift + W] - close current Panel
 * [Ctrl + Shift + T] - open new tab
+* [Ctrl + Shift + I] - open a new window
 * [Alt + ↑] - move to the terminal above the current one
 * [Alt + ↓] - move to the terminal below the current one 
 * [Alt + ←] - move to the terminal left of the current one 
