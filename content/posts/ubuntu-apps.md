@@ -104,3 +104,6 @@ Hotkeys:
 * [Alt + →] - move to the terminal right of the current one 
 * [Ctrl + Shift + G] - reset terminal state and clear window
 * [Ctrl + Shift + X] - toggle  between  showing  all  terminals  and  only  showing the current one (maximise)
+* [Ctrl + Shift + Plus (+)] - increase font size.
+* [Ctrl + Minus (-)] - decrease font size.
+* [Ctrl + Zero (0)] - restore font size to original setting.
