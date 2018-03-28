@@ -55,3 +55,9 @@ Settings -> Downloads -> Installing games -> Game installation folder
 Settings -> Downloads -> Installing games -> Create shortcut on desktop -> check
 Settings -> Downloads -> Bandwidth -> While playing -> Pause downloads when playing -> uncheck
 Settings -> Downloads -> Bandwidth -> Bandwidth limit
+
+## VMWare Player
+Disable top bar
+
+* Open `%APPDATA%\VMware\preferences.ini`
+* Add `pref.vmplayer.fullscreen.nobar = 1`
