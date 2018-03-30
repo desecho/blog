@@ -10,7 +10,7 @@ Here I am going to list some issues I am having with Apple products, my interact
 
 There are some general things I don't like about the way Apple deals with support and feedback. 
 
-After contacting support you get an email which sometimes contains a link to your ticket and sometimes does not. So you need to make a note of the link somewhere to be able to access it. Here's the link - https://getsupport.apple.com/GetCaseDetails.do?caseid=<case-id>&locale=en_CA. The link does not contain any useful information, it only has your original message, creation date and a form to send an email. It would benefit from some history, a person assigned to it and ticket status.
+After contacting support you get an email which sometimes contains a link to your ticket and sometimes does not. So you need to make a note of the link somewhere to be able to access it. Here's the link - `https://getsupport.apple.com/GetCaseDetails.do?caseid=<case-id>&locale=en_CA`. The link does not contain any useful information, it only has your original message, creation date and a form to send an email. It would benefit from some history, a person assigned to it and ticket status.
 
 If you miss a call from Apple support you will receive an email that you can call back but when you do there is no way to talk to a person who called you or find out who it was and why they called.
 
