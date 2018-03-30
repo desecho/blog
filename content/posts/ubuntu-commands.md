@@ -112,6 +112,10 @@ find [path] -type f -exec chmod 644 {} \;
 * `sudo add-apt-repository ppa:[user]/[name]`
 * `sudo add-apt-repository ppa:[user]/[name] --remove`
 
+### Variables
+* `VAR='123'`
+* `export VAR='123'`
+* `unset VAR`
 
 ## Additional
 * `wget [file-url]` - download file.

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on IT Blog</title>
+    <link>https://blog.desecho.org/categories/apple/</link>
+    <description>Recent content in Apple on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Mar 2018 04:14:22 -0400</lastBuildDate>
+    
+	<atom:link href="https://blog.desecho.org/categories/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple Issues</title>
+      <link>https://blog.desecho.org/posts/apple-issues/</link>
+      <pubDate>Thu, 29 Mar 2018 04:14:22 -0400</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/apple-issues/</guid>
+      <description>Here I am going to list some issues I am having with Apple products, my interactions with Apple Support and Apple Feedback.
+There are some general things I don&amp;rsquo;t like about the way Apple deals with support and feedback.
+After contacting support you get an email which sometimes contains a link to your ticket and sometimes does not. So you need to make a note of the link somewhere to be able to access it.</description>
+    </item>
+    
+  </channel>
+</rss>
