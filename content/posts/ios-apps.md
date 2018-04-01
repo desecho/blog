@@ -96,7 +96,7 @@ keywords: iOS, apps
 * [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051?mt=8&uo=4&at=11l6hc&ct=fnd) - 11 C$/month (FullHD), 14 C$/month (4K).
 * [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 6.58 C$/month.
 * [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.5 C$/month.
-* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.99 C$.
 
 ### Reference
 * [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238?mt=8&uo=4&at=11l6hc&ct=fnd)
