@@ -8,6 +8,9 @@ keywords: iOS, apps
 
 ## iPad + iPhone
 
+### Health & Fitness
+* [Nomie 2](https://itunes.apple.com/ca/app/nomie-2/id1190618299?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
 ### Games
 * [Steam Mobile](https://itunes.apple.com/ca/app/steam-mobile/id495369748?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
@@ -61,14 +64,19 @@ keywords: iOS, apps
 
 ### Shopping
 * [Amazon](https://itunes.apple.com/ca/app/amazon/id297606951?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### TV
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
+
+### Productivity
+* [Tally: A Goal Tracker](https://itunes.apple.com/ca/app/tally-a-goal-tracker/id1090990601?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [TuneIn Radio](https://itunes.apple.com/ca/app/tunein-radio-stream-live-radio/id418987775?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [GuitarTuna: Guitar, Bass tuner](https://itunes.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [GarageBand](https://itunes.apple.com/ca/app/garageband/id408709785?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Translation
 * [Lingvo Dictionary - Multilingual Translator](https://itunes.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -79,6 +87,7 @@ keywords: iOS, apps
 * [Google Authenticator](https://itunes.apple.com/ca/app/google-authenticator/id388497605?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335?mt=8&uo=4&at=11l6hc&ct=fnd) 
 * [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Tally 2 - Quick Counter](https://itunes.apple.com/ca/app/tally-2-quick-counter/id957912407?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Paid
 * [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783?mt=8&uo=4&at=11l6hc&ct=fnd) - 1 C$.
@@ -87,6 +96,7 @@ keywords: iOS, apps
 * [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051?mt=8&uo=4&at=11l6hc&ct=fnd) - 11 C$/month (FullHD), 14 C$/month (4K).
 * [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 6.58 C$/month.
 * [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.5 C$/month.
+* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Reference
 * [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -122,6 +132,12 @@ keywords: iOS, apps
 
 #### Health
 * [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+#### Navigation
+* [BIXI](https://itunes.apple.com/ca/app/bixi/id628543321?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Chrono - Bus, metro and train](https://itunes.apple.com/ca/app/chrono-bus-metro-and-train/id1261397728?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Moovit: Public transit](https://itunes.apple.com/ca/app/moovit-public-transit/id498477945?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [MetroMap Montreal - Subway map](https://itunes.apple.com/ca/app/metromap-montreal-subway-map/id608615860?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Russia
 #### Social
@@ -168,8 +184,13 @@ keywords: iOS, apps
 * [Ember - A few degrees better](https://itunes.apple.com/ca/app/ember-a-few-degrees-better/id1147470931?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
-#### Taxi
-[Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+#### Navigation
+* [Montreal Bikes — A One-Tap Bixi Bike App](https://itunes.apple.com/ca/app/montreal-bikes-a-one-tap-bixi-bike-app/id781612439?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Transit • Bus & Train Times](https://itunes.apple.com/ca/app/transit-bus-train-times/id498151501?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+#### Montreal
+* [Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Official Montréal City Guide](https://itunes.apple.com/ca/app/official-montr%C3%A9al-city-guide/id1328574862?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Food / Drinks
 * [Société des alcools du Québec](https://itunes.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661?mt=8&uo=4&at=11l6hc&ct=fnd)
