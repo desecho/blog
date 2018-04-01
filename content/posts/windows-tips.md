@@ -8,11 +8,25 @@ keywords: windows
 
 ## Windows Configuration
 
+### Settings 
+#### System
+Display -> Scale and layout -> Change the size of text, apps, and other items -> 200%.  
+Power & Sleep -> Screen -> 15 minutes
+Power & Sleep -> Sleep -> Never
+Notification & actions -> Notifications ->  Get notifications from apps and other senders -> Off
+Storage -> Storage Sense -> On
+
+#### Personalization
+Background -> Choose your picture
+
+#### Accounts
+Your info -> Create your picture -> Browser for one -> Choose your avatar.
+
+### Misc
 Color management -> Advanced -> Display calibration -> Calibrate display.  
-Change display settings -> Scale and layout -> Change the size of text, apps, and other items -> 200%.  
+
 Right click on the taskbar -> Cortana -> Hidden.  
 Right click on the taskbar -> Show People Button -> uncheck.  
-Your account picture and profile settings -> Create your picture -> Browser for one -> Choose your avatar.
 
 ## Software Configuration
 
@@ -29,6 +43,10 @@ Countries -> Select a country you'd like to save as a favorite -> Hamburger menu
 
 Settings:  
 Enable "Auto connect", "Start NordVPN on startup", "Start minimized", "App Kill Switch" and select applications you want to kill if a VPN connection drops. The apps have to be running while setting this up. Choose System of measurement.
+
+### Google Chrome
+
+chrome://settings/ -> On startup -> Continue where you left off
 
 ## Usage
 
