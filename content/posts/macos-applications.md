@@ -17,6 +17,9 @@ keywords: macos
 ## Movies / Video
 * [MPlayer OSX Extended](http://mplayerosx.ch/)
 
+## Languages
+* [Anki](https://apps.ankiweb.net/)
+
 ## Administration
 * [Chicken](http://chicken.sourceforge.net/) - Chicken is a VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC.
 * [iTerm2](http://www.iterm2.com/) - a replacement for Terminal and the successor to iTerm.

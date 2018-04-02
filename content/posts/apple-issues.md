@@ -28,7 +28,7 @@ When you add a rating you can instantly see your rating but if you close App Sto
 
 I found out all that only after I had two conversations with Support. I talked to Support on 25.03.18 because they called me regarding a different issue. They explained me that I have to wait a certain amount of time before my rating is posted. Then they called me on 28.03.18 but I missed the call. I could not contact a person who called me but I still had two conversations with Support and they gave me more information which is described above. I told them that they can close the ticket because there is no way I can see my rating in the current state of the rating system.
 
-I received an email from Apple concerning my issue on 30.03.18 which was surprising because they should have closed my ticket due to the fact that they said that viewing my ratings is impossible. The asked me to send a screen recording of my problem.
+I received an email from Apple concerning my issue on 30.03.18 which was surprising because they should have closed my ticket due to the fact that they said that viewing my ratings is impossible. The asked me to send a screen recording of my problem. On 1.4.18 I have received an email that they are looking into the issue.
 
 ## Feature requests
 

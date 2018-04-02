@@ -15,6 +15,9 @@ keywords: windows
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 
+## Languages
+* [Anki](https://apps.ankiweb.net/)
+
 ## Games
 * [Uplay](https://uplay.ubi.com/) - Ubisoft's PC games portal.
 * [GOG Galaxy](https://www.gog.com/galaxy)
@@ -46,6 +49,9 @@ keywords: windows
 * [WinDirStat](https://windirstat.net/) - a disk usage statistics viewer and cleanup tool.
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * [SMTP Prober](http://www.alexnolan.net/software/SMTPProber.htm)
+* [Turn off screen](https://gallery.technet.microsoft.com/scriptcenter/Turn-off-screen-4d173e0a)
+* [Bat To Exe Converter](https://bat-to-exe-converter.en.uptodown.com/windows)
+* [PS Hot Launch VVL](http://www.pssoftlab.com/pshl_info.phtml)
 
 ## Downloaders
 * [μTorrent](http://www.utorrent.com/)

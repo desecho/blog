@@ -115,6 +115,9 @@ keywords: iOS, apps
 * [Expedia: Hotels, Flights & Car](https://itunes.apple.com/ca/app/expedia-hotels-flights-car/id427916203?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
+#### Lifestyle
+* [Centris.ca](https://itunes.apple.com/ca/app/centris-ca/id604024675?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
 #### Shopping
 * [Best Buy Canada](https://itunes.apple.com/ca/app/best-buy-canada/id386960831?mt=8&uo=4&at=11l6hc&ct=fnd)
 
@@ -156,6 +159,9 @@ keywords: iOS, apps
 * [TechMedia – Хабрахабр и Geektimes](https://itunes.apple.com/ca/app/techmedia-%D1%85%D0%B0%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%B1%D1%80-%D0%B8-geektimes/id778613673?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ## iPhone
+### Lifestyle
+* [Expense - Spending Tracking](https://itunes.apple.com/ca/app/expense-spending-tracking/id1020335225?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
 ### Calculators
 * [Binary Calc](https://itunes.apple.com/ca/app/binary-calc/id301630595?mt=8&uo=4&at=11l6hc&ct=fnd)
 
@@ -182,6 +188,9 @@ keywords: iOS, apps
 
 ## Devices
 * [Ember - A few degrees better](https://itunes.apple.com/ca/app/ember-a-few-degrees-better/id1147470931?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+## Reading
+* [Otto - Audio books & Podcasts](https://itunes.apple.com/ca/app/otto-audio-books-podcasts/id975745769?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
 #### Navigation
