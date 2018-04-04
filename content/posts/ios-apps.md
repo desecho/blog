@@ -10,6 +10,7 @@ keywords: iOS, apps
 
 ### Health & Fitness
 * [Nomie 2](https://itunes.apple.com/ca/app/nomie-2/id1190618299?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Sleep Cycle alarm clock](https://itunes.apple.com/ca/app/sleep-cycle-alarm-clock/id320606217?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Games
 * [Steam Mobile](https://itunes.apple.com/ca/app/steam-mobile/id495369748?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -65,6 +66,7 @@ keywords: iOS, apps
 ### Shopping
 * [Amazon](https://itunes.apple.com/ca/app/amazon/id297606951?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [IKEA Store](https://itunes.apple.com/ca/app/ikea-store/id976577934?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### TV
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -90,13 +92,14 @@ keywords: iOS, apps
 * [Tally 2 - Quick Counter](https://itunes.apple.com/ca/app/tally-2-quick-counter/id957912407?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Paid
-* [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783?mt=8&uo=4&at=11l6hc&ct=fnd) - 1 C$.
-* [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 35 C$.
-* [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 2.79 C$.
-* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051?mt=8&uo=4&at=11l6hc&ct=fnd) - 11 C$/month (FullHD), 14 C$/month (4K).
-* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 6.58 C$/month.
-* [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.5 C$/month.
-* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.99 C$.
+* [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783?mt=8&uo=4&at=11l6hc&ct=fnd) - 1 C$
+* [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 35 C$
+* [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 2.79 C$
+* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051?mt=8&uo=4&at=11l6hc&ct=fnd) - 11 C$/month (FullHD), 14 C$/month (4K)
+* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 6.58 C$/month
+* [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.5 C$/month
+* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.99 C$
+* [Caret - Plain Text Editor](https://itunes.apple.com/ca/app/caret-plain-text-editor/id877678667?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 1.39 C$
 
 ### Reference
 * [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -158,6 +161,19 @@ keywords: iOS, apps
 #### News
 * [TechMedia – Хабрахабр и Geektimes](https://itunes.apple.com/ca/app/techmedia-%D1%85%D0%B0%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%B1%D1%80-%D0%B8-geektimes/id778613673?mt=8&uo=4&at=11l6hc&ct=fnd)
 
+### Devices 
+* [Sonos Controller](https://itunes.apple.com/ca/app/sonos-controller/id293523031?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Amazon Alexa](https://itunes.apple.com/ca/app/amazon-alexa/id944011620?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+#### Philips Hue
+* [Philips Hue](https://itunes.apple.com/ca/app/philips-hue/id1055281310?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Hue Party for Philips Hue](https://itunes.apple.com/ca/app/hue-party-for-philips-hue/id630956426?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Thorlight for Philips Hue](https://itunes.apple.com/ca/app/thorlight-for-philips-hue/id1019626823?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+### Lifestyle
+* [IKEA Catalogue](https://itunes.apple.com/ca/app/ikea-catalogue/id386592716?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Elgato Eve](https://itunes.apple.com/ca/app/elgato-eve/id917695792?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
 ## iPhone
 ### Lifestyle
 * [Expense - Spending Tracking](https://itunes.apple.com/ca/app/expense-spending-tracking/id1020335225?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -188,6 +204,7 @@ keywords: iOS, apps
 
 ## Devices
 * [Ember - A few degrees better](https://itunes.apple.com/ca/app/ember-a-few-degrees-better/id1147470931?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Reading
 * [Otto - Audio books & Podcasts](https://itunes.apple.com/ca/app/otto-audio-books-podcasts/id975745769?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -201,8 +218,9 @@ keywords: iOS, apps
 * [Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Official Montréal City Guide](https://itunes.apple.com/ca/app/official-montr%C3%A9al-city-guide/id1328574862?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
-#### Food / Drinks
+#### Food & Drink
 * [Société des alcools du Québec](https://itunes.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Tim Hortons](https://itunes.apple.com/ca/app/tim-hortons/id1143883086?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Banking
 * [RBC Wallet](https://itunes.apple.com/ca/app/rbc-wallet/id1022830198?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -219,4 +237,4 @@ keywords: iOS, apps
 * [Chat for Whatsapp - iPad Version](https://itunes.apple.com/ca/app/chat-for-whatsapp-ipad-version/id1112989865?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Paid
-* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 14 C$.
+* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 14 C$
