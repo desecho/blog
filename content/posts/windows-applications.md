@@ -52,6 +52,7 @@ keywords: windows
 * [Turn off screen](https://gallery.technet.microsoft.com/scriptcenter/Turn-off-screen-4d173e0a)
 * [Bat To Exe Converter](https://bat-to-exe-converter.en.uptodown.com/windows)
 * [PS Hot Launch VVL](http://www.pssoftlab.com/pshl_info.phtml)
+* [ScreenBright](https://screenbright.en.lo4d.com/)
 
 ## Downloaders
 * [μTorrent](http://www.utorrent.com/)

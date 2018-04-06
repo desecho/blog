@@ -90,6 +90,7 @@ keywords: iOS, apps
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335?mt=8&uo=4&at=11l6hc&ct=fnd) 
 * [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Tally 2 - Quick Counter](https://itunes.apple.com/ca/app/tally-2-quick-counter/id957912407?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [UPS Mobile](https://itunes.apple.com/ca/app/ups-mobile/id336377331?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Paid
 * [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783?mt=8&uo=4&at=11l6hc&ct=fnd) - 1 C$
@@ -169,6 +170,8 @@ keywords: iOS, apps
 * [Philips Hue](https://itunes.apple.com/ca/app/philips-hue/id1055281310?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Hue Party for Philips Hue](https://itunes.apple.com/ca/app/hue-party-for-philips-hue/id630956426?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Thorlight for Philips Hue](https://itunes.apple.com/ca/app/thorlight-for-philips-hue/id1019626823?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Hue Lights](https://itunes.apple.com/ca/app/hue-lights/id762009425?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [iLightShow for Philips Hue](https://itunes.apple.com/ca/app/ilightshow-for-philips-hue/id1247273887?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Lifestyle
 * [IKEA Catalogue](https://itunes.apple.com/ca/app/ikea-catalogue/id386592716?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -205,6 +208,7 @@ keywords: iOS, apps
 ## Devices
 * [Ember - A few degrees better](https://itunes.apple.com/ca/app/ember-a-few-degrees-better/id1147470931?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Questions for Alexa](https://itunes.apple.com/ca/app/questions-for-alexa/id1195820618?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Reading
 * [Otto - Audio books & Podcasts](https://itunes.apple.com/ca/app/otto-audio-books-podcasts/id975745769?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
