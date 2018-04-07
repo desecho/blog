@@ -22,19 +22,15 @@ If you send feedback to Apple you never receive anything back and it feels as if
 
 They called me back on 25.03.18. First, they verified that there was a problem by connecting to my devices, first we signed out of iCloud from both devices and signed in again - that was done to sync something I have been told. Then I talked with another person and they tested it themselves. It did work intermittently for them as well but they still suggested that I reset my device. They were not sure if it was supposed to work or not but we concluded that it was. They said they will give the logs to the engineers. Then I received an email with contact information of a person I was talking with so that I could contact them if something goes wrong.
 
-### Rating system [17.03.18]
+### Rating system [17.03.18] - [06.04.18]
 
-When you add a rating you can instantly see your rating but if you close App Store and reopen it, it is no longer there. Apparently this is by design. The ratings get or might get wiped out after an app update and text reviews are not sorted at all. It also takes 48 hours - 1 week for a review to get posted even if you don't add any comments. So effectively the rating system is useless. The recommendation is to contact the developer yourself and provide rating this way. Which is frankly ridiculous. They acknowledge that there is something wrong with the rating system. They said that some sort of review sorting is available in the latest beta.
+When you add a rating you can instantly see your rating but if you close App Store and reopen it, it is no longer there. Apparently this is by design. The ratings get or might get wiped out after an app update and text reviews are not sorted at all. It also takes 48 hours - 1 week for a review to get posted. So effectively the rating system is useless. The recommendation is to contact the developer yourself and provide rating this way. Which is frankly ridiculous. They acknowledge that there is something wrong with the rating system. They said that some sort of review sorting is available in the latest beta.
 
 I found out all that only after I had two conversations with Support. I talked to Support on 25.03.18 because they called me regarding a different issue. They explained me that I have to wait a certain amount of time before my rating is posted. Then they called me on 28.03.18 but I missed the call. I could not contact a person who called me but I still had two conversations with Support and they gave me more information which is described above. I told them that they can close the ticket because there is no way I can see my rating in the current state of the rating system.
 
-I received an email from Apple concerning my issue on 30.03.18 which was surprising because they should have closed my ticket due to the fact that they said that viewing my ratings is impossible. The asked me to send a screen recording of my problem. On 1.4.18 I have received an email that they are looking into the issue. On 4.4.18 I received another email saying that they are looking into the issue.
-
+I received an email from Apple concerning my issue on 30.03.18 which was surprising because they should have closed my ticket due to the fact that they said that viewing my ratings is impossible. The asked me to send a screen recording of my problem. On 1.4.18 I have received an email that they are looking into the issue. On 4.4.18 I received another email saying that they are looking into the issue. On 6.04.18 I received an email asking me to check if my ratings appear on "My ratings and reviews" page. I did not even know this page existed. I found it in iTunes and I found some of my latest ratings, I added more and they appeared instantly. If I changed a rating, it changed on the page as well. So I consider this issue closed.
 
 ## Feature requests
-
-### Ratings list [25.03.18]
-I want to be able to have access to a list of your rating with current status like "review pending" / "posted" / "declined".
 
 ### Feedback system [25.03.18]
 The feedback system is a black hole. You don't see any status.
@@ -59,4 +55,4 @@ When I am using the mail app, some emails from Apple end up in junk folder.
 When you use Support / Feedback system, it asks you to re-enter your information every time even though you are signed-in.
 
 ### Rating review takes too long [30.03.18]
-Rating review takes 48 hours - 1 week even if there are no comments added.
+Rating review takes 48 hours - 1 week.

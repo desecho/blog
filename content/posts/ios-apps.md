@@ -236,9 +236,12 @@ keywords: iOS, apps
 #### Transport
 * [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
-## iPad
-### Messengers
+### iPad
+#### Shopping
+* [PC Optimum](https://itunes.apple.com/ca/app/pc-optimum/id634040057?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+#### Messengers
 * [Chat for Whatsapp - iPad Version](https://itunes.apple.com/ca/app/chat-for-whatsapp-ipad-version/id1112989865?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
-### Paid
+#### Paid
 * [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 14 C$
