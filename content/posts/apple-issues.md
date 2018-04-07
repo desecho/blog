@@ -42,6 +42,7 @@ I can't export an appointment to calendar from the gmail app because `*.ics` att
 
 ### Siri - wrong timezone for a city in Russia [02.18]
 27.03.2016 the timezone was changed in Astrakhan, but it never got changed in Siri. I talked with Support regarding this issue and they opened a ticket for the engineering team. 28.03.18 I received an email saying that it is going to be fixed in the next update.
+I updated my iOS to 11.3 but Siri still says the wrong time.
 
 ### Emails from Apple end up in the junk folder [30.03.18]
 When I am using the mail app, some emails from Apple end up in junk folder.
