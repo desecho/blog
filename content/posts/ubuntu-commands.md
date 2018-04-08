@@ -34,6 +34,7 @@ Simple program execution: `program -[option1][option2] --[special_option]`
 * `more [file]`
 * `scp -P [port] [user]@[hostname]:[file1] [file2]`
 * `rsync -ah --stats -P [source-file] [destination]` - copy files with ability to resume.
+* `rsync --rsync-path="sudo rsync" [source-file] [destination]` - copy files with sudo.
 * `ln -s [existing-file] [link-file]` - create symbolic link (need to use full paths).
 
 ## Processes
