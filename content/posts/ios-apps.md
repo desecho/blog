@@ -79,6 +79,7 @@ keywords: iOS, apps
 * [TuneIn Radio](https://itunes.apple.com/ca/app/tunein-radio-stream-live-radio/id418987775?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [GuitarTuna: Guitar, Bass tuner](https://itunes.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [GarageBand](https://itunes.apple.com/ca/app/garageband/id408709785?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [SoundCloud - Music & Audio](https://itunes.apple.com/ca/app/soundcloud-music-audio/id336353151?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Translation
 * [Lingvo Dictionary - Multilingual Translator](https://itunes.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -178,6 +179,10 @@ keywords: iOS, apps
 * [Elgato Eve](https://itunes.apple.com/ca/app/elgato-eve/id917695792?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## iPhone
+
+### Health & Fitness
+* [Nike+ Run Club](https://itunes.apple.com/ca/app/nike-run-club/id387771637?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
 ### Lifestyle
 * [Expense - Spending Tracking](https://itunes.apple.com/ca/app/expense-spending-tracking/id1020335225?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
