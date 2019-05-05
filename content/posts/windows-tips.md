@@ -79,3 +79,10 @@ Disable top bar
 
 * Open `%APPDATA%\VMware\preferences.ini`
 * Add `pref.vmplayer.fullscreen.nobar = 1`
+
+Enable copypaste between host and guest machines
+
+```
+isolation.tools.copy.disable = "FALSE"
+isolation.tools.paste.disable = "FALSE"
+```
