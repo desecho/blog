@@ -8,19 +8,12 @@ keywords: iOS, apps
 
 ## iPad + iPhone
 
-### Health & Fitness
-* [Nomie 2](https://itunes.apple.com/ca/app/nomie-2/id1190618299?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Sleep Cycle alarm clock](https://itunes.apple.com/ca/app/sleep-cycle-alarm-clock/id320606217?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
 ### Games
 * [Steam Mobile](https://itunes.apple.com/ca/app/steam-mobile/id495369748?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Internet
 * [Google Chrome](https://itunes.apple.com/ca/app/chrome-web-browser-by-google/id535886823?mt=8&uo=4&at=11l6hc&ct=fnd)
-
-### Email
 * [Gmail - Email by Google](https://itunes.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Microsoft Outlook](https://itunes.apple.com/ca/app/microsoft-outlook/id951937596?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Messengers
 * [Telegram Messenger](https://itunes.apple.com/ca/app/telegram-messenger/id686449807?mt=8&ign-mpt=uo%3D4)
@@ -42,10 +35,6 @@ keywords: iOS, apps
 * [Tabata Stopwatch Pro - Tabata Timer and HIIT Timer](https://itunes.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Asana: organize tasks & work](https://itunes.apple.com/ca/app/asana-team-tasks-conversations/id489969512?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Microsoft Word](https://itunes.apple.com/ca/app/microsoft-word/id586447913?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-### Calculators
-* [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Books
 * [Bookmate. Reading made easy.](https://itunes.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -56,11 +45,9 @@ keywords: iOS, apps
 * [Twitter](https://itunes.apple.com/ca/app/twitter/id333903271?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Facebook](https://itunes.apple.com/ca/app/facebook/id284882215?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [LinkedIn](https://itunes.apple.com/ca/app/linkedin/id288429040?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Google+ – interests, communities, discovery](https://itunes.apple.com/ca/app/google-interests-communities-discovery/id447119634?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ### Entertainment
 * [9GAG: Best LOL Pics & GIFs](https://itunes.apple.com/ca/app/9gag-best-lol-pics-gifs/id545551605?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Overcast](https://itunes.apple.com/ca/app/overcast-podcast-player/id888422857?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Reddit Official: Trending News](https://itunes.apple.com/ca/app/reddit-official-trending-news/id1064216828?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Shopping
@@ -71,15 +58,10 @@ keywords: iOS, apps
 ### TV
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
 
-### Productivity
-* [Tally: A Goal Tracker](https://itunes.apple.com/ca/app/tally-a-goal-tracker/id1090990601?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
 ### Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [TuneIn Radio](https://itunes.apple.com/ca/app/tunein-radio-stream-live-radio/id418987775?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [GuitarTuna: Guitar, Bass tuner](https://itunes.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [GarageBand](https://itunes.apple.com/ca/app/garageband/id408709785?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [SoundCloud - Music & Audio](https://itunes.apple.com/ca/app/soundcloud-music-audio/id336353151?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Translation
 * [Lingvo Dictionary - Multilingual Translator](https://itunes.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -87,10 +69,8 @@ keywords: iOS, apps
 * [Multitran](https://itunes.apple.com/ca/app/multitran/id1090468498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Utilities
-* [Google Authenticator](https://itunes.apple.com/ca/app/google-authenticator/id388497605?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335?mt=8&uo=4&at=11l6hc&ct=fnd) 
 * [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Tally 2 - Quick Counter](https://itunes.apple.com/ca/app/tally-2-quick-counter/id957912407?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [UPS Mobile](https://itunes.apple.com/ca/app/ups-mobile/id336377331?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Paid
@@ -113,7 +93,6 @@ keywords: iOS, apps
 ### Travel
 * [Uber](https://itunes.apple.com/ca/app/uber/id368677368?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [TripAdvisor Hotels Restaurants](https://itunes.apple.com/ca/app/tripadvisor-hotels-flights-restaurants/id284876795?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [been](https://itunes.apple.com/ca/app/been/id680148327?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Airbnb](https://itunes.apple.com/ca/app/airbnb/id401626263?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [WiFi Map - Get Free Internet](https://itunes.apple.com/ca/app/wifi-map-scan-get-fast-internet-password-free/id548925969?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Booking.com Travel Deals](https://itunes.apple.com/ca/app/booking-com-travel-deals/id367003839?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -166,19 +145,15 @@ keywords: iOS, apps
 ### Devices 
 * [Sonos Controller](https://itunes.apple.com/ca/app/sonos-controller/id293523031?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Amazon Alexa](https://itunes.apple.com/ca/app/amazon-alexa/id944011620?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-#### Philips Hue
 * [Philips Hue](https://itunes.apple.com/ca/app/philips-hue/id1055281310?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Hue Party for Philips Hue](https://itunes.apple.com/ca/app/hue-party-for-philips-hue/id630956426?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Thorlight for Philips Hue](https://itunes.apple.com/ca/app/thorlight-for-philips-hue/id1019626823?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Hue Lights](https://itunes.apple.com/ca/app/hue-lights/id762009425?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [iLightShow for Philips Hue](https://itunes.apple.com/ca/app/ilightshow-for-philips-hue/id1247273887?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Lifestyle
 * [IKEA Catalogue](https://itunes.apple.com/ca/app/ikea-catalogue/id386592716?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Elgato Eve](https://itunes.apple.com/ca/app/elgato-eve/id917695792?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## iPhone
+
+#### Shopping
+* [PC Optimum](https://itunes.apple.com/ca/app/pc-optimum/id634040057?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Health & Fitness
 * [Nike+ Run Club](https://itunes.apple.com/ca/app/nike-run-club/id387771637?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
@@ -204,20 +179,11 @@ keywords: iOS, apps
 
 ### Utilities
 * [Speedtest by Ookla](https://itunes.apple.com/ca/app/speedtest-by-ookla/id300704847?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [RSA SecurID Software Token](https://itunes.apple.com/ca/app/rsa-securid-software-token/id318038618?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-## Photos
-* [Focos](https://itunes.apple.com/ca/app/focos/id1274938524?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Squaready](https://itunes.apple.com/ca/app/squaready/id440279995?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## Devices
-* [Ember - A few degrees better](https://itunes.apple.com/ca/app/ember-a-few-degrees-better/id1147470931?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Questions for Alexa](https://itunes.apple.com/ca/app/questions-for-alexa/id1195820618?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Qardio heart health](https://itunes.apple.com/ca/app/qardio-heart-health/id855275752?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-## Reading
-* [Otto - Audio books & Podcasts](https://itunes.apple.com/ca/app/otto-audio-books-podcasts/id975745769?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
 #### Navigation
@@ -235,16 +201,12 @@ keywords: iOS, apps
 #### Banking
 * [RBC Wallet](https://itunes.apple.com/ca/app/rbc-wallet/id1022830198?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
-#### Mobile
-* [Fido My Account](https://itunes.apple.com/ca/app/fido-my-account/id337632423?mt=8&uo=4&at=11l6hc&ct=fnd)
-
 ### Russia
 #### Transport
 * [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### iPad
-#### Shopping
-* [PC Optimum](https://itunes.apple.com/ca/app/pc-optimum/id634040057?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Messengers
 * [Chat for Whatsapp - iPad Version](https://itunes.apple.com/ca/app/chat-for-whatsapp-ipad-version/id1112989865?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)

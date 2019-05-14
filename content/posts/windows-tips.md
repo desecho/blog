@@ -8,7 +8,7 @@ keywords: windows
 
 ## Windows Configuration
 
-### Settings 
+### Settings
 #### System
 Display -> Scale and layout -> Change the size of text, apps, and other items -> 200%.  
 Power & Sleep -> Screen -> 15 minutes
@@ -22,11 +22,15 @@ Background -> Choose your picture
 #### Accounts
 Your info -> Create your picture -> Browser for one -> Choose your avatar.
 
-### Misc
+#### Misc
 Color management -> Advanced -> Display calibration -> Calibrate display.  
 
 Right click on the taskbar -> Cortana -> Hidden.  
 Right click on the taskbar -> Show People Button -> uncheck.  
+
+### Access startup
+
+Press Win + R, enter `shell:startup`
 
 ## Software Configuration
 

@@ -20,6 +20,7 @@ Simple program execution: `program -[option1][option2] --[special_option]`
 * `pwd` - current directory.
 * `du -sh [dir]` - show how much size a directory takes.
 * `du -hsx * | sort -rh | head -10` - show 10 biggest files/directories in the current directory.
+* `ncdu` - show size of directories and files graphically
 
 ## Files
 * `rm [file]`
@@ -136,6 +137,7 @@ find [path] -type f -exec chmod 644 {} \;
 * `bzip2 -c [file] > [archive.bz2]` 
 * `tar -cvzf [archive.tar.gz] [file]`
 * `curl -I http://google.com` - get headers only
+* `truncate -s 0 [file]` - truncate a file to 0 bytes
 
 ## Shortcuts
 * [Readline shortcuts](http://www.bigsmoke.us/readline/shortcuts)
