@@ -13,7 +13,6 @@ keywords: windows
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
-* [Atom](https://atom.io/)
 
 ## Languages
 * [Anki](https://apps.ankiweb.net/)
@@ -22,6 +21,7 @@ keywords: windows
 * [Uplay](https://uplay.ubi.com/) - Ubisoft's PC games portal.
 * [GOG Galaxy](https://www.gog.com/galaxy)
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
+* [Epic Games](https://www.epicgames.com/store/)
 
 ### Steam 
 * [Steam](http://store.steampowered.com/)
@@ -53,6 +53,8 @@ keywords: windows
 * [Bat To Exe Converter](https://bat-to-exe-converter.en.uptodown.com/windows)
 * [PS Hot Launch VVL](http://www.pssoftlab.com/pshl_info.phtml)
 * [ScreenBright](https://screenbright.en.lo4d.com/)
+* [Synkron](http://synkron.sourceforge.net/)
+* [AutoHotkey](https://www.autohotkey.com/)
 
 ## Downloaders
 * [μTorrent](http://www.utorrent.com/)
@@ -66,6 +68,6 @@ keywords: windows
 * [Paint.NET](https://www.getpaint.net)
 
 ## Paid
-* [1Password](https://agilebits.com/onepassword) - 3 C$/month.
+* [1Password](https://1password.com/) - 69.99 C$
 * [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month.
 * [NordVPN](https://nordvpn.com) - 3.5 C$/month.

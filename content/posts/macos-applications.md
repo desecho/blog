@@ -33,6 +33,7 @@ for Remote Support and Online Meetings.
 * [Jing](http://www.techsmith.com/jing.html) - free and simple way to start sharing images and short videos of your computer screen.
 * [KeePassX](http://www.keepassx.org/) - KeePassX is an application for people with extremly high demands on secure personal data management.
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
+* [Mac Media Key Forwarder](http://milgra.com/mac-media-key-forwarder.html)
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
@@ -74,10 +75,10 @@ for Remote Support and Online Meetings.
 
 ## Paid
 * [CleanMyMac](http://macpaw.com/cleanmymac) - The Simplest, Safest Way to Clean Your Mac - 40 C$
-* [1Password](https://agilebits.com/onepassword) - 3 C$/month
+* [1Password](https://1password.com/) - 69.99 C$
 * [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month
 * [ForkLift](http://www.binarynights.com/forklift/) - The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS - 30 C$
 * [CrossOver](http://www.codeweavers.com/products/) - Install Windows applications and PC Games on your Mac OS - 40 C$
 * [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) - Firewall - 45 C$
 * [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists for Mac - 25 C$
-* [NordVPN](https://nordvpn.com) - ~3.5 C$/month
+* [NordVPN](https://nordvpn.com) - 3.5 C$/month
