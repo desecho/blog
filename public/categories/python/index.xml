@@ -17,7 +17,7 @@
       <pubDate>Wed, 13 Jul 2016 22:21:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/web-development/</guid>
-      <description>Javascript jQuery Add jQuery through console var jq = document.createElement(&#39;script&#39;); jq.src = &amp;quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js&amp;quot;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(jq); // ... give time for script to load, then type. jQuery.noConflict();  Extend jQuery $.fn.visible = function() { return this.css(&#39;visibility&#39;, &#39;visible&#39;); }; $.fn.invisible = function() { return this.css(&#39;visibility&#39;, &#39;hidden&#39;); };  Python A good way to start any python2 script # -*- coding: utf-8 -*- from __future__ import unicode_literals  Helpful command if anything behaves strangely find .</description>
+      <description>Javascript jQuery Add jQuery through console var jq = document.createElement(&#39;script&#39;); jq.src = &amp;quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js&amp;quot;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(jq); // ... give time for script to load, then type. jQuery.noConflict();  Extend jQuery $.fn.visible = function() { return this.css(&#39;visibility&#39;, &#39;visible&#39;); }; $.fn.invisible = function() { return this.css(&#39;visibility&#39;, &#39;hidden&#39;); };  Python Helpful command if anything behaves strangely find . -name &amp;quot;*.pyc&amp;quot; -exec rm -rf {} \;  Kill Debugger import os; os.system(&#39;kill -9 %d&#39; % os.</description>
     </item>
     
     <item>

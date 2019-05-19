@@ -15,17 +15,11 @@ Maps -> Preferred transportation type -> Walking
 Messages -> enable iMessage and Send as SMS
 Wallet & Apple Pay -> Add Credit or Debit Card
 Camera -> Record Video -> set quality
-Display & Brightness -> Raise to Wake -> disable
 
 ### Clock
 World Clock -> Add Moscow, Seattle, Montreal, Tbilisi
 Bedtime -> Enable for weekdays
 
 ## Hotkeys
-Hold Home - activate Siri
-Double tap on Home - see running apps
-Home + Power - take screenshot
-Hold Power - turn off
-
-## Before resetting
-Remove authenticator from Steam Mobile.
+Power + Volume up - take screenshot
+Hold Power + Volume up - turn off

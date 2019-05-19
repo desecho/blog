@@ -32,11 +32,6 @@ $.fn.invisible = function() {
 ```
 
 ## Python
-### A good way to start any python2 script
-```python
-# -*- coding: utf-8 -*-
-from __future__ import unicode_literals
-```
 
 ### Helpful command if anything behaves strangely
 ```bash

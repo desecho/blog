@@ -21,17 +21,6 @@
     </item>
     
     <item>
-      <title>Apple Issues</title>
-      <link>https://blog.desecho.org/posts/apple-issues/</link>
-      <pubDate>Thu, 29 Mar 2018 04:14:22 -0400</pubDate>
-      
-      <guid>https://blog.desecho.org/posts/apple-issues/</guid>
-      <description>Here I am going to list some issues I am having with Apple products, my interactions with Apple Support and Apple Feedback.
-There are some general things I don&amp;rsquo;t like about the way Apple deals with support and feedback.
-After contacting support you get an email which sometimes contains a link to your ticket and sometimes does not. So you need to make a note of the link somewhere to be able to access it.</description>
-    </item>
-    
-    <item>
       <title>Google Chrome Extensions</title>
       <link>https://blog.desecho.org/posts/google-chrome-extensions/</link>
       <pubDate>Sun, 11 Mar 2018 04:39:01 -0400</pubDate>
@@ -71,7 +60,7 @@ Accounts Your info -&amp;gt; Create your picture -&amp;gt; Browser for one -&amp
       <description>Initial configuration Settings Accounts &amp;amp; Passwords -&amp;gt; iCloud -&amp;gt; enable Mail, Contacts, Calendars and Notes
 Contacts -&amp;gt; Sort Order and Display Order -&amp;gt; First, Last
 Maps -&amp;gt; Preferred transportation type -&amp;gt; Walking
-Messages -&amp;gt; enable iMessage and Send as SMS Wallet &amp;amp; Apple Pay -&amp;gt; Add Credit or Debit Card Camera -&amp;gt; Record Video -&amp;gt; set quality Display &amp;amp; Brightness -&amp;gt; Raise to Wake -&amp;gt; disable
+Messages -&amp;gt; enable iMessage and Send as SMS Wallet &amp;amp; Apple Pay -&amp;gt; Add Credit or Debit Card Camera -&amp;gt; Record Video -&amp;gt; set quality
 Clock World Clock -&amp;gt; Add Moscow, Seattle, Montreal, Tbilisi Bedtime -&amp;gt; Enable for weekdays</description>
     </item>
     
@@ -110,7 +99,7 @@ Remove duplicates in &amp;ldquo;open with&amp;rdquo; /System/Library/Frameworks/
       <pubDate>Wed, 13 Jul 2016 22:21:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/web-development/</guid>
-      <description>Javascript jQuery Add jQuery through console var jq = document.createElement(&#39;script&#39;); jq.src = &amp;quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js&amp;quot;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(jq); // ... give time for script to load, then type. jQuery.noConflict();  Extend jQuery $.fn.visible = function() { return this.css(&#39;visibility&#39;, &#39;visible&#39;); }; $.fn.invisible = function() { return this.css(&#39;visibility&#39;, &#39;hidden&#39;); };  Python A good way to start any python2 script # -*- coding: utf-8 -*- from __future__ import unicode_literals  Helpful command if anything behaves strangely find .</description>
+      <description>Javascript jQuery Add jQuery through console var jq = document.createElement(&#39;script&#39;); jq.src = &amp;quot;https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js&amp;quot;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(jq); // ... give time for script to load, then type. jQuery.noConflict();  Extend jQuery $.fn.visible = function() { return this.css(&#39;visibility&#39;, &#39;visible&#39;); }; $.fn.invisible = function() { return this.css(&#39;visibility&#39;, &#39;hidden&#39;); };  Python Helpful command if anything behaves strangely find . -name &amp;quot;*.pyc&amp;quot; -exec rm -rf {} \;  Kill Debugger import os; os.system(&#39;kill -9 %d&#39; % os.</description>
     </item>
     
     <item>
@@ -168,10 +157,10 @@ Hotkeys  [Cmd + P] - switch files [Cmd + R] - go to functions/classes [Cmd + D] 
     
     <item>
       <title>Development Tools</title>
-      <link>https://blog.desecho.org/posts/web-development-tools/</link>
+      <link>https://blog.desecho.org/posts/development-tools/</link>
       <pubDate>Sun, 06 Jul 2014 21:53:00 +0000</pubDate>
       
-      <guid>https://blog.desecho.org/posts/web-development-tools/</guid>
+      <guid>https://blog.desecho.org/posts/development-tools/</guid>
       <description>Misc Paid  ngrok - Introspected tunnels to localhost.  Web  Codepen - a playground for the front end web. Diff Checker Hurl.it - Make HTTP Requests My regex tester JS Nice - Statistical Renaming, Type Inference And Deobfuscation.  MacOS, Ubuntu and Windows Apps Paid  Genymotion Android Emulator - The most powerful Android emulation platform for app developers &amp;amp; testers. PyCharm - Python IDE for Professional Developers.</description>
     </item>
     
