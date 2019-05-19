@@ -13,6 +13,7 @@ keywords: windows
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
+* [VS Code](https://code.visualstudio.com/)
 
 ## Languages
 * [Anki](https://apps.ankiweb.net/)
@@ -55,6 +56,7 @@ keywords: windows
 * [ScreenBright](https://screenbright.en.lo4d.com/)
 * [Synkron](http://synkron.sourceforge.net/)
 * [AutoHotkey](https://www.autohotkey.com/)
+* [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker)
 
 ## Downloaders
 * [μTorrent](http://www.utorrent.com/)

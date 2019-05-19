@@ -37,7 +37,7 @@ for Remote Support and Online Meetings.
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
-* [Atom](https://atom.io/)
+* [VS Code](https://code.visualstudio.com/)
 
 ## Communication
 * [Skype](http://www.skype.com/)

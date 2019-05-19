@@ -62,6 +62,7 @@ keywords: iOS, apps
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [GuitarTuna: Guitar, Bass tuner](https://itunes.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [GarageBand](https://itunes.apple.com/ca/app/garageband/id408709785?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Shazam](https://itunes.apple.com/ca/app/shazam/id284993459?mt=8&app=itunes&ign-mpt=uo%3D4)
 
 ### Translation
 * [Lingvo Dictionary - Multilingual Translator](https://itunes.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146?mt=8&uo=4&at=11l6hc&ct=fnd)

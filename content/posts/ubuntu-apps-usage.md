@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu Apps"
+title: "Ubuntu Apps Usage"
 date: 2014-06-16T10:40:00
 comments: true
 categories: Ubuntu

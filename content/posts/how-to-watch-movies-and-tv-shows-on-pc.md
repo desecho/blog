@@ -17,7 +17,7 @@ You can find a list of Movies and TV-shows available on Netflix & Amazon Prime o
 ### Netflix 
 
 Website - http://netflix.com.  
-Price - 11 C$/month (FullHD), 14 C$/month (4K).
+Price - 14 C$/month (FullHD), 17 C$/month (4K).
 
 Netflix is the only streaming service which allows you to watch 4K videos on a PC. It only works with Microsoft Edge browser and Netflix recommends you to have at least 25Mbit/s internet connection. You should also use the Display Port or an HDMI port and cable which supports 4K. See details on Netflix on the page ["Can I stream Netflix in Ultra HD?"](https://help.netflix.com/en/node/13444).
 

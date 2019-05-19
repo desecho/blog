@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on IT Blog</title>
+    <link>https://blog.desecho.org/categories/coding/</link>
+    <description>Recent content in Coding on IT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jul 2014 21:53:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.desecho.org/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development Tools</title>
+      <link>https://blog.desecho.org/posts/web-development-tools/</link>
+      <pubDate>Sun, 06 Jul 2014 21:53:00 +0000</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/web-development-tools/</guid>
+      <description>Misc Paid  ngrok - Introspected tunnels to localhost.  Web  Codepen - a playground for the front end web. Diff Checker Hurl.it - Make HTTP Requests My regex tester JS Nice - Statistical Renaming, Type Inference And Deobfuscation.  MacOS, Ubuntu and Windows Apps Paid  Genymotion Android Emulator - The most powerful Android emulation platform for app developers &amp;amp; testers. PyCharm - Python IDE for Professional Developers.</description>
+    </item>
+    
+  </channel>
+</rss>

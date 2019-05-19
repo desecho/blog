@@ -6,10 +6,19 @@
     <description>Recent content in Posts on IT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Mar 2018 04:14:22 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 22:13:39 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.desecho.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ubuntu applications</title>
+      <link>https://blog.desecho.org/posts/ubuntu-applications/</link>
+      <pubDate>Sat, 18 May 2019 22:13:39 -0400</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/ubuntu-applications/</guid>
+      <description> Editors  Sublime Text VS Code  Browsers  Firefox  </description>
+    </item>
     
     <item>
       <title>Apple Issues</title>
@@ -28,7 +37,7 @@ After contacting support you get an email which sometimes contains a link to you
       <pubDate>Sun, 11 Mar 2018 04:39:01 -0400</pubDate>
       
       <guid>https://blog.desecho.org/posts/google-chrome-extensions/</guid>
-      <description> Development  EditThisCookie JSONView Validity Vue.js devtools  Google Drive  Google Drive Quick Drive  Miscellaneous  Amazon Assistant for Chrome Open Multiple URLs Read Mode uBlock Origin View Image iMacros for Chrome  </description>
+      <description> Development  EditThisCookie JSONView Validity Vue.js devtools  Google Drive  Google Drive Quick Drive  Miscellaneous  Open Multiple URLs Read Mode uBlock Origin View Image  </description>
     </item>
     
     <item>
@@ -72,7 +81,7 @@ Clock World Clock -&amp;gt; Add Moscow, Seattle, Montreal, Tbilisi Bedtime -&amp
       <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/windows-applications/</guid>
-      <description>Communication  Slack Skype Ring  Editors  Sublime Text  Languages  Anki  Games  Uplay - Ubisoft&amp;rsquo;s PC games portal. GOG Galaxy Windowed Borderless Gaming Epic Games  Steam  Steam Depressurizer - Manage steam library.  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.</description>
+      <description>Communication  Slack Skype Ring  Editors  Sublime Text VS Code  Languages  Anki  Games  Uplay - Ubisoft&amp;rsquo;s PC games portal. GOG Galaxy Windowed Borderless Gaming Epic Games  Steam  Steam Depressurizer - Manage steam library.  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.</description>
     </item>
     
     <item>
@@ -158,7 +167,7 @@ Hotkeys  [Cmd + P] - switch files [Cmd + R] - go to functions/classes [Cmd + D] 
     </item>
     
     <item>
-      <title>Web Development Tools</title>
+      <title>Development Tools</title>
       <link>https://blog.desecho.org/posts/web-development-tools/</link>
       <pubDate>Sun, 06 Jul 2014 21:53:00 +0000</pubDate>
       
@@ -206,11 +215,11 @@ Basics  master : default branch origin : upstream repository by default head : c
     </item>
     
     <item>
-      <title>Ubuntu Apps</title>
-      <link>https://blog.desecho.org/posts/ubuntu-apps/</link>
+      <title>Ubuntu Apps Usage</title>
+      <link>https://blog.desecho.org/posts/ubuntu-apps-usage/</link>
       <pubDate>Mon, 16 Jun 2014 10:40:00 +0000</pubDate>
       
-      <guid>https://blog.desecho.org/posts/ubuntu-apps/</guid>
+      <guid>https://blog.desecho.org/posts/ubuntu-apps-usage/</guid>
       <description>Administration Monitoring  htop - monitor system resources iotop - hard drive monitoring iftop - network monitoring ngxtop - nginx monitoring mc - File manager  Misc  httpie - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. git-sh - A customized bash environment suitable for git work. GNU Shockwave Flash (SWF) player git-gui Ring - Ring is free software for universal communication which respects freedoms and privacy of its users.</description>
     </item>
     

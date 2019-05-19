@@ -1,8 +1,8 @@
 ---
-title: "Web Development Tools"
+title: "Development Tools"
 date: 2014-07-06T21:53:00
 comments: true
-categories: ['Web Development']
+categories: ['Coding']
 keywords: web development, tools
 ---
 
@@ -27,15 +27,18 @@ for Professional Developers.
 
 ### DB
 * [pgAdmin](http://www.pgadmin.org/) - PostgreSQL Tools.
+* [MongoDB Compass](https://www.mongodb.com/products/compass)
 
 ### Editors
-* [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
+* [VS Code](https://code.visualstudio.com/)
 * [Sublime Text](http://www.sublimetext.com/)
 
 ### Virtual Machines
 * [Vagrant](http://www.vagrantup.com/) - Create and configure lightweight, reproducible, and portable development environments.
 * [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product.
 
+## Utils
+* [Postman](https://www.getpostman.com/)
 
 ## MacOS and Windows Apps
 
