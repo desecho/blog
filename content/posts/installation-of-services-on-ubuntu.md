@@ -3,7 +3,7 @@ title: "Installation Of Services On Ubuntu"
 date: 2015-03-07T15:55:00
 comments: true
 categories: Ubuntu
-keywords: ubuntu, samba, installation, vpn, ssl, grive, stunnel4
+keywords: ubuntu, samba, installation, vpn, ssl, stunnel4
 ---
 
 ## Install a service
@@ -91,17 +91,4 @@ Add: (example)
 client = yes
 accept = 0.0.0.0:25
 connect = smtp.yandex.ru:465
-```
-
-## Grive
-
-Install [Grive](https://github.com/Grive/grive) and sync
-
-```bash
-sudo add-apt-repository ppa:nilarimogard/webupd8
-sudo apt-get update
-sudo apt-get install grive -y
-mkdir /mnt/GoogleDrive
-cd /mnt/GoogleDrive
-grive -a
 ```
