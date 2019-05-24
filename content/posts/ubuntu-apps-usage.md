@@ -69,6 +69,12 @@ export LANG=en_US.UTF-8
 export LANGUAGE=en_US.UTF-8
 ```
 
+## Virtualenv
+
+```bash
+virtualenv -p /usr/bin/python3.6 venv
+```
+
 ## Virtualbox
 
 Enable auto time synchronization with host
@@ -76,16 +82,6 @@ Enable auto time synchronization with host
 ```bash
 vboxmanage setextradata [vbox] "VBoxInternal/Devices/VMMDev/0/Config/GetHostTimeDisabled" "1"
 ```
-
-## Virtualenvwrapper
-
-* `mkvirtualenv [env]`
-* `rmvirtualenv [env]`
-* `lssitepackages`
-* `workon [env]`
-* `deactivate`
-
-
 ## Terminator
 
 Hotkeys:

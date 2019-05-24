@@ -16,9 +16,12 @@ keywords: vs code, editor
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 * [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
-
+* [Pytest IntelliSense](https://marketplace.visualstudio.com/items?itemName=Cameron.vscode-pytest)
 
 ## Hotkeys
+
+### General
+[Ctrl + Shift + P, F1] - Show Command Palette
 
 ### Basic editing
 * [Alt + ↑/↓] - Move line up/down
@@ -44,6 +47,7 @@ keywords: vs code, editor
 ### Rich languages editing
 * [F12] - Go to Definition
 * [F2] - Rename Symbol
+* [Ctrl + Shift + I] - Format document
 
 ### Multi-cursor and selection
 * [Alt + Click] - Insert cursor

@@ -30,11 +30,14 @@ keywords: iOS, apps
 * [Dropbox](https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ### Misc
-* [The Weather Network](https://itunes.apple.com/ca/app/the-weather-network/id473299958?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Google Maps - GPS Navigation](https://itunes.apple.com/ca/app/google-maps-navigation-transport/id585027354?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Tabata Stopwatch Pro - Tabata Timer and HIIT Timer](https://itunes.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Asana: organize tasks & work](https://itunes.apple.com/ca/app/asana-team-tasks-conversations/id489969512?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564?mt=8&uo=4&at=11l6hc&ct=fnd)
+
+### Weather
+* [Will it Rain? - Rain condition and weather forecast alerts and notification](https://itunes.apple.com/ca/app/will-it-rain-rain-condition-weather-forecast-alerts/id908090158?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [The Weather Network](https://itunes.apple.com/ca/app/the-weather-network/id473299958?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ### Books
 * [Bookmate. Reading made easy.](https://itunes.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450?mt=8&uo=4&at=11l6hc&ct=fnd)
