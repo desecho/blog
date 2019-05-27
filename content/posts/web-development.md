@@ -224,3 +224,4 @@ py.test apps/app_name -k test_function --create-db
 * [Travis CI](https://travis-ci.org) - Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
 * [Codecov](https://codecov.io) - Code coverage done right.
 * [Re:plain](https://replain.cc) - The simplest live chat in the world.
+* [pepy.tech](https://pepy.tech/) - Service which provides badges with number of downloads.
