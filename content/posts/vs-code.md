@@ -17,6 +17,8 @@ keywords: vs code, editor
 * [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 * [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
 * [Pytest IntelliSense](https://marketplace.visualstudio.com/items?itemName=Cameron.vscode-pytest)
+* [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
+* [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
 ## Hotkeys
 

@@ -90,3 +90,9 @@ Enable copypaste between host and guest machines
 isolation.tools.copy.disable = "FALSE"
 isolation.tools.paste.disable = "FALSE"
 ```
+
+## Tips
+
+### How to find out if your drive is SSD or not
+
+[Win + R] -> dfrgui
