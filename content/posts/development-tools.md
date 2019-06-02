@@ -45,6 +45,12 @@ for Professional Developers.
 ### Source Control Management
 * [SourceTree](http://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 
+## Windows and Ubuntu Apps
+
+### DB
+
+* [SQLyog](https://github.com/webyog/sqlyog-community)
+
 ## MacOS Apps
 ### Source Control Management
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
