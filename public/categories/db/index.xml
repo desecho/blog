@@ -27,9 +27,7 @@
       
       <guid>https://blog.desecho.org/posts/mysql/</guid>
       <description>Reset root password sudo service mysql stop sudo mysqld --skip-grant-tables &amp;amp; mysql -u root mysql  UPDATE user SET Password=PASSWORD(&#39;[password]&#39;) WHERE User=&#39;root&#39;; FLUSH PRIVILEGES;  Administer users [ip] can be %, which means any, localhost, or ip-address
-CREATE USER &#39;[user]&#39;@&#39;[ip]&#39; IDENTIFIED BY &#39;[password]&#39;; DROP USER &#39;[user]&#39;@&#39;[ip]&#39;;  Open access Instead of [db] and [table] can be *, which means any. [privilege] can be ALL, USAGE, SELECT etc.
-Details
-GRANT [privilege] ON `[db]`.</description>
+CREATE USER &#39;[user]&#39;@&#39;[ip]&#39; IDENTIFIED BY &#39;[password]&#39;; DROP USER &#39;[user]&#39;@&#39;[ip]&#39;;  Open access Instead of [db] and [table] can be *, which means any. [privilege] can be ALL, USAGE, SELECT etc. You can optionally add WITH GRANT OPTION to the GRANT command for the user to be able to grant permissions</description>
     </item>
     
   </channel>

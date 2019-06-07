@@ -29,11 +29,15 @@ DROP USER '[user]'@'[ip]';
 ## Open access
 Instead of `[db]` and `[table]` can be `*`, which means `any`.
 `[privilege]` can be `ALL`, `USAGE`, `SELECT` etc.
+You can optionally add `WITH GRANT OPTION` to the `GRANT` command for the user to be able to grant permissions
 
 [Details](http://dev.mysql.com/doc/refman/5.1/en/grant.html#idm47213304336736)
 
 ```sql
-GRANT [privilege] ON `[db]`.`[table]` to '[user]'@'[ip]' IDENTIFIED BY '[password]' WITH GRANT OPTION;
+GRANT [privilege] ON `[db]`.`[table]` to '[user]'@'[ip]' IDENTIFIED BY '[password]';
+GRANT [privilege] ON *.* to '[user]'@'[ip]' IDENTIFIED BY '[password]';
+SHOW GRANTS for '[user]'@'[ip]';
+REVOKE [privilege] ON *.* FROM '[user]'@'[ip]';
 FLUSH PRIVILEGES;
 ```
 

@@ -19,6 +19,7 @@ keywords: vs code, editor
 * [Pytest IntelliSense](https://marketplace.visualstudio.com/items?itemName=Cameron.vscode-pytest)
 * [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 * [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
+* [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 
 ## Hotkeys
 

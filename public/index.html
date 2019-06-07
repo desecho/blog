@@ -511,11 +511,15 @@ DROP USER '[user]'@'[ip]';
 <h2 id="open-access">Open access</h2>
 
 <p>Instead of <code>[db]</code> and <code>[table]</code> can be <code>*</code>, which means <code>any</code>.
-<code>[privilege]</code> can be <code>ALL</code>, <code>USAGE</code>, <code>SELECT</code> etc.</p>
+<code>[privilege]</code> can be <code>ALL</code>, <code>USAGE</code>, <code>SELECT</code> etc.
+You can optionally add <code>WITH GRANT OPTION</code> to the <code>GRANT</code> command for the user to be able to grant permissions</p>
 
 <p><a href="http://dev.mysql.com/doc/refman/5.1/en/grant.html#idm47213304336736" target="_blank">Details</a></p>
 
-<pre><code class="language-sql">GRANT [privilege] ON `[db]`.`[table]` to '[user]'@'[ip]' IDENTIFIED BY '[password]' WITH GRANT OPTION;
+<pre><code class="language-sql">GRANT [privilege] ON `[db]`.`[table]` to '[user]'@'[ip]' IDENTIFIED BY '[password]';
+GRANT [privilege] ON *.* to '[user]'@'[ip]' IDENTIFIED BY '[password]';
+SHOW GRANTS for '[user]'@'[ip]';
+REVOKE [privilege] ON *.* FROM '[user]'@'[ip]';
 FLUSH PRIVILEGES;
 </code></pre>
 
@@ -2484,6 +2488,13 @@ isolation.tools.paste.disable = &quot;FALSE&quot;
 
 <p>[Win + R] -&gt; dfrgui</p>
 
+<h3 id="how-to-add-a-custom-host">How to add a custom host</h3>
+
+<ul>
+<li>Run notepad as administrator and open <code>C:\Windows\System32\drivers\etc\hosts</code></li>
+<li>Add a new host</li>
+</ul>
+
     </div>
   <hr>
 
@@ -2685,6 +2696,7 @@ Skynet -&gt; Supremacy -&gt; 4K Movies</p>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=Cameron.vscode-pytest" target="_blank">Pytest IntelliSense</a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml" target="_blank">Better TOML</a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame" target="_blank">Git Blame</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=mauve.terraform" target="_blank">Terraform</a></li>
 </ul>
 
 <h2 id="hotkeys">Hotkeys</h2>

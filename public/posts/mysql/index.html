@@ -172,11 +172,15 @@ DROP USER '[user]'@'[ip]';
 <h2 id="open-access">Open access</h2>
 
 <p>Instead of <code>[db]</code> and <code>[table]</code> can be <code>*</code>, which means <code>any</code>.
-<code>[privilege]</code> can be <code>ALL</code>, <code>USAGE</code>, <code>SELECT</code> etc.</p>
+<code>[privilege]</code> can be <code>ALL</code>, <code>USAGE</code>, <code>SELECT</code> etc.
+You can optionally add <code>WITH GRANT OPTION</code> to the <code>GRANT</code> command for the user to be able to grant permissions</p>
 
 <p><a href="http://dev.mysql.com/doc/refman/5.1/en/grant.html#idm47213304336736" target="_blank">Details</a></p>
 
-<pre><code class="language-sql">GRANT [privilege] ON `[db]`.`[table]` to '[user]'@'[ip]' IDENTIFIED BY '[password]' WITH GRANT OPTION;
+<pre><code class="language-sql">GRANT [privilege] ON `[db]`.`[table]` to '[user]'@'[ip]' IDENTIFIED BY '[password]';
+GRANT [privilege] ON *.* to '[user]'@'[ip]' IDENTIFIED BY '[password]';
+SHOW GRANTS for '[user]'@'[ip]';
+REVOKE [privilege] ON *.* FROM '[user]'@'[ip]';
 FLUSH PRIVILEGES;
 </code></pre>
 

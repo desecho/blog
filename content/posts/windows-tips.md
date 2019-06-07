@@ -94,5 +94,8 @@ isolation.tools.paste.disable = "FALSE"
 ## Tips
 
 ### How to find out if your drive is SSD or not
-
 [Win + R] -> dfrgui
+
+### How to add a custom host
+* Run notepad as administrator and open `C:\Windows\System32\drivers\etc\hosts`
+* Add a new host
