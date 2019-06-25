@@ -12,9 +12,9 @@ keywords: iOS
 Accounts & Passwords -> iCloud -> enable Mail, Contacts, Calendars and Notes  
 Contacts -> Sort Order and Display Order -> First, Last  
 Maps -> Preferred transportation type -> Walking  
-Messages -> enable iMessage and Send as SMS
-Wallet & Apple Pay -> Add Credit or Debit Card
-Camera -> Record Video -> set quality
+Messages -> enable iMessage and Send as SMS  
+Wallet & Apple Pay -> Add Credit or Debit Card  
+Camera -> Record Video -> set quality  
 
 ### Clock
 World Clock -> Add Moscow, Seattle, Montreal, Tbilisi
