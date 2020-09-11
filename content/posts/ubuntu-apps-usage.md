@@ -21,7 +21,7 @@ keywords: ubuntu, commands, programs, applications, apps
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work.
 * [GNU Shockwave Flash (SWF) player](https://apps.ubuntu.com/cat/applications/raring/gnash/)
 * git-gui
-* [Ring](https://ring.cx/) - Ring is free software for universal communication which respects freedoms and privacy of its users.
+* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users.
 * [gtk-recordmydesktop](https://apps.ubuntu.com/cat/applications/gtk-recordmydesktop/) - create screencasts
 
 ## Crontab

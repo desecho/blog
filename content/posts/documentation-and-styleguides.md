@@ -23,7 +23,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 * [Vue.js Style Guide](https://vuejs.org/v2/style-guide/)
 
 #### HTML/CSS
-* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
 * [Gamepad](https://www.w3.org/TR/gamepad/)
 
@@ -41,9 +41,8 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 * [JavaScript and HTML DOM Reference](http://www.w3schools.com/jsref/default.asp)
 
 ### Python
-* [The Python Language Reference](http://docs.python.org/2/reference/index.html)
-* [The Python Standard Library](http://docs.python.org/2/library/index.html)
-* [Porting to Python 3](https://docs.djangoproject.com/en/1.11/topics/python3/)
+* [The Python Language Reference](http://docs.python.org/3.8/reference/index.html)
+* [The Python Standard Library](http://docs.python.org/3.8/library/index.html)
 * [Django](https://docs.djangoproject.com/en/)
 
 ### SASS

@@ -41,7 +41,7 @@ for Remote Support and Online Meetings.
 
 ## Communication
 * [Skype](http://www.skype.com/)
-* [Ring](https://ring.cx/) - Ring is free software for universal communication which respects freedoms and privacy of its users.
+* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users.
 
 ## Music
 * [Spotify](https://www.spotify.com)
@@ -55,12 +55,10 @@ for Remote Support and Online Meetings.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
 
 ## Libraries
-* [Adobe Flashplayer](http://get.adobe.com/en/flashplayer/)
 * [Java JRE](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html)
 
 ## AppStore
 * [The Unarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353?mt=12&ls=1) - The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files.
-* [Twitter](https://itunes.apple.com/app/twitter/id409789998?mt=12)
 * [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
 
 ## Games

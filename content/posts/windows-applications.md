@@ -9,7 +9,7 @@ keywords: windows
 ## Communication
 * [Slack](https://slack.com/)
 * [Skype](http://www.skype.com/)
-* [Ring](https://ring.cx/)
+* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users.
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)

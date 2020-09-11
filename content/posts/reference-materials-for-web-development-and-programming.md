@@ -26,7 +26,6 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 
 ### Coffeescript
-* [Why I Don't Use CoffeeScript](http://oscargodson.com/posts/why-i-dont-use-coffeescript.html)
 * [We Don't Use CoffeeScript Ever](http://billpatrianakos.me/blog/2015/07/06/we-dont-use-coffeescript-ever/)
 
 ## GitHub
@@ -34,7 +33,6 @@ keywords: webdev, reference, javascript, python, django, css, regex
 
 ## Git
 * [A Hacker’s Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
-* [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
 * [Git cheatsheet](http://cheat.errtheblog.com/s/git)
 * [Pro Git](http://git-scm.com/book/en/v2) - Book
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
@@ -60,7 +58,6 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754)
 * [Must-watch videos about Python](https://github.com/s16h/py-must-watch) - Must-watch videos about Python.
-* [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
 * [Default Parameter Values in Python](http://effbot.org/zone/default-values.htm)
 
 ### Django
@@ -83,6 +80,5 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [coderbyte](http://coderbyte.com/)
 
 ## Misc
-* [iTerm2 and tmux Integration](https://code.google.com/p/iterm2/wiki/TmuxIntegration)
 * [How To Copy Vagrant Boxes (or Duplicate Them)](http://www.dev-metal.com/copy-duplicate-vagrant-box/)
 * [Introduction to Docker](http://www.youtube.com/watch?v=9bvdc55xYdo)

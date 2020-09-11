@@ -57,8 +57,5 @@ for Professional Developers.
 
 ## Windows Apps
 
-### Virtual Machines
-* [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
-
 ### DB
-* [SQLyog](https://github.com/webyog/sqlyog-community)
+* [SQLyog](https://www.webyog.com/product/sqlyog)

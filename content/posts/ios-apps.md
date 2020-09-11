@@ -20,7 +20,6 @@ keywords: iOS, apps
 * [Skype](https://itunes.apple.com/ca/app/skype-for-iphone/id304878510?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Viber Messenger](https://itunes.apple.com/ca/app/viber-messenger/id382617920?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Messenger](https://itunes.apple.com/ca/app/messenger/id454638411?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Hangouts](https://itunes.apple.com/ca/app/hangouts/id643496868?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Slack](https://itunes.apple.com/ca/app/slack/id618783545?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Cloud Storage
@@ -56,7 +55,7 @@ keywords: iOS, apps
 ### Shopping
 * [Amazon](https://itunes.apple.com/ca/app/amazon/id297606951?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [IKEA Store](https://itunes.apple.com/ca/app/ikea-store/id976577934?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [IKEA Store](https://apps.apple.com/us/app/ikea-store/id976577934)
 
 ### TV
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -85,7 +84,6 @@ keywords: iOS, apps
 * [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 6.58 C$/month
 * [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.5 C$/month
 * [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.99 C$
-* [Caret - Plain Text Editor](https://itunes.apple.com/ca/app/caret-plain-text-editor/id877678667?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 1.39 C$
 
 ### Reference
 * [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -140,19 +138,12 @@ keywords: iOS, apps
 * [2GIS – Offline maps](https://itunes.apple.com/ca/app/2gis-offline-maps/id481627348?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Transport
-* [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Yandex.Trains](https://itunes.apple.com/ca/app/yandex-trains/id387272416?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-#### News
-* [TechMedia – Хабрахабр и Geektimes](https://itunes.apple.com/ca/app/techmedia-%D1%85%D0%B0%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%B1%D1%80-%D0%B8-geektimes/id778613673?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ### Devices 
 * [Sonos Controller](https://itunes.apple.com/ca/app/sonos-controller/id293523031?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Amazon Alexa](https://itunes.apple.com/ca/app/amazon-alexa/id944011620?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Philips Hue](https://itunes.apple.com/ca/app/philips-hue/id1055281310?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-### Lifestyle
-* [IKEA Catalogue](https://itunes.apple.com/ca/app/ikea-catalogue/id386592716?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ## iPhone
 
@@ -186,7 +177,6 @@ keywords: iOS, apps
 
 ## Devices
 * [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Questions for Alexa](https://itunes.apple.com/ca/app/questions-for-alexa/id1195820618?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Qardio heart health](https://itunes.apple.com/ca/app/qardio-heart-health/id855275752?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
@@ -211,9 +201,6 @@ keywords: iOS, apps
 
 ### iPad
 * [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-
-#### Messengers
-* [Chat for Whatsapp - iPad Version](https://itunes.apple.com/ca/app/chat-for-whatsapp-ipad-version/id1112989865?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Paid
 * [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 14 C$

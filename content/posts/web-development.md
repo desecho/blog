@@ -220,7 +220,7 @@ py.test apps/app_name -k test_function --create-db
 * [Gitter](https://gitter.im/) - Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 * [Sentry](https://sentry.io) - Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 * [Say Thanks](https://saythanks.io/) - SayThanks.io provides a handy URL for you to share with your open source projects— it encourages users to send a simple thank you note to you, the creator of that project.
-* [Healthchecks](https://healthchecks.io/checks/) - Cron Monitoring. Get Notified When Your Cron Jobs Fail.
+* [Healthchecks](https://healthchecks.io/) - Cron Monitoring. Get Notified When Your Cron Jobs Fail.
 * [Travis CI](https://travis-ci.org) - Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!
 * [Codecov](https://codecov.io) - Code coverage done right.
 * [Re:plain](https://replain.cc) - The simplest live chat in the world.

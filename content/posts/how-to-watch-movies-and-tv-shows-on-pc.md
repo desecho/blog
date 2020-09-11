@@ -35,12 +35,9 @@ Price - about 6.6 C$/month. It includes other [benefits](https://www.amazon.com/
 ### Downloads
 First, download [Kodi](https://kodi.tv/).
 
-Then you can download some of available add-on repositories:
+Then you can download an add-on repository:
 
-* [The Official Repo for Mr Blamo](http://repo.mrblamo.xyz)
-* [The MaverickTV Repository](http://mavericktv.net/mavrepo/)
 * [Stream Army Repo](https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/)
-* [Zero Tolerance Repository](http://repozip.zerotolerance.gq/)
 
 ### Installation
 Then you can install them by running Kodi and clicking the gear -> Settings -> Add-ons -> Enable "Unknown sources" -> Back -> Add-ons -> Install from zip file -> Choose zip file location.  
@@ -68,8 +65,6 @@ You should also create a file `%APPDATA%\kodi\userdata\advancedsettings.xml` wit
     </cache>
 </advancedsettings>
 ```
-
-See details on the page ["How to modify the cache"](https://kodi.wiki/view/HOW-TO:Modify_the_cache) on Kodi wiki.
 
 ### Logs
 If something ever goes wrong and you see an error, you can find the log here: `%APPDATA%\Roaming\Kodi\kodi.log`.  
