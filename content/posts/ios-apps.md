@@ -105,7 +105,6 @@ keywords: iOS, apps
 * [Airbnb](https://itunes.apple.com/ca/app/airbnb/id401626263?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [WiFi Map - Get Free Internet](https://itunes.apple.com/ca/app/wifi-map-scan-get-fast-internet-password-free/id548925969?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Booking.com Travel Deals](https://itunes.apple.com/ca/app/booking-com-travel-deals/id367003839?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Expedia: Hotels, Flights & Car](https://itunes.apple.com/ca/app/expedia-hotels-flights-car/id427916203?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
 #### Lifestyle
@@ -129,12 +128,6 @@ keywords: iOS, apps
 #### Health
 * [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Dialogue Health](https://apps.apple.com/ca/app/dialogue-health/id1118013424)
-
-#### Navigation
-* [BIXI](https://itunes.apple.com/ca/app/bixi/id628543321?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Chrono - Bus, metro and train](https://itunes.apple.com/ca/app/chrono-bus-metro-and-train/id1261397728?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Moovit: Public transit](https://itunes.apple.com/ca/app/moovit-public-transit/id498477945?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [MetroMap Montreal - Subway map](https://itunes.apple.com/ca/app/metromap-montreal-subway-map/id608615860?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Misc
 * [Kijiji Ads: Shop Local & Save](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520)
@@ -165,7 +158,6 @@ keywords: iOS, apps
 * [Nike+ Run Club](https://itunes.apple.com/ca/app/nike-run-club/id387771637?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Lifestyle
-* [Expense - Spending Tracking](https://itunes.apple.com/ca/app/expense-spending-tracking/id1020335225?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Meetup: Local groups & events](https://apps.apple.com/ro/app/meetup/id375990038)
 
 ### Calculators
@@ -192,9 +184,6 @@ keywords: iOS, apps
 * [Qardio heart health](https://itunes.apple.com/ca/app/qardio-heart-health/id855275752?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Canada
-#### Navigation
-* [Montreal Bikes — A One-Tap Bixi Bike App](https://itunes.apple.com/ca/app/montreal-bikes-a-one-tap-bixi-bike-app/id781612439?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Transit • Bus & Train Times](https://itunes.apple.com/ca/app/transit-bus-train-times/id498151501?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Montreal
 * [Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
