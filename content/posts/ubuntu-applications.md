@@ -12,3 +12,6 @@ keywords: ubuntu, programs, applications, apps
 
 ## Browsers
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
+
+## Communication
+* [Discord](https://discord.com/)

@@ -10,17 +10,22 @@ keywords: iOS, apps
 
 ### Games
 * [Steam Mobile](https://itunes.apple.com/ca/app/steam-mobile/id495369748?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Chess - Play & Learn](https://apps.apple.com/us/app/chess-play-learn/id329218549)
+* [lichess • Online Chess](https://apps.apple.com/us/app/lichess-online-chess/id968371784)
+* [Akinator](https://apps.apple.com/fr/app/akinator/id933135994?l=en)
 
 ### Internet
 * [Google Chrome](https://itunes.apple.com/ca/app/chrome-web-browser-by-google/id535886823?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Gmail - Email by Google](https://itunes.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480?mt=8&uo=4&at=11l6hc&ct=fnd)
 
-### Messengers
+### Communication
 * [Telegram Messenger](https://itunes.apple.com/ca/app/telegram-messenger/id686449807?mt=8&ign-mpt=uo%3D4)
 * [Skype](https://itunes.apple.com/ca/app/skype-for-iphone/id304878510?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Viber Messenger](https://itunes.apple.com/ca/app/viber-messenger/id382617920?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Messenger](https://itunes.apple.com/ca/app/messenger/id454638411?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Slack](https://itunes.apple.com/ca/app/slack/id618783545?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Discord - Talk, Chat, Hang Out](http://apps.apple.com/us/app/discord-chat-for-games/id985746746)
+* [Microsoft Teams](https://apps.apple.com/us/app/microsoft-teams/id1113153706)
 
 ### Cloud Storage
 * [Google Drive – online backup](https://itunes.apple.com/ca/app/google-drive-free-online-storage/id507874739?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -35,7 +40,6 @@ keywords: iOS, apps
 * [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ### Weather
-* [Will it Rain? - Rain condition and weather forecast alerts and notification](https://itunes.apple.com/ca/app/will-it-rain-rain-condition-weather-forecast-alerts/id908090158?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [The Weather Network](https://itunes.apple.com/ca/app/the-weather-network/id473299958?mt=8&uo=4&at=11l6hc&ct=fnd)
 
 ### Books
@@ -57,8 +61,11 @@ keywords: iOS, apps
 * [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [IKEA Store](https://apps.apple.com/us/app/ikea-store/id976577934)
 
-### TV
+### TV / Streams
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
+* [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
+* [Disney+](https://apps.apple.com/us/app/disney/id1446075923)
 
 ### Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -121,12 +128,16 @@ keywords: iOS, apps
 
 #### Health
 * [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Dialogue Health](https://apps.apple.com/ca/app/dialogue-health/id1118013424)
 
 #### Navigation
 * [BIXI](https://itunes.apple.com/ca/app/bixi/id628543321?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Chrono - Bus, metro and train](https://itunes.apple.com/ca/app/chrono-bus-metro-and-train/id1261397728?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Moovit: Public transit](https://itunes.apple.com/ca/app/moovit-public-transit/id498477945?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [MetroMap Montreal - Subway map](https://itunes.apple.com/ca/app/metromap-montreal-subway-map/id608615860?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+
+#### Misc
+* [Kijiji Ads: Shop Local & Save](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520)
 
 ### Russia
 #### Social
@@ -141,7 +152,7 @@ keywords: iOS, apps
 * [Yandex.Trains](https://itunes.apple.com/ca/app/yandex-trains/id387272416?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 ### Devices 
-* [Sonos Controller](https://itunes.apple.com/ca/app/sonos-controller/id293523031?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Sonos](https://apps.apple.com/us/app/sonos/id1488977981)
 * [Amazon Alexa](https://itunes.apple.com/ca/app/amazon-alexa/id944011620?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 * [Philips Hue](https://itunes.apple.com/ca/app/philips-hue/id1055281310?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
@@ -155,6 +166,7 @@ keywords: iOS, apps
 
 ### Lifestyle
 * [Expense - Spending Tracking](https://itunes.apple.com/ca/app/expense-spending-tracking/id1020335225?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Meetup: Local groups & events](https://apps.apple.com/ro/app/meetup/id375990038)
 
 ### Calculators
 * [Binary Calc](https://itunes.apple.com/ca/app/binary-calc/id301630595?mt=8&uo=4&at=11l6hc&ct=fnd)
@@ -199,7 +211,9 @@ keywords: iOS, apps
 #### Transport
 * [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
-### iPad
+## iPad
+
+### Utils
 * [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
 
 #### Paid

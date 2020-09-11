@@ -27,7 +27,7 @@ Basic editing  [Alt + ↑/↓] - Move line up/down [Ctrl + Shift + K] - Delete l
       <pubDate>Sat, 18 May 2019 22:13:39 -0400</pubDate>
       
       <guid>https://blog.desecho.org/posts/ubuntu-applications/</guid>
-      <description> Editors  Sublime Text VS Code  Browsers  Firefox  </description>
+      <description> Editors  Sublime Text VS Code  Browsers  Firefox  Communication  Discord  </description>
     </item>
     
     <item>
@@ -82,7 +82,7 @@ Clock World Clock -&amp;gt; Add Moscow, Seattle, Montreal, Tbilisi Bedtime -&amp
       <pubDate>Tue, 30 Jan 2018 01:33:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/windows-applications/</guid>
-      <description>Communication  Slack Skype Jami - Jami is free software for universal communication which respects freedoms and privacy of its users.  Editors  Sublime Text VS Code  Languages  Anki  Games  Uplay - Ubisoft&amp;rsquo;s PC games portal. GOG Galaxy Windowed Borderless Gaming Epic Games  Steam  Steam Depressurizer - Manage steam library.  Cloud Storage  Dropbox Yandex Disk  Media  K-Lite Codec Pack  Music  Spotify  Browsers  Chrome Firefox  Administration  TeamViewer - the All-In-One Software for Remote Support and Online Meetings.</description>
+      <description>Communication  Slack Microsoft Teams  Games  Uplay - Ubisoft&amp;rsquo;s PC games portal. Windowed Borderless Gaming Epic Games  Steam  Depressurizer - Manage steam library.  Media  K-Lite Codec Pack  Utils  Easy Window Switcher - Easy Window Switcher brings the convenience of Mac&amp;rsquo;s easy window switching to Windows. WinDirStat - a disk usage statistics viewer and cleanup tool. Putty SMTP Prober Turn off screen Bat To Exe Converter PS Hot Launch VVL ScreenBright Synkron AutoHotkey 7+ Taskbar Tweaker  Graphics  Paint.</description>
     </item>
     
     <item>
@@ -91,7 +91,7 @@ Clock World Clock -&amp;gt; Add Moscow, Seattle, Montreal, Tbilisi Bedtime -&amp
       <pubDate>Sun, 09 Apr 2017 18:59:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/ios-apps/</guid>
-      <description>iPad + iPhone Games  Steam Mobile  Internet  Google Chrome Gmail - Email by Google  Messengers  Telegram Messenger Skype Viber Messenger Messenger Slack  Cloud Storage  Google Drive – online backup Google Docs Google Sheets Dropbox  Misc  Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Adobe Acrobat Reader  Weather  Will it Rain?</description>
+      <description>iPad + iPhone Games  Steam Mobile Chess - Play &amp;amp; Learn lichess • Online Chess Akinator  Internet  Google Chrome Gmail - Email by Google  Communication  Telegram Messenger Skype Viber Messenger Messenger Slack Discord - Talk, Chat, Hang Out Microsoft Teams  Cloud Storage  Google Drive – online backup Google Docs Google Sheets Dropbox  Misc  Google Maps - GPS Navigation Tabata Stopwatch Pro - Tabata Timer and HIIT Timer Asana: organize tasks &amp;amp; work Adobe Acrobat Reader  Weather  The Weather Network  Books  Bookmate.</description>
     </item>
     
     <item>
@@ -155,7 +155,7 @@ Hotkeys  [Cmd + P] - switch files [Cmd + R] - go to functions/classes [Cmd + D] 
       <pubDate>Wed, 09 Jul 2014 21:37:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/macos-applications/</guid>
-      <description>Homebrew  Homebrew — The missing package manager for OS X. Cakebrew - The Mac App for Homebrew. Packages  git wget python3   Movies / Video  MPlayer OSX Extended  Languages  Anki  Administration  Chicken - Chicken is a VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC.</description>
+      <description>Homebrew  Homebrew — The missing package manager for OS X. Cakebrew - The Mac App for Homebrew. Packages  git wget python3   Movies / Video  MPlayer OSX Extended  Administration  Chicken - Chicken is a VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC. iTerm2 - a replacement for Terminal and the successor to iTerm.</description>
     </item>
     
     <item>

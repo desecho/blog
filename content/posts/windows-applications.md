@@ -8,42 +8,18 @@ keywords: windows
 
 ## Communication
 * [Slack](https://slack.com/)
-* [Skype](http://www.skype.com/)
-* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users.
-
-## Editors
-* [Sublime Text](https://www.sublimetext.com/)
-* [VS Code](https://code.visualstudio.com/)
-
-## Languages
-* [Anki](https://apps.ankiweb.net/)
+* [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software)
 
 ## Games
 * [Uplay](https://uplay.ubi.com/) - Ubisoft's PC games portal.
-* [GOG Galaxy](https://www.gog.com/galaxy)
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
 * [Epic Games](https://www.epicgames.com/store/)
 
 ### Steam 
-* [Steam](http://store.steampowered.com/)
 * [Depressurizer](https://github.com/mvegter/Depressurizer) - Manage steam library.
-
-## Cloud Storage
-* [Dropbox](https://www.dropbox.com/)
-* [Yandex Disk](https://disk.yandex.com/)
 
 ## Media
 * [K-Lite Codec Pack](http://codecguide.com/)
-
-## Music
-* [Spotify](https://www.spotify.com)
-
-## Browsers
-* [Chrome](https://www.google.com/intl/en/chrome/browser/)
-* [Firefox](http://www.mozilla.org/en-US/firefox/new/)
-
-## Administration
-* [TeamViewer](http://www.teamviewer.com/) - the All-In-One Software for Remote Support and Online Meetings.
 
 ## Utils
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Easy Window Switcher brings the convenience of Mac's easy window switching to Windows.
@@ -58,18 +34,5 @@ keywords: windows
 * [AutoHotkey](https://www.autohotkey.com/)
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker)
 
-## Downloaders
-* [μTorrent](http://www.utorrent.com/)
-* [Free Download Manager](http://freedownloadmanager.org)
-
-## TV / Movies / Streams
-* [Kodi](https://kodi.tv/)
-* [Twitch Desktop App](https://app.twitch.tv/)
-
 ## Graphics 
 * [Paint.NET](https://www.getpaint.net)
-
-## Paid
-* [1Password](https://1password.com/) - 69.99 C$
-* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month.
-* [NordVPN](https://nordvpn.com) - 3.5 C$/month.
