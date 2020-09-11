@@ -50,7 +50,7 @@ chmod 644 /etc/systemd/system/[name].service systemctl daemon-reload  Samba sudo
       <pubDate>Mon, 16 Jun 2014 10:40:00 +0000</pubDate>
       
       <guid>https://blog.desecho.org/posts/ubuntu-apps-usage/</guid>
-      <description>Administration Monitoring  htop - monitor system resources iotop - hard drive monitoring iftop - network monitoring ngxtop - nginx monitoring mc - File manager  Misc  httpie - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. git-sh - A customized bash environment suitable for git work. GNU Shockwave Flash (SWF) player git-gui Ring - Ring is free software for universal communication which respects freedoms and privacy of its users.</description>
+      <description>Administration Monitoring  htop - monitor system resources iotop - hard drive monitoring iftop - network monitoring ngxtop - nginx monitoring mc - File manager  Misc  httpie - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. git-sh - A customized bash environment suitable for git work. GNU Shockwave Flash (SWF) player git-gui Jami - Jami is free software for universal communication which respects freedoms and privacy of its users.</description>
     </item>
     
     <item>
