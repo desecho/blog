@@ -1,7 +1,9 @@
 ---
 title: "tvOS Applications"
 date: 2020-09-11T11:00:00-04:00
-draft: true
+comments: true
+categories: ['tvOS']
+keywords: tvOS, apps
 ---
 
 * [Netflix](https://apps.apple.com/us/app/netflix/id363590051)

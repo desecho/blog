@@ -6,10 +6,19 @@
     <description>Recent content on IT Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 May 2019 23:00:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 11:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blog.desecho.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tvOS Applications</title>
+      <link>https://blog.desecho.org/posts/tvos_applications/</link>
+      <pubDate>Fri, 11 Sep 2020 11:00:00 -0400</pubDate>
+      
+      <guid>https://blog.desecho.org/posts/tvos_applications/</guid>
+      <description> Netflix Tubi Twitch: Live Game Streaming YouTube: Watch, Listen, Stream Disney+ Amazon Prime Video - 6.58 C$/month  </description>
+    </item>
     
     <item>
       <title>VS Code</title>
