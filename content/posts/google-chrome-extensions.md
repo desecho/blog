@@ -21,3 +21,4 @@ keywords: windows, ubuntu, macos, chrome, extensions, browser
 * [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa)
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk)
+* [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en)
