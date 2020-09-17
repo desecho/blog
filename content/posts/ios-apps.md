@@ -14,6 +14,9 @@ keywords: iOS, apps
 * [lichess • Online Chess](https://apps.apple.com/us/app/lichess-online-chess/id968371784)
 * [Akinator](https://apps.apple.com/fr/app/akinator/id933135994?l=en)
 
+### Email
+* [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596)
+
 ### Internet
 * [Google Chrome](https://itunes.apple.com/ca/app/chrome-web-browser-by-google/id535886823?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [Gmail - Email by Google](https://itunes.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480?mt=8&uo=4&at=11l6hc&ct=fnd)
