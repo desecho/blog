@@ -81,10 +81,6 @@ new-post:
 preview:
 	hugo server -D
 
-.PHONY: build
-## Build
-build:
-	hugo -s .
 #------------------------------------
 
 

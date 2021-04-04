@@ -13,6 +13,5 @@ Run `make preview` to preview the site. The preview is available here - http://l
 Run `make help` to get a list of all available commands.
 
 Run in docker:
-1. Run `make build`
-2. Run `make docker-build`
-3. Run `make docker-run`
+1. Run `make docker-build`
+2. Run `make docker-run`
