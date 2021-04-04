@@ -1,5 +1,7 @@
 # IT Blog
 
+Powered by [Hugo](https://gohugo.io/)
+
 Uses [Minimal theme](https://github.com/calintat/minimal).
 
 Website is live at https://blog.desecho.org.
