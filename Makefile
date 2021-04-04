@@ -52,9 +52,17 @@ install:
 	sudo apt install hugo -y
 #------------------------------------
 
-
 #------------------------------------
 # Commands
+#------------------------------------
+
+.PHONY: update-minimal
+## Update Minimal theme
+update-minimal:
+	git submodule update --remote themes/minimal
+
+#------------------------------------
+# Hugo Commands
 #------------------------------------
 ifeq (new-post,$(firstword $(MAKECMDGOALS)))
   # Use the rest as arguments
@@ -64,7 +72,7 @@ ifeq (new-post,$(firstword $(MAKECMDGOALS)))
 endif
 
 .PHONY: new-post
-## Create a new post. Usage: [post_name] | Commands
+## Create a new post. Usage: [post_name] | Hugo
 new-post:
 	hugo new posts/${NEW_POST_ARGS}.md
 
