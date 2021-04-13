@@ -10,9 +10,9 @@ Website is live at https://blog.desecho.org.
 Run `make install` to install Hugo.
 
 ## Usage
-Run `make new-post [post_name]` to create a new post.
+Run `make post [post_name]` to create a new post.
 
-Run `make preview` to preview the site. The preview is available here - http://localhost:1313.
+Run `make run` to preview the site. The preview is available here - http://localhost:1313.
 
 Run `make help` to get a list of all available commands.
 

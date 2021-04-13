@@ -76,11 +76,26 @@ endif
 new-post:
 	hugo new posts/${NEW_POST_ARGS}.md
 
+ifeq (post,$(firstword $(MAKECMDGOALS)))
+  # Use the rest as arguments
+  POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+  # Turn them into do-nothing targets
+  $(eval $(POST_ARGS):;@:)
+endif
+
+.PHONY: post
+## Create a new post. Usage: [post_name]
+post:
+	hugo new posts/${POST_ARGS}.md
+
 .PHONY: preview
 ## Preview
 preview:
 	hugo server -D
 
+.PHONY: run
+## Preview
+run: preview
 #------------------------------------
 
 
