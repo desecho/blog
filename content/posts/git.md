@@ -79,7 +79,7 @@ git clean -f  # Delete untracked files
 git revert [commit]
 
 git commit -m'[commit message]'
-git commit -a  # Commit all changed files accept for untracked files. Also, delete deleted
+git commit -a  # Commit all changed files except for untracked files. Also, delete deleted
 			   # files.
 git commit --amend  # Amend a commit (with staged files)
 git commit --amend --author="Anton Samarchyan <desecho@gmail.com>"  # Change the author of previous commit
