@@ -6,7 +6,7 @@ categories: ['Python', 'JavaScript', 'Web Development']
 keywords: python, javascript, web development
 
 ---
-## Javascript
+## JavaScript
 
 ### jQuery
 #### Add jQuery through the console

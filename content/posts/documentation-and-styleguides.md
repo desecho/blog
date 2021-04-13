@@ -16,7 +16,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 
 ### Frontend
 
-#### Javascript
+#### JavaScript
 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
@@ -36,7 +36,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 
 ## Documentation
 
-### Javascript
+### JavaScript
 * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/JavaScript/Reference)
 * [JavaScript and HTML DOM Reference](http://www.w3schools.com/jsref/default.asp)
 
