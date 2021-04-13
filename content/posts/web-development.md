@@ -134,7 +134,7 @@ Add to templates:
 To create/update necessary `.po` files:
 
 ```bash
-python manage.py makemessages [app]
+python manage.py makemessages -a
 ```
 
 Install [django-rosetta](https://pypi.python.org/pypi/django-rosetta)
@@ -146,7 +146,7 @@ You can then access your translations here - `/rosetta`
 To create/update necessary `.po` files:
 
 ```bash
-python manage.py makemessages [app] -d djangojs
+python manage.py makemessages -a -d djangojs
 ```
 
 urls.py
