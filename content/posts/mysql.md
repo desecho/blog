@@ -28,7 +28,7 @@ DROP USER '[user]'@'[ip]';
 
 ## Open access
 Instead of `[db]` and `[table]` can be `*`, which means `any`.
-`[privilege]` can be `ALL`, `USAGE`, `SELECT` etc.
+`[privilege]` can be `ALL`, `USAGE`, `SELECT`, etc.
 You can optionally add `WITH GRANT OPTION` to the `GRANT` command for the user to be able to grant permissions
 
 [Details](http://dev.mysql.com/doc/refman/5.1/en/grant.html#idm47213304336736)
@@ -55,7 +55,7 @@ service mysql restart
 
 # Encoding
 
-## Check encoding
+## Check the encoding
 
 ### For Databases:
 ```sql

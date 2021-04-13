@@ -53,6 +53,6 @@ draft: true
 * [Room Sketcher](https://www.roomsketcher.com/)
 
 ## Paid
-* [1Password](https://1password.com/) - 69.99 C$
-* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month
-* [NordVPN](https://nordvpn.com) - 3.5 C$/month
+* [1Password](https://1password.com/) — 69.99 C$
+* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) — 10 C$/month
+* [NordVPN](https://nordvpn.com) — 3.5 C$/month

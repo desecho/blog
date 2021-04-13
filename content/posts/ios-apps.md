@@ -87,13 +87,13 @@ keywords: iOS, apps
 * [UPS Mobile](https://itunes.apple.com/ca/app/ups-mobile/id336377331)
 
 ### Paid
-* [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) - 1 C$
-* [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387) - 35 C$
-* [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472) - 2.79 C$
-* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051) - 11 C$/month (FullHD), 14 C$/month (4K)
-* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333) - 6.58 C$/month
-* [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) - 3.5 C$/month
-* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023) - 3.99 C$
+* [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — 1 C$
+* [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387) — 35 C$
+* [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$
+* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051) — 11 C$/month (FullHD), 14 C$/month (4K)
+* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333) — 6.58 C$/month
+* [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — 3.5 C$/month
+* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023) — 3.99 C$
 
 ### Reference
 * [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238)
@@ -210,4 +210,4 @@ keywords: iOS, apps
 * [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557)
 
 #### Paid
-* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498) - 14 C$
+* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498) — 14 C$

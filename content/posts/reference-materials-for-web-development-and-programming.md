@@ -15,13 +15,13 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [What's the difference between using “let” and “var” to declare a variable?](http://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable)
 
 ### Misc
-* [Superhero.js](http://superherojs.com) - A collection of the best articles, videos and presentations on "Creating, testing and maintaining a large JavaScript code base"
-* [JavaScript: The Good Parts](http://gnab.github.io/js-workshop/) - JavaScript presentation
+* [Superhero.js](http://superherojs.com) — a collection of the best articles, videos and presentations on "Creating, testing and maintaining a large JavaScript code base"
+* [JavaScript: The Good Parts](http://gnab.github.io/js-workshop/) — JavaScript presentation
 * [JavaScript. The Right Way](http://jstherightway.org/)
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 * [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [45 Useful JavaScript Tips, Tricks and Best Practices | Flippin' Awesome](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices)
-* [JS Must Watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about JavaScript
+* [JS Must Watch](https://github.com/bolshchikov/js-must-watch) — must-watch videos about JavaScript
 * [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 
@@ -34,20 +34,20 @@ keywords: webdev, reference, javascript, python, django, css, regex
 ## Git
 * [A Hacker’s Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [Git cheatsheet](http://cheat.errtheblog.com/s/git)
-* [Pro Git](http://git-scm.com/book/en/v2) - Book
+* [Pro Git](http://git-scm.com/book/en/v2) — book
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 ## Web Development
-* [Perf.rocks](http://www.perf.rocks/) - Find resources that help you build lightning fast websites
+* [Perf.rocks](http://www.perf.rocks/) — find resources that help you build lightning fast websites
 * [Browserhacks](http://browserhacks.com/) is an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs
 * [Web Design Field Manual](http://webfieldmanual.com/)
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 * [Butterick's Practical Typography](http://practicaltypography.com/)
-* [Web Fundamentals](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
+* [Web Fundamentals](https://developers.google.com/web/fundamentals/) — best practices for modern web development
 * [Single page apps in depth](http://singlepageappbook.com/)
-* [Grid](http://www.adamkaplan.me/grid/) - A simple guide to responsive design
+* [Grid](http://www.adamkaplan.me/grid/) — a simple guide to responsive design
 * [How to lose weight in a browser](http://browserdiet.com/en/)
-* [North](https://github.com/north/north) - North is a set of standards and best practices for developing modern web based properties. Included are standards and best practices for all aspects of a project, from kick off through development. North encourages an agile, content-first, approach to product development and a mobile-first, in-browser, system based approach to design and development
+* [North](https://github.com/north/north) — north is a set of standards and best practices for developing modern web based properties. Included are standards and best practices for all aspects of a project, from kick off through development. North encourages an agile, content-first, approach to product development and a mobile-first, in-browser, system based approach to design and development
 * [Software Licenses in Plain English](https://tldrlegal.com/)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 
@@ -71,7 +71,7 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [CSS Must Watch](https://github.com/AllThingsSmitty/must-watch-css)
 
 ## Regular Expressions
-* [RegexOneLearn](http://regexone.com/) - regular expressions with simple, interactive examples
+* [RegexOneLearn](http://regexone.com/) — regular expressions with simple, interactive examples
 
 ## Coding Games/Challenges
 * [Project Euler](https://projecteuler.net/)

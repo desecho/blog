@@ -10,19 +10,17 @@ keywords: ubuntu, commands, programs, applications, apps
 
 ### Monitoring
 
-* htop - monitor system resources
-* iotop - hard drive monitoring
-* iftop - network monitoring
-* [ngxtop](https://github.com/lebinh/ngxtop) - nginx monitoring
-* mc - File manager
+* bpytop — monitor system resources
+* iotop — hard drive monitoring
+* iftop — network monitoring
+* [ngxtop](https://github.com/lebinh/ngxtop) — NGINX monitoring
+* mc — file manager
 
 ## Misc
-* [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
-* [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
-* [GNU Shockwave Flash (SWF) player](https://apps.ubuntu.com/cat/applications/raring/gnash/)
+* [httpie](https://github.com/jakubroztocil/httpie) — modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [git-sh](https://github.com/rtomayko/git-sh) — a customized bash environment suitable for git work
 * git-gui
-* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users
-* [gtk-recordmydesktop](https://apps.ubuntu.com/cat/applications/gtk-recordmydesktop/) - create screencasts
+* [gtk-recordmydesktop](https://apps.ubuntu.com/cat/applications/gtk-recordmydesktop/) — create screencasts
 
 ## Crontab
 Examples:
@@ -37,22 +35,22 @@ Examples:
 
 ## Nano
 
-* [F3] - save file
-* [Ctrl + X] - quit
-* [Ctrl + C] - show current cursor position
-* [Ctrl + W] - search
-    * [Ctrl + R] - replace
-    * [Ctrl + C] - cancel
+* [F3] — save file
+* [Ctrl + X] — quit
+* [Ctrl + C] — show current cursor position
+* [Ctrl + W] — search
+    * [Ctrl + R] — replace
+    * [Ctrl + C] — cancel
 
 ## Screen
 
 Screen manager.
 
-* `screen` - run screen.
-* `screen -r` - restore screen
-* [Ctrl + A, D] - detach from screen
-* [Ctrl + A, C] - create a new screen
-* [Ctrl + A, Space] - switch screens
+* `screen` — run screen
+* `screen -r` — restore screen
+* [Ctrl + A, D] — detach from screen
+* [Ctrl + A, C] — create a new screen
+* [Ctrl + A, Space] — switch screens
 
 ## How to be able to run programs for X server
 
@@ -86,20 +84,20 @@ vboxmanage setextradata [vbox] "VBoxInternal/Devices/VMMDev/0/Config/GetHostTime
 
 Hotkeys:
 
-* [Ctrl + Page Down] - go to next tab
-* [Ctrl + Page Up] - go to previous tab
-* F11 - toggle fullscreen
-* [Ctrl + Shift + O] - split terminals horizontally
-* [Ctrl + Shift + E] - split terminals vertically
-* [Ctrl + Shift + W] - close current Panel
-* [Ctrl + Shift + T] - open new tab
-* [Ctrl + Shift + I] - open a new window
-* [Alt + ↑] - move to the terminal above the current one
-* [Alt + ↓] - move to the terminal below the current one
-* [Alt + ←] - move to the terminal left of the current one
-* [Alt + →] - move to the terminal right of the current one
-* [Ctrl + Shift + G] - reset terminal state and clear window
-* [Ctrl + Shift + X] - toggle  between  showing  all  terminals  and  only  showing the current one (maximise)
-* [Ctrl + Shift + Plus (+)] - increase font size
-* [Ctrl + Minus (-)] - decrease font size
-* [Ctrl + Zero (0)] - restore font size to original setting
+* [Ctrl + Page Down] — go to next tab
+* [Ctrl + Page Up] — go to previous tab
+* [F11] — toggle fullscreen
+* [Ctrl + Shift + O] — split terminals horizontally
+* [Ctrl + Shift + E] — split terminals vertically
+* [Ctrl + Shift + W] — close current Panel
+* [Ctrl + Shift + T] — open new tab
+* [Ctrl + Shift + I] — open a new window
+* [Alt + ↑] — move to the terminal above the current one
+* [Alt + ↓] — move to the terminal below the current one
+* [Alt + ←] — move to the terminal left of the current one
+* [Alt + →] — move to the terminal right of the current one
+* [Ctrl + Shift + G] — reset terminal state and clear window
+* [Ctrl + Shift + X] — toggle  between  showing  all  terminals  and  only  showing the current one (maximise)
+* [Ctrl + Shift + Plus (+)] — increase font size
+* [Ctrl + Minus (—)] — decrease font size
+* [Ctrl + Zero (0)] — restore font size to original setting

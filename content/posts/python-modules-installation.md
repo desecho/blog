@@ -16,4 +16,7 @@ mysql-python>=1.0
 # comment
 ```
 
-Install using command: ```pip install -r requirements.txt```
+Install using command: 
+```bash
+pip install -r requirements.txt
+```

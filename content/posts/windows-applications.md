@@ -10,19 +10,19 @@ keywords: windows
 * [VK Messenger](https://vk.com/messenger)
 
 ## Games
-* [Uplay](https://uplay.ubi.com/) - Ubisoft's PC games portal.
+* [Uplay](https://uplay.ubi.com/) — Ubisoft's PC games portal.
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
 * [Epic Games](https://www.epicgames.com/store/)
 
 ### Steam
-* [Depressurizer](https://github.com/mvegter/Depressurizer) - Manage steam library
+* [Depressurizer](https://github.com/mvegter/Depressurizer) — manage steam library
 
 ## Media
 * [K-Lite Codec Pack](http://codecguide.com/)
 
 ## Utils
-* [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Easy Window Switcher brings the convenience of Mac's easy window switching to Windows
-* [WinDirStat](https://windirstat.net/) - a disk usage statistics viewer and cleanup tool
+* [Easy Window Switcher](https://neosmart.net/EasySwitch/) — Easy Window Switcher brings the convenience of Mac's easy window switching to Windows
+* [WinDirStat](https://windirstat.net/) — a disk usage statistics viewer and cleanup tool
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * [SMTP Prober](http://www.alexnolan.net/software/SMTPProber.htm)
 * [Turn off screen](https://gallery.technet.microsoft.com/scriptcenter/Turn-off-screen-4d173e0a)

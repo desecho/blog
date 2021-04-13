@@ -24,7 +24,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 
 #### HTML/CSS
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS
+* [Code Guide by @mdo](http://mdo.github.io/code-guide/) — standards for developing flexible, durable, and sustainable HTML and CSS
 * [Gamepad](https://www.w3.org/TR/gamepad/)
 
 #### URL
@@ -45,5 +45,5 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 * [The Python Standard Library](http://docs.python.org/3.8/library/index.html)
 * [Django](https://docs.djangoproject.com/en/)
 
-### SASS
-* [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world
+### Sass 
+* [Sass](http://sass-lang.com/) — Sass is the most mature, stable, and powerful professional grade CSS extension language in the world
