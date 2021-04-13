@@ -8,19 +8,6 @@ keywords: vs code, editor
 
 * [VS Code](https://code.visualstudio.com/)
 
-## Extensions
-
-* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
-* [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
-* [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-* [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
-* [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
-* [Pytest IntelliSense](https://marketplace.visualstudio.com/items?itemName=Cameron.vscode-pytest)
-* [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
-* [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
-* [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
-
 ## Hotkeys
 
 ### General
@@ -35,7 +22,7 @@ keywords: vs code, editor
 
 ### Navigation
 * [Ctrl + P] - Go to file
-* [Ctrl + G] - Go to line 
+* [Ctrl + G] - Go to line
 * [Ctrl + Shift + O] - Go to Symbol
 
 ### Search and replace

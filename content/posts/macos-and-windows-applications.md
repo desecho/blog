@@ -8,19 +8,23 @@ draft: true
 * [Anki](https://apps.ankiweb.net/)
 
 ## Administration
-* [TeamViewer](http://www.teamviewer.com/) - the All-In-One Software for Remote Support and Online Meetings.
+* [TeamViewer](http://www.teamviewer.com/) - the All-In-One Software for Remote Support and Online Meetings
 
 ## Utils
-* [KeePassX](http://www.keepassx.org/) - KeePassX is an application for people with extremly high demands on secure personal data management.
+* [KeePassX](http://www.keepassx.org/) - KeePassX is an application for people with extremly high demands on secure personal data management
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)
 
 ## Communication
-* [Skype](http://www.skype.com/)
-* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users.
+* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users
 * [Discord](https://discord.com/)
+* [Telegram Desktop](https://desktop.telegram.org/)
+* [WhatsApp](https://www.whatsapp.com/download)
+* [Messenger](https://www.messenger.com/desktop)
+* [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software)
+* [Slack](https://slack.com/intl/en-ca/download)
 
 ## Music
 * [Spotify](https://www.spotify.com)
@@ -45,7 +49,10 @@ draft: true
 * [Kodi](https://kodi.tv/)
 * [Twitch Desktop App](https://app.twitch.tv/)
 
+## Miscellaneous
+* [Room Sketcher](https://www.roomsketcher.com/)
+
 ## Paid
 * [1Password](https://1password.com/) - 69.99 C$
-* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month.
-* [NordVPN](https://nordvpn.com) - 3.5 C$/month.
+* [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) - 10 C$/month
+* [NordVPN](https://nordvpn.com) - 3.5 C$/month

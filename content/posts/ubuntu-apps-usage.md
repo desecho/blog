@@ -18,10 +18,10 @@ keywords: ubuntu, commands, programs, applications, apps
 
 ## Misc
 * [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
-* [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work.
+* [git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work
 * [GNU Shockwave Flash (SWF) player](https://apps.ubuntu.com/cat/applications/raring/gnash/)
 * git-gui
-* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users.
+* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users
 * [gtk-recordmydesktop](https://apps.ubuntu.com/cat/applications/gtk-recordmydesktop/) - create screencasts
 
 ## Crontab
@@ -95,11 +95,11 @@ Hotkeys:
 * [Ctrl + Shift + T] - open new tab
 * [Ctrl + Shift + I] - open a new window
 * [Alt + ↑] - move to the terminal above the current one
-* [Alt + ↓] - move to the terminal below the current one 
-* [Alt + ←] - move to the terminal left of the current one 
-* [Alt + →] - move to the terminal right of the current one 
+* [Alt + ↓] - move to the terminal below the current one
+* [Alt + ←] - move to the terminal left of the current one
+* [Alt + →] - move to the terminal right of the current one
 * [Ctrl + Shift + G] - reset terminal state and clear window
 * [Ctrl + Shift + X] - toggle  between  showing  all  terminals  and  only  showing the current one (maximise)
-* [Ctrl + Shift + Plus (+)] - increase font size.
-* [Ctrl + Minus (-)] - decrease font size.
-* [Ctrl + Zero (0)] - restore font size to original setting.
+* [Ctrl + Shift + Plus (+)] - increase font size
+* [Ctrl + Minus (-)] - decrease font size
+* [Ctrl + Zero (0)] - restore font size to original setting

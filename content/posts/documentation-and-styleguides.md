@@ -9,7 +9,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 ## Styleguides
 
 ### Python
-* [PEP 8](http://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code.
+* [PEP 8](http://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
 * [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Django Coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
@@ -24,7 +24,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 
 #### HTML/CSS
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS.
+* [Code Guide by @mdo](http://mdo.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS
 * [Gamepad](https://www.w3.org/TR/gamepad/)
 
 #### URL
@@ -46,4 +46,4 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 * [Django](https://docs.djangoproject.com/en/)
 
 ### SASS
-* [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+* [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world

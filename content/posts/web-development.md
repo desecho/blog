@@ -103,23 +103,30 @@ Add to settings:
 
 ```python
 from django.utils.translation import ugettext_lazy as _
-import os.path as op
+from os.path import dirname, join
+SRC_DIR = dirname(dirname(abspath(__file__)))
 
 LANGUAGES = (
     ('en', _('English')),
     ('ru', _('Russian')),
 )
 
-LOCALE_PATHS = (
-    op.join(local_settings.PROJECT_ROOT, 'project', 'src', 'locale'),
-)
+
+LOCALE_PATHS = (join(SRC_DIR, "locale"),)
+
+TEMPLATES = [
+    {
+        "OPTIONS": {
+            "builtins": ["django.templatetags.i18n"],
+        },
+    },
+]
+
 ```
 
 Add to templates:
 
 ```
-{% load i18n %}
-
 {% trans 'text' %}
 {% blocktrans %}Back to '{{ race }}' homepage{% endblocktrans %}
 ```
@@ -127,7 +134,7 @@ Add to templates:
 To create/update necessary `.po` files:
 
 ```bash
-python manage.py makemessages
+python manage.py makemessages [app]
 ```
 
 Install [django-rosetta](https://pypi.python.org/pypi/django-rosetta)
@@ -139,7 +146,7 @@ You can then access your translations here - `/rosetta`
 To create/update necessary `.po` files:
 
 ```bash
-python manage.py makemessages -d djangojs
+python manage.py makemessages [app] -d djangojs
 ```
 
 urls.py

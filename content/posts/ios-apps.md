@@ -9,7 +9,7 @@ keywords: iOS, apps
 ## iPad + iPhone
 
 ### Games
-* [Steam Mobile](https://itunes.apple.com/ca/app/steam-mobile/id495369748?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Steam Mobile](https://itunes.apple.com/ca/app/steam-mobile/id495369748)
 * [Chess - Play & Learn](https://apps.apple.com/us/app/chess-play-learn/id329218549)
 * [lichess • Online Chess](https://apps.apple.com/us/app/lichess-online-chess/id968371784)
 * [Akinator](https://apps.apple.com/fr/app/akinator/id933135994?l=en)
@@ -18,118 +18,119 @@ keywords: iOS, apps
 * [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596)
 
 ### Internet
-* [Google Chrome](https://itunes.apple.com/ca/app/chrome-web-browser-by-google/id535886823?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Gmail - Email by Google](https://itunes.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Google Chrome](https://itunes.apple.com/ca/app/chrome-web-browser-by-google/id535886823)
+* [Gmail - Email by Google](https://itunes.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480)
 
 ### Communication
 * [Telegram Messenger](https://itunes.apple.com/ca/app/telegram-messenger/id686449807?mt=8&ign-mpt=uo%3D4)
-* [Skype](https://itunes.apple.com/ca/app/skype-for-iphone/id304878510?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Viber Messenger](https://itunes.apple.com/ca/app/viber-messenger/id382617920?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Messenger](https://itunes.apple.com/ca/app/messenger/id454638411?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Slack](https://itunes.apple.com/ca/app/slack/id618783545?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Skype](https://itunes.apple.com/ca/app/skype-for-iphone/id304878510)
+* [Viber Messenger](https://itunes.apple.com/ca/app/viber-messenger/id382617920)
+* [Messenger](https://itunes.apple.com/ca/app/messenger/id454638411)
+* [Slack](https://itunes.apple.com/ca/app/slack/id618783545)
 * [Discord - Talk, Chat, Hang Out](http://apps.apple.com/us/app/discord-chat-for-games/id985746746)
 * [Microsoft Teams](https://apps.apple.com/us/app/microsoft-teams/id1113153706)
 
 ### Cloud Storage
-* [Google Drive – online backup](https://itunes.apple.com/ca/app/google-drive-free-online-storage/id507874739?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Google Docs](https://itunes.apple.com/ca/app/google-docs/id842842640?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Google Sheets](https://itunes.apple.com/ca/app/google-sheets/id842849113?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Dropbox](https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Google Drive – online backup](https://itunes.apple.com/ca/app/google-drive-free-online-storage/id507874739)
+* [Google Docs](https://itunes.apple.com/ca/app/google-docs/id842842640)
+* [Google Sheets](https://itunes.apple.com/ca/app/google-sheets/id842849113)
+* [Dropbox](https://itunes.apple.com/ca/app/dropbox/id327630330)
 
 ### Misc
-* [Google Maps - GPS Navigation](https://itunes.apple.com/ca/app/google-maps-navigation-transport/id585027354?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Tabata Stopwatch Pro - Tabata Timer and HIIT Timer](https://itunes.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Asana: organize tasks & work](https://itunes.apple.com/ca/app/asana-team-tasks-conversations/id489969512?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Google Maps - GPS Navigation](https://itunes.apple.com/ca/app/google-maps-navigation-transport/id585027354)
+* [Tabata Stopwatch Pro - Tabata Timer and HIIT Timer](https://itunes.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975)
+* [Asana: organize tasks & work](https://itunes.apple.com/ca/app/asana-team-tasks-conversations/id489969512)
+* [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564)
 
 ### Weather
-* [The Weather Network](https://itunes.apple.com/ca/app/the-weather-network/id473299958?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [The Weather Network](https://itunes.apple.com/ca/app/the-weather-network/id473299958)
 
 ### Books
-* [Bookmate. Reading made easy.](https://itunes.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Audible audio books & podcasts](https://itunes.apple.com/ca/app/audible-audio-books-podcasts/id379693831?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Kindle](https://itunes.apple.com/ca/app/kindle/id302584613?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Bookmate. Reading made easy.](https://itunes.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450)
+* [Audible audio books & podcasts](https://itunes.apple.com/ca/app/audible-audio-books-podcasts/id379693831)
+* [Kindle](https://itunes.apple.com/ca/app/kindle/id302584613)
 
 ### Social
-* [Twitter](https://itunes.apple.com/ca/app/twitter/id333903271?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Facebook](https://itunes.apple.com/ca/app/facebook/id284882215?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [LinkedIn](https://itunes.apple.com/ca/app/linkedin/id288429040?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Twitter](https://itunes.apple.com/ca/app/twitter/id333903271)
+* [Facebook](https://itunes.apple.com/ca/app/facebook/id284882215)
+* [LinkedIn](https://itunes.apple.com/ca/app/linkedin/id288429040)
 
 ### Entertainment
-* [9GAG: Best LOL Pics & GIFs](https://itunes.apple.com/ca/app/9gag-best-lol-pics-gifs/id545551605?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Reddit Official: Trending News](https://itunes.apple.com/ca/app/reddit-official-trending-news/id1064216828?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [9GAG: Best LOL Pics & GIFs](https://itunes.apple.com/ca/app/9gag-best-lol-pics-gifs/id545551605)
+* [Reddit Official: Trending News](https://itunes.apple.com/ca/app/reddit-official-trending-news/id1064216828)
 
 ### Shopping
-* [Amazon](https://itunes.apple.com/ca/app/amazon/id297606951?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Amazon](https://itunes.apple.com/ca/app/amazon/id297606951)
+* [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948)
 * [IKEA Store](https://apps.apple.com/us/app/ikea-store/id976577934)
 
 ### TV / Streams
-* [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664)
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
 * [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
 * [Disney+](https://apps.apple.com/us/app/disney/id1446075923)
 
 ### Music
-* [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [GuitarTuna: Guitar, Bass tuner](https://itunes.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [GarageBand](https://itunes.apple.com/ca/app/garageband/id408709785?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580)
+* [GuitarTuna: Guitar, Bass tuner](https://itunes.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389)
+* [GarageBand](https://itunes.apple.com/ca/app/garageband/id408709785)
 * [Shazam](https://itunes.apple.com/ca/app/shazam/id284993459?mt=8&app=itunes&ign-mpt=uo%3D4)
 
 ### Translation
-* [Lingvo Dictionary - Multilingual Translator](https://itunes.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Google Translate](https://itunes.apple.com/ca/app/google-translate/id414706506?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Multitran](https://itunes.apple.com/ca/app/multitran/id1090468498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Lingvo Dictionary - Multilingual Translator](https://itunes.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146)
+* [Google Translate](https://itunes.apple.com/ca/app/google-translate/id414706506)
+* [Multitran](https://itunes.apple.com/ca/app/multitran/id1090468498)
 
 ### Utilities
-* [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335?mt=8&uo=4&at=11l6hc&ct=fnd) 
-* [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [UPS Mobile](https://itunes.apple.com/ca/app/ups-mobile/id336377331?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335)
+* [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044)
+* [UPS Mobile](https://itunes.apple.com/ca/app/ups-mobile/id336377331)
 
 ### Paid
-* [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783?mt=8&uo=4&at=11l6hc&ct=fnd) - 1 C$
-* [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 35 C$
-* [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 2.79 C$
-* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051?mt=8&uo=4&at=11l6hc&ct=fnd) - 11 C$/month (FullHD), 14 C$/month (4K)
-* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 6.58 C$/month
-* [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.5 C$/month
-* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 3.99 C$
+* [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) - 1 C$
+* [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387) - 35 C$
+* [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472) - 2.79 C$
+* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051) - 11 C$/month (FullHD), 14 C$/month (4K)
+* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333) - 6.58 C$/month
+* [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) - 3.5 C$/month
+* [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023) - 3.99 C$
 
 ### Reference
-* [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238)
 
 ### Food / Drinks
-* [Uber Eats: Food Delivery](https://itunes.apple.com/ca/app/uber-eats-food-delivery/id1058959277?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Yelp: Discover Local Favorites](https://itunes.apple.com/ca/app/yelp-the-best-local-food-drinks-services-more/id284910350?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Uber Eats: Food Delivery](https://itunes.apple.com/ca/app/uber-eats-food-delivery/id1058959277)
+* [Yelp: Discover Local Favorites](https://itunes.apple.com/ca/app/yelp-the-best-local-food-drinks-services-more/id284910350)
 
 ### Travel
-* [Uber](https://itunes.apple.com/ca/app/uber/id368677368?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [TripAdvisor Hotels Restaurants](https://itunes.apple.com/ca/app/tripadvisor-hotels-flights-restaurants/id284876795?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Airbnb](https://itunes.apple.com/ca/app/airbnb/id401626263?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [WiFi Map - Get Free Internet](https://itunes.apple.com/ca/app/wifi-map-scan-get-fast-internet-password-free/id548925969?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Booking.com Travel Deals](https://itunes.apple.com/ca/app/booking-com-travel-deals/id367003839?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Uber](https://itunes.apple.com/ca/app/uber/id368677368)
+* [TripAdvisor Hotels Restaurants](https://itunes.apple.com/ca/app/tripadvisor-hotels-flights-restaurants/id284876795)
+* [Airbnb](https://itunes.apple.com/ca/app/airbnb/id401626263)
+* [WiFi Map - Get Free Internet](https://itunes.apple.com/ca/app/wifi-map-scan-get-fast-internet-password-free/id548925969)
+* [Booking.com Travel Deals](https://itunes.apple.com/ca/app/booking-com-travel-deals/id367003839)
 
 ### Canada
 #### Lifestyle
-* [Centris.ca](https://itunes.apple.com/ca/app/centris-ca/id604024675?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Centris.ca](https://apps.apple.com/ca/app/centris-ca/id604024675)
 
 #### Shopping
-* [Best Buy Canada](https://itunes.apple.com/ca/app/best-buy-canada/id386960831?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Best Buy Canada](https://itunes.apple.com/ca/app/best-buy-canada/id386960831)
+* [AIR MILES® Reward Progra‪m‬](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)
 
 #### Food / Drinks
-* [Domino's Pizza Canada](https://itunes.apple.com/ca/app/dominos-pizza-canada/id621613017?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [PayRange](https://itunes.apple.com/ca/app/payrange/id845555232?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Domino's Pizza Canada](https://itunes.apple.com/ca/app/dominos-pizza-canada/id621613017)
+* [PayRange](https://itunes.apple.com/ca/app/payrange/id845555232)
 
 #### Movies
-* [Cineplex Mobile](https://itunes.apple.com/ca/app/cineplex-mobile/id404011384?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [TimePlay](https://itunes.apple.com/ca/app/timeplay/id462974334?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Cineplex Mobile](https://itunes.apple.com/ca/app/cineplex-mobile/id404011384)
+* [TimePlay](https://itunes.apple.com/ca/app/timeplay/id462974334)
 
 #### Banking
-* [TD Canada](https://itunes.apple.com/ca/app/td-canada/id358790776?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [RBC Mobile](https://itunes.apple.com/ca/app/rbc-mobile/id407597290?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [TD Canada](https://itunes.apple.com/ca/app/td-canada/id358790776)
+* [RBC Mobile](https://itunes.apple.com/ca/app/rbc-mobile/id407597290)
 
 #### Health
-* [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312)
 * [Dialogue Health](https://apps.apple.com/ca/app/dialogue-health/id1118013424)
 
 #### Misc
@@ -137,76 +138,76 @@ keywords: iOS, apps
 
 ### Russia
 #### Social
-* [OK](https://itunes.apple.com/ca/app/ok/id398465290?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [VK](https://itunes.apple.com/ca/app/vk/id564177498?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [OK](https://itunes.apple.com/ca/app/ok/id398465290)
+* [VK](https://itunes.apple.com/ca/app/vk/id564177498)
 
 #### Maps
-* [Yandex.Maps](https://itunes.apple.com/ca/app/yandex-maps/id313877526?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [2GIS – Offline maps](https://itunes.apple.com/ca/app/2gis-offline-maps/id481627348?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Yandex.Maps](https://itunes.apple.com/ca/app/yandex-maps/id313877526)
+* [2GIS – Offline maps](https://itunes.apple.com/ca/app/2gis-offline-maps/id481627348)
 
 #### Transport
-* [Yandex.Trains](https://itunes.apple.com/ca/app/yandex-trains/id387272416?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Yandex.Trains](https://itunes.apple.com/ca/app/yandex-trains/id387272416)
 
-### Devices 
+### Devices
 * [Sonos](https://apps.apple.com/us/app/sonos/id1488977981)
-* [Amazon Alexa](https://itunes.apple.com/ca/app/amazon-alexa/id944011620?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Philips Hue](https://itunes.apple.com/ca/app/philips-hue/id1055281310?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Amazon Alexa](https://itunes.apple.com/ca/app/amazon-alexa/id944011620)
+* [Philips Hue](https://itunes.apple.com/ca/app/philips-hue/id1055281310)
 
 ## iPhone
 
 #### Shopping
-* [PC Optimum](https://itunes.apple.com/ca/app/pc-optimum/id634040057?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [PC Optimum](https://itunes.apple.com/ca/app/pc-optimum/id634040057)
 
 ### Health & Fitness
-* [Nike+ Run Club](https://itunes.apple.com/ca/app/nike-run-club/id387771637?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Nike+ Run Club](https://itunes.apple.com/ca/app/nike-run-club/id387771637)
 
 ### Lifestyle
 * [Meetup: Local groups & events](https://apps.apple.com/ro/app/meetup/id375990038)
 
 ### Calculators
-* [Binary Calc](https://itunes.apple.com/ca/app/binary-calc/id301630595?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Binary Calc](https://itunes.apple.com/ca/app/binary-calc/id301630595)
 
 ### Messengers
-* [WhatsApp Messenger](https://itunes.apple.com/ca/app/whatsapp-messenger/id310633997?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Snapchat](https://itunes.apple.com/ca/app/snapchat/id447188370?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [WhatsApp Messenger](https://itunes.apple.com/ca/app/whatsapp-messenger/id310633997)
+* [Snapchat](https://itunes.apple.com/ca/app/snapchat/id447188370)
 
 ### Social
-* [Instagram](https://itunes.apple.com/ca/app/instagram/id389801252?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Instagram](https://itunes.apple.com/ca/app/instagram/id389801252)
 
 ### TV
-* [Next Episode - Track TV Shows](https://itunes.apple.com/ca/app/next-episode-track-tv-shows/id347009526?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Next Episode - Track TV Shows](https://itunes.apple.com/ca/app/next-episode-track-tv-shows/id347009526)
 
 ### Images
-* [CamScanner](https://itunes.apple.com/ca/app/camscanner-free-pdf-document-scanner-and-ocr/id388627783?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [CamScanner](https://itunes.apple.com/ca/app/camscanner-free-pdf-document-scanner-and-ocr/id388627783)
 
 ### Utilities
-* [Speedtest by Ookla](https://itunes.apple.com/ca/app/speedtest-by-ookla/id300704847?mt=8&uo=4&at=11l6hc&ct=fnd)
+* [Speedtest by Ookla](https://itunes.apple.com/ca/app/speedtest-by-ookla/id300704847)
 
 ## Devices
-* [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Qardio heart health](https://itunes.apple.com/ca/app/qardio-heart-health/id855275752?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897)
+* [Qardio heart health](https://itunes.apple.com/ca/app/qardio-heart-health/id855275752)
 
 ### Canada
 
 #### Montreal
-* [Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
-* [Official Montréal City Guide](https://itunes.apple.com/ca/app/official-montr%C3%A9al-city-guide/id1328574862?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638)
+* [Official Montréal City Guide](https://itunes.apple.com/ca/app/official-montr%C3%A9al-city-guide/id1328574862)
 
 #### Food & Drink
-* [Société des alcools du Québec](https://itunes.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661?mt=8&uo=4&at=11l6hc&ct=fnd)
-* [Tim Hortons](https://itunes.apple.com/ca/app/tim-hortons/id1143883086?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Société des alcools du Québec](https://itunes.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661)
+* [Tim Hortons](https://itunes.apple.com/ca/app/tim-hortons/id1143883086)
 
 #### Banking
-* [RBC Wallet](https://itunes.apple.com/ca/app/rbc-wallet/id1022830198?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [RBC Wallet](https://itunes.apple.com/ca/app/rbc-wallet/id1022830198)
 
 ### Russia
 #### Transport
-* [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686)
 
 ## iPad
 
 ### Utils
-* [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd)
+* [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557)
 
 #### Paid
-* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) - 14 C$
+* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498) - 14 C$

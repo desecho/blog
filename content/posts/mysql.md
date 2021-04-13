@@ -59,7 +59,7 @@ service mysql restart
 
 ### For Databases:
 ```sql
-SELECT default_character_set_name FROM information_schema.SCHEMATA WHERE schema_name = "[dbname]";
+SELECT default_character_set_name FROM information_schema.SCHEMATA WHERE schema_name = "[db_name]";
 ```
 
 ### For Tables:
@@ -67,8 +67,8 @@ SELECT default_character_set_name FROM information_schema.SCHEMATA WHERE schema_
 SELECT CCSA.character_set_name FROM information_schema.`TABLES` T,
        information_schema.`COLLATION_CHARACTER_SET_APPLICABILITY` CCSA
 WHERE CCSA.collation_name = T.table_collation
-  AND T.table_schema = "[dbname]"
-  AND T.table_name = "[tablename]";
+  AND T.table_schema = "[db_name]"
+  AND T.table_name = "[table_name]";
 ```
 
 ### For Columns:
