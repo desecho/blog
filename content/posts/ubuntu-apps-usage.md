@@ -17,7 +17,7 @@ keywords: ubuntu, commands, programs, applications, apps
 * mc — file manager
 
 ## Misc
-* [httpie](https://github.com/jakubroztocil/httpie) — modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [httpie](https://github.com/jakubroztocil/httpie) — modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 * [git-sh](https://github.com/rtomayko/git-sh) — a customized bash environment suitable for git work
 * git-gui
 * [gtk-recordmydesktop](https://apps.ubuntu.com/cat/applications/gtk-recordmydesktop/) — create screencasts

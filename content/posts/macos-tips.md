@@ -1,15 +1,15 @@
 ---
-title: "MacOS Tips"
+title: "macOS Tips"
 date: 2016-07-20T01:41:00
 comments: true
-categories: MacOS
+categories: macOS
 keywords: macos
 ---
 
 ## Installation
-Do not format your drive as a case sensitive partition. You won't be able to run applications like Steam or Photoshop.
+Do not format your drive as a case-sensitive partition. You won't be able to run applications like Steam or Photoshop.
 
-## MacOS Configuration
+## macOS Configuration
 Contacts -> File -> New Smart Group -> Card / is not member of / any group
 
 ## Remove duplicates in "open with"

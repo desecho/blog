@@ -47,7 +47,7 @@ keywords: iOS, apps
 
 ### Books
 * [Bookmate. Reading made easy.](https://itunes.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450)
-* [Audible audio books & podcasts](https://itunes.apple.com/ca/app/audible-audio-books-podcasts/id379693831)
+* [Audible: Audiobooks & Podcast‪s‬](https://itunes.apple.com/ca/app/audible-audio-books-podcasts/id379693831)
 * [Kindle](https://itunes.apple.com/ca/app/kindle/id302584613)
 
 ### Social

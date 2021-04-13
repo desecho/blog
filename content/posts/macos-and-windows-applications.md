@@ -1,5 +1,5 @@
 ---
-title: "MacOS and Windows Applications"
+title: "macOS and Windows Applications"
 date: 2020-09-11T10:46:21-04:00
 draft: true
 ---

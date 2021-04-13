@@ -25,8 +25,8 @@ Your info ➜ Create your picture ➜ Browser for one ➜ Choose your avatar.
 #### Misc
 Color management ➜ Advanced ➜ Display calibration ➜ Calibrate display.  
 
-Right click on the taskbar ➜ Cortana ➜ Hidden.  
-Right click on the taskbar ➜ Show People Button ➜ uncheck.  
+Right-click on the taskbar ➜ Cortana ➜ Hidden.  
+Right-click on the taskbar ➜ Show People Button ➜ uncheck.  
 
 ### Access startup
 
@@ -46,7 +46,7 @@ Traffic Limits ➜ Set limits.
 Countries ➜ Select a country you'd like to save as a favorite ➜ Hamburger menu ➜ Heart.
 
 Settings:  
-Enable "Auto connect", "Start NordVPN on startup", "Start minimized", "App Kill Switch" and select applications you want to kill if a VPN connection drops. The apps have to be running while setting this up. Choose System of measurement.
+Enable "Auto connect", "Start NordVPN on startup", "Start minimized", "App Kill Switch" and select applications you want to kill if a VPN connection drops. Select NordLynx as a VPN protocol.
 
 ### Google Chrome
 
@@ -74,7 +74,7 @@ Settings ➜ Downloads ➜ Bandwidth usage limit
 
 ### GOG Galaxy
 Settings ➜ Downloads ➜ Installing games ➜ Game installation folder
-Settings ➜ Downloads ➜ Installing games ➜ Create shortcut on desktop ➜ check
+Settings ➜ Downloads ➜ Installing games ➜ Create a shortcut on desktop ➜ check
 Settings ➜ Downloads ➜ Bandwidth ➜ While playing ➜ Pause downloads when playing ➜ uncheck
 Settings ➜ Downloads ➜ Bandwidth ➜ Bandwidth limit
 

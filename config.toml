@@ -18,7 +18,7 @@ paginate = 100
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["python", "javascript", "bash"]
-    defaultKeywords = ["it" , "blog" , "web development" , "python", "ubuntu", "mac os", "javascript", "windows", "linux"]
+    defaultKeywords = []
     navigationNewWindow = true
 
 [[menu.main]]

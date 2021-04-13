@@ -46,4 +46,4 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 * [Django](https://docs.djangoproject.com/en/)
 
 ### Sass 
-* [Sass](http://sass-lang.com/) — Sass is the most mature, stable, and powerful professional grade CSS extension language in the world
+* [Sass](http://sass-lang.com/) — Sass is the most mature, stable, and powerful professional-grade CSS extension language in the world

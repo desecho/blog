@@ -56,7 +56,7 @@ git diff --word-diff [commit1] [commit2] --unified=0  # Show difference in words
 
 git add .  # Stage all files
 git add -p  # Interactive staging
-git add -N [file]  # Just add a file to tracking
+git add -N [file]  # Just add a file to the tracking
 
 git checkout -- [file]  # Removes all changes to [file]
 git checkout -f  # Remove all changes to the last commit
@@ -79,7 +79,7 @@ git clean -f  # Delete untracked files
 git revert [commit]
 
 git commit -m'[commit message]'
-git commit -a  # Commit all changed files accept for untracked files. Also delete deleted
+git commit -a  # Commit all changed files accept for untracked files. Also, delete deleted
 			   # files.
 git commit --amend  # Amend a commit (with staged files)
 git commit --amend --author="Anton Samarchyan <desecho@gmail.com>"  # Change the author of previous commit
@@ -110,7 +110,7 @@ git ls-files -v | grep '^[[:lower:]]'  # List files flagged as "unchanged"
 ```bash
 git merge [branch]
 git merge --abort
-git reset --merge ORIG_HEAD  # Cancel previous merge
+git reset --merge ORIG_HEAD  # Cancel a previous merge
 
 # On conflicts:
 git show :1:[file] > [file1]  # Common ancestor
@@ -149,11 +149,11 @@ git rebase upstream/master
 
 ## Tips
 
-### Ignore files without adding it to .gitignore.
+### Ignore files without adding them to .gitignore.
 Edit file `.git/info/exclude`
 
 ### Ignore files only in diff command
-Create a repository specific diff driver:
+Create a repository specific diff driver:Fv
 
 for Linux:
 `$true = /bin/true`

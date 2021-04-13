@@ -6,7 +6,7 @@ categories: Ubuntu
 keywords: ubuntu
 ---
 
-### Setup SSH Access from one computer to another without the need of entering password each time
+### Setup SSH Access from one computer to another without the need of entering a password each time
 ```bash
 ssh-keygen -t rsa -C "[email]" -f ~/.ssh/id_rsa -N ''
 ssh-copy-id -i ~/.ssh/id_rsa.pub '-p [port] [username]@[ip]'
@@ -16,7 +16,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub '-p [port] [username]@[ip]'
 `sudo visudo`  
 Add to the end: `[user] ALL=(ALL) NOPASSWD: ALL`
 
-### Set up DNS server
+### Set up a DNS server
 ```bash
 nano /etc/resolv.conf
 nameserver 8.8.8.8

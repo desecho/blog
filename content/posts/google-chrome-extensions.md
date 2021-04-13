@@ -2,8 +2,8 @@
 title: "Google Chrome Extensions"
 date: 2018-03-11T04:39:01-04:00
 comments: true
-categories: windows, ubuntu, macos
-keywords: windows, ubuntu, macos, chrome, extensions, browser
+categories: windows, Ubuntu, macOS
+keywords: windows, Ubuntu, macos, chrome, extensions, browser
 ---
 
 ## Development

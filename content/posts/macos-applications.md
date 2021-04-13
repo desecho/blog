@@ -1,8 +1,8 @@
 ---
-title: "MacOS Applications"
+title: "macOS Applications"
 date: 2014-07-09T21:37:00
 comments: true
-categories: MacOS
+categories: macOS
 keywords: macos
 ---
 
@@ -24,7 +24,7 @@ keywords: macos
 ## Utils
 * [Disk Inventory X](http://www.derlien.com/) — disk Inventory X is a disk usage utility
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) — data recovery
-* [What's Keeping Me](http://www.hamsoftengineering.com/products/wkm/wkm.html) — have you ever have the problem where you can’t empty the Trash or eject a disk because something is preventing you? Usually the reason is because some application has a file open, and thus you can’t get rid of the disk or trash the file. That’s why we made What’s Keeping Me! What’s Keeping Me will identify the application that is holding the item open. You can then use What's Keeping Me to quit the problem application (or kill it if needed) so you can perform your task. What’s Keeping Me includes an Automator workflow so you can perform searches directly from the Finder too!
+* [What's Keeping Me](http://www.hamsoftengineering.com/products/wkm/wkm.html) — have you ever have the problem where you can’t empty the Trash or eject a disk because something is preventing you? Usually, the reason is that some application has a file open, and thus you can’t get rid of the disk or trash the file. That’s why we made What’s Keeping Me! What’s Keeping Me will identify the application that is holding the item open. You can then use What's Keeping Me to quit the problem application (or kill it if needed) so you can perform your task. What’s Keeping Me includes an Automator workflow so you can perform searches directly from the Finder too!
 * [Jing](http://www.techsmith.com/jing.html) — free and simple way to start sharing images and short videos of your computer screen
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 * [Mac Media Key Forwarder](http://milgra.com/mac-media-key-forwarder.html)

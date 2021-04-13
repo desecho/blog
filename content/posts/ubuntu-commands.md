@@ -73,7 +73,7 @@ For all of the commands below: `-r` — recursive change.
     * `-n [x]` — show *x* number of lines
 * `tail [file]` — get file tail
     * `-n [x]` — show *x* number of lines
-    * `-f` — auto update
+    * `-f` — auto-update
 
 ## Device mounting
 * `mount [device] [directory]` — mount *device*

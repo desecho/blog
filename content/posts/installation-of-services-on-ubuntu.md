@@ -61,7 +61,7 @@ sudo restart smbd
 
 ## stunnel4
 
-Stunnel allows old devices which don't support smtp connections through ssl to support them.
+Stunnel allows old devices which don't support SMTP connections through SSL to support them.
 
 ```bash
 sudo apt-get install stunnel4

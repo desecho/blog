@@ -14,13 +14,13 @@ keywords: web development, tools
 * [Diff Checker](http://www.diffchecker.com/diff)
 * [Hurl.it](http://www.hurl.it/) — make HTTP requests
 * [My regex tester](http://www.myregextester.com/index.php)
-* [JS Nice](http://jsnice.org/) — statistical renaming, type inference and deobfuscation
+* [JS Nice](http://jsnice.org/) — statistical renaming, type inference, and deobfuscation
 
-## MacOS, Ubuntu and Windows Apps
+## macOS, Ubuntu, and Windows Apps
 ### Paid
 * [Genymotion Android Emulator](https://www.genymotion.com/desktop/) — the most powerful Android emulation platform for app developers & testers
 * [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE for professional developers
-* [Navicat](http://www.navicat.com/products) — fatabase management tools
+* [Navicat](http://www.navicat.com/products) — database management tools
 
 ### DB
 * [pgAdmin](http://www.pgadmin.org/) — PostgreSQL tools
@@ -38,17 +38,17 @@ keywords: web development, tools
 * [Postman](https://www.getpostman.com/)
 * [P4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
 
-## MacOS and Windows Apps
+## macOS and Windows Apps
 
 ### Source Control Management
 * [SourceTree](http://www.sourcetreeapp.com/) — a free Git & Mercurial client
 
-## MacOS Apps
+## macOS Apps
 ### Source Control Management
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) — remove large or troublesome blobs like git-filter-branch does, but faster
 
 ### DB
-* [MongoHub](https://github.com/bububa/MongoHub-Mac) — MongoHub is a native mac GUI application for mongodb
+* [MongoHub](https://github.com/bububa/MongoHub-Mac) — MongoHub is a native mac GUI application for MongoDB
 
 ## Windows Apps
 

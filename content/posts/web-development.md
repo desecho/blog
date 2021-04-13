@@ -9,7 +9,7 @@ keywords: python, javascript, web development
 ## Javascript
 
 ### jQuery
-#### Add jQuery through console
+#### Add jQuery through the console
 
 ```javascript
 var jq = document.createElement('script');
@@ -50,7 +50,7 @@ import os; os.system('kill -9 %d' % os.getpid())
 * `dumpdata [app].[Model] --indent 2 > /[project]/src/[app]/fixtures/[data].json`
 * `collectstatic`
 * `makemigrations`
-    - `[app] # create initial migration`
+    - `[app]` — create initial migration
     - `--empty [app]`
 * `createsuperuser`
 * `migrate`
@@ -221,12 +221,12 @@ py.test apps/app_name -k test_function --create-db
 
 ## Services for your projects.
 * [PyPI](https://pypi.python.org) — the Python Package Index
-* [Read the Docs](https://readthedocs.io) — create, host, and browse documentation.
+* [Read the Docs](https://readthedocs.io) — create, host, and browse the documentation
 * [Transifex](https://www.transifex.com/) — manage translations, translate content, collaborate with translators, and automate your localization process from one central place
 * [Requires.io](https://requires.io/) — stop wasting your time by manually keeping track of changelogs. Requires.io keeps your python projects secure by monitoring their dependencies
-* [Gitter](https://gitter.im/) — gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
+* [Gitter](https://gitter.im/) — Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 * [Sentry](https://sentry.io) — Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 * [Say Thanks](https://saythanks.io/) — SayThanks.io provides a handy URL for you to share with your open source projects— it encourages users to send a simple thank you note to you, the creator of that project
 * [Codecov](https://codecov.io) — code coverage done right
 * [Re:plain](https://replain.cc) — the simplest live chat in the world
-* [pepy.tech](https://pepy.tech/) — a service which provides badges with number of downloads
+* [pepy.tech](https://pepy.tech/) — a service which provides badges with a number of downloads
