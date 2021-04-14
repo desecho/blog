@@ -33,15 +33,6 @@ Examples:
 @reboot /home/script.sh  # Run on reboot
 ```
 
-## Nano
-
-* [F3] — save file
-* [Ctrl + X] — quit
-* [Ctrl + C] — show current cursor position
-* [Ctrl + W] — search
-    * [Ctrl + R] — replace
-    * [Ctrl + C] — cancel
-
 ## Screen
 
 Screen manager.

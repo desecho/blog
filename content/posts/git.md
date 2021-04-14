@@ -10,11 +10,12 @@ keywords: git, source control
 [Git Documentation](https://git-scm.com/doc)
 
 ## Basics
-* **master** : default branch
-* **origin** : upstream repository by default
-* **head** : current branch
-* **head^** : parent branch of the current branch
-* **head~~** or **head~2** : n-th parent of the current branch
+
+* `master` : default branch
+* `origin` : upstream repository by default
+* `head` : current branch
+* `head^` : parent branch of the current branch
+* `head~~` or `head~2` : n-th parent of the current branch
 
 ## Commands
 ```bash
@@ -153,13 +154,13 @@ git rebase upstream/master
 Edit file `.git/info/exclude`
 
 ### Ignore files only in diff command
-Create a repository specific diff driver:Fv
+Create a repository specific diff driver:
 
 for Linux:
 `$true = /bin/true`
 
 for Mac OS:
-`$true = /usr/bin/true`
+`$true = /usr/bin/true`  
 `git config diff.nodiff.command $true`
 
 Then, assign the new diff driver to those files you want ignored in your `.git/info/attributes` file.

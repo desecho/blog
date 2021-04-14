@@ -57,7 +57,7 @@ keywords: webdev, reference, javascript, python, django, css, regex
 ## Python
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754)
-* [Must-watch videos about Python](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
+* [Must-watch videos about Python](https://github.com/s16h/py-must-watch) — Must-watch videos about Python
 * [Default Parameter Values in Python](http://effbot.org/zone/default-values.htm)
 
 ### Django
@@ -73,7 +73,7 @@ keywords: webdev, reference, javascript, python, django, css, regex
 ## Regular Expressions
 * [RegexOneLearn](http://regexone.com/) — regular expressions with simple, interactive examples
 
-## Coding Games/Challenges
+## Coding Games / Challenges
 * [Project Euler](https://projecteuler.net/)
 * [checkio](https://www.checkio.org/)
 * [codingame](http://www.codingame.com/)

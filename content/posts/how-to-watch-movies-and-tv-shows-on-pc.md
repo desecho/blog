@@ -40,8 +40,8 @@ Then you can download an add-on repository:
 * [Stream Army Repo](https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/)
 
 ### Installation
-Then you can install them by running Kodi and clicking the gear ➜ Settings ➜ Add-ons ➜ Enable "Unknown sources" ➜ Back ➜ Add-ons ➜ Install from zip file ➜ Choose zip file location.  
-After that, Install from repository ➜ Choose repository and install the video add-ons you like.  
+Then you can install them by running Kodi and clicking the gear → Settings → Add-ons → Enable "Unknown sources" → Back → Add-ons → Install from zip file → Choose zip file location.  
+After that, Install from repository → Choose repository and install the video add-ons you like.  
 Then you can open the add-ons by hovering over Add-ons.
 
 ### Resolve an audio issue
@@ -71,12 +71,12 @@ If something ever goes wrong and you see an error, you can find the log here: `%
 
 ### Real Debrid
 To be able to access more content you can subscribe to ["Real Debrid"](http://real-debrid.com/?id=2307762). It costs about 4.25 C$/month.  
-You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, Nemesis. Select Dependencies ➜ ResolveURL ➜ Configure ➜ Universal Resolvers ➜ Real-Debrid ➜ (Re)Authorize My Account ➜ Follow instructions on the screen.
+You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, Nemesis. Select Dependencies → ResolveURL → Configure → Universal Resolvers → Real-Debrid → (Re)Authorize My Account → Follow instructions on the screen.
 
 ### 4K
 
-Nemesis ➜ Movie Zone ➜ 4K Movies
-Skynet ➜ Watch The Latest Movies And Shows At The Flix ➜ Watch At The Flix ➜ 4K UHD Movies  
-Skynet ➜ Maverick TV ➜ Maverick 4K UHD Movies  
-Skynet ➜ Maverick TV ➜ Real Debrid 4k UHD and FHD  
-Skynet ➜ Supremacy ➜ 4K Movies  
+Nemesis → Movie Zone → 4K Movies
+Skynet → Watch The Latest Movies And Shows At The Flix → Watch At The Flix → 4K UHD Movies  
+Skynet → Maverick TV → Maverick 4K UHD Movies  
+Skynet → Maverick TV → Real Debrid 4k UHD and FHD  
+Skynet → Supremacy → 4K Movies  

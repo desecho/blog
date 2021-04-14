@@ -11,7 +11,7 @@ keywords: vs code, editor
 ## Hotkeys
 
 ### General
-[Ctrl + Shift + P, F1] - Show Command Palette
+[Ctrl + Shift + P, F1] — Show Command Palette
 
 ### Basic editing
 * [Alt + ↑/↓] — Move line up/down
