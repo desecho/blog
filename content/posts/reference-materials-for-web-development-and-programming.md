@@ -33,7 +33,6 @@ keywords: webdev, reference, javascript, python, django, css, regex
 
 ## Git
 * [A Hacker’s Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
-* [Git cheatsheet](http://cheat.errtheblog.com/s/git)
 * [Pro Git](http://git-scm.com/book/en/v2) — book
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
@@ -58,7 +57,6 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754)
 * [Must-watch videos about Python](https://github.com/s16h/py-must-watch) — Must-watch videos about Python
-* [Default Parameter Values in Python](http://effbot.org/zone/default-values.htm)
 
 ### Django
 * [Django Books](https://www.twoscoopspress.com/pages/current-django-books)
