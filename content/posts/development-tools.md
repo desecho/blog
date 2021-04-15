@@ -3,11 +3,8 @@ title: "Development Tools"
 date: 2014-07-06T21:53:00
 comments: true
 categories: ['Coding']
-keywords: web development, tools
+keywords: development, tools, coding
 ---
-
-## Misc
-* [ngrok](https://ngrok.com/) — introspected tunnels to localhost
 
 ## Web
 * [Codepen](http://codepen.io/) — a playground for the front end web
@@ -15,6 +12,7 @@ keywords: web development, tools
 * [Hurl.it](http://www.hurl.it/) — make HTTP requests
 * [My regex tester](http://www.myregextester.com/index.php)
 * [JS Nice](http://jsnice.org/) — statistical renaming, type inference, and deobfuscation
+* [Terraform Cloud](https://www.terraform.io/cloud)
 
 ## macOS, Ubuntu, and Windows Apps
 ### Paid
@@ -37,6 +35,7 @@ keywords: web development, tools
 ## Utils
 * [Postman](https://www.getpostman.com/)
 * [P4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
+* [ngrok](https://ngrok.com/) — introspected tunnels to localhost
 
 ## macOS and Windows Apps
 
