@@ -31,8 +31,8 @@ keywords: vs code, editor
 * [Ctrl + H] — Replace
 * [Alt + Enter] — Select all occurences of Find match
 * [Ctrl + K Ctrl + D] — Move last selection to next Find match
-* [Alt + C/R/W] — Toggle case-sensitive / regex / whole word
-* [F3 / Shift + F3] — Find next/previous
+* [Alt + C/R/W] — Toggle case-sensitive/regex/whole word
+* [F3/Shift + F3] — Find next/previous
 
 ### Rich languages editing
 * [F12] — Go to Definition
@@ -47,5 +47,5 @@ keywords: vs code, editor
 
 ### Display
 * [Ctrl + Shift + F] — Show Search
-* [Ctrl + Shift + E] — Show Explorer / Toggle focus
+* [Ctrl + Shift + E] — Show Explorer/Toggle focus
 * [Ctrl + B] — Toggle Sidebar visibility

@@ -71,7 +71,7 @@ keywords: webdev, reference, javascript, python, django, css, regex
 ## Regular Expressions
 * [RegexOneLearn](http://regexone.com/) — regular expressions with simple, interactive examples
 
-## Coding Games / Challenges
+## Coding Games/Challenges
 * [Project Euler](https://projecteuler.net/)
 * [checkio](https://www.checkio.org/)
 * [codingame](http://www.codingame.com/)

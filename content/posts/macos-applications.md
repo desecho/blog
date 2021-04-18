@@ -14,7 +14,7 @@ keywords: macos
 	* [wget](https://www.gnu.org/software/wget/)
 	* [python3](https://www.python.org/download/releases/3.0/)
 
-## Movies / Video
+## Movies/Video
 * [MPlayer OSX Extended](http://mplayerosx.ch/)
 
 ## Administration

@@ -40,7 +40,7 @@ The way to edit current projects (in the switch project list): Edit workspaces: 
 * [Cmd + F] — find text
 * [Cmd + F], [alt + enter] —  find text and then select them all
 * [Cmd + Alt + F] — replace text
-* [Cmd + /] — comment / uncomment
+* [Cmd + /] — comment/uncomment
 * [Cmd + Ctrl + F] — full screen
 * [Cmd + Ctrl + Shift + F] — distraction free
 * [Cmd + K + B] — toggle sidebar

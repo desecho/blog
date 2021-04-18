@@ -45,7 +45,7 @@ draft: true
 * [Free Download Manager](http://freedownloadmanager.org)
 * [μTorrent](http://www.utorrent.com/)
 
-## TV / Movies / Streams
+## TV/Movies/Streams
 * [Kodi](https://kodi.tv/)
 * [Twitch Desktop App](https://app.twitch.tv/)
 

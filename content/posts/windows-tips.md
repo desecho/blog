@@ -8,6 +8,7 @@ keywords: windows
 
 ## Windows Configuration
 
+Download and install [Windows Update](https://www.microsoft.com/en-us/software-download/windows10/)
 ### Settings
 #### System
 Display → Scale and layout → Change the size of text, apps, and other items → 200%.  
@@ -80,3 +81,13 @@ Settings:
 ### How to add a custom host
 * Run notepad as administrator and open `C:\Windows\System32\drivers\etc\hosts`
 * Add a new host
+
+### Boost microphone
+
+Install [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
+
+Run it. The Configurator will ask you to select the devices for which the program is to be installed, go to "Capture devices" and select the microphone. Reboot if asked.
+
+Install [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
+
+Run it. Choose `Simple interface`. Choose the microphone and then adjust the Pre Amplifying level from the top slider, that one going from -30 dB to +30 dB. Click `Done` in the bottom right.

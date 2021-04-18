@@ -88,7 +88,7 @@ For all of the commands below: `-r` — recursive change.
 * `sudo [program]`
     * `sudo su` — switch to user root
     * `sudo su [user]` — switch user
-* `sudo shutdown now` / `sudo init 0` — shutdown
+* `sudo shutdown now`/`sudo init 0` — shutdown
 * `sudo reboot` — reboot
 * `df -h` — show disk space
 * `lsb_release -a` — show Ubuntu information

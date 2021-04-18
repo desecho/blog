@@ -64,7 +64,7 @@ keywords: iOS, apps
 * [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948)
 * [IKEA Store](https://apps.apple.com/us/app/ikea-store/id976577934)
 
-### TV / Streams
+### TV/Streams
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664)
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
 * [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
@@ -98,7 +98,7 @@ keywords: iOS, apps
 ### Reference
 * [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238)
 
-### Food / Drinks
+### Food/Drinks
 * [Uber Eats: Food Delivery](https://itunes.apple.com/ca/app/uber-eats-food-delivery/id1058959277)
 * [Yelp: Discover Local Favorites](https://itunes.apple.com/ca/app/yelp-the-best-local-food-drinks-services-more/id284910350)
 
@@ -117,7 +117,7 @@ keywords: iOS, apps
 * [Best Buy Canada](https://itunes.apple.com/ca/app/best-buy-canada/id386960831)
 * [AIR MILES® Reward Progra‪m‬](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)
 
-#### Food / Drinks
+#### Food/Drinks
 * [Domino's Pizza Canada](https://itunes.apple.com/ca/app/dominos-pizza-canada/id621613017)
 * [PayRange](https://itunes.apple.com/ca/app/payrange/id845555232)
 
