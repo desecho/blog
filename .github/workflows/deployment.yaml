@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install hugo
-        run: apt install hugo -y
+        run: sudo apt install hugo -y
 
       - name: Generate site
         run: hugo -s .
