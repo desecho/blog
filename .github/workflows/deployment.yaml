@@ -16,61 +16,33 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Bootstrap
-        run: make bootstrap
-
-      - name: Generate site
-        run: hugo -s .
-
-      - name: Install s3cmd
-        run: |
-          pip install s3cmd==2.1.0
-          cp .github/workflows/.s3cfg ~/.s3cfg
-          sed "s/\[access_key\]/${{ secrets.SPACES_ACCESS_KEY }}/g" ~/.s3cfg -i
-          SPACES_SECRET_KEY=$(echo ${{ secrets.SPACES_SECRET_KEY }} | sed 's;/;\\/;g')
-          sed "s/\[secret_key\]/$SPACES_SECRET_KEY/g" ~/.s3cfg -i
-
-      - name: Upload files
-        run: |
-          s3cmd put public/* s3://blog.desecho.org/ -r -P --no-mime-magic --guess-mime-type
-
-      - name: Install doctl
-        uses: digitalocean/action-doctl@v2
+      - name: Login to GitHub registry
+        uses: docker/login-action@v1
         with:
-          token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ github.token }}
 
-      - name: Flush CDN cache
+      - name: Build and push docker image
+        uses: docker/build-push-action@v2
+        with:
+          push: true
+          tags: ghcr.io/${{ github.repository }}:latest
+
+      - name: Install kubectl
+        uses: azure/setup-kubectl@v1
+
+      - name: Configure kubectl
         run: |
-          CDN_ID=$(doctl compute cdn list | grep blog.desecho.org | awk '{print $1}')
-          doctl compute cdn flush $CDN_ID
+          mkdir ~/.kube
+          echo $KUBECONFIG > ~/.kube/config
+        env:
+          KUBECONFIG: ${{ secrets.KUBECONFIG }}
 
-      # - name: Login to GitHub registry
-      #   uses: docker/login-action@v1
-      #   with:
-      #     registry: ghcr.io
-      #     username: ${{ github.actor }}
-      #     password: ${{ github.token }}
-
-      # - name: Build and push docker image
-      #   uses: docker/build-push-action@v2
-      #   with:
-      #     push: true
-      #     tags: ghcr.io/${{ github.repository }}:latest
-
-      # - name: Install kubectl
-      #   uses: azure/setup-kubectl@v1
-
-      # - name: Configure kubectl
-      #   run: |
-      #     mkdir ~/.kube
-      #     echo $KUBECONFIG > ~/.kube/config
-      #   env:
-      #     KUBECONFIG: ${{ secrets.KUBECONFIG }}
-
-      # - name: Deploy
-      #   run: |
-      #     kubectl apply -f deployment/deployment.yaml
-      #     kubectl apply -f deployment/ingress.yaml
-      #     kubectl apply -f deployment/service.yaml
-      #     kubectl rollout restart deployment/blog
-      #     kubectl rollout status deployment/blog
+      - name: Deploy
+        run: |
+          kubectl apply -f deployment/deployment.yaml
+          kubectl apply -f deployment/ingress.yaml
+          kubectl apply -f deployment/service.yaml
+          kubectl rollout restart deployment/blog
+          kubectl rollout status deployment/blog
