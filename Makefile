@@ -50,6 +50,20 @@ help:
 ## Install hugo | Installation
 install:
 	sudo apt install hugo -y
+
+.PHONY: init-submodule
+## Initialize git submodule
+init-submodule:
+	git submodule init
+
+.PHONY: update-submodule
+## Update git submodule
+update-submodule:
+	git submodule update
+
+.PHONY: bootstrap
+## Bootstrap
+bootstrap: install init-submodule update-submodule
 #------------------------------------
 
 #------------------------------------

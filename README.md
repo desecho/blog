@@ -7,7 +7,7 @@ Uses [Minimal theme](https://github.com/calintat/minimal).
 Website is live at https://blog.desecho.org.
 
 ## Installation
-Run `make install` to install Hugo.
+Run `make bootstrap`.
 
 ## Usage
 Run `make post [post_name]` to create a new post.

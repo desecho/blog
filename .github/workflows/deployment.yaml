@@ -16,11 +16,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Load minimal theme
-        run: make update-minimal
-
-      - name: Install hugo
-        run: sudo apt install hugo -y
+      - name: Bootstrap
+        run: make bootstrap
 
       - name: Generate site
         run: hugo -s .
