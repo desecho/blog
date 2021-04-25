@@ -34,6 +34,7 @@ keywords: windows
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker)
 * [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
 * [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
+* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
 
 ## Graphics
 * [Paint.NET](https://www.getpaint.net)

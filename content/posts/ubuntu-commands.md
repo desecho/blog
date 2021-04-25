@@ -142,6 +142,7 @@ For all of the commands below: `-r` — recursive change.
 * `tar -cvzf [archive.tar.gz] [file]` — archive file
 * `truncate -s 0 [file]` — truncate a file to 0 bytes
 * `pwgen -ys 15 1` — generate password
+* `sed -i 's/old-text/new-text/g' [file]` — replace text in the file
 
 ## Shortcuts
 * [Readline shortcuts](http://www.bigsmoke.us/readline/shortcuts)
