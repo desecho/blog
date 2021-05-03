@@ -62,13 +62,14 @@ keywords: iOS, apps
 ### Shopping
 * [Amazon](https://itunes.apple.com/ca/app/amazon/id297606951)
 * [Apple Store](https://itunes.apple.com/ca/app/apple-store/id375380948)
-* [IKEA Store](https://apps.apple.com/us/app/ikea-store/id976577934)
+* [IKEA Place](https://apps.apple.com/us/app/ikea-place/id1279244498)
+* [IKEA](https://apps.apple.com/gb/app/ikea/id1452164827)
 
 ### TV/Streams
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664)
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
 * [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
-* [Disney+](https://apps.apple.com/us/app/disney/id1446075923)
+* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923)
 
 ### Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580)
@@ -132,6 +133,7 @@ keywords: iOS, apps
 #### Health
 * [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312)
 * [Dialogue Health](https://apps.apple.com/ca/app/dialogue-health/id1118013424)
+* [Picard & Desjardins Pharmacy](https://apps.apple.com/ca/app/picard-desjardins-pharmacy/id1552288920)
 
 #### Misc
 * [Kijiji Ads: Shop Local & Save](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520)
@@ -191,7 +193,6 @@ keywords: iOS, apps
 
 #### Montreal
 * [Téo Taxi](https://itunes.apple.com/ca/app/t%C3%A9o-taxi/id1097805638)
-* [Official Montréal City Guide](https://itunes.apple.com/ca/app/official-montr%C3%A9al-city-guide/id1328574862)
 
 #### Food & Drink
 * [Société des alcools du Québec](https://itunes.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661)

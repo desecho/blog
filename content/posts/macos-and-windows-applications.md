@@ -12,6 +12,7 @@ draft: true
 
 ## Utils
 * [KeePassX](http://www.keepassx.org/) - KeePassX is an application for people with extremly high demands on secure personal data management
+* [PLINK](https://www.cog-genomics.org/plink/)
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)

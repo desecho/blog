@@ -38,3 +38,6 @@ keywords: windows
 
 ## Graphics
 * [Paint.NET](https://www.getpaint.net)
+
+## Mining
+* [lolMiner](https://github.com/Lolliedieb/lolMiner-releases/releases)
