@@ -6,10 +6,9 @@ categories: ['Python', 'JavaScript', 'Web Development']
 keywords: webdev, reference, javascript, python, django, css, regex
 ---
 ## JavaScript
-### Important
-* [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/)
 
 ### ES6
+* [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/)
 * [6 reasons Web developers need to learn JavaScript ES6 now](https://thenextweb.com/dd/2016/03/09/6-reasons-need-learn-javascript-es6-now-not-later/)
 * [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
 * [What's the difference between using “let” and “var” to declare a variable?](http://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable)
@@ -24,9 +23,6 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [JS Must Watch](https://github.com/bolshchikov/js-must-watch) — must-watch videos about JavaScript
 * [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
-
-### Coffeescript
-* [We Don't Use CoffeeScript Ever](http://billpatrianakos.me/blog/2015/07/06/we-dont-use-coffeescript-ever/)
 
 ## GitHub
 * [GitHub Cheat Sheet](http://github.com/tiimgreen/github-cheat-sheet)
@@ -49,6 +45,7 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [North](https://github.com/north/north) — north is a set of standards and best practices for developing modern web-based properties. Included are standards and best practices for all aspects of a project, from kick-off through development. North encourages an agile, content-first, approach to product development and a mobile-first, in-browser, system-based approach to design and development
 * [Software Licenses in Plain English](https://tldrlegal.com/)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Web Concepts: Overview](https://webconcepts.info/concepts/)
 
 ## Coding
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -57,6 +54,8 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754)
 * [Must-watch videos about Python](https://github.com/s16h/py-must-watch) — Must-watch videos about Python
+* [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
+* [Get started with pyenv & poetry. Saviours in the python chaos!](https://blog.jayway.com/2019/12/28/pyenv-poetry-saviours-in-the-python-chaos/)
 
 ### Django
 * [Django Books](https://www.twoscoopspress.com/pages/current-django-books)
@@ -80,3 +79,8 @@ keywords: webdev, reference, javascript, python, django, css, regex
 ## Misc
 * [How To Copy Vagrant Boxes (or Duplicate Them)](http://www.dev-metal.com/copy-duplicate-vagrant-box/)
 * [Introduction to Docker](http://www.youtube.com/watch?v=9bvdc55xYdo)
+* [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+* [Readability Checklist](https://readabilityguidelines.co.uk/readability-checklist/)
+
+## Books
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)

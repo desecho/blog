@@ -8,18 +8,19 @@ draft: true
 * [Anki](https://apps.ankiweb.net/)
 
 ## Administration
-* [TeamViewer](http://www.teamviewer.com/) - the All-In-One Software for Remote Support and Online Meetings
+* [TeamViewer](http://www.teamviewer.com/) — the All-In-One Software for Remote Support and Online Meetings
 
 ## Utils
-* [KeePassX](http://www.keepassx.org/) - KeePassX is an application for people with extremly high demands on secure personal data management
+* [KeePassX](http://www.keepassx.org/) — KeePassX is an application for people with extremly high demands on secure personal data management
 * [PLINK](https://www.cog-genomics.org/plink/)
+* [LICEcap](https://www.cockos.com/licecap/) — simple animated screen captures
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)
 
 ## Communication
-* [Jami](https://jami.net/) - Jami is free software for universal communication which respects freedoms and privacy of its users
+* [Jami](https://jami.net/) — Jami is free software for universal communication which respects freedoms and privacy of its users
 * [Discord](https://discord.com/)
 * [Telegram Desktop](https://desktop.telegram.org/)
 * [WhatsApp](https://www.whatsapp.com/download)
