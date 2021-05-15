@@ -3,7 +3,7 @@ title: "iOS Apps"
 date: 2017-04-09T18:59:00
 comments: true
 categories: ['iOS']
-keywords: iOS, apps
+keywords: ios, apps, applications, programs
 ---
 
 ## iPad + iPhone
@@ -41,6 +41,8 @@ keywords: iOS, apps
 * [Tabata Stopwatch Pro - Tabata Timer and HIIT Timer](https://itunes.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975)
 * [Asana: organize tasks & work](https://itunes.apple.com/ca/app/asana-team-tasks-conversations/id489969512)
 * [Adobe Acrobat Reader](https://itunes.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564)
+* [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458)
+* [TeamViewer Remote Control](https://apps.apple.com/us/app/teamviewer/id692035811)
 
 ### Weather
 * [The Weather Network](https://itunes.apple.com/ca/app/the-weather-network/id473299958)
@@ -70,12 +72,13 @@ keywords: iOS, apps
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
 * [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923)
+* [The CW](https://apps.apple.com/us/app/the-cw/id491730359)
 
 ### Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580)
 * [GuitarTuna: Guitar, Bass tuner](https://itunes.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389)
 * [GarageBand](https://itunes.apple.com/ca/app/garageband/id408709785)
-* [Shazam](https://itunes.apple.com/ca/app/shazam/id284993459?mt=8&app=itunes&ign-mpt=uo%3D4)
+* [SoundHound - Music Discovery](https://apps.apple.com/us/app/soundhound-music-discovery/id355554941)
 
 ### Translation
 * [Lingvo Dictionary - Multilingual Translator](https://itunes.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146)
@@ -83,15 +86,15 @@ keywords: iOS, apps
 * [Multitran](https://itunes.apple.com/ca/app/multitran/id1090468498)
 
 ### Utilities
-* [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335)
 * [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044)
 * [UPS Mobile](https://itunes.apple.com/ca/app/ups-mobile/id336377331)
 
 ### Paid
+* [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — 2.99 C$/month
 * [Amount - Unit Converter](https://itunes.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — 1 C$
 * [AnkiMobile Flashcards](https://itunes.apple.com/ca/app/ankimobile-flashcards/id373493387) — 35 C$
 * [Hours & Minutes Calculator](https://itunes.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$
-* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051) — 11 C$/month (FullHD), 14 C$/month (4K)
+* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051) — 9.99 C$/month (SD), 14.99 C$/month (Full HD), 18.99 C$/month (4K)
 * [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333) — 6.58 C$/month
 * [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — 3.5 C$/month
 * [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023) — 3.99 C$
@@ -129,6 +132,8 @@ keywords: iOS, apps
 #### Banking
 * [TD Canada](https://itunes.apple.com/ca/app/td-canada/id358790776)
 * [RBC Mobile](https://itunes.apple.com/ca/app/rbc-mobile/id407597290)
+* [Omni by Desjardins](https://apps.apple.com/ca/app/omni-by-desjardins/id778593359)
+* [Desjardins mobile services](https://apps.apple.com/ca/app/desjardins-mobile-services/id386636953)
 
 #### Health
 * [Manulife Mobile](https://itunes.apple.com/ca/app/manulife-mobile/id1214009312)

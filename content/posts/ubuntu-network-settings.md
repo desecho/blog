@@ -3,7 +3,7 @@ title: "Ubuntu Network Settings"
 date: 2012-08-28T22:17:00
 comments: true
 categories: Ubuntu
-keywords: ubuntu, network configuration, administration
+keywords: ubuntu, network, configuration, administration
 ---
 
 ## IP Configuration

@@ -3,7 +3,7 @@ title: "macOS Tips"
 date: 2016-07-20T01:41:00
 comments: true
 categories: macOS
-keywords: macos
+keywords: macos, tips
 ---
 
 ## Installation

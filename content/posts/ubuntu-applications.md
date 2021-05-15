@@ -9,6 +9,7 @@ keywords: ubuntu, programs, applications, apps
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)
+* [Apache OpenOffice](https://www.openoffice.org/download/index.html)
 
 ## Browsers
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
@@ -21,3 +22,6 @@ keywords: ubuntu, programs, applications, apps
 
 ## Mining
 * [lolMiner](https://github.com/Lolliedieb/lolMiner-releases/releases)
+
+## Administration
+* [TeamViewer](http://www.teamviewer.com/) — the All-In-One Software for Remote Support and Online Meetings

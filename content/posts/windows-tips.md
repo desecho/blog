@@ -3,7 +3,7 @@ title: "Windows Tips"
 date: 2018-02-25T20:43:49-05:00
 comments: true
 categories: Windows
-keywords: windows
+keywords: windows, tips
 ---
 
 ## Windows Configuration

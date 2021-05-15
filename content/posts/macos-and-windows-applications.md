@@ -1,7 +1,9 @@
 ---
 title: "macOS and Windows Applications"
 date: 2020-09-11T10:46:21-04:00
-draft: true
+comments: true
+categories: ['macOS', 'Windows']
+keywords: windows, apps, applications, programs, macos
 ---
 
 ## Languages
@@ -18,6 +20,7 @@ draft: true
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)
+* [Apache OpenOffice](https://www.openoffice.org/download/index.html)
 
 ## Communication
 * [Jami](https://jami.net/) — Jami is free software for universal communication which respects freedoms and privacy of its users
@@ -55,6 +58,6 @@ draft: true
 * [Room Sketcher](https://www.roomsketcher.com/)
 
 ## Paid
-* [1Password](https://1password.com/) — 69.99 C$
+* [1Password](https://1password.com/) — 2.99 C$/month
 * [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) — 10 C$/month
 * [NordVPN](https://nordvpn.com) — 3.5 C$/month

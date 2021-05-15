@@ -2,8 +2,8 @@
 title: "Google Chrome Extensions"
 date: 2018-03-11T04:39:01-04:00
 comments: true
-categories: windows, Ubuntu, macOS
-keywords: windows, Ubuntu, macos, chrome, extensions, browser
+categories: ['Chrome']
+keywords: chrome, extensions, browser
 ---
 
 ## Development
@@ -22,3 +22,8 @@ keywords: windows, Ubuntu, macos, chrome, extensions, browser
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk)
 * [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en)
+* [Alternate Player for Twitch.tv](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
+* [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+* [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl)
+* [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+* [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj)

@@ -3,7 +3,7 @@ title: "Ubuntu commands"
 date: 2012-08-30T02:28:00
 comments: true
 categories: Ubuntu
-keywords: ubuntu, commands, ubuntu cli
+keywords: ubuntu, commands, cli
 ---
 
 Program execution: `program -[option1][option2] --[special_option]`.

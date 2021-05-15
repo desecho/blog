@@ -3,7 +3,7 @@ title: "macOS Applications"
 date: 2014-07-09T21:37:00
 comments: true
 categories: macOS
-keywords: macos
+keywords: macos, apps, applications, programs
 ---
 
 ## Homebrew
