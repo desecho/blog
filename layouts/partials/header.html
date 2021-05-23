@@ -53,7 +53,7 @@
                     {{ if .Site.Menus.main }}
                         <ul class="nav navbar-nav">
                             {{ range sort .Site.Menus.main }}
-                                {{ if eq .URL "https://desecho.org" }}
+                                {{ if eq .URL "https://samarchyan.me" }}
                                   <li><a href="{{ .URL | absURL }}" title="{{ .Name }}" target="_blank">{{ .Name }}</a></li>
                                 {{ else }}
                                   <li><a href="{{ .URL | absURL }}" title="{{ .Name }}">{{ .Name }}</a></li>

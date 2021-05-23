@@ -1,4 +1,4 @@
-baseURL = "https://blog.desecho.org"
+baseURL = "https://blog.samarchyan.me"
 languageCode = "en-us"
 title = "IT Blog"
 theme = "minimal"
@@ -37,8 +37,8 @@ paginate = 100
     weight = 2
 
 [[menu.main]]
-    url = "https://desecho.org"
-    name = "desecho.org"
+    url = "https://samarchyan.me"
+    name = "samarchyan.me"
     weight = 3
 
 [blackfriday]

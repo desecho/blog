@@ -8,10 +8,10 @@ metadata:
 spec:
   tls:
   - hosts:
-    - blog.desecho.org
+    - blog.samarchyan.me
     secretName: blog-tls
   rules:
-  - host: blog.desecho.org
+  - host: blog.samarchyan.me
     http:
       paths:
       - pathType: Prefix
