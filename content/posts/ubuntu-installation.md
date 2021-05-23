@@ -9,7 +9,7 @@ keywords: ubuntu, installation
 ## Write Ubuntu image on a flash drive
 
 ```bash
-hdiutil convert -format UDRW -o ~/image ubuntu-12.10-desktop-amd64.iso
+hdiutil convert -format UDRW -o ~/image ubuntu.iso
 diskutil list  # find which drive is a flash drive
 diskutil unmountDisk /dev/disk2  # disk2 is an example
 sudo dd if=~/image.dmg of=/dev/rdisk2 bs=1m

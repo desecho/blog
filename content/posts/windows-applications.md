@@ -36,6 +36,7 @@ keywords: windows, apps, applications, programs
 * [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows) — DS4Windows is an extract anywhere program that allows you to get the best DualShock 4 experience on your PC
+* [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
 ## Graphics
 * [Paint.NET](https://www.getpaint.net)

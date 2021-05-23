@@ -29,6 +29,10 @@ Color management → Advanced → Display calibration → Calibrate display.
 Right-click on the taskbar → Cortana → Hidden.  
 Right-click on the taskbar → Show People Button → uncheck.  
 
+### Install Posy's improved cursors
+
+[Posy's improved cursors](http://www.michieldb.nl/other/cursors/)
+
 ### Access startup
 
 Press [Win + R], enter `shell:startup`.
