@@ -9,6 +9,12 @@ keywords: macos, tips
 ## Installation
 Do not format your drive as a case-sensitive partition. You won't be able to run applications like Steam or Photoshop.
 
+## Settings
+
+Open Finder → Preferences
+
+![Finder Preferences](/images/finder-preferences.png)
+
 ## macOS Configuration
 Contacts → File → New Smart Group → Card/is not member of/any group.
 

@@ -97,3 +97,7 @@ footer {
 img {
     max-width: 100%;
 }
+
+/* Custom */
+
+img[alt="Finder Preferences"] { width: 351px; }

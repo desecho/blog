@@ -9,4 +9,4 @@ keywords: editing
 ## Useful symbols
 
 * —
-* →
+* → / ← / ↑ / ↓
