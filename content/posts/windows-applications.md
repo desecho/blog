@@ -14,6 +14,9 @@ keywords: windows, apps, applications, programs
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
 * [Epic Games](https://www.epicgames.com/store/)
 
+## Cloud Storage
+* [Amazon Photos](https://www.amazon.com/Amazon-Photos/b?ie=UTF8&node=13234696011)
+
 ### Steam
 * [Depressurizer](https://github.com/mvegter/Depressurizer) — manage steam library
 
