@@ -67,12 +67,13 @@ keywords: ios, apps, applications, programs
 * [IKEA Place](https://apps.apple.com/us/app/ikea-place/id1279244498)
 * [IKEA](https://apps.apple.com/gb/app/ikea/id1452164827)
 
-### TV/Streams
+### TV/Movies/Streaming
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664)
-* [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
+* [Tubi - Watch Movies & TV Shows](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
 * [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923)
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359)
+* [Plex: Movies, TV, Music & More](https://apps.apple.com/us/app/plex/id383457673)
 
 ### Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580)
@@ -98,6 +99,7 @@ keywords: ios, apps, applications, programs
 * [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333) — 6.58 C$/month
 * [NordVPN - Easy & Unlimited VPN](https://itunes.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — 3.5 C$/month
 * [Last Time Tracker](https://itunes.apple.com/ca/app/last-time-tracker/id534982023) — 3.99 C$
+* [Infuse 7](https://apps.apple.com/app/id1136220934) — 104.99 C$
 
 ### Reference
 * [Wikipedia](https://itunes.apple.com/ca/app/wikipedia/id324715238)
@@ -217,3 +219,18 @@ keywords: ios, apps, applications, programs
 
 #### Paid
 * [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498) — 14 C$
+
+## Apple TV
+
+### TV/Movies/Streaming
+* [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664)
+* [Tubi - Watch Movies & TV Shows](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756)
+* [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
+* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923)
+* [The CW](https://apps.apple.com/us/app/the-cw/id491730359)
+* [Plex: Movies, TV, Music & More](https://apps.apple.com/us/app/plex/id383457673#?platform=appleTV)
+
+### Paid
+* [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051) — 9.99 C$/month (SD), 14.99 C$/month (Full HD), 18.99 C$/month (4K)
+* [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333) — 6.58 C$/month
+* [Infuse 7](https://apps.apple.com/app/id1136220934) — 104.99 C$

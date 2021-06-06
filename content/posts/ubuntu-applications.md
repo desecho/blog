@@ -25,3 +25,6 @@ keywords: ubuntu, programs, applications, apps
 
 ## Administration
 * [TeamViewer](http://www.teamviewer.com/) — the All-In-One Software for Remote Support and Online Meetings
+
+## TV/Movies/Streaming
+* [Plex](https://www.plex.tv/)

@@ -16,6 +16,7 @@ keywords: windows, apps, applications, programs, macos
 * [KeePassX](http://www.keepassx.org/) — KeePassX is an application for people with extremly high demands on secure personal data management
 * [PLINK](https://www.cog-genomics.org/plink/)
 * [LICEcap](https://www.cockos.com/licecap/) — simple animated screen captures
+* [MakeMKV](http://makemkv.com/)
 
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
@@ -52,9 +53,10 @@ keywords: windows, apps, applications, programs, macos
 * [Free Download Manager](http://freedownloadmanager.org)
 * [μTorrent](http://www.utorrent.com/)
 
-## TV/Movies/Streams
+## TV/Movies/Streaming
 * [Kodi](https://kodi.tv/)
 * [Twitch Desktop App](https://app.twitch.tv/)
+* [Plex](https://www.plex.tv/)
 
 ## Miscellaneous
 * [Room Sketcher](https://www.roomsketcher.com/)

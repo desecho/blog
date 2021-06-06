@@ -42,3 +42,4 @@ keywords: macos, apps, applications, programs
 * [CrossOver](http://www.codeweavers.com/products/) — install Windows applications and PC Games on your Mac OS — 40 C$
 * [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) — firewall — 45 C$
 * [TaskPaper](https://www.taskpaper.com/) — plain text to-do lists — 25 C$
+* [Infuse 7](https://apps.apple.com/app/id1136220934) — 104.99 C$
