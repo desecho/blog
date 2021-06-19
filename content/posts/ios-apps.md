@@ -74,6 +74,7 @@ keywords: ios, apps, applications, programs
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923)
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359)
 * [Plex: Movies, TV, Music & More](https://apps.apple.com/us/app/plex/id383457673)
+* [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595)
 
 ### Music
 * [Spotify Music](https://itunes.apple.com/ca/app/spotify-music/id324684580)
@@ -195,6 +196,7 @@ keywords: ios, apps, applications, programs
 ## Devices
 * [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897)
 * [Qardio heart health](https://itunes.apple.com/ca/app/qardio-heart-health/id855275752)
+* [LG ThinQ](https://apps.apple.com/us/app/lg-thinq/id993504342)
 
 ### Canada
 
@@ -229,6 +231,7 @@ keywords: ios, apps, applications, programs
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923)
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359)
 * [Plex: Movies, TV, Music & More](https://apps.apple.com/us/app/plex/id383457673#?platform=appleTV)
+* [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595)
 
 ### Paid
 * [Netflix](https://itunes.apple.com/ca/app/netflix/id363590051) — 9.99 C$/month (SD), 14.99 C$/month (Full HD), 18.99 C$/month (4K)
