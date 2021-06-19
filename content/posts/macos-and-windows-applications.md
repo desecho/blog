@@ -61,6 +61,9 @@ keywords: windows, apps, applications, programs, macos
 ## Miscellaneous
 * [Room Sketcher](https://www.roomsketcher.com/)
 
+## Project management
+* [Asana](https://asana.com/download)
+
 ## Paid
 * [1Password](https://1password.com/) — 2.99 C$/month
 * [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) — 10 C$/month
