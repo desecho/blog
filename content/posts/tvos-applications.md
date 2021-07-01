@@ -11,8 +11,13 @@ keywords: tvos, apps, applications, programs
 * [Twitch: Live Game Streaming](https://apps.apple.com/us/app/twitch-live-game-streaming/id460177396)
 * [YouTube: Watch, Listen, Stream](https://itunes.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664?mt=8&uo=4&at=11l6hc&ct=fnd)
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359)
+* [Plex: Movies, TV, Music & More](https://apps.apple.com/us/app/plex/id383457673#?platform=appleTV)
+* [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595)
 
 ## Paid
+
+## Video
+* [Infuse 7](https://apps.apple.com/app/id1136220934) — 104.99 C$
 
 ### Streaming
 * [Amazon Prime Video](https://itunes.apple.com/ca/app/amazon-prime-video/id545519333?mt=8&uo=4&at=11l6hc&app=itunes&ct=fnd) — 6.58 C$/month
