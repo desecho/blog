@@ -13,6 +13,7 @@ keywords: windows, apps, applications, programs
 * [Uplay](https://uplay.ubi.com/) — Ubisoft's PC games portal.
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
 * [Epic Games](https://www.epicgames.com/store/)
+* [Amazon Games](https://gaming.amazon.com/)
 
 ## Cloud Storage
 * [Amazon Photos](https://www.amazon.com/Amazon-Photos/b?ie=UTF8&node=13234696011)
