@@ -28,7 +28,6 @@ keywords: windows, apps, applications, programs
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) — Easy Window Switcher brings the convenience of Mac's easy window switching to Windows
 * [WinDirStat](https://windirstat.net/) — a disk usage statistics viewer and cleanup tool
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
-* [SMTP Prober](http://www.alexnolan.net/software/SMTPProber.htm)
 * [Turn off screen](https://gallery.technet.microsoft.com/scriptcenter/Turn-off-screen-4d173e0a)
 * [Bat To Exe Converter](https://bat-to-exe-converter.en.uptodown.com/windows)
 * [PS Hot Launch VVL](http://www.pssoftlab.com/pshl_info.phtml)
@@ -42,6 +41,8 @@ keywords: windows, apps, applications, programs
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows) — DS4Windows is an extract anywhere program that allows you to get the best DualShock 4 experience on your PC
 * [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 * [TakeOwnershipEx](https://winaero.com/takeownershipex/)
+* [Fraps](https://fraps.com/)
+* [Avast Free Antivirus](https://www.avast.com/)
 
 ## Graphics
 * [Paint.NET](https://www.getpaint.net)
