@@ -127,6 +127,7 @@ For all of the commands below: `-r` — recursive change.
 ## Additional
 * `wget [file-url]` — download file
 * `watch [command]` — watch changes of the command continuously
+    * `watch '[command1] | [command2]'` — watch changes of the command continuously with usage of pipes
 * `man [program]` — get *program* manual
 * `date` — show current date and time
     * `date -d "yesterday" '+%d-%m-%Y'` — get yesterday's day in a specified format
