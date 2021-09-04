@@ -7,45 +7,45 @@ keywords: windows, apps, applications, programs
 ---
 
 ## Communication
-* [VK Messenger](https://vk.com/messenger)
+* [VK Messenger](https://vk.com/messenger) — simple and convenient messaging app for VK
 
 ## Games
-* [Uplay](https://uplay.ubi.com/) — Ubisoft's PC games portal.
-* [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/)
-* [Epic Games](https://www.epicgames.com/store/)
+* [Ubisoft Connect](https://ubisoftconnect.com/en-US/) — Ubisoft Connect is the ecosystem of players services for Ubisoft games across all platforms
+* [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/) — play all your games in windowed borderless mode
+* [Epic Games Launcher](https://www.epicgames.com/store/)
 * [Amazon Games](https://gaming.amazon.com/)
 
 ## Cloud Storage
-* [Amazon Photos](https://www.amazon.com/Amazon-Photos/b?ie=UTF8&node=13234696011)
+* [Amazon Photos](https://www.amazon.com/Amazon-Photos/b?ie=UTF8&node=13234696011) — full-resolution photo and video storage
 
 ### Steam
-* [Depressurizer](https://github.com/mvegter/Depressurizer) — manage steam library
+* [Depressurizer](https://github.com/mvegter/Depressurizer) — a Steam library categorizing tool
 
 ## Media
-* [K-Lite Codec Pack](http://codecguide.com/)
+* [K-Lite Codec Pack](http://codecguide.com/) — K-Lite Codec Pack is a collection of DirectShow filters, VFW/ACM codecs, and tools. Codecs and DirectShow filters are needed for encoding and decoding audio and video formats.
 
 ## Utils
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) — Easy Window Switcher brings the convenience of Mac's easy window switching to Windows
 * [WinDirStat](https://windirstat.net/) — a disk usage statistics viewer and cleanup tool
-* [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
-* [Turn off screen](https://gallery.technet.microsoft.com/scriptcenter/Turn-off-screen-4d173e0a)
-* [Bat To Exe Converter](https://bat-to-exe-converter.en.uptodown.com/windows)
-* [PS Hot Launch VVL](http://www.pssoftlab.com/pshl_info.phtml)
-* [ScreenBright](https://screenbright.en.lo4d.com/)
-* [Synkron](http://synkron.sourceforge.net/)
-* [AutoHotkey](https://www.autohotkey.com/)
-* [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker)
-* [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
-* [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
-* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) — PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator
+* [PS Hot Launch VVL](http://www.pssoftlab.com/pshl_info.phtml) — PS Hot Launch is meant to quickly run different applications, open documents, go to the right folders and web pages, send mail to a specified address, etc
+* [ScreenBright](https://screenbright.en.lo4d.com/) — a small, but discontinued little app which can modify the colors displayed on your monitor
+* [Synkron](http://synkron.sourceforge.net/) — an application that helps you keep your files and folders always updated
+* [AutoHotkey](https://www.autohotkey.com/) — the ultimate automation scripting language for Windows
+* [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) — 7+ Taskbar Tweaker allows you to configure various aspects of the Windows taskbar
+* [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) — Equalizer APO is a parametric/graphic equalizer for Windows. It is implemented
+* [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/) — Peace equalizer is a Windows PC interface for Equalizer APO
+* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) — HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows) — DS4Windows is an extract anywhere program that allows you to get the best DualShock 4 experience on your PC
-* [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
-* [TakeOwnershipEx](https://winaero.com/takeownershipex/)
-* [Fraps](https://fraps.com/)
-* [Avast Free Antivirus](https://www.avast.com/)
+* [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview) — TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections
+* [TakeOwnershipEx](https://winaero.com/takeownershipex/) — TakeOwnershipEx can be used to obtain full access to files and folders on your computer
+* [Fraps](https://fraps.com/) — Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology
+* [Avast Free Antivirus](https://www.avast.com/) — essential protection that’s light, powerful, and completely free
+* [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) — the NVIDIA Broadcast app transforms any room into a home studio
+* [Monitor Profile Switcher](https://sourceforge.net/projects/monitorswitcher/) — save and easily switch between Windows multi monitor configurations
 
 ## Graphics
-* [Paint.NET](https://www.getpaint.net)
+* [Paint.NET](https://www.getpaint.net) — Paint.NET is image and photo editing software
 
-## Mining
-* [lolMiner](https://github.com/Lolliedieb/lolMiner-releases/releases)
+## Paid
+* [CCleaner](https://www.ccleaner.com/ccleaner) — CCleaner is the number-one tool for cleaning your PC. It protects your privacy and makes your computer faster and more secure! — 34.95 C$/year

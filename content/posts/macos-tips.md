@@ -18,33 +18,27 @@ Open Finder → Preferences
 ## macOS Configuration
 Contacts → File → New Smart Group → Card/is not member of/any group.
 
-## Remove duplicates in "open with"
+## Remove Duplicates in "open with"
 ```bash
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user
 ```
 
-## View sleep/wake log
+## View Sleep/Wake Log
 
 ```bash
 pmset -g log|grep -e " Sleep  " -e " Wake  "
 ```
 
-## Reindex Spotlight index
+## Reindex Spotlight Index
 ```bash
 sudo mdutil -E /
 sudo mdutil -i on /
 ```
 
-## How to wipe your Mac & reset to factory settings
+## How to Wipe Your Mac & Reset to Factory Settings
 
 * Restart, then hold down the [Command + R] until you see an Apple logo or spinning globe
 * Select `Disk Utility` and click `Continue`
 * Click the Erase button
 * Select `Reinstall macOS`
 * If you plan to give away your Mac, see details in the article [How to reinstall macOS](https://support.apple.com/en-gb/HT204904)
-
-## Hotkeys
-
-* [Command + Option + Esc] — open Force Quit Applications window
-* [Command + Spacebar] — open Spotlight Search
-* [Ctrl + Spacebar] — switch input source

@@ -6,7 +6,8 @@ categories: editing
 keywords: editing
 ---
 
-## Useful symbols
-
 * —
-* → / ← / ↑ / ↓
+* →
+* ←
+* ↑
+* ↓

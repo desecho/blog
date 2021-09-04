@@ -9,9 +9,6 @@ keywords: windows, apps, applications, programs, macos
 ## Languages
 * [Anki](https://apps.ankiweb.net/)
 
-## Administration
-* [TeamViewer](http://www.teamviewer.com/) — the All-In-One Software for Remote Support and Online Meetings
-
 ## Utils
 * [KeePassX](http://www.keepassx.org/) — KeePassX is an application for people with extremly high demands on secure personal data management
 * [PLINK](https://www.cog-genomics.org/plink/)

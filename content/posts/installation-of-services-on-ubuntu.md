@@ -6,13 +6,9 @@ categories: Ubuntu
 keywords: ubuntu, samba, installation, ssl, stunnel4, service
 ---
 
-## Install a service
-
-Create file with contents:
-
-```
-/etc/systemd/system/[name].service
-
+## Install a Service
+Create file `/etc/systemd/system/[name].service` with contents:
+```ini
 [Unit]
 Description=[Service Name]
 After=syslog.target
@@ -28,14 +24,12 @@ WantedBy=multi-user.target
 ```
 
 Run
-
-```
+```bash
 chmod 644 /etc/systemd/system/[name].service
 systemctl daemon-reload
 ```
 
 ## Samba
-
 ```bash
 sudo apt-get install samba
 sudo smbpasswd -a [user] # Set a password for your user in Samba
@@ -43,8 +37,7 @@ sudo nano /etc/samba/smb.conf
 ```
 
 Add this to the end of the file:
-
-```
+```ini
 [[name]]
 path = [path]
 available = yes
@@ -59,7 +52,7 @@ writable = yes
 sudo restart smbd
 ```
 
-## stunnel4
+## Stunnel4
 
 Stunnel allows old devices which don't support SMTP connections through SSL to support them.
 
@@ -78,15 +71,14 @@ sudo nano /etc/stunnel/stunnel.conf
 ```
 
 Change:
-
-```
+```ini
 cert = /etc/ssl/certs/mail.pem
 sslVersion = all
 ```
 
-Add: (example)
+Add config (for example):
 
-```
+```ini
 [yandex-smtp]
 client = yes
 accept = 0.0.0.0:25

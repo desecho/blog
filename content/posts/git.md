@@ -6,16 +6,15 @@ categories: Git
 keywords: git, source control
 ---
 
-[Git](http://git-scm.com/)
-[Git Documentation](https://git-scm.com/doc)
+* [Git](http://git-scm.com/)
+* [Git Documentation](https://git-scm.com/doc)
 
 ## Basics
-
 * `master` : default branch
 * `origin` : upstream repository by default
-* `head` : current branch
-* `head^` : parent branch of the current branch
-* `head~~` or `head~2` : n-th parent of the current branch
+* `HEAD` : current branch
+* `HEAD^` : parent branch of the current branch
+* `HEAD~~` or `HEAD~2` : n-th parent of the current branch
 
 ## Commands
 ```bash
@@ -30,12 +29,14 @@ git push -f  # Force push
 git branch  # List all local branches
 git branch -r  # List all remote branches
 git branch -a  # List local and remote branches
-git branch -D [branch]  # Delete a branch
+git branch -D [branch]  # Delete [branch]
 git branch -m [branch]  # Rename current branch to [branch]
-git branch [branch]  # Create a branch
+git branch [branch]  # Create [branch]
 
-git checkout [branch]
-git checkout -b [branch]  # Create a new branch and checkout the new branch.
+git checkout [branch] # Switch to [branch]
+git switch [branch] # Switch to [branch]
+git checkout -b [branch]  # Create a new [branch] and switch to it
+git switch -c [branch]  # Create a new [branch] and switch to it
 git checkout -b [new-branch] [existing-branch]
 
 git status
@@ -59,7 +60,8 @@ git add .  # Stage all files
 git add -p  # Interactive staging
 git add -N [file]  # Just add a file to the tracking
 
-git checkout -- [file]  # Removes all changes to [file]
+git checkout -- [file] # Removes all changes to [file]
+git restore [file] # Removes all changes to [file]
 git checkout -f  # Remove all changes to the last commit
 git reset --hard  # Remove all changes to the last commit
 
@@ -80,10 +82,9 @@ git clean -f  # Delete untracked files
 git revert [commit]
 
 git commit -m'[commit message]'
-git commit -a  # Commit all changed files except for untracked files. Also, delete deleted
-			   # files.
+git commit -a  # Commit all changed files except for untracked files. Also, delete deleted files
 git commit --amend  # Amend a commit (with staged files)
-git commit --amend --author="Anton Samarchyan <desecho@gmail.com>"  # Change the author of previous commit
+git commit --amend --author="[Name] <[email]>"  # Change the author of previous commit
 git commit --amend --no-edit  # Amend a commit without changing the commit message
 
 git stash
@@ -120,27 +121,27 @@ git show :3:[file] > [file3]  # Version from test branch
 ```
 
 ## Submodules
-### Initiate submodules and load them
-```
+### Initiate Submodules and Load Them
+```bash
 git submodule init
 git submodule update
 ```
 
-### How to add a submodule
-```
+### How to Add a Submodule
+```bash
 git submodule add http://github.com/[username]/[repo].git my/path
 ```
 
-### How to remove a submodule
+### How to Remove a Submodule
 1. Delete the relevant section from the .gitmodules file
 2. `git add .gitmodules`
 3. Delete the relevant section from .git/config
-4. `git rm --cached [path_to_submodule]  # (no trailing slash)`
-5. `rm -rf .git/modules/[path_to_submodule]`
+4. `git rm --cached [path-to-submodule]  # (no trailing slash)`
+5. `rm -rf .git/modules/[path-to-submodule]`
 6. `git commit -m "Removed submodule [name]"`
-7. `rm -rf [path_to_submodule]`
+7. `rm -rf [path-to-submodule]`
 
-# Update branch with upstream
+# Update Branch With Upstream
 ```bash
 git remote add upstream https://github.com/[user]/[project].git
 git fetch upstream
@@ -150,22 +151,23 @@ git rebase upstream/master
 
 ## Tips
 
-### Ignore files without adding them to .gitignore.
+### Ignore Files Without Adding Them to .gitignore
 Edit file `.git/info/exclude`
 
-### Ignore files only in diff command
+### Ignore Files Only in Diff Command
 Create a repository specific diff driver:
 
-for Linux:
-`$true = /bin/true`
+* in Linux:
+    * `TRUE=/bin/true`
+* in macOS:
+    * `TRUE=/usr/bin/true`
 
-for Mac OS:
-`$true = /usr/bin/true`  
-`git config diff.nodiff.command $true`
+`git config diff.nodiff.command $TRUE`
 
-Then, assign the new diff driver to those files you want ignored in your `.git/info/attributes` file.
-`[file]    diff=nodiff`
+Then, assign the new diff driver to those files you want to be ignored:
+```bash
+echo "[file]    diff=nodiff" >> .git/info/attributes
+```
 
-## Remove data from repository's history
-
+## Remove Data From Repository’s History
 [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)

@@ -37,6 +37,9 @@ keywords: development, tools, coding
 * [P4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
 * [ngrok](https://ngrok.com/) — introspected tunnels to localhost
 
+### Source Control Management
+* [Sublime Merge](https://www.sublimemerge.com/) — line-by-line staging. Commit editing. Unmatched performance
+
 ## macOS and Windows Apps
 
 ### Source Control Management

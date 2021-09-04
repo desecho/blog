@@ -6,12 +6,14 @@ categories: Ubuntu
 keywords: ubuntu, installation
 ---
 
-## Write Ubuntu image on a flash drive
+## Ubuntu Installation Using a Flash Drive
 
-```bash
-hdiutil convert -format UDRW -o ~/image ubuntu.iso
-diskutil list  # find which drive is a flash drive
-diskutil unmountDisk /dev/disk2  # disk2 is an example
-sudo dd if=~/image.dmg of=/dev/rdisk2 bs=1m
-diskutil eject /dev/disk2
-```
+How to create a bootable USB stick
+
+* [Ubuntu](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu)
+* [Windows](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows)
+* [macOS](https://ubuntu.com/tutorials/create-a-usb-stick-on-macos)
+
+## Ubuntu Installation on a VM
+
+[How to install Ubuntu on a VM](https://github.com/desecho/ubuntu-vm)

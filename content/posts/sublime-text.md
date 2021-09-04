@@ -6,13 +6,12 @@ categories: ['Sublime Text']
 keywords: sublime text, editor
 ---
 
-[Sublime Text](http://www.sublimetext.com/3)
+[Sublime Text](http://www.sublimetext.com/)
 
 ## Settings
 
 ### Project settings example
-
-```
+```json
 {
     "folders":
     [
@@ -27,48 +26,15 @@ keywords: sublime text, editor
 
 ## Tips
 
-The way to edit current projects (in the switch project list): Edit workspaces: `~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session`.
+### Edit Current Projects in the Switch Project List
+Edit workspaces: `~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session`.
 
-## Hotkeys
-
-* [Cmd + P] — switch files
-* [Cmd + R] — go to functions/classes
-* [Cmd + D] — quick select
-* [Cmd + K], [Cmd + d] — skip selection
-* [Cmd + Shift + L] — create multiple cursors
-* [Cmd + Shift + P] — command mode
-* [Cmd + F] — find text
-* [Cmd + F], [alt + enter] —  find text and then select them all
-* [Cmd + Alt + F] — replace text
-* [Cmd + /] — comment/uncomment
-* [Cmd + Ctrl + F] — full screen
-* [Cmd + Ctrl + Shift + F] — distraction free
-* [Cmd + K + B] — toggle sidebar
-* [Ctrl + G] — go to line number
-* [Ctrl + L] — center window
-* [Cmd + L] — select line
-* [Ctrl + Shift + K] — delete line
-* [Cmd + ]] — indent
-* [Cmd + [] — unindent
-* [Cmd + Shift + Alt + 2/3] — change window layout to 2 or 3 rows
-* [Cmd + Alt + 1/2/3] — change window layout to 1/2/3 columns
-* [Ctrl + M] — go to matching bracket
-* Bookmarks
-    * [Cmd + F2] — create/delete bookmark
-    * [Cmd + Shift + F2] — clear bookmarks
-    * [F2] — go to next bookmark
-    * [Shift + F2] — go to previous bookmark
-
-
-## Ubuntu
-
-Enable middle mouse support.
-
+### Enable Middle Mouse Button Support in Ubuntu
 ```bash
 nano ~/.config/sublime-text-3/Packages/User/Default\ \(Linux\).sublime-mousemap
 ```
 
-```
+```json
 [
     // Mouse 3 column select
     {

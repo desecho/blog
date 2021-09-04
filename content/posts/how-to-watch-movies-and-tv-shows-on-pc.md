@@ -6,18 +6,18 @@ categories: Windows
 keywords: windows, tv, movies, tv-shows
 ---
 
-## VPN 
+## VPN
 
-It is better to use VPN to stream videos. I would recommend [NordVPN](https://nordvpn.com). It costs about 3.5 C$/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix & Amazon Prime videos that are not available in your country.
+It is better to use VPN to stream videos. I would recommend [NordVPN](https://nordvpn.com). It costs about 5.39 C$/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix & Amazon Prime videos that are not available in your country.
 
 ## Netflix & Amazon Prime
 
 You can find a list of Movies and TV shows available on Netflix & Amazon Prime on [JustWatch](https://www.justwatch.com/).
 
-### Netflix 
+### Netflix
 
-Website — http://netflix.com.  
-Price — 14 C$/month (FullHD), 17 C$/month (4K).
+Website — http://netflix.com.
+Price — 14.99 C$/month (FullHD), 18.99 C$/month (4K).
 
 Netflix is the only streaming service that allows you to watch 4K videos on a PC. It only works with Microsoft Edge browser and Netflix recommends you to have at least 25Mbit/s internet connection. You should also use the Display Port or an HDMI port and cable which supports 4K. See details on Netflix on the page ["Can I stream Netflix in Ultra HD?"](https://help.netflix.com/en/node/13444).
 
@@ -40,21 +40,21 @@ Then you can download an add-on repository:
 * [Stream Army Repo](https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/)
 
 ### Installation
-Then you can install them by running Kodi and clicking the gear → Settings → Add-ons → Enable "Unknown sources" → Back → Add-ons → Install from zip file → Choose zip file location.  
-After that, Install from repository → Choose repository and install the video add-ons you like.  
+Then you can install them by running Kodi and clicking the gear → Settings → Add-ons → Enable "Unknown sources" → Back → Add-ons → Install from zip file → Choose zip file location.
+After that, Install from repository → Choose repository and install the video add-ons you like.
 Then you can open the add-ons by hovering over Add-ons.
 
-### Resolve an audio issue
+### Resolve an Audio Issue
 There is a problem with muted sound after pausing and this is a workaround to resolve this issue.
 
-You should also install an add-on "Services - Unpause Jumpack". To install it, search for its name.  
+You should also install an add-on "Services - Unpause Jumpack". To install it, search for its name.
 Then configure it so that "Jump back onpause" section has the following values:
 
 * Jump seconds — 1
 * Minimum pause before jumpback — 0
 
-### Cache settings
-You should also create a file `%APPDATA%\kodi\userdata\advancedsettings.xml` with the following content:  
+### Cache Settings
+You should also create a file `%APPDATA%\kodi\userdata\advancedsettings.xml` with the following content:
 
 ```xml
 <advancedsettings>
@@ -67,16 +67,15 @@ You should also create a file `%APPDATA%\kodi\userdata\advancedsettings.xml` wit
 ```
 
 ### Logs
-If something ever goes wrong and you see an error, you can find the log here: `%APPDATA%\Roaming\Kodi\kodi.log`.  
+If something ever goes wrong and you see an error, you can find the log here: `%APPDATA%\Roaming\Kodi\kodi.log`.
 
 ### Real Debrid
-To be able to access more content you can subscribe to ["Real Debrid"](http://real-debrid.com/?id=2307762). It costs about 4.25 C$/month.  
+To be able to access more content you can subscribe to ["Real Debrid"](http://real-debrid.com/?id=2307762). It costs about 4.25 C$/month.
 You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, Nemesis. Select Dependencies → ResolveURL → Configure → Universal Resolvers → Real-Debrid → (Re)Authorize My Account → Follow instructions on the screen.
 
 ### 4K
-
 Nemesis → Movie Zone → 4K Movies
-Skynet → Watch The Latest Movies And Shows At The Flix → Watch At The Flix → 4K UHD Movies  
-Skynet → Maverick TV → Maverick 4K UHD Movies  
-Skynet → Maverick TV → Real Debrid 4k UHD and FHD  
-Skynet → Supremacy → 4K Movies  
+Skynet → Watch The Latest Movies And Shows At The Flix → Watch At The Flix → 4K UHD Movies
+Skynet → Maverick TV → Maverick 4K UHD Movies
+Skynet → Maverick TV → Real Debrid 4k UHD and FHD
+Skynet → Supremacy → 4K Movies

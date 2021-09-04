@@ -5,8 +5,8 @@ comments: true
 categories: ['Python', 'Web Development']
 keywords: python, installation, modules
 ---
-## Python
 
+## Python
 Create a requirements.txt file with the following format:
 
 ```
@@ -16,7 +16,7 @@ mysql-python>=1.0
 # comment
 ```
 
-Install using command: 
+Install using command:
 ```bash
 pip install -r requirements.txt
 ```

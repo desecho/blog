@@ -17,7 +17,6 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 ### Frontend
 
 #### JavaScript
-
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
 * [Vue.js Style Guide](https://vuejs.org/v2/style-guide/)
@@ -25,7 +24,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 #### HTML/CSS
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/) — standards for developing flexible, durable, and sustainable HTML and CSS
-* [Gamepad](https://www.w3.org/TR/gamepad/)
+* [Gamepad](https://www.w3.org/TR/gamepad/) — Gamepad API
 
 #### URL
 * [URL Structure](https://support.google.com/webmasters/answer/76329?hl=en)
@@ -45,5 +44,5 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 * [The Python Standard Library](http://docs.python.org/3.8/library/index.html)
 * [Django](https://docs.djangoproject.com/en/)
 
-### Sass 
+### Sass
 * [Sass](http://sass-lang.com/) — Sass is the most mature, stable, and powerful professional-grade CSS extension language in the world

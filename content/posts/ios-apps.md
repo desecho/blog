@@ -90,6 +90,7 @@ keywords: ios, apps, applications, programs
 ### Utilities
 * [Apple Support](https://itunes.apple.com/ca/app/apple-support/id1130498044)
 * [UPS Mobile](https://itunes.apple.com/ca/app/ups-mobile/id336377331)
+* [FedEx Mobile](https://apps.apple.com/us/app/fedex-mobile/id1010729050) — track, ship, locations & more
 
 ### Paid
 * [1Password](https://itunes.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — 2.99 C$/month
@@ -209,6 +210,9 @@ keywords: ios, apps, applications, programs
 
 #### Banking
 * [RBC Wallet](https://itunes.apple.com/ca/app/rbc-wallet/id1022830198)
+
+#### Health
+* [VaxiCode](https://apps.apple.com/us/app/vaxicode/id1571692711) — save your QR code
 
 ### Russia
 #### Transport

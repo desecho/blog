@@ -6,26 +6,38 @@ categories: Ubuntu
 keywords: ubuntu, configuration
 ---
 
-### Setup SSH Access from one computer to another without the need of entering a password each time
+### Setup SSH Access From One Computer to Another Without Passwords
 ```bash
-ssh-keygen -t rsa -C "[email]" -f ~/.ssh/id_rsa -N ''
-ssh-copy-id -i ~/.ssh/id_rsa.pub '-p [port] [username]@[ip]'
+EMAIL="[email]"
+PORT="[port]"
+USERNAME="[username]"
+IP="[ip]"
+ssh-keygen -t rsa -C "$EMAIL" -f ~/.ssh/id_rsa -N ""
+ssh-copy-id -i ~/.ssh/id_rsa.pub "-p $PORT $USERNAME@$IP"
 ```
 
-### Run sudo commands without password request
-`sudo visudo`  
-Add to the end: `[user] ALL=(ALL) NOPASSWD: ALL`
-
-### Set up a DNS server
+### Run Sudo Commands Without Password Request
 ```bash
-nano /etc/resolv.conf
-nameserver 8.8.8.8
+USERNAME="[username]"
+sudo su
+echo "$USERNAME ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
 ```
 
-### Protect from attacks
-[How To Protect SSH with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04?utm_source=legacy_reroute)
+### Set a DNS Server
+```bash
+sudo nano /etc/resolv.conf
+```
 
-### Enable password authentication through SSH
-```nano /etc/ssh/sshd_config```    
-Change PasswordAuthentication and ChallengeResponseAuthentication to yes.  
-```service ssh restart```
+```
+nameserver [ip]
+```
+
+### Enable Password Authentication Through SSH
+```bash
+sudo nano /etc/ssh/sshd_config
+```
+
+Change PasswordAuthentication and ChallengeResponseAuthentication to yes.
+```bash
+service ssh restart
+```

@@ -20,11 +20,5 @@ keywords: ubuntu, programs, applications, apps
 * [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software)
 * [Slack](https://slack.com/intl/en-ca/download)
 
-## Mining
-* [lolMiner](https://github.com/Lolliedieb/lolMiner-releases/releases)
-
-## Administration
-* [TeamViewer](http://www.teamviewer.com/) — the All-In-One Software for Remote Support and Online Meetings
-
 ## TV/Movies/Streaming
-* [Plex](https://www.plex.tv/)
+* [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you
