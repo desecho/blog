@@ -7,9 +7,9 @@ keywords: ubuntu, commands, cli
 ---
 
 ## Files/Directories
-* `rm [file/dir]` — remove `file` or `dir`
+* `rm [file/dir]` — remove a `file` or a `dir`
     * `-r` — delete recursively, also to delete directories
-    * `-f` — force-delete files
+    * `-f` — force-delete
 * `cp [source] [target]` — copy files/directories
     * `-r` — copy recursively
     * `-i` — show notification on conflicts
@@ -18,7 +18,7 @@ keywords: ubuntu, commands, cli
 * `scp -P [port] [user]@[hostname]:[source] [target]` — copy files/directories
 * `rsync -ah --stats -P [source] [target]` — copy files/directories with ability to resume
 * `rsync --rsync-path="sudo rsync" [source] [target]` — copy files/directories with sudo
-* `tar -cvzf [archive.tar.gz] [file/dir]` — archive `file/dir`
+* `tar -cvzf [archive.tar.gz] [file/dir]` — archive a `file/dir`
 
 ## Directories
 * `ls [dir]` — list `dir` contents
@@ -38,14 +38,14 @@ keywords: ubuntu, commands, cli
 * `ln -s [file] [link-file]` — create a symbolic link (need to use full paths)
 * `cat [file]` — print `file` contents
 * `more [file]` — show `file` contents with ability to browse through the `file`
-* `head [file]` — get `file` header
+* `head [file]` — get the `file` header
     * `-n [x]` — show `x` number of lines
-* `tail [file]` — get `file` tail
+* `tail [file]` — get the `file` tail
     * `-n [x]` — show `x` number of lines
     * `-f` — auto-update
 * `touch [file]` — create an empty `file`
-* `sed -i 's/[old-text]/[new-text]/g' [file]` — replace text in `file`
-* `truncate -s 0 [file]` — truncate `file` to 0 bytes
+* `sed -i 's/[old-text]/[new-text]/g' [file]` — replace text in a `file`
+* `truncate -s 0 [file]` — truncate a `file` to 0 bytes
 
 ## Processes
 * `ps` — show running processes
@@ -56,29 +56,29 @@ keywords: ubuntu, commands, cli
 ## Access Rights
 For all of the commands below: `-r` — recursive change.
 
-* `chgrp [group] [file/dir]` — change `group` for `file/dir`
-* `chown [user]:[group] [file/dir]` — change `file/dir` `group` and owner
-* `chown [user] [file/dir]` — change `file/dir` owner
-* `chmod [ABC] [file/dir]` — change `file/dir` mode bits to `ABC` (example — `644`)
+* `chgrp [group] [file/dir]` — change `group` for a `file/dir`
+* `chown [user]:[group] [file/dir]` — change `file/dir`'s `group` and owner
+* `chown [user] [file/dir]` — change `file/dir`'s owner
+* `chmod [ABC] [file/dir]` — change `file/dir`'s mode bits to `ABC` (example — `644`)
 * `find [path] -type d -exec chmod [ABC] {} \;` — set `ABC` permissions for all directories in `path` recursively
 * `find [path] -type f -exec chmod [ABC] {} \;` — set `ABC` permissions for all files in `path` recursively
 
 ## Search
-* `grep [text] [file/dir]` - search `text`
+* `grep [text] [file/dir]` - search for `text`
     * `-r` — recursive search
     * `-i` — case insensitive search
     * `-I` — ignore binary files
 * Search files using locate
-    * `locate [file]` — locate `file`
+    * `locate [file]` — locate a `file`
     * `sudo updatedb` — update the search index
-* `find [dir] -name "[*.*]" -type f` — list files in `dir` recursively
+* `find [dir] -name "[*.*]" -type f` — list files in a `dir` recursively
     - `-delete` — remove the found files
 * `find . -type f -exec cat {} +` — output contents of all files in the current directory
 
 ## Device Mounting
-* `mount [device] [dir]` — mount `device` to `dir`
-* `umount [device]` — unmount `device`
-* `umount [dir]` — unmount `dir`
+* `mount [device] [dir]` — mount a `device` to a `dir`
+* `umount [device]` — unmount a `device`
+* `umount [dir]` — unmount a `dir`
 
 ## Network
 * `netstat -peanut ` — show open ports
@@ -87,7 +87,7 @@ For all of the commands below: `-r` — recursive change.
 ## Administration
 * `sudo [program]` — run `program` with root privileges
     * `sudo su` — switch to user root
-    * `sudo su [user]` — switch to `user`
+    * `sudo su [user]` — switch to the `user`
 * `sudo shutdown now`/`sudo init 0` — shutdown
 * `sudo reboot` — reboot
 * `df -h` — show disk space
@@ -103,10 +103,10 @@ For all of the commands below: `-r` — recursive change.
 * `sudo passwd [user]` — change `user`'s password
 
 ### Package Management
-* `sudo dpkg -i [package]` — install `package`
+* `sudo dpkg -i [package]` — install a `package`
 * `sudo apt` — package manager
-    * `install [package]` — install `package`
-    * `remove --purge [package]` — remove `package`
+    * `install [package]` — install a `package`
+    * `remove --purge [package]` — remove a `package`
     * `update` — update the list of available packages
     * `upgrade` — upgrade installed packages
     * `autoremove` — remove unused packages
@@ -127,14 +127,14 @@ For all of the commands below: `-r` — recursive change.
     * `--resolve [domain]:[port]:[ip] [scheme]://[domain]` — send a request with specified domain resolution
 
 ## Patches
-* `diff [old_file] [new_file] > [patch]` — create `patch`
-* `patch [old_file] [patch]` — apply `patch`
+* `diff [old_file] [new_file] > [patch]` — create a `patch`
+* `patch [old_file] [patch]` — apply a `patch`
 
 ## Miscellaneous
 * `wget [file-url]` — download a file
 * `watch [command]` — watch changes of the command continuously
     * `watch '[command1] | [command2]'` — watch changes of the command continuously when using pipes
-* `man [program]` — get `program` manual
+* `man [program]` — get `program`'s manual
 * `date` — show current date and time
     * `date -d "yesterday" '+%d-%m-%Y'` — get yesterday's day in a specified format
 * `echo [text]` — print `text`

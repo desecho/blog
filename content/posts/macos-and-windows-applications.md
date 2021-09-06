@@ -12,7 +12,7 @@ keywords: windows, apps, applications, programs, macos
 ## Utils
 * [KeePassX](http://www.keepassx.org/) — KeePassX is an application for people with extremly high demands on secure personal data management
 * [PLINK](https://www.cog-genomics.org/plink/)
-* [LICEcap](https://www.cockos.com/licecap/) — simple animated screen captures
+* [LICEcap](https://www.cockos.com/licecap/) — Simple animated screen captures
 * [MakeMKV](http://makemkv.com/)
 
 ## Editors
@@ -35,8 +35,9 @@ keywords: windows, apps, applications, programs, macos
 ## Cloud Storage
 * [Dropbox](https://www.dropbox.com/)
 * [Yandex Disk](https://disk.yandex.com/)
-* [NordLocker](https://nordlocker.com/) — Includes encryption
-* [OneDrive](https://www.microsoft.com/en-ca/microsoft-365/onedrive) — Includes encryption
+* [NordLocker](https://nordlocker.com/) — Secure your files in a click and back them up on a private cloud. Your data is always within reach. Always encrypted.
+* [OneDrive](https://www.microsoft.com/en-ca/microsoft-365/onedrive) — Save your photos and files to OneDrive and access them from any device, anywhere.
+. Includes encryption
 
 ## Browsers
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)

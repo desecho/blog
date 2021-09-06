@@ -11,20 +11,20 @@ keywords: postgresql, db
 * `\dt` - show tables
 * `\d+ [table]` - show database structure
 
-## Copy DB
+## Copy a DB
 ```sql
 CREATE DATABASE [db2] WITH TEMPLATE [db1] OWNER [user];
 ```
 
 ## Commands
 
-### Connect to DB
+### Connect to a DB
 
 ```bash
 sudo -u postgres psql "user='[user]' password='[password]' host='[localhost]' port='[port]' dbname='[db_name]'"
 ```
 
-### Create DB
+### Create a new DB
 ```bash
 sudo -u postgres createdb -O user_owner --encoding='utf-8' --locale=en_US.utf8 my_database
 ```
@@ -39,7 +39,7 @@ sudo -u postgres psql "user='postgres' password='password' host='localhost' port
 sudo -u postgres psql "user='postgres' password='password' host='localhost' port='5432' dbname=my_database" -f file.sql
 ```
 
-### Create DB From Template
+### Create a DB From Template
 ```bash
 sudo -u postgres createdb -O user_owner --encoding='utf-8' --locale=en_US.utf8 -T my_database my_database2
 ```

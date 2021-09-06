@@ -23,7 +23,7 @@ keywords: documentation, styleguide, python, javascript, html, css, sass
 
 #### HTML/CSS
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* [Code Guide by @mdo](http://mdo.github.io/code-guide/) — standards for developing flexible, durable, and sustainable HTML and CSS
+* [Code Guide by @mdo](http://mdo.github.io/code-guide/) — Standards for developing flexible, durable, and sustainable HTML and CSS
 * [Gamepad](https://www.w3.org/TR/gamepad/) — Gamepad API
 
 #### URL

@@ -7,23 +7,29 @@ keywords: chrome, extensions, browser
 ---
 
 ## Development
-* [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
-* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-* [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
-* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+* [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) — EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) — Validate and view JSON documents
+* [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif) — Click the icon in the address bar or press Alt+Shift+V to validate the current page. Results can be seen in Chrome's JS console.
+* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) — Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
-## Google Drive
-* [Google Drive](https://chrome.google.com/webstore/detail/google-drive/apdfllckaahabafndbhieahigkjlhalf)
-* [Quick Drive](https://chrome.google.com/webstore/detail/quick-drive/aijfbconiilhjgfljolkoiaockgenpgn)
+## Shopping
+* [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) — Automatically find and apply coupon codes when you shop online!
+* [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en) —
 
-## Miscellaneous
-* [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh)
-* [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa)
-* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-* [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk)
-* [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en)
-* [Alternate Player for Twitch.tv](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
-* [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-* [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl)
-* [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
-* [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj)
+## YouTube
+* [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) — Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save others' time.
+* [YouTube Like-Dislike Shortcut](https://chrome.google.com/webstore/detail/youtube-like-dislike-shor/fdkpkpelkkdkjhpacficichkfifijipc) — Shift+Plus to like, Shift+Minus to dislike. Can't get any simpler.
+
+## Utils
+* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) — Chrome Remote Desktop allows users to remotely access another computer through Chrome browser or a Chromebook.
+* [Close download bar](https://chrome.google.com/webstore/detail/close-download-bar/bkfclmjddajodogcbpohgfpdkgdecgmg) — Closes the download bar via hotkey.
+* [1Password extension (desktop app required)](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) — Extends the 1Password app on your Mac or Windows PC, so you can fill and save passwords in your browser.
+* [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl) — Opt out of non-essential cookies and automatically remove cookie popups.
+* [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs
+* [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa) — Puts Google Chrome into read mode for a pleasant reading experience.
+* [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj) — Automatically sort bookmarks by title, date, or URL.
+* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) — Finally, an efficient blocker. Easy on CPU and memory.
+* [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) — Re-implements the Google Images' "View Image" and "Search by Image" buttons.
+
+## Editing
+* [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) — From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.

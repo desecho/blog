@@ -12,7 +12,7 @@ Download and install [Windows Update](https://www.microsoft.com/en-us/software-d
 ### Settings
 
 #### System
-* Display → Scale and layout → Change the size of text, apps, and other items → 200%
+* Display → Scale and layout → change the size of text, apps, and other items → 200%
 * Power & Sleep → Screen → 15 minutes
 * Power & Sleep → Sleep → Never
 * Notification & actions → Notifications → Get notifications from apps and other senders → Off
@@ -60,13 +60,12 @@ Open Settings:
 
 ### Steam
 open `Steam` → `Settings`:
-
 * `Downloads` → `Content Libraries` → `Steam library folders` → add library folder
 * `Downloads` → `Download Restrictions` → `Allow downloads during gameplay`
 
-### Uplay
-Open Settings:
-`Downloads` → `Default game installation location` → `Change`
+### Ubisoft Connect
+Open `Settings`:
+* `Downloads` → `Default game installation location` → `Change`
 
 ### GOG Galaxy
 Open `Settings` → `Downloads`:

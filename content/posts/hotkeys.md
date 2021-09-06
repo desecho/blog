@@ -51,7 +51,7 @@ keywords: hotkeys
 * [Ctrl + Alt + Shift + R] — start and stop screencast recording
 
 ### Windows
-* [Win] — Start
+* [Win] — open Start
 * [Ctrl + Shift + Esc] — open Task Manager
 * [Win + Tab] — task view
 * [Win + X] — shutdown options

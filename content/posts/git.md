@@ -133,15 +133,21 @@ git submodule add http://github.com/[username]/[repo].git my/path
 ```
 
 ### How to Remove a Submodule
-1. Delete the relevant section from the .gitmodules file
-2. `git add .gitmodules`
-3. Delete the relevant section from .git/config
-4. `git rm --cached [path-to-submodule]  # (no trailing slash)`
-5. `rm -rf .git/modules/[path-to-submodule]`
-6. `git commit -m "Removed submodule [name]"`
-7. `rm -rf [path-to-submodule]`
+Delete the relevant section from the `.gitmodules` file
 
-# Update Branch With Upstream
+```bash
+git add .gitmodules
+```
+Delete the relevant section from `.git/config`
+
+```bash
+git rm --cached [path-to-submodule]  # (no trailing slash)
+rm -rf .git/modules/[path-to-submodule]
+git commit -m "Removed submodule [name]"
+rm -rf [path-to-submodule]
+```
+
+## How to Update Branch With Upstream
 ```bash
 git remote add upstream https://github.com/[user]/[project].git
 git fetch upstream
@@ -157,16 +163,16 @@ Edit file `.git/info/exclude`
 ### Ignore Files Only in Diff Command
 Create a repository specific diff driver:
 
-* in Linux:
-    * `TRUE=/bin/true`
-* in macOS:
-    * `TRUE=/usr/bin/true`
-
-`git config diff.nodiff.command $TRUE`
-
-Then, assign the new diff driver to those files you want to be ignored:
 ```bash
-echo "[file]    diff=nodiff" >> .git/info/attributes
+# in Linux
+TRUE=/bin/true
+# in macOS
+TRUE=/usr/bin/true
+
+git config diff.nodiff.command $TRUE
+# assign the new diff driver to those files you want to be ignored
+FILE="[file]"
+echo "$FILE    diff=nodiff" >> .git/info/attributes
 ```
 
 ## Remove Data From Repository’s History

@@ -43,7 +43,7 @@ REVOKE [privilege] ON *.* FROM '[user]'@'[ip]';
 FLUSH PRIVILEGES;
 ```
 
-## Create DB
+## Create a new DB
 ```sql
 CREATE DATABASE `[name]` CHARACTER SET utf8 COLLATE utf8_general_ci;
 ```
@@ -59,7 +59,7 @@ service mysql restart
 
 ## Check the Encoding
 
-### For DB
+### For a DB
 ```sql
 SELECT default_character_set_name FROM information_schema.SCHEMATA WHERE schema_name = "[db_name]";
 ```
@@ -84,7 +84,7 @@ ALTER DATABASE [dbname] CHARACTER SET utf8 COLLATE utf8_general_ci;
 ALTER TABLE [tablename] CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 ```
 
-## Add Timezone Info to the DB
+## Add Timezone Info to a DB
 ```bash
 mysql_tzinfo_to_sql /usr/share/zoneinfo | mysql -D mysql -u root -p
 mysql -u root -p -e "flush tables;"

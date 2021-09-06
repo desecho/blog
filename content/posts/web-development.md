@@ -144,7 +144,7 @@ To create/update necessary `.po` files:
 python manage.py makemessages -a -d djangojs
 ```
 
-urls.py
+Add to `urls.py`
 
 ```python
 from django.views.i18n import JavaScriptCatalog
@@ -194,7 +194,7 @@ python_files = tests.py
 addopts = --nomigrations --reuse-db
 ```
 
-##### Install
+##### Installation
 ```bash
 pip install pytest-django
 ```
@@ -214,13 +214,13 @@ py.test apps/app_name -k test_function --create-db
 ```
 
 ## Services for Your Projects
-* [PyPI](https://pypi.python.org) — the Python Package Index
-* [Read the Docs](https://readthedocs.io) — create, host, and browse the documentation
-* [Transifex](https://www.transifex.com/) — manage translations, translate content, collaborate with translators, and automate your localization process from one central place
-* [Requires.io](https://requires.io/) — stop wasting your time by manually keeping track of changelogs. Requires.io keeps your python projects secure by monitoring their dependencies
+* [PyPI](https://pypi.python.org) — The Python Package Index
+* [Read the Docs](https://readthedocs.io) — Create, host, and browse the documentation
+* [Transifex](https://www.transifex.com/) — Manage translations, translate content, collaborate with translators, and automate your localization process from one central place
+* [Requires.io](https://requires.io/) — Stop wasting your time by manually keeping track of changelogs. Requires.io keeps your python projects secure by monitoring their dependencies
 * [Gitter](https://gitter.im/) — Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 * [Sentry](https://sentry.io) — Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 * [Say Thanks](https://saythanks.io/) — SayThanks.io provides a handy URL for you to share with your open source projects — it encourages users to send a simple thank you note to you, the creator of that project
-* [Codecov](https://codecov.io) — code coverage done right
-* [Re:plain](https://replain.cc) — the simplest live chat in the world
-* [pepy.tech](https://pepy.tech/) — a service which provides badges with a number of downloads
+* [Codecov](https://codecov.io) — Code coverage done right
+* [Re:plain](https://replain.cc) — The simplest live chat in the world
+* [pepy.tech](https://pepy.tech/) — A service which provides badges with a number of downloads
