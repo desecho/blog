@@ -66,6 +66,9 @@ keywords: hotkeys
 * [Command + Option + Esc] — open Force Quit Applications window
 * [Command + Spacebar] — open Spotlight Search
 * [Ctrl + Spacebar] — switch input source
+* [Shift + Cmd + 3] — take a screenshot
+* [Shift + Cmd + 4] — take a screenshot of a portion of the screen
+* [Shift + Cmd + 4 + Spacebar] — take a screenshot of a window or menu
 
 ### iOS
 * Power + Volume up — take a screenshot
