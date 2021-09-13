@@ -12,7 +12,7 @@ It is better to use VPN to stream videos. I would recommend [NordVPN](https://no
 
 ## Netflix & Amazon Prime
 
-You can find a list of Movies and TV shows available on Netflix & Amazon Prime on [JustWatch](https://www.justwatch.com/).
+You can find a list of movies and TV shows available on Netflix & Amazon Prime on [JustWatch](https://www.justwatch.com/).
 
 ### Netflix
 

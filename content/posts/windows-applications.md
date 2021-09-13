@@ -35,14 +35,14 @@ keywords: windows, apps, applications, programs
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) — 7+ Taskbar Tweaker allows you to configure various aspects of the Windows taskbar
 * [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) — Equalizer APO is a parametric/graphic equalizer for Windows. It is implemented
 * [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/) — Peace equalizer is a Windows PC interface for Equalizer APO
-* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) — HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed
+* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) — HWMonitor is a hardware monitoring program that reads PC systems main health sensors: voltages, temperatures, fans speed
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows) — DS4Windows is an extract anywhere program that allows you to get the best DualShock 4 experience on your PC
 * [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview) — TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections
 * [TakeOwnershipEx](https://winaero.com/takeownershipex/) — TakeOwnershipEx can be used to obtain full access to files and folders on your computer
 * [Fraps](https://fraps.com/) — Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology
 * [Avast Free Antivirus](https://www.avast.com/) — Essential protection that’s light, powerful, and completely free
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) — The NVIDIA Broadcast app transforms any room into a home studio
-* [Monitor Profile Switcher](https://sourceforge.net/projects/monitorswitcher/) — Save and easily switch between Windows multi monitor configurations
+* [Monitor Profile Switcher](https://sourceforge.net/projects/monitorswitcher/) — Save and easily switch between Windows multi-monitor configurations
 
 ## Graphics
 * [Paint.NET](https://www.getpaint.net) — Paint.NET is image and photo editing software

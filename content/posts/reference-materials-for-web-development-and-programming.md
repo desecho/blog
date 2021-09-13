@@ -14,12 +14,12 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [What's the difference between using “let” and “var” to declare a variable?](http://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable)
 
 ### Misc
-* [Superhero.js](http://superherojs.com) — A collection of the best articles, videos, and presentations on "Creating, testing and maintaining a large JavaScript code base"
+* [Superhero.js](http://superherojs.com) — A collection of the best articles, videos, and presentations on "Creating, testing and maintaining a large JavaScript codebase"
 * [JavaScript: The Good Parts](http://gnab.github.io/js-workshop/) — JavaScript presentation
 * [JavaScript. The Right Way](http://jstherightway.org/)
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 * [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [45 Useful JavaScript Tips, Tricks and Best Practices | Flippin' Awesome](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices)
+* [45 Useful JavaScript Tips, Tricks, and Best Practices | Flippin' Awesome](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices)
 * [JS Must Watch](https://github.com/bolshchikov/js-must-watch) — Must-watch videos about JavaScript
 * [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
@@ -55,7 +55,7 @@ keywords: webdev, reference, javascript, python, django, css, regex
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754)
 * [Must-watch videos about Python](https://github.com/s16h/py-must-watch) — Must-watch videos about Python
 * [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
-* [Get started with pyenv & poetry. Saviours in the python chaos!](https://blog.jayway.com/2019/12/28/pyenv-poetry-saviours-in-the-python-chaos/)
+* [Get started with pyenv & poetry. Saviors in the python chaos!](https://blog.jayway.com/2019/12/28/pyenv-poetry-saviours-in-the-python-chaos/)
 
 ### Django
 * [Django Books](https://www.twoscoopspress.com/pages/current-django-books)

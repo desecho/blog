@@ -123,7 +123,7 @@ keywords: ios, apps, applications, programs
 
 #### Shopping
 * [Best Buy Canada](https://itunes.apple.com/ca/app/best-buy-canada/id386960831)
-* [AIR MILES® Reward Progra‪m‬](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)
+* [AIR MILES® Reward Program](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)
 
 #### Food/Drinks
 * [Domino's Pizza Canada](https://itunes.apple.com/ca/app/dominos-pizza-canada/id621613017)

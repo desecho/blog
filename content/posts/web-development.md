@@ -223,4 +223,4 @@ py.test apps/app_name -k test_function --create-db
 * [Say Thanks](https://saythanks.io/) — SayThanks.io provides a handy URL for you to share with your open source projects — it encourages users to send a simple thank you note to you, the creator of that project
 * [Codecov](https://codecov.io) — Code coverage done right
 * [Re:plain](https://replain.cc) — The simplest live chat in the world
-* [pepy.tech](https://pepy.tech/) — A service which provides badges with a number of downloads
+* [pepy.tech](https://pepy.tech/) — A service that provides badges with a number of downloads

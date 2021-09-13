@@ -60,7 +60,7 @@ Open Settings:
 
 ### Steam
 open `Steam` → `Settings`:
-* `Downloads` → `Content Libraries` → `Steam library folders` → add library folder
+* `Downloads` → `Content Libraries` → `Steam library folders` → add a library folder
 * `Downloads` → `Download Restrictions` → `Allow downloads during gameplay`
 
 ### Ubisoft Connect

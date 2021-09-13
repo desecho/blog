@@ -16,7 +16,7 @@ Open Finder → Preferences
 ![Finder Preferences](/images/finder-preferences.png)
 
 ## macOS Configuration
-Contacts → File → New Smart Group → Card/is not member of/any group.
+Contacts → File → New Smart Group → Card/is not a member of/any group.
 
 ## Remove Duplicates in "open with"
 ```bash

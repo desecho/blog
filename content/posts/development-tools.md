@@ -47,7 +47,7 @@ keywords: development, tools, coding
 
 ## macOS Apps
 ### Source Control Management
-* [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) — Remove large or troublesome blobs like git-filter-branch does, but faster
+* [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) — Remove large or troublesome blobs as git-filter-branch does, but faster
 
 ### DB
 * [MongoHub](https://github.com/bububa/MongoHub-Mac) — MongoHub is a native mac GUI application for MongoDB

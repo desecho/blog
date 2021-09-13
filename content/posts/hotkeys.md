@@ -41,7 +41,7 @@ keywords: hotkeys
 * [Super] — switch between the Activities overview and desktop. In the overview, start typing to instantly search your applications, contacts, and documents
 * [Alt + F2] — pop up command window
 * [Super + Tab] — switch between apps. Hold down [Shift] for reverse order
-* [Super + \`]/[Alt + \`] — switch between windows from the same application, or from the selected application after [Super + Tab]
+* [Super + \`]/[Alt + \`] — switch between windows from the same application, or the selected application after [Super + Tab]
 * [Alt + Esc] — switch between windows in the current workspace. Hold down [Shift] for reverse order
 * [Super + A] — show the list of applications
 * [Super + Page Up] — switch to workspace above
@@ -68,7 +68,7 @@ keywords: hotkeys
 * [Ctrl + Spacebar] — switch input source
 
 ### iOS
-* Power + Volume up — take screenshot
+* Power + Volume up — take a screenshot
 * Hold Power + Volume up — turn off
 
 ## Editors

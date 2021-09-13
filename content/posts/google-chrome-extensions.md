@@ -17,12 +17,12 @@ keywords: chrome, extensions, browser
 * [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en) —
 
 ## YouTube
-* [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) — Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save others' time.
+* [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) — Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 * [YouTube Like-Dislike Shortcut](https://chrome.google.com/webstore/detail/youtube-like-dislike-shor/fdkpkpelkkdkjhpacficichkfifijipc) — Shift+Plus to like, Shift+Minus to dislike. Can't get any simpler.
 
 ## Utils
-* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) — Chrome Remote Desktop allows users to remotely access another computer through Chrome browser or a Chromebook.
-* [Close download bar](https://chrome.google.com/webstore/detail/close-download-bar/bkfclmjddajodogcbpohgfpdkgdecgmg) — Closes the download bar via hotkey.
+* [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) — Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser or a Chromebook.
+* [Close download bar](https://chrome.google.com/webstore/detail/close-download-bar/bkfclmjddajodogcbpohgfpdkgdecgmg) — Closes the download bar via a hotkey.
 * [1Password extension (desktop app required)](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) — Extends the 1Password app on your Mac or Windows PC, so you can fill and save passwords in your browser.
 * [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl) — Opt out of non-essential cookies and automatically remove cookie popups.
 * [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs
