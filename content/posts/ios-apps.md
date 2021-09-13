@@ -117,6 +117,9 @@ keywords: ios, apps, applications, programs
 * [WiFi Map - Get Free Internet](https://itunes.apple.com/ca/app/wifi-map-scan-get-fast-internet-password-free/id548925969)
 * [Booking.com Travel Deals](https://itunes.apple.com/ca/app/booking-com-travel-deals/id367003839)
 
+### Health & Fitness
+* [Lose It! – Calorie Counter](https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629) – Food Tracker for Weight Loss.
+
 ### Canada
 #### Lifestyle
 * [Centris.ca](https://apps.apple.com/ca/app/centris-ca/id604024675)
