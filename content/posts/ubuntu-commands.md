@@ -143,3 +143,5 @@ For all of the commands below: `-r` — recursive change.
 * `pwgen -ys 15 1` — generate password
 * `screen` — screen manager
     * `-r` — restore screen
+* `ssh [user]@[ip]` — connect to an `ip` with `user` through SSH
+    * `-i [key]` — connect with key
