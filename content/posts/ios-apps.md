@@ -202,7 +202,7 @@ keywords: ios, apps, applications, programs
 ### Utilities
 * [Speedtest by Ookla](https://itunes.apple.com/ca/app/speedtest-by-ookla/id300704847)
 
-## Devices
+### Devices
 * [Beddit Sleep Monitor](https://itunes.apple.com/ca/app/beddit-sleep-monitor/id794968897)
 * [Qardio heart health](https://itunes.apple.com/ca/app/qardio-heart-health/id855275752)
 * [LG ThinQ](https://apps.apple.com/us/app/lg-thinq/id993504342)
@@ -224,7 +224,10 @@ keywords: ios, apps, applications, programs
 
 ### Russia
 #### Transport
-* [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686)
+* [Yandex.Taxi](https://itunes.apple.com/ca/app/yandex-taxi/id472650686) — App to order taxi or delivery
+
+### Paid
+* [AutoSleep Track Sleep on Watch](https://apps.apple.com/us/app/autosleep-track-sleep-on-watch/id1164801111) — 5.49 C$ — Auto Sleep Tracker & Alarm
 
 ## iPad
 
@@ -232,7 +235,7 @@ keywords: ios, apps, applications, programs
 * [Calculator iRocks](https://itunes.apple.com/ca/app/calculator-irocks/id1173365557)
 
 #### Paid
-* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498) — 14 C$
+* [Procreate](https://itunes.apple.com/ca/app/procreate/id425073498) — 14 C$ — Sketch, paint, create.
 
 ## Apple TV
 
