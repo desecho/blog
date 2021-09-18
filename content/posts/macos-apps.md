@@ -1,5 +1,5 @@
 ---
-title: "macOS Applications"
+title: "macOS Apps"
 date: 2014-07-09T21:37:00
 comments: true
 categories: macOS
@@ -33,8 +33,8 @@ keywords: macos, apps, applications, programs
 * [Java JRE](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html)
 
 ## AppStore
-* [The Unarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353?mt=12&ls=1) — The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files
-* [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
+* [The Unarchiver](https://apps.apple.com/app/the-unarchiver/id425424353?mt=12&ls=1) — The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files
+* [Slack](https://apps.apple.com/app/slack/id803453959?ls=1&mt=12)
 
 ## Paid
 * [CleanMyMac](http://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac — 40 C$

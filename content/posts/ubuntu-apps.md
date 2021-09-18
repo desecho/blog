@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu applications"
+title: "Ubuntu Apps"
 date: 2019-05-18T22:13:39-04:00
 comments: true
 categories: Ubuntu

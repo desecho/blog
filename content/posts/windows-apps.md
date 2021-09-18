@@ -1,5 +1,5 @@
 ---
-title: "Windows Applications"
+title: "Windows Apps"
 date: 2018-01-30T01:33:00
 comments: true
 categories: Windows

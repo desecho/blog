@@ -88,7 +88,7 @@ endif
 .PHONY: new-post
 ## Create a new post. Usage: [post_name] | Hugo
 new-post:
-	hugo new posts/${NEW_POST_ARGS}.md
+	scripts/new_post.sh ${NEW_POST_ARGS}
 
 ifeq (post,$(firstword $(MAKECMDGOALS)))
   # Use the rest as arguments
@@ -100,7 +100,7 @@ endif
 .PHONY: post
 ## Create a new post. Usage: [post_name]
 post:
-	hugo new posts/${POST_ARGS}.md
+	scripts/new_post.sh ${POST_ARGS}
 
 .PHONY: preview
 ## Preview
