@@ -24,6 +24,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Simplenote – Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962) — Simple notes, todos and memos.
 
 ## Communication
+* [Jami](https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
 * [Telegram Messenger](https://apps.apple.com/ca/app/telegram-messenger/id686449807?mt=8&ign-mpt=uo%3D4) — Fast. Secure. Powerful‪.‬
 * [Skype](https://apps.apple.com/ca/app/skype-for-iphone/id304878510) — Talk. Chat. Collaborate.
 * [Viber Messenger: Chats & Calls](https://apps.apple.com/ca/app/viber-messenger/id382617920) — Group Chat & Text Messages.
