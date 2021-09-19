@@ -7,9 +7,9 @@ keywords: ubuntu, programs, applications, apps
 ---
 
 ## Editors
-* [Sublime Text](https://www.sublimetext.com/) — Text Editing, Done Right
+* [Sublime Text](https://www.sublimetext.com/) — Text Editing, Done Right.
 * [VS Code](https://code.visualstudio.com/) — Code editing. Redefined.
-* [Apache OpenOffice](https://www.openoffice.org/) — Compatible with other major office suites
+* [Apache OpenOffice](https://www.openoffice.org/) — Compatible with other major office suites.
 
 ## Browsers
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) — Get the browser that protects what’s important. No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
@@ -21,7 +21,7 @@ keywords: ubuntu, programs, applications, apps
 * [Slack](https://slack.com/intl/en-ca/download) — With the Slack app, your team is never more than a click away.
 
 ## TV/Movies/Streaming
-* [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you
+* [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you.
 
 ## Notes
-* [Simplenote](https://simplenote.com/) — The simplest way to keep notes
+* [Simplenote](https://simplenote.com/) — The simplest way to keep notes.

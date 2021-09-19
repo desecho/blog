@@ -40,18 +40,21 @@ Then you can download an add-on repository:
 * [Stream Army Repo](https://github.com/nemesis668/repository.streamarmy/blob/master/zips/repository.StreamArmy/)
 
 ### Installation
-Then you can install them by running Kodi and clicking the gear → `Settings` → `Add-ons` → Enable `"Unknown sources"` → `Back` → `Add-ons` → `Install from zip file` → Choose zip file location.
+Then you can install them by running Kodi and clicking the gear → `Settings` → `Add-ons` → Enable `"Unknown sources"` → `Back` → `Add-ons` → `Install from zip file` → choose zip file location.
+
 After that, `Install from repository` → Choose repository and install the video add-ons you like.
-Then you can open the add-ons by hovering over Add-ons.
+
+Then you can open the add-ons by hovering over `Add-ons`.
 
 ### Resolve an Audio Issue
 There is a problem with muted sound after pausing and this is a workaround to resolve this issue.
 
-You should also install an add-on "Services - Unpause Jumpack". To install it, search for its name.
-Then configure it so that "Jump back onpause" section has the following values:
+You should also install an add-on `Services - Unpause Jumpack`. To install it, search for its name.
 
-* Jump seconds — 1
-* Minimum pause before jumpback — 0
+Then configure it so that `Jump back onpause` section has the following values:
+
+* `Jump seconds` — `1`
+* `Minimum pause before jumpback` — `0`
 
 ### Cache Settings
 You should also create a file `%APPDATA%\kodi\userdata\advancedsettings.xml` with the following content:
@@ -71,11 +74,11 @@ If something ever goes wrong and you see an error, you can find the log here: `%
 
 ### Real Debrid
 To be able to access more content you can subscribe to [Real Debrid](http://real-debrid.com/?id=2307762). It costs about 4.25 C$/month.
-You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, Nemesis. Select Dependencies → ResolveURL → Configure → Universal Resolvers → Real-Debrid → (Re)Authorize My Account → Follow instructions on the screen.
+You have to configure it after. To configure it, search for one of the video add-ons which uses it, for example, `Nemesis`. Select `Dependencies` → `ResolveURL` → `Configure` → `Universal Resolvers` → `Real-Debrid` → `(Re)Authorize My Account` → follow instructions on the screen.
 
 ### 4K
-* Nemesis → Movie Zone → 4K Movies
-* Skynet → Watch The Latest Movies And Shows At The Flix → Watch At The Flix → 4K UHD Movies
-* Skynet → Maverick TV → Maverick 4K UHD Movies
-* Skynet → Maverick TV → Real Debrid 4k UHD and FHD
-* Skynet → Supremacy → 4K Movies
+* `Nemesis` → `Movie Zone` → `4K Movies`
+* `Skynet` → `Watch The Latest Movies And Shows At The Flix` → `Watch At The Flix` → `4K UHD Movies`
+* `Skynet` → `Maverick TV `→ `Maverick 4K UHD Movies`
+* `Skynet` → `Maverick TV` → `Real Debrid 4k UHD and FHD`
+* `Skynet` → `Supremacy` → `4K Movies`

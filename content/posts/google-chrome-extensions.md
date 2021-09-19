@@ -8,7 +8,7 @@ keywords: chrome, extensions, browser
 
 ## Development
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) — EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
-* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) — Validate and view JSON documents
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) — Validate and view JSON documents.
 * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif) — Click the icon in the address bar or press Alt+Shift+V to validate the current page. Results can be seen in Chrome's JS console.
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) — Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
@@ -25,7 +25,7 @@ keywords: chrome, extensions, browser
 * [Close download bar](https://chrome.google.com/webstore/detail/close-download-bar/bkfclmjddajodogcbpohgfpdkgdecgmg) — Closes the download bar via a hotkey.
 * [1Password extension (desktop app required)](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) — Extends the 1Password app on your Mac or Windows PC, so you can fill and save passwords in your browser.
 * [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl) — Opt out of non-essential cookies and automatically remove cookie popups.
-* [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs
+* [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs.
 * [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa) — Puts Google Chrome into read mode for a pleasant reading experience.
 * [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj) — Automatically sort bookmarks by title, date, or URL.
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) — Finally, an efficient blocker. Easy on CPU and memory.

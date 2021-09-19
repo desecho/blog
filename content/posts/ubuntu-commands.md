@@ -21,12 +21,13 @@ keywords: ubuntu, commands, cli
 * `tar -cvzf [archive.tar.gz] [file/dir]` — archive a `file/dir`
 
 ## Directories
-* `ls [dir]` — list `dir` contents
+* `ls` — list current directory contents
     * `-h` — show file size in Kb/Mb
     * `-l` — show extended information
     * `-a` — show hidden files
     * `-t` — sort by date
     * `-S` — sort by size
+* `ls [dir]` — list `dir` contents
 * `cd [dir]` — switch to `dir`
 * `mkdir [dir]` — create `dir`
 * `pwd` — show current directory
