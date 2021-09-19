@@ -100,8 +100,6 @@ img {
 
 /* Custom */
 
-img[alt="Finder Preferences"] { width: 351px; }
-
 td, th {
   padding: 3px !important;
 }
