@@ -19,6 +19,8 @@ keywords: hotkeys
 | [Ctrl + A]                  | Select all                                       |
 | [Ctrl + Z]                  | Undo                                             |
 | [Ctrl + Y]                  | Redo                                             |
+| [Ctrl + →]                  | Move the cursor one word to the right            |
+| [Ctrl + ←]                  | Move the cursor one word to the left             |
 | [Shift + Del]               | Delete file or directory permanently             |
 | [F2]                        | Rename file or directory                         |
 | [Alt + Tab]                 | Switch between windows                           |
@@ -180,6 +182,15 @@ keywords: hotkeys
 | [Shift + F2]       | Go to previous bookmark |
 
 ## CLI
+| Hotkey         | Action                                                  |
+| -------------- | ------------------------------------------------------- |
+| [Ctrl + A]     | Move the cursor to the start of the line                |
+| [Ctrl + E]     | Move the cursor to the end of the line                  |
+| [Ctrl + X + X] | Move the cursor to the start and to the end of the line |
+| [Ctrl + R]     | Incrementally search the line history backwardly        |
+| [Ctrl + S]     | Incrementally search the line history forwardly         |
+| [Ctrl + C]     | Cancel                                                  |
+| [TAB]          | Auto-complete a command                                 |
 
 ### Terminator
 | Hotkey             | Action                                                                           |
