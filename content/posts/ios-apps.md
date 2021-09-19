@@ -16,12 +16,15 @@ keywords: ios, apps, applications, programs
 
 ### Email
 * [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596) — Secure Email, Calendar & Files
+* [Gmail - Email by Google](https://apps.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480) — Secure, fast & organized email
 
 ### Internet
 * [Google](https://apps.apple.com/ca/app/google/id284815942) — Search made just for mobile
 * [Google Chrome](https://apps.apple.com/ca/app/chrome-web-browser-by-google/id535886823) — Fast & Secure Web Browser
-* [Gmail - Email by Google](https://apps.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480) — Secure, fast & organized email
 * [Firefox: Private, Safe Browser](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926) — Fast and Secure Web Browsing
+
+### Notes
+* [Simplenote – Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962) — Simple notes, todos and memos
 
 ### Communication
 * [Telegram Messenger](https://apps.apple.com/ca/app/telegram-messenger/id686449807?mt=8&ign-mpt=uo%3D4) — Fast. Secure. Powerful‪.‬
@@ -220,6 +223,7 @@ keywords: ios, apps, applications, programs
 
 ### Utilities
 * [Speedtest by Ookla](https://apps.apple.com/ca/app/speedtest-by-ookla/id300704847) – 34 billion tests and counting
+* [Truecaller](https://apps.apple.com/ca/app/truecaller/id448142450) – Identify Spam + Search Numbers
 
 ### Devices
 * [Qardio heart health](https://apps.apple.com/ca/app/qardio-heart-health/id855275752) – Blood pressure, weight, ECG

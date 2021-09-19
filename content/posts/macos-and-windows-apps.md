@@ -15,6 +15,9 @@ keywords: windows, apps, applications, programs, macos
 * [LICEcap](https://www.cockos.com/licecap/) — Simple animated screen captures
 * [MakeMKV](http://makemkv.com/)
 
+## Notes
+* [Simplenote](https://simplenote.com/) — The simplest way to keep notes
+
 ## Editors
 * [Sublime Text](https://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)

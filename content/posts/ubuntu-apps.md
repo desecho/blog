@@ -22,3 +22,6 @@ keywords: ubuntu, programs, applications, apps
 
 ## TV/Movies/Streaming
 * [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you
+
+## Notes
+* [Simplenote](https://simplenote.com/) — The simplest way to keep notes
