@@ -9,7 +9,8 @@ keywords: ios, ipados, apps, applications, programs
 * [Steam Mobile](https://apps.apple.com/ca/app/steam-mobile/id495369748)
 * [Chess - Play & Learn](https://apps.apple.com/ca/app/chess-play-learn/id329218549) — Games, Puzzles, and Friends!
 * [lichess • Online Chess](https://apps.apple.com/ca/app/lichess-online-chess/id968371784)
-* [Akinator](https://apps.apple.com/fr/app/akinator/id933135994?l=en) — Genie who can read your mind.
+* [Akinator](https://apps.apple.com/ca/app/akinator/id933135994?l=en) — Genie who can read your mind.
+* [Ubisoft Connect](https://apps.apple.com/ca/app/ubisoft-club/id405228226)
 
 ## Email
 * [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596) — Secure Email, Calendar & Files.
@@ -64,12 +65,13 @@ keywords: ios, ipados, apps, applications, programs
 ## Entertainment
 * [9GAG: Best LOL Pics & GIFs](https://apps.apple.com/ca/app/9gag-best-lol-pics-gifs/id545551605) — LOL Pics & GIFs Search Engine.
 * [Reddit](https://apps.apple.com/ca/app/reddit-official-trending-news/id1064216828) — Dive into anything.
+* [TikTok](https://apps.apple.com/ca/app/tiktok/id835599320) — ⁣Videos, Music & Live Streams.
 
 ## Shopping
 * [Amazon](https://apps.apple.com/ca/app/amazon/id297606951) — Search, Browse, Shop – Easy.
 * [Apple Store](https://apps.apple.com/ca/app/apple-store/id375380948) — Shopping designed around you.
 * [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498) — Augmented Reality Furnishing.
-* [IKEA](https://apps.apple.com/gb/app/ikea/id1452164827) — Inspired shopping.
+* [IKEA](https://apps.apple.com/ca/app/ikea/id1452164827) — Inspired shopping.
 
 ## TV/Movies/Streaming
 * [YouTube: Watch, Listen, Stream](https://apps.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664) — Videos, Music and Live Streams.

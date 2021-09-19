@@ -12,7 +12,6 @@ keywords: windows, apps, applications, programs
 ## Games
 * [Ubisoft Connect](https://ubisoftconnect.com/en-US/) — Ubisoft Connect is the ecosystem of players services for Ubisoft games across all platforms.
 * [Windowed Borderless Gaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/) — Play all your games in windowed borderless mode.
-* [Epic Games Launcher](https://www.epicgames.com/store/)
 * [Amazon Games](https://gaming.amazon.com/)
 
 ## Cloud Storage

@@ -14,7 +14,7 @@ keywords: ios, apps, applications, programs
 * [Sleep Watch by Bodymatter](https://apps.apple.com/ca/app/sleep-watch-by-bodymatter/id1138066420) — Auto Sleep Tracker.
 
 ## Lifestyle
-* [Meetup: Local groups & events](https://apps.apple.com/ro/app/meetup/id375990038) – Meet new people, do new things.
+* [Meetup: Local groups & events](https://apps.apple.com/ca/app/meetup/id375990038) – Meet new people, do new things.
 
 ## Calculators
 * [Binary Calc](https://apps.apple.com/ca/app/binary-calc/id301630595)
@@ -49,6 +49,7 @@ keywords: ios, apps, applications, programs
 
 ### Shopping
 * [PC Optimum](https://apps.apple.com/ca/app/pc-optimum/id634040057) – Shop. Earn Points. Repeat.
+* [My Metro](https://apps.apple.com/ca/app/my-metro/id694386842)
 
 ### Food & Drinks
 * [Société des alcools du Québec](https://apps.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661) – SAQ.

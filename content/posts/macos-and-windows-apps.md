@@ -6,6 +6,11 @@ categories: ['macOS', 'Windows']
 keywords: windows, apps, applications, programs, macos
 ---
 
+## Games
+* [Epic Games Launcher](https://www.epicgames.com/store/)
+* [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) — Your favorite games in one place.
+* [Origin](https://www.origin.com/can/en-us/store/download) — Play great PC games and connect with your friends, all in one place.
+
 ## Languages
 * [Anki](https://apps.ankiweb.net/) — Powerful, intelligent flash cards. Remembering things just became much easier.
 
