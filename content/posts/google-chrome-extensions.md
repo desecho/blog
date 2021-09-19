@@ -14,7 +14,7 @@ keywords: chrome, extensions, browser
 
 ## Shopping
 * [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) — Automatically find and apply coupon codes when you shop online!
-* [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en) —
+* [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en) — Amazon's official browser extension.
 
 ## YouTube
 * [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) — Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.

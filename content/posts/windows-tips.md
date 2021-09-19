@@ -12,22 +12,21 @@ Download and install [Windows Update](https://www.microsoft.com/en-us/software-d
 ### Settings
 
 #### System
-* Display → Scale and layout → change the size of text, apps, and other items → 200%
-* Power & Sleep → Screen → 15 minutes
-* Power & Sleep → Sleep → Never
-* Notification & actions → Notifications → Get notifications from apps and other senders → Off
-* Storage → Storage Sense → On
+* `Display` → `Scale and layout` → `Change the size of text, apps, and other items` → `200%`
+* `Power & Sleep` → `Screen` → `Never`
+* `Power & Sleep` → `Sleep` → `Never`
+* `Notification & actions` → `Notifications` → `Get notifications from apps and other senders` → `Off`
+* `Storage` → `Storage Sense` → `On`
 
 #### Personalization
-Background → Choose your picture.
+`Background` → `Choose your picture`
 
 #### Accounts
-Your info → Create your picture → Browser for one → Choose your avatar.
+`Your info` → `Create your picture` → `Browser for one` → `Choose your avatar`
 
 #### Misc
-* Color management → Advanced → Display calibration → Calibrate display
-* Right-click on the taskbar → Cortana → Hidden
-* Right-click on the taskbar → Show People Button → uncheck
+* `Color management` → `Advanced` → `Display calibration` → `Calibrate display`
+* Right-click on the taskbar → uncheck `Show People Button`
 
 ### Install Posy's improved cursors
 [Posy's improved cursors](http://www.michieldb.nl/other/cursors/)
@@ -36,11 +35,6 @@ Your info → Create your picture → Browser for one → Choose your avatar.
 Press [Win + R], enter `shell:startup`.
 
 ## Software Configuration
-
-### Free Download Manager
-Open hamburger menu → `Settings`:
-* `Browser Integration` → `Enable integration with your browser and install the extension`
-* `Browser Integration` → `Automatically catch downloads from browsers` → Unselect `Use browser if you cancel download via FDM`
 
 ### NordVPN
 Open Settings:
@@ -76,7 +70,7 @@ Open `Settings` → `Downloads`:
 ## Tips
 
 ### How to Find Out if Your Drive Is an SSD Drive or Not
-[Win + R] → dfrgui
+[Win + R] → `dfrgui`
 
 ### How to Add a Custom Host
 * Run Notepad as administrator and open `C:\Windows\System32\drivers\etc\hosts`

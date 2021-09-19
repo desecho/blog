@@ -64,4 +64,4 @@ keywords: windows, apps, applications, programs, macos
 ## Paid
 * [1Password](https://1password.com/) — 2.99 C$/month
 * [Adobe Photoshop CC](https://www.adobe.com/ca/products/photoshop/free-trial-download.html) — 10 C$/month
-* [NordVPN](https://nordvpn.com) — 3.5 C$/month
+* [NordVPN](https://nordvpn.com) — 5.39C$/month

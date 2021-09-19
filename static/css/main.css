@@ -101,3 +101,11 @@ img {
 /* Custom */
 
 img[alt="Finder Preferences"] { width: 351px; }
+
+td, th {
+  padding: 3px !important;
+}
+
+tr {
+  border-bottom: 1px solid #dddddd;
+}

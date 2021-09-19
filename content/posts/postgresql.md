@@ -56,7 +56,7 @@ SET client_encoding = 'UTF8';
 echo 'host all all [subnet] trust' >> /etc/postgresql/9.1/main/pg_hba.conf
 ```
 
-* We need to edit /etc/postgresql/9.1/main/postgresql.conf, where `ip` can be `*` which means any.
+* We need to edit `/etc/postgresql/9.1/main/postgresql.conf`, where `ip` can be `*` which means any.
 
 `listen_addresses='[ip]'`
 

@@ -74,7 +74,6 @@ keywords: ios, apps, applications, programs
 * [YouTube: Watch, Listen, Stream](https://apps.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664) — Videos, Music and Live Streams
 * [Tubi - Watch Movies & TV Shows](https://apps.apple.com/ca/app/tubi-watch-movies-tv-shows/id886445756) — Stream Content: Movies/TV
 * [Twitch: Live Game Streaming](https://apps.apple.com/ca/app/twitch-live-game-streaming/id460177396) — Watch Fortnite, PUBG & IRL TV
-* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment
 * [The CW](https://apps.apple.com/ca/app/the-cw/id491730359)
 * [Plex: Movies, TV, Music & More](https://apps.apple.com/ca/app/plex/id383457673) — The streaming app for everyone
 * [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595) — Watch Full Episodes & Live TV
@@ -99,14 +98,23 @@ keywords: ios, apps, applications, programs
 * [FedEx Mobile](https://apps.apple.com/ca/app/fedex-mobile/id1010729050) — Track, ship, locations & more
 
 ### Paid
+
+#### Utils
 * [1Password - Password Manager](https://apps.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — Generate & keep passwords safe — 2.99 C$/month
 * [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter — 1 C$
-* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards — 35 C$
 * [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$
+* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers — 5.39 C$/month
+* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events — 3.99 C$
+
+#### Languages
+* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards — 35 C$
+
+#### Streaming
 * [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — 9.99 C$/month (SD), 14.99 C$/month (Full HD), 18.99 C$/month (4K)
 * [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports — 6.58 C$/month
-* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers — 3.5 C$/month
-* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events — 3.99 C$
+* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment — C$11.99/month
+
+#### Video
 * [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player — 104.99 C$
 
 ### Reference

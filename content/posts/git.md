@@ -10,115 +10,165 @@ keywords: git, source control
 * [Git Documentation](https://git-scm.com/doc)
 
 ## Basics
-* `master` : default branch
-* `origin` : upstream repository by default
-* `HEAD` : current branch
-* `HEAD^` : parent branch of the current branch
-* `HEAD~~` or `HEAD~2` : n-th parent of the current branch
+| Label                | Description                         |
+| -------------------- | ----------------------------------- |
+| `master`             | Default branch                      |
+| `origin`             | Upstream repository by default      |
+| `HEAD`               | Current branch                      |
+| `HEAD^`              | Parent branch of the current branch |
+| `HEAD~~` or `HEAD~2` | N-th parent of the current branch   |
+| `ORIG_HEAD`          | Previous state of `HEAD`            |
 
 ## Commands
-```bash
-git init [project-name]
-git clone [url] <dir>
-git remot­e add origi­n git@g­ithub.com:[user]/[project].git
 
-git pull
-git push
-git push -f  # Force push
+`Rebase`, `cherry-pick` and `merge` commands all have the following arguments:
 
-git branch  # List all local branches
-git branch -r  # List all remote branches
-git branch -a  # List local and remote branches
-git branch -D [branch]  # Delete [branch]
-git branch -m [branch]  # Rename current branch to [branch]
-git branch [branch]  # Create [branch]
+* `--continue`
+* `--abort`
 
-git checkout [branch] # Switch to [branch]
-git switch [branch] # Switch to [branch]
-git checkout -b [branch]  # Create a new [branch] and switch to it
-git switch -c [branch]  # Create a new [branch] and switch to it
-git checkout -b [new-branch] [existing-branch]
+### Miscellaneous
+| Command                                                        | Description                                            |
+| -------------------------------------------------------------- | ------------------------------------------------------ |
+| `git init [project]`                                           | Initialize a `project`                                 |
+| `git remot­e add origi­n git@g­ithub.com:[user]/[project].git` | Set origin                                             |
+| `git merge [branch]`                                           | Merge `branch`                                         |
+| `git pull`                                                     | Pull                                                   |
+| `git push`                                                     | Push                                                   |
+| `git push -f`                                                  | Force push                                             |
+| `git status`                                                   | Show the working tree status                           |
+| `git revert [commit]`                                          | Revert a commit                                        |
+| `git rm [file]`                                                | Remove `file` from the working tree and from the index |
+| `git mv [file-original] [file-moved]`                          | Move a file                                            |
+| `git merge-base [branch1] [branch2]`                           | Find as good common ancestors as possible for a merge  |
 
-git status
-git log
-git log --oneline
-git log --follow [file]
-git log -n [limit]
-git log --grep="[pattern]"
-git log --author="[pattern]"
-git log [commit1]..[commit2]
+### Show
+| Command                               | Description                                                          |
+| ------------------------------------- | -------------------------------------------------------------------- |
+| `git show [commit]`                   | Show commit changes                                                  |
+| `git show :1:[file] > [file-common]`  | On merge conflicts, save common ancestor to `file-common`            |
+| `git show :2:[file] > [file-current]` | On merge conflicts, save current changes to `file-current`           |
+| `git show :3:[file] > [file-other]`   | On merge conflicts, save changes of the other branch to `file-other` |
 
-git show [commit]  # List commit changes
-git diff
-git diff --staged
-git diff [old_commit_hash] [new_commit_hash]
-git diff [old_branch] [new_branch]
-git diff --word-diff [commit1] [commit2] --unified=0  # Show difference in words and
-													  # hide context
+### Clone
+| Command                 | Description                   |
+| ----------------------- | ----------------------------- |
+| `git clone [url]`       | Clone a repository            |
+| `git clone [url] [dir]` | Clone a repository to a `dir` |
 
-git add .  # Stage all files
-git add -p  # Interactive staging
-git add -N [file]  # Just add a file to the tracking
+### Branch
+| Command                  | Description                           |
+| ------------------------ | ------------------------------------- |
+| `git branch`             | List all local branches               |
+| `git branch -r`          | List all remote branches              |
+| `git branch -a`          | List all local and remote branches    |
+| `git branch -D [branch]` | Delete a `branch`                     |
+| `git branch -m [branch]` | Rename the current branch to `branch` |
+| `git branch [branch]`    | Create a new `branch`                 |
 
-git checkout -- [file] # Removes all changes to [file]
-git restore [file] # Removes all changes to [file]
-git checkout -f  # Remove all changes to the last commit
-git reset --hard  # Remove all changes to the last commit
+### Switch/Checkout
+| Command                                               | Description                                                   |
+| ----------------------------------------------------- | ------------------------------------------------------------- |
+| `git switch [branch]` / `git checkout [branch]`       | Switch to a `branch`                                          |
+| `git switch -c [branch]` / `git checkout -b [branch]` | Create a new `branch` and switch to it                        |
+| `git checkout -b [new-branch] [existing-branch]`      | Create a new `branch` from `existing-branch` and switch to it |
 
-git reset
-git reset [file]
-git reset [commit]
-git reset [commit] --hard  # Remove all changes to [commit]
+### Log
+| Command                        | Description                                                                                                                  |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| `git log`                      | Show commit logs                                                                                                             |
+| `git log --oneline`            | Show logs in a one-line format with shortened commit SHAs                                                                    |
+| `git log --follow [file]`      | Continue listing the history of a `file` beyond renames                                                                      |
+| `git log -n [N]`               | Show logs for `N` last commits                                                                                               |
+| `git log --grep="[pattern]"`   | Limit the commits output to ones with log message that matches the specified `pattern` (regular expression)                  |
+| `git log --author="[pattern]"` | Limit the commits output to ones with author/committer header lines that match the specified `pattern` (regular expression). |
+| `git log [commit1]..[commit2]` | Show logs between `commit1` and `commit2`                                                                                    |
 
-git rebase [branch]
-git rebase --continue
-git rebase --abort
-git rebase -i # Interactive rebase.
-git rebase -i [branch]
+### Diff
+| Command                                                | Description                               |
+| ------------------------------------------------------ | ----------------------------------------- |
+| `git diff`                                             | Show changes you made in the working tree |
+| `git diff --staged`                                    | View the changes you staged               |
+| `git diff [branch1/commit1] [branch2/commit2]`         | Show diff between 2 branches or commits   |
+| `git diff --word-diff [commit1] [commit2] --unified=0` | Show a word diff and hide context         |
 
-git clean -n  # List files which would be deleted by the command below
-git clean -f  # Delete untracked files
+### Add
+| Command             | Description                                                                                                                                                       |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git add .`         | Stage all files                                                                                                                                                   |
+| `git add -i`        | Add modified contents in the working tree interactively to the index. Optional path arguments may be supplied to limit operation to a subset of the working tree. |
+| `git add -N [file]` | Record only the fact that the path will be added later. An entry for the path is placed in the index with no content.                                             |
 
-git revert [commit]
+### Reset/Checkout
+| Command                                       | Description                           |
+| --------------------------------------------- | ------------------------------------- |
+| `git restore [file] / git checkout -- [file]` | Removes all changes to `file`         |
+| `git reset --hard / git checkout -f`          | Remove all changes to the last commit |
 
-git commit -m'[commit message]'
-git commit -a  # Commit all changed files except for untracked files. Also, delete deleted files
-git commit --amend  # Amend a commit (with staged files)
-git commit --amend --author="[Name] <[email]>"  # Change the author of previous commit
-git commit --amend --no-edit  # Amend a commit without changing the commit message
+### Reset
+| Command                       | Description                                                |
+| ----------------------------- | ---------------------------------------------------------- |
+| `git reset`                   | Unstage all files                                          |
+| `git reset --merge ORIG_HEAD` | Cancel a previous merge                                    |
+| `git reset [file]`            | Unstage `file`                                             |
+| `git reset [commit]`          | Reset to `commit`                                          |
+| `git reset [commit] --hard`   | Reset to `commit` and remove all changes after this commit |
 
-git stash
-git stash pop <stash>
-git stash apply <stash>
-git stash list
-git stash drop <stash>
-git stash show [stash]  # Show stash changes
-git stash clear  # Remove all stashes
+### Reset
+| Command                  | Description                        |
+| ------------------------ | ---------------------------------- |
+| `git rebase [branch]`    | Reapply commits on top of `branch` |
+| `git rebase -i [branch]` | Interactive rebase                 |
 
-git rm [file]
-git mv [file-original] [file-renamed]
+### Clean
+| Command        | Description                                            |
+| -------------- | ------------------------------------------------------ |
+| `git clean -n` | List files which would be deleted by the command below |
+| `git clean -f` | Delete untracked files                                 |
 
-git blame [file]
-git blame -L [line_start],[line_end] [file]
-git merge-base [branch1] [branch2]
+### Commit
+| Command                                          | Description                                                                     |
+| ------------------------------------------------ | ------------------------------------------------------------------------------- |
+| `git commit`                                     | Commit                                                                          |
+| `git commit -m"[message]"`                       | Commit with a message                                                           |
+| `git commit -a`                                  | Commit all changed files except for untracked files. Also, delete deleted files |
+| `git commit --amend`                             | Amend a commit (with staged files)                                              |
+| `git commit --amend --no-edit`                   | Amend a commit without changing the commit message                              |
+| `git commit --amend --author="[Name] <[email]>"` | Change the author of previous commit                                            |
 
-git ls-files --other --ignored --exclude-standard  # List all ignored files
-git update-index --assume-unchanged [file]
-git update-index --no-assume-unchanged [file]
-git ls-files -v | grep '^[[:lower:]]'  # List files flagged as "unchanged"
-```
+### Commit
+| Command                   | Description                    |
+| ------------------------- | ------------------------------ |
+| `git stash`               | Stash changes                  |
+| `git stash pop`           | Pop the last stashed changed   |
+| `git stash pop [stash]`   | Pop the changes from `stash`   |
+| `git stash apply [stash]` | Apple the changes from `stash` |
+| `git stash list`          | List stashes                   |
+| `git stash drop [stash]`  | Drop `stash`                   |
+| `git stash show [stash]`  | Show `stash` changes           |
+| `git stash clear`         | Clear all stashes              |
 
-## Merging
-```bash
-git merge [branch]
-git merge --abort
-git reset --merge ORIG_HEAD  # Cancel a previous merge
+### Blame
+| Command                                       | Description                                                       |
+| --------------------------------------------- | ----------------------------------------------------------------- |
+| `git blame [file]`                            | Show what revision and author last modified each line of a `file` |
+| `git blame -L [line-start],[line-end] [file]` | Annotate only the line range given by `line-start`, `line-end`    |
 
-# On conflicts:
-git show :1:[file] > [file1]  # Common ancestor
-git show :2:[file] > [file2]  # Version from current branch
-git show :3:[file] > [file3]  # Version from test branch
-```
+### Ls-files
+| Command                                             | Description                                          |
+| --------------------------------------------------- | ---------------------------------------------------- |
+| `git ls-files --other --ignored --exclude-standard` | List all ignored files                               |
+| `git ls-files -v | grep "^[[:lower:]]"`             | Get a list of files marked with `--assume-unchanged` |
+
+### Update-index
+| Command                                         | Description                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| `git update-index --assume-unchanged [file]`    | Ignore `file` without adding it go `.gitignore` |
+| `git update-index --no-assume-unchanged [file]` | Remove `--assume-unchanged` mark for a `file`   |
+
+### Update-index
+| Command                                      | Description                                     |
+| -------------------------------------------- | ----------------------------------------------- |
+| `git update-index --assume-unchanged [file]` | Ignore `file` without adding it go `.gitignore` |
 
 ## Submodules
 ### Initiate Submodules and Load Them
@@ -170,10 +220,10 @@ TRUE=/bin/true
 TRUE=/usr/bin/true
 
 git config diff.nodiff.command $TRUE
-# assign the new diff driver to those files you want to be ignored
+# Assign the new diff driver to those files you want to be ignored
 FILE="[file]"
 echo "$FILE    diff=nodiff" >> .git/info/attributes
 ```
 
-## Remove Data From Repository’s History
+### Remove Data From Repository’s History
 [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)

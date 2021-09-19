@@ -7,7 +7,7 @@ keywords: python, installation, modules
 ---
 
 ## Python
-Create a requirements.txt file with the following format:
+Create a `requirements.txt` file with the following format:
 
 ```
 Django==2.0.2
