@@ -40,19 +40,19 @@ keywords: hotkeys
 | [Alt + Prnt Scrn]           | take a screenshot of a window                    |
 
 ### Ubuntu
-| Hotkey                      | Action                                                                                                                                           |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Super]                     | switch between the Activities overview and desktop. In the overview, start typing to instantly search your applications, contacts, and documents |
-| [Alt + F2]                  | pop up command window                                                                                                                            |
-| [Super + Tab]               | switch between apps. Hold down [Shift] for reverse order                                                                                         |
-| [Super + \`]/[Alt + \`]     | switch between windows from the same application, or the selected application after [Super + Tab]                                                |
-| [Alt + Esc]                 | switch between windows in the current workspace. Hold down [Shift] for reverse order                                                             |
-| [Super + A]                 | show the list of applications                                                                                                                    |
-| [Super + Page Up]           | switch to workspace above                                                                                                                        |
-| [Super + Page Down]         | switch to workspace below                                                                                                                        |
-| [Super + Shift + Page Up]   | move the current window to a workspace above                                                                                                     |
-| [Super + Shift + Page Down] | move the current window to a workspace below                                                                                                     |
-| [Ctrl + Alt + Shift + R]    | start and stop screencast recording                                                                                                              |
+| Hotkey                      | Action                                                                                                                                               |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Super]                     | switch between the Activities overview and desktop. In the overview,<br> start typing to instantly search your applications, contacts, and documents |
+| [Alt + F2]                  | pop up command window                                                                                                                                |
+| [Super + Tab]               | switch between apps. Hold down [Shift] for reverse order                                                                                             |
+| [Super + \`]/[Alt + \`]     | switch between windows from the same application, or the selected application after [Super + Tab]                                                    |
+| [Alt + Esc]                 | switch between windows in the current workspace. Hold down [Shift] for reverse order                                                                 |
+| [Super + A]                 | show the list of applications                                                                                                                        |
+| [Super + Page Up]           | switch to workspace above                                                                                                                            |
+| [Super + Page Down]         | switch to workspace below                                                                                                                            |
+| [Super + Shift + Page Up]   | move the current window to a workspace above                                                                                                         |
+| [Super + Shift + Page Down] | move the current window to a workspace below                                                                                                         |
+| [Ctrl + Alt + Shift + R]    | start and stop screencast recording                                                                                                                  |
 
 ### Windows
 | Hotkey               | Action                                     |

@@ -43,3 +43,6 @@ paginate = 100
 
 [blackfriday]
   hrefTargetBlank = true # open the external links in a new window
+
+[markup.goldmark.renderer]
+    unsafe = true

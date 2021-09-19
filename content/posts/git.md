@@ -26,17 +26,22 @@ keywords: git, source control
 * `--continue`
 * `--abort`
 
+### Main
+| Command                     | Description                  |
+| --------------------------- | ---------------------------- |
+| `git init [project]`        | Initialize a `project`       |
+| `git merge [branch]`        | Merge `branch`               |
+| `git pull`                  | Pull                         |
+| `git push`                  | Push                         |
+| `git push -f`               | Force push                   |
+| `git status`                | Show the working tree status |
+| `git revert [commit]`       | Revert a `commit`            |
+| `git cherry-pick [commit]]` | Add a `commit`               |
+
 ### Miscellaneous
 | Command                                                        | Description                                            |
 | -------------------------------------------------------------- | ------------------------------------------------------ |
-| `git init [project]`                                           | Initialize a `project`                                 |
 | `git remot­e add origi­n git@g­ithub.com:[user]/[project].git` | Set origin                                             |
-| `git merge [branch]`                                           | Merge `branch`                                         |
-| `git pull`                                                     | Pull                                                   |
-| `git push`                                                     | Push                                                   |
-| `git push -f`                                                  | Force push                                             |
-| `git status`                                                   | Show the working tree status                           |
-| `git revert [commit]`                                          | Revert a commit                                        |
 | `git rm [file]`                                                | Remove `file` from the working tree and from the index |
 | `git mv [file-original] [file-moved]`                          | Move a file                                            |
 | `git merge-base [branch1] [branch2]`                           | Find as good common ancestors as possible for a merge  |
@@ -73,15 +78,15 @@ keywords: git, source control
 | `git checkout -b [new-branch] [existing-branch]`      | Create a new `branch` from `existing-branch` and switch to it |
 
 ### Log
-| Command                        | Description                                                                                                                  |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| `git log`                      | Show commit logs                                                                                                             |
-| `git log --oneline`            | Show logs in a one-line format with shortened commit SHAs                                                                    |
-| `git log --follow [file]`      | Continue listing the history of a `file` beyond renames                                                                      |
-| `git log -n [N]`               | Show logs for `N` last commits                                                                                               |
-| `git log --grep="[pattern]"`   | Limit the commits output to ones with log message that matches the specified `pattern` (regular expression)                  |
-| `git log --author="[pattern]"` | Limit the commits output to ones with author/committer header lines that match the specified `pattern` (regular expression). |
-| `git log [commit1]..[commit2]` | Show logs between `commit1` and `commit2`                                                                                    |
+| Command                        | Description                                                                                                                      |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| `git log`                      | Show commit logs                                                                                                                 |
+| `git log --oneline`            | Show logs in a one-line format with shortened commit SHAs                                                                        |
+| `git log --follow [file]`      | Continue listing the history of a `file` beyond renames                                                                          |
+| `git log -n [N]`               | Show logs for `N` last commits                                                                                                   |
+| `git log --grep="[pattern]"`   | Limit the commits output to ones with log message<br> that matches the specified `pattern` (regular expression)                  |
+| `git log --author="[pattern]"` | Limit the commits output to ones with author/committer<br> header lines that match the specified `pattern` (regular expression). |
+| `git log [commit1]..[commit2]` | Show logs between `commit1` and `commit2`                                                                                        |
 
 ### Diff
 | Command                                                | Description                               |
@@ -92,11 +97,11 @@ keywords: git, source control
 | `git diff --word-diff [commit1] [commit2] --unified=0` | Show a word diff and hide context         |
 
 ### Add
-| Command             | Description                                                                                                                                                       |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `git add .`         | Stage all files                                                                                                                                                   |
-| `git add -i`        | Add modified contents in the working tree interactively to the index. Optional path arguments may be supplied to limit operation to a subset of the working tree. |
-| `git add -N [file]` | Record only the fact that the path will be added later. An entry for the path is placed in the index with no content.                                             |
+| Command             | Description                                                                                                                                                          |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git add .`         | Stage all files                                                                                                                                                      |
+| `git add -i`        | Add modified contents in the working tree interactively to the index.<br>Optional path arguments may be supplied to limit operation to a subset of the working tree. |
+| `git add -N [file]` | Record only the fact that the path will be added later.<br>An entry for the path is placed in the index with no content.                                             |
 
 ### Reset/Checkout
 | Command                                       | Description                           |
