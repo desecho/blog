@@ -114,3 +114,8 @@ tr {
   margin: 15px 10px 5px;
   text-align: right;
 }
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
