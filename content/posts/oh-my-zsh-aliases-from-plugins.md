@@ -27,6 +27,8 @@ keywords: zsh oh-my-zsh alias
 | `gignore` | `git update-index --assume-unchanged` |
 | `gm`      | `git merge`                           |
 | `gsw`     | `git switch`                          |
+| `gst`     | `git status`                          |
+| `gsh`     | `git show`                            |
 
 ## Vscode
 | Alias  | Command       |

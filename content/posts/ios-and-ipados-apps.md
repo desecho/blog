@@ -11,6 +11,9 @@ keywords: ios, ipados, apps, applications, programs
 * [lichess • Online Chess](https://apps.apple.com/ca/app/lichess-online-chess/id968371784)
 * [Akinator](https://apps.apple.com/ca/app/akinator/id933135994?l=en) — Genie who can read your mind.
 * [Ubisoft Connect](https://apps.apple.com/ca/app/ubisoft-club/id405228226)
+* [Xbox](https://apps.apple.com/us/app/xbox/id736179781)
+* [PlayStation App](https://apps.apple.com/us/app/playstation-app/id410896080)
+* [PS Remote Play](https://apps.apple.com/us/app/ps-remote-play/id1436192460)
 
 ## Email
 * [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596) — Secure Email, Calendar & Files.

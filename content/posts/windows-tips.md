@@ -45,7 +45,6 @@ Open Settings:
 `chrome://settings/` → `On startup` → `Continue where you left off`.
 
 ## Usage
-* Remember to run `GeForce Experience` to update drivers from time to time
 * Open `Add or remove programs` to uninstall programs
 * Manage processes: `Task Manager` → `Processes`
 * Monitor network activity: `Task Manager` → `Performance` → select `Ethernet`

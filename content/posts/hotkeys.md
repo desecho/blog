@@ -88,6 +88,11 @@ keywords: hotkeys
 
 ## Editors
 
+### Nano
+| Hotkey     | Action |
+| ---------- | ------ |
+| [Ctrl + W] | Search |
+
 ### VS Code
 [VS Code](https://code.visualstudio.com/)
 
