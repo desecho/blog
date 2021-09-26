@@ -11,9 +11,13 @@ keywords: ios, ipados, apps, applications, programs
 * [lichess • Online Chess](https://apps.apple.com/ca/app/lichess-online-chess/id968371784)
 * [Akinator](https://apps.apple.com/ca/app/akinator/id933135994?l=en) — Genie who can read your mind.
 * [Ubisoft Connect](https://apps.apple.com/ca/app/ubisoft-club/id405228226)
-* [Xbox](https://apps.apple.com/us/app/xbox/id736179781)
-* [PlayStation App](https://apps.apple.com/us/app/playstation-app/id410896080)
-* [PS Remote Play](https://apps.apple.com/us/app/ps-remote-play/id1436192460)
+* [Xbox](https://apps.apple.com/ca/app/xbox/id736179781)
+* [Xbox Game Pass](https://apps.apple.com/ca/app/xbox-game-pass/id1374542474)
+* [PlayStation App](https://apps.apple.com/ca/app/playstation-app/id410896080)
+* [PS Remote Play](https://apps.apple.com/ca/app/ps-remote-play/id1436192460)
+* [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117) — Stream Your Steam Library.
+* [Among Us!](https://apps.apple.com/ca/app/among-us/id1351168404)
+* [PS4 Second Screen](https://apps.apple.com/ca/app/ps4-second-screen/id1201372796)
 
 ## Email
 * [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596) — Secure Email, Calendar & Files.
@@ -43,6 +47,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Google Sheets](https://apps.apple.com/ca/app/google-sheets/id842849113) — Open, Edit & Share Spreadsheet.
 * [Dropbox: Cloud Storage & Drive](https://apps.apple.com/ca/app/dropbox/id327630330) — Photo Share | Docs & PDF files.
 * [Yandex.Disk](https://apps.apple.com/ca/app/yandex-disk/id553266487)
+* [Microsoft OneDrive](https://apps.apple.com/ca/app/microsoft-onedrive/id477537958) — File & photo cloud storage.
 
 ## Misc
 * [Google Maps - Transit & Food](https://apps.apple.com/ca/app/google-maps-navigation-transport/id585027354) — GPS, City Navigation & Traffic.
@@ -51,6 +56,10 @@ keywords: ios, ipados, apps, applications, programs
 * [Adobe Acrobat Reader PDF Maker](https://apps.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564) — File Viewer & Document Editor.
 * [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458) — Protects your online identity.
 * [TeamViewer Remote Control](https://apps.apple.com/ca/app/teamviewer/id692035811)
+* [Grammarly - Grammar Keyboard](https://apps.apple.com/ca/app/grammarly-grammar-keyboard/id1158877342) — English grammar & writing app.
+* [Google Assistant](https://apps.apple.com/ca/app/google-assistant/id1220976145) — Your own personal Google.
+* [GitHub](https://apps.apple.com/app/github/id1477376905) — Projects, ideas, & code to go.
+* [Yandex.Key–one-time passwords](https://apps.apple.com/ca/app/yandex-key-one-time-passwords/id957324816)
 
 ## Weather
 * [The Weather Network](https://apps.apple.com/ca/app/the-weather-network/id473299958) — Detailed Weather Forecast.
@@ -75,6 +84,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Apple Store](https://apps.apple.com/ca/app/apple-store/id375380948) — Shopping designed around you.
 * [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498) — Augmented Reality Furnishing.
 * [IKEA](https://apps.apple.com/ca/app/ikea/id1452164827) — Inspired shopping.
+* [eBay](https://apps.apple.com/ca/app/ebay/id282614216) — Start buying and selling now.
 
 ## TV/Movies/Streaming
 * [YouTube: Watch, Listen, Stream](https://apps.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664) — Videos, Music and Live Streams.
@@ -147,16 +157,22 @@ keywords: ios, ipados, apps, applications, programs
 * [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310) – Official Philips Hue app.
 
 ## Canada
+
+### Internet
+* [Fizz Wi-Fi](https://apps.apple.com/ca/app/fizz-wi-fi/id1449022170)
+
 ### Lifestyle
 * [Centris.ca](https://apps.apple.com/ca/app/centris-ca/id604024675) – Find Your Next Home.
 
 ### Shopping
 * [Best Buy Canada](https://apps.apple.com/ca/app/best-buy-canada/id386960831) – Shop Online For Deals & Save.
 * [AIR MILES® Reward Program](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)
+* [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520) – Shop your local marketplace.
 
-### Food/Drinks
+### Food & Drinks
 * [Domino's Canada](https://apps.apple.com/ca/app/dominos-pizza-canada/id621613017)
 * [PayRange](https://apps.apple.com/ca/app/payrange/id845555232)
+* [Burger King Canada](https://apps.apple.com/ca/app/burger-king-canada/id1422864779) – Coupons & Exclusive Offers.
 
 ### Movies
 * [Cineplex Mobile](https://apps.apple.com/ca/app/cineplex-mobile/id404011384) – New and improved experience!
@@ -173,8 +189,11 @@ keywords: ios, ipados, apps, applications, programs
 * [Dialogue Health](https://apps.apple.com/ca/app/dialogue-health/id1118013424)
 * [Picard & Desjardins Pharmacy](https://apps.apple.com/ca/app/picard-desjardins-pharmacy/id1552288920) – Quebec Online Pharmacy.
 
-### Misc
-* [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520) – Shop your local marketplace.
+### Utilities
+* [Hydro-Québec](https://apps.apple.com/ca/app/hydro-qu%C3%A9bec/id1045080947)
+
+## Shipping
+* [Purolator](https://apps.apple.com/ca/app/purolator/id438701193)
 
 ## Russia
 

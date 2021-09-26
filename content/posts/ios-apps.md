@@ -6,6 +6,9 @@ categories: ['iOS']
 keywords: ios, apps, applications, programs
 ---
 
+## Finance
+* [PayPal](https://apps.apple.com/ca/app/paypal/id283646709) — Transfer Money & Mobile Pay.
+
 ## Internet
 * [Яндекс — с Алисой](https://apps.apple.com/ca/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D1%81-%D0%B0%D0%BB%D0%B8%D1%81%D0%BE%D0%B9/id1050704155) — Search, Widgets, Weather.
 
@@ -25,6 +28,7 @@ keywords: ios, apps, applications, programs
 
 ## Social
 * [Instagram](https://apps.apple.com/ca/app/instagram/id389801252)
+* [Clubhouse](https://apps.apple.com/ca/app/clubhouse-social-audio/id1503133294) – The Social Audio App.
 
 ## TV
 * [Next Episode - Track TV Shows](https://apps.apple.com/ca/app/next-episode-track-tv-shows/id347009526) – TV Series and Movies tracker.
@@ -35,10 +39,21 @@ keywords: ios, apps, applications, programs
 ## Utilities
 * [Speedtest by Ookla](https://apps.apple.com/ca/app/speedtest-by-ookla/id300704847) – 34 billion tests and counting.
 * [Truecaller](https://apps.apple.com/ca/app/truecaller/id448142450) – Identify Spam + Search Numbers.
+* [View Source](https://apps.apple.com/us/app/view-source/id1041817284)
 
 ## Devices
 * [Qardio heart health](https://apps.apple.com/ca/app/qardio-heart-health/id855275752) – Blood pressure, weight, ECG.
 * [LG ThinQ](https://apps.apple.com/ca/app/lg-thinq/id993504342)
+
+## Hiking
+* [AllTrails: Hike, Bike & Run](https://apps.apple.com/ca/app/alltrails-hike-bike-run/id405075943) – GPS Hiking & Biking Trail Maps.
+
+## Food & Drinks
+* [Starbucks](https://apps.apple.com/ca/app/starbucks/id331177714) – Order, pay, and earn Stars.
+* [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)
+
+## Miscellaneous
+* [Booksy for Customers](https://apps.apple.com/ca/app/booksy-for-customers/id723961236) – Book your appointments.
 
 ## Canada
 
@@ -50,6 +65,7 @@ keywords: ios, apps, applications, programs
 ### Shopping
 * [PC Optimum](https://apps.apple.com/ca/app/pc-optimum/id634040057) – Shop. Earn Points. Repeat.
 * [My Metro](https://apps.apple.com/ca/app/my-metro/id694386842)
+* [Couche-Tard](https://apps.apple.com/ca/app/couche-tard/id663345373)
 
 ### Food & Drinks
 * [Société des alcools du Québec](https://apps.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661) – SAQ.

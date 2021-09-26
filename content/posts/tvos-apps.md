@@ -14,9 +14,12 @@ keywords: tvos, apps, applications, programs
 * [Plex: Movies, TV, Music & More](https://apps.apple.com/ca/app/plex/id383457673#?platform=appleTV) — The streaming app for everyone.
 * [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595#?platform=appleTV) — Watch Full Episodes & Live TV.
 
+## Games
+* [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117) — Stream Your Steam Library.
+
 ## Paid
 
-## Video
+### Video
 * [Infuse 7](https://apps.apple.com/app/id1136220934#?platform=appleTV) — An elegant video player. — 104.99 C$
 
 ### Streaming

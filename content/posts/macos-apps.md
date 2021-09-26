@@ -17,6 +17,8 @@ keywords: macos, apps, applications, programs
 ## Movies/Video
 * [MPlayer OSX Extended](http://mplayerosx.ch/) — MPlayer OSX Extended is the future of MPlayer OSX. Leveraging the power of the MPlayer and FFmpeg open source projects, MPlayer OSX Extended aims to deliver a powerful, functional and no frills video player for OSX.
 
+## Games
+* [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117) — Stream Your Steam Library.
 
 ## Administration
 * [Chicken](http://chicken.sourceforge.net/) — A VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC.
