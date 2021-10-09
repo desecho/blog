@@ -30,7 +30,7 @@ keywords: zsh oh-my-zsh alias
 | `gst`     | `git status`                          |
 | `gsh`     | `git show`                            |
 
-## Vscode
+## VS Code
 | Alias  | Command       |
 | ------ | ------------- |
 | `vsc`  | `code .`      |

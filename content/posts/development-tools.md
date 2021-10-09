@@ -9,7 +9,6 @@ keywords: development, tools, coding
 ## Web
 * [Codepen](http://codepen.io/) — A playground for the front end web.
 * [Diffchecker](http://www.diffchecker.com/diff) — Diffchecker will compare text to find the difference between two text files.
-
 * [Hurl.it](http://www.hurl.it/) — Make HTTP requests.
 * [My regex tester](http://www.myregextester.com/index.php)
 * [JS Nice](http://jsnice.org/) — Statistical renaming, type inference, and deobfuscation.

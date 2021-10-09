@@ -70,7 +70,7 @@ Reliable messaging.
 ## Miscellaneous
 * [Room Sketcher](https://www.roomsketcher.com/) — Create Floor Plans and Home Design Online.
 
-## Project management
+## Project Management
 * [Asana](https://asana.com/) — Work on big ideas, without the busywork.
 
 ## Paid

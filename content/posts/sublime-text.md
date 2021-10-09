@@ -10,7 +10,7 @@ keywords: sublime text, editor
 
 ## Settings
 
-### Project settings example
+### Project Settings Example
 ```json
 {
     "folders":

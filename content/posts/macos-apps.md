@@ -31,10 +31,7 @@ keywords: macos, apps, applications, programs
 * [Jing](http://www.techsmith.com/jing.html) — Free and simple way to start sharing images and short videos of your computer screen.
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/) — Scroll Reverser is a free Mac app that reverses the direction of scrolling, with independent settings for trackpads and mice.
 * [BeardedSpice](https://beardedspice.github.io/) — Mac Media Keys for the Masses.
-
-## AppStore
 * [The Unarchiver](https://apps.apple.com/app/the-unarchiver/id425424353?mt=12&ls=1) — The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files.
-* [Slack](https://apps.apple.com/app/slack/id803453959?ls=1&mt=12) — With the Slack app, your team is never more than a click away.
 
 ## Paid
 * [CleanMyMac](http://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — 40 C$

@@ -76,6 +76,7 @@ keywords: ios, apps, applications, programs
 
 ### Health
 * [VaxiCode](https://apps.apple.com/ca/app/vaxicode/id1571692711) — Save your QR code.
+* [VR Health Exercise Tracker](https://apps.apple.com/ca/app/vr-health-exercise-tracker/id1438903709) — Official App of the VRHI
 
 ## Russia
 ### Transport

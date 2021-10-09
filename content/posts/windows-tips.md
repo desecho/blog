@@ -28,11 +28,8 @@ Download and install [Windows Update](https://www.microsoft.com/en-us/software-d
 * `Color management` → `Advanced` → `Display calibration` → `Calibrate display`
 * Right-click on the taskbar → uncheck `Show People Button`
 
-### Install Posy's improved cursors
+### Install Posy's Improved Cursors
 [Posy's improved cursors](http://www.michieldb.nl/other/cursors/)
-
-### Access Startup
-Press [Win + R], enter `shell:startup`.
 
 ## Software Configuration
 
@@ -43,11 +40,6 @@ Open Settings:
 
 ### Google Chrome
 `chrome://settings/` → `On startup` → `Continue where you left off`.
-
-## Usage
-* Open `Add or remove programs` to uninstall programs
-* Manage processes: `Task Manager` → `Processes`
-* Monitor network activity: `Task Manager` → `Performance` → select `Ethernet`
 
 ## Games
 
@@ -66,14 +58,20 @@ Open `Settings` → `Downloads`:
 * `Installing games` → `Create a shortcut on desktop` → check
 * `Bandwidth` → `While playing` → `Pause downloads when playing` → uncheck
 
-## Tips
+## Usage Tips
+* Open `Add or remove programs` to uninstall programs
+* Manage processes: `Task Manager` → `Processes`
+* Monitor network activity: `Task Manager` → `Performance` → select `Ethernet`
+* Press [Win + R], enter `shell:startup` to access startup
+* Press [Win + R], enter `shell:AppsFolder` to access application folder
+* To find out if your drive is an SSD drive or not, press [Win + R], enter `dfrgui`
 
-### How to Find Out if Your Drive Is an SSD Drive or Not
-[Win + R] → `dfrgui`
-
-### How to Add a Custom Host
+### Add a Custom Host
 * Run Notepad as administrator and open `C:\Windows\System32\drivers\etc\hosts`
 * Add a new host
+
+### Run System File Checker
+Run `Command Prompt` → `sfc /scannow`
 
 ### Boost Microphone
 Install [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
