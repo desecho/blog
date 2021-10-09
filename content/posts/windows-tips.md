@@ -27,6 +27,7 @@ Download and install [Windows Update](https://www.microsoft.com/en-us/software-d
 #### Misc
 * `Color management` → `Advanced` → `Display calibration` → `Calibrate display`
 * Right-click on the taskbar → uncheck `Show People Button`
+* Run `GeForce Experience` → `Settings` → `Desktop Notifications` → check `GeForce driver update is available`
 
 ### Install Posy's Improved Cursors
 [Posy's improved cursors](http://www.michieldb.nl/other/cursors/)
