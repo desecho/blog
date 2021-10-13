@@ -26,3 +26,11 @@ Enable auto time synchronization with host
 ```bash
 vboxmanage setextradata [vbox] "VBoxInternal/Devices/VMMDev/0/Config/GetHostTimeDisabled" "1"
 ```
+
+## Oh My Zsh
+
+| Command    | Description                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| `alias`    | List all aliases                                                                          |
+| `take`     | Create a new directory and change to it, will create intermediate directories as required |
+| `exec zsh` | Apply changes made to `.zshrc`                                                            |

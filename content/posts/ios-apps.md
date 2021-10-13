@@ -62,6 +62,9 @@ keywords: ios, apps, applications, programs
 #### Taxi
 * [Téo, solution verte et locale](https://apps.apple.com/ca/app/t%C3%A9o-taxi/id1097805638)
 
+### Entertainment
+* [SCENE: Movies, Meals & More](https://apps.apple.com/ca/app/scene-movies-meals-more/id1204940340)
+
 ### Shopping
 * [PC Optimum](https://apps.apple.com/ca/app/pc-optimum/id634040057) – Shop. Earn Points. Repeat.
 * [My Metro](https://apps.apple.com/ca/app/my-metro/id694386842)

@@ -86,6 +86,14 @@ keywords: hotkeys
 | [Power + Volume up]      | Take a screenshot |
 | Hold [Power + Volume up] | Turn off          |
 
+## Oh My Zsh
+
+| Hotkey     | Action                                                                                                                                                                                                                                                     |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ctrl + Q] | Park a command. It "parks" the command you're currently typing and takes you back to the prompt,<br> letting you start over and type another command.<br> Once you run that other command, the original command is un-parked and refills the command line. |
+
+
+
 ## Editors
 
 ### Nano

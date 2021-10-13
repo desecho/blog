@@ -1,12 +1,18 @@
 ---
-title: "Oh My Zsh Aliases From Plugins"
+title: "Oh My Zsh Aliases"
 date: 2021-09-17T15:54:20-04:00
 comments: true
 categories: Ubuntu
 keywords: zsh oh-my-zsh alias
 ---
 
-## Git
+| Alias | Command    |
+| ----- | ---------- |
+| `md`  | `mkdir -p` |
+
+## Plugin aliases
+
+### Git
 | Alias     | Command                               |
 | --------- | ------------------------------------- |
 | `g`       | `git`                                 |
@@ -30,18 +36,18 @@ keywords: zsh oh-my-zsh alias
 | `gst`     | `git status`                          |
 | `gsh`     | `git show`                            |
 
-## VS Code
+### VS Code
 | Alias  | Command       |
 | ------ | ------------- |
 | `vsc`  | `code .`      |
 | `vscd` | `code --diff` |
 
-## Terraform
+### Terraform
 | Alias | Command     |
 | ----- | ----------- |
 | `tf`  | `terraform` |
 
-## Kubectl
+### Kubectl
 | Alias   | Command                            |
 | ------- | ---------------------------------- |
 | `k`     | `kubectl`                          |
@@ -53,7 +59,7 @@ keywords: zsh oh-my-zsh alias
 | `kl`    | `kubectl logs`                     |
 | `kpf`   | `kubectl port-forward`             |
 
-### Pods
+#### Pods
 | Alias     | Command                    |
 | --------- | -------------------------- |
 | `kgp`     | `kubectl get pods`         |
@@ -64,7 +70,7 @@ keywords: zsh oh-my-zsh alias
 | `kdp`     | `kubectl describe pods`    |
 | `kdelp`   | `kubectl delete pods`      |
 
-### Services
+#### Services
 | Alias     | Command                   |
 | --------- | ------------------------- |
 | `kgs`     | `kubectl get svc`         |
@@ -73,14 +79,14 @@ keywords: zsh oh-my-zsh alias
 | `kds`     | `kubectl describe svc`    |
 | `kdels`   | `kubectl delete svc`      |
 
-### Namespaces
+#### Namespaces
 | Alias    | Command                      |
 | -------- | ---------------------------- |
 | `kgns`   | `kubectl get namespaces`     |
 | `kdns`   | `kubectl describe namespace` |
 | `kdelns` | `kubectl delete namespace`   |
 
-### Configmaps
+#### Configmaps
 | Alias    | Command                      |
 | -------- | ---------------------------- |
 | `kgcm`   | `kubectl get configmaps`     |
@@ -88,14 +94,14 @@ keywords: zsh oh-my-zsh alias
 | `kdcm`   | `kubectl describe configmap` |
 | `kdelcm` | `kubectl delete configmap`   |
 
-### Secrets
+#### Secrets
 | Alias     | Command                   |
 | --------- | ------------------------- |
 | `kgsec`   | `kubectl get secret`      |
 | `kdsec`   | `kubectl describe secret` |
 | `kdelsec` | `kubectl delete secret`   |
 
-### Deployments
+#### Deployments
 | Alias     | Command                          |
 | --------- | -------------------------------- |
 | `kgd`     | `kubectl get deployment`         |
@@ -105,25 +111,25 @@ keywords: zsh oh-my-zsh alias
 | `kdeld`   | `kubectl delete deployment`      |
 | `ksd`     | `kubectl scale deployment`       |
 
-### ReplicaSets
+#### ReplicaSets
 | Alias  | Command          |
 | ------ | ---------------- |
 | `kgrs` | `kubectl get rs` |
 
-### Nodes
+#### Nodes
 | Alias  | Command                 |
 | ------ | ----------------------- |
 | `kgno` | `kubectl get nodes`     |
 | `kdno` | `kubectl describe node` |
 
-### PVCs
+#### PVCs
 | Alias     | Command                |
 | --------- | ---------------------- |
 | `kgpvc`   | `kubectl get pvc`      |
 | `kdpvc`   | `kubectl describe pvc` |
 | `kdelpvc` | `kubectl delete pvc`   |
 
-### StatefulSets
+#### StatefulSets
 | Alias      | Command                           |
 | ---------- | --------------------------------- |
 | `kgss`     | `kubectl get statefulset`         |
@@ -133,7 +139,7 @@ keywords: zsh oh-my-zsh alias
 | `kdelss`   | `kubectl delete statefulset`      |
 | `ksss`     | `kubectl scale statefulset`       |
 
-### DaemonSets
+#### DaemonSets
 | Alias    | Command                      |
 | -------- | ---------------------------- |
 | `kgds`   | `kubectl get daemonset`      |
