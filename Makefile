@@ -71,9 +71,19 @@ bootstrap: install init-submodule update-submodule
 #------------------------------------
 
 .PHONY: update-minimal
-## Update Minimal theme
+## Update Minimal theme | Commands
 update-minimal:
 	git submodule update --remote themes/minimal
+
+.PHONY: lint
+## Run lint checks for *.sh files
+lint:
+	shfmt -l -d .
+
+.PHONY: format
+## Format *.sh files
+format:
+	shfmt -l -w .
 
 #------------------------------------
 # Hugo Commands
