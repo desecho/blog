@@ -72,7 +72,7 @@ For all of the commands below: `-r` — recursive change.
 * Search files using locate
     * `locate [file]` — locate a `file`
     * `sudo updatedb` — update the search index
-* `find [dir] -name "[*.*]" -type f` — list files in a `dir` recursively
+* `find [dir] -name "[mask]" -type f` — list files in a `dir` recursively. `mask` can be `*.*` for example
     - `-delete` — remove the found files
 * `find . -type f -exec cat {} +` — output contents of all files in the current directory
 

@@ -79,6 +79,7 @@ update-minimal:
 ## Run lint checks for *.sh files
 lint:
 	shfmt -l -d .
+	shellcheck scripts/*.sh
 
 .PHONY: format
 ## Format *.sh files
