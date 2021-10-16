@@ -88,6 +88,8 @@ keywords: ios, ipados, apps, applications, programs
 * [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498) — Augmented Reality Furnishing.
 * [IKEA](https://apps.apple.com/ca/app/ikea/id1452164827) — Inspired shopping.
 * [eBay](https://apps.apple.com/ca/app/ebay/id282614216) — Start buying and selling now.
+* [H&M - we love fashion](https://apps.apple.com/ca/app/h-m-we-love-fashion/id834465911)
+* [Urban Outfitters](https://apps.apple.com/ca/app/urban-outfitters/id358821736) — Shop for Clothes & Home Décor.
 
 ## TV/Movies/Streaming
 * [YouTube: Watch, Listen, Stream](https://apps.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664) — Videos, Music and Live Streams.
@@ -161,6 +163,10 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Canada
 
+### Travelling
+
+* [CanBorder – eDeclaration](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
+
 ### Internet
 * [Fizz Wi-Fi](https://apps.apple.com/ca/app/fizz-wi-fi/id1449022170)
 
@@ -195,7 +201,7 @@ keywords: ios, ipados, apps, applications, programs
 ### Utilities
 * [Hydro-Québec](https://apps.apple.com/ca/app/hydro-qu%C3%A9bec/id1045080947)
 
-## Shipping
+### Shipping
 * [Purolator](https://apps.apple.com/ca/app/purolator/id438701193)
 
 ## Russia

@@ -39,7 +39,7 @@ keywords: ios, apps, applications, programs
 ## Utilities
 * [Speedtest by Ookla](https://apps.apple.com/ca/app/speedtest-by-ookla/id300704847) – 34 billion tests and counting.
 * [Truecaller](https://apps.apple.com/ca/app/truecaller/id448142450) – Identify Spam + Search Numbers.
-* [View Source](https://apps.apple.com/us/app/view-source/id1041817284)
+* [View Source](https://apps.apple.com/ca/app/view-source/id1041817284)
 
 ## Devices
 * [Qardio heart health](https://apps.apple.com/ca/app/qardio-heart-health/id855275752) – Blood pressure, weight, ECG.
@@ -55,7 +55,13 @@ keywords: ios, apps, applications, programs
 ## Miscellaneous
 * [Booksy for Customers](https://apps.apple.com/ca/app/booksy-for-customers/id723961236) – Book your appointments.
 
+## Shopping
+* [AE + Aerie](https://apps.apple.com/ca/app/ae-aerie/id467738064)
+
 ## Canada
+
+### Travelling
+* [ArriveCAN](https://apps.apple.com/ca/app/arrivecan/id1505394667)
 
 ### Montreal
 
@@ -69,10 +75,12 @@ keywords: ios, apps, applications, programs
 * [PC Optimum](https://apps.apple.com/ca/app/pc-optimum/id634040057) – Shop. Earn Points. Repeat.
 * [My Metro](https://apps.apple.com/ca/app/my-metro/id694386842)
 * [Couche-Tard](https://apps.apple.com/ca/app/couche-tard/id663345373)
+* [Triangle](https://apps.apple.com/ca/app/triangle/id1343453471)
 
 ### Food & Drinks
 * [Société des alcools du Québec](https://apps.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661) – SAQ.
 * [Tim Hortons](https://apps.apple.com/ca/app/tim-hortons/id1143883086) – Order, pay, and earn rewards.
+* [SUBWAY®](https://apps.apple.com/ca/app/subway/id901941015)
 
 ### Banking
 * [RBC Launch](https://apps.apple.com/ca/app/rbc-wallet/id1022830198) – Simplifying your finances.
