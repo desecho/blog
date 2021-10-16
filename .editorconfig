@@ -11,12 +11,9 @@ indent_style = space
 indent_size = 4
 
 [*.sh]
-indent_style = space
-indent_size = 4
-
-shell_variant      = bash
+shell_variant = bash
 switch_case_indent = true
-space_redirects    = true
+space_redirects = true
 
 [*.{css,html,js,json,less,scss,yml,yaml}]
 indent_size = 2
