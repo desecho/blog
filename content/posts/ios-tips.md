@@ -7,9 +7,15 @@ keywords: ios, tips
 ---
 
 ## Settings
-* Accounts & Passwords → iCloud → enable Mail, Contacts, Calendars, and Notes
-* Contacts → Sort Order and Display Order → First, Last
-* Maps → Preferred transportation type → Walking
-* Messages → enable iMessage and Send as SMS
-* Wallet & Apple Pay → Add Credit or Debit Card
-* Camera → Record Video → set quality
+* `Accounts & Passwords` → `iCloud` → enable all
+* `Accounts & Passwords` → `iCloud` → disable `iCloud Backup`
+* `Contacts` → `Sort Order` → `First, Last`
+* `Maps` → `Preferred transportation type` → `Transit`
+* `Messages` → enable `Send as SMS`
+* `Wallet & Apple Pay` → `Add Credit or Debit Card`
+* `Camera` → `Record Video` → set quality
+* `General` → `Keyboards` → `Add new keyboard`
+* `Cellular` → `Calls on Other Devices` → disable `Allow Calls on Other Devices`
+* `Cellular` → `Cellular Data Options` → Enable `Low Data Mode`
+* `Wallpaper` → `Choose a New Wallpaper`
+* `Music` → `Downloads` → `Download in Dolby Atmos`

@@ -24,6 +24,7 @@ keywords: windows, apps, applications, programs
 * [K-Lite Codec Pack](http://codecguide.com/) — K-Lite Codec Pack is a collection of DirectShow filters, VFW/ACM codecs, and tools. Codecs and DirectShow filters are needed for encoding and decoding audio and video formats.
 
 ## Utils
+* [MicMute](https://sourceforge.net/projects/micmute/) — MicMute is a small program that will enable you to easily manage the level of a connected microphone.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) — Easy Window Switcher brings the convenience of Mac's easy window switching to Windows.
 * [WinDirStat](https://windirstat.net/) — A disk usage statistics viewer and cleanup tool.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) — PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator.

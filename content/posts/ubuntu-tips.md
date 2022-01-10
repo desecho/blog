@@ -34,3 +34,10 @@ vboxmanage setextradata [vbox] "VBoxInternal/Devices/VMMDev/0/Config/GetHostTime
 | `alias`    | List all aliases                                                                          |
 | `take`     | Create a new directory and change to it, will create intermediate directories as required |
 | `exec zsh` | Apply changes made to `.zshrc`                                                            |
+
+## Fix broken sudoers file
+Run this:
+
+```bash
+pkexec visudo
+```

@@ -20,6 +20,8 @@ keywords: ubuntu, programs, applications, apps
 * [Telegram Desktop](https://desktop.telegram.org/) — Fast and secure desktop app, perfectly synced with your mobile phone.
 * [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software) — Meet, chat, call, and collaborate in just one place.
 * [Slack](https://slack.com) — With the Slack app, your team is never more than a click away.
+* [Skype](https://www.skype.com/en/) — Preserving the connections that matter most with Skype.
+* [VK Messenger](https://vk.com/landings/desktop_messenger)
 
 ## TV/Movies/Streaming
 * [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you.

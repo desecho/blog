@@ -43,6 +43,8 @@ keywords: ios, ipados, apps, applications, programs
 * [Slack](https://apps.apple.com/ca/app/slack/id618783545) — Business Communication.
 * [Discord - Talk, Chat, Hang Out](http://apps.apple.com/ca/app/discord-chat-for-games/id985746746) — Friends, Communities & Gaming.
 * [Microsoft Teams](https://apps.apple.com/ca/app/microsoft-teams/id1113153706) — Call. Chat. Collaborate.
+* [Signal - Private Messenger](https://apps.apple.com/us/app/signal-private-messenger/id874139669) — Say “hello” to privacy.
+* [TextNow: Call + Text Unlimited](https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233) — Phone Number For Texts & Calls.
 
 ## Cloud Storage
 * [Google Drive](https://apps.apple.com/ca/app/google-drive-free-online-storage/id507874739) — Cloud storage space.
@@ -57,7 +59,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Tabata HIIT Interval Timer](https://apps.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975) — TSP - Tabata Stopwatch Pro.
 * [Asana: Your work manager](https://apps.apple.com/ca/app/asana-team-tasks-conversations/id489969512) — Organize. Plan. Get work done.
 * [Adobe Acrobat Reader PDF Maker](https://apps.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564) — File Viewer & Document Editor.
-* [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458) — Protects your online identity.
+* [Twilio Authy](https://apps.apple.com/us/app/twilio-authy/id494168017)
 * [TeamViewer Remote Control](https://apps.apple.com/ca/app/teamviewer/id692035811)
 * [Grammarly - Grammar Keyboard](https://apps.apple.com/ca/app/grammarly-grammar-keyboard/id1158877342) — English grammar & writing app.
 * [Google Assistant](https://apps.apple.com/ca/app/google-assistant/id1220976145) — Your own personal Google.
@@ -84,7 +86,6 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Shopping
 * [Amazon](https://apps.apple.com/ca/app/amazon/id297606951) — Search, Browse, Shop – Easy.
-* [Apple Store](https://apps.apple.com/ca/app/apple-store/id375380948) — Shopping designed around you.
 * [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498) — Augmented Reality Furnishing.
 * [IKEA](https://apps.apple.com/ca/app/ikea/id1452164827) — Inspired shopping.
 * [eBay](https://apps.apple.com/ca/app/ebay/id282614216) — Start buying and selling now.
@@ -102,7 +103,6 @@ keywords: ios, ipados, apps, applications, programs
 ## Music
 * [Spotify New Music and podcasts](https://apps.apple.com/ca/app/spotify-music/id324684580) — Discover playlists and songs.
 * [GuitarTuna: Guitar, Bass tuner](https://apps.apple.com/ca/app/guitartuna-tuner-for-guitar-bass-and-ukulele/id527588389) — Tuner for Guitar, Bass,Ukulele.
-* [GarageBand](https://apps.apple.com/ca/app/garageband/id408709785) — Make great music anywhere.
 * [SoundHound - Music Discovery](https://apps.apple.com/ca/app/soundhound-music-discovery/id355554941) — Find & play songs with lyrics.
 
 ## Translation
@@ -117,6 +117,9 @@ keywords: ios, ipados, apps, applications, programs
 ## Shipping
 * [UPS Mobile](https://apps.apple.com/ca/app/ups-mobile/id336377331)
 * [FedEx Mobile](https://apps.apple.com/ca/app/fedex-mobile/id1010729050) — Track, ship, locations & more.
+
+### Languages
+* [Duolingo - Language Lessons](https://apps.apple.com/ca/app/duolingo-language-lessons/id570060128) — Learn Spanish, French, German.
 
 ## Paid
 
@@ -157,7 +160,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Lose It! – Calorie Counter](https://apps.apple.com/ca/app/lose-it-calorie-counter/id297368629) – Food Tracker for Weight Loss.
 
 ## Devices
-* [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981) – New! Introducing S2.
+* [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981) – Total Control. All your music.
 * [Amazon Alexa](https://apps.apple.com/ca/app/amazon-alexa/id944011620)
 * [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310) – Official Philips Hue app.
 
@@ -211,7 +214,7 @@ keywords: ios, ipados, apps, applications, programs
 * [VK](https://apps.apple.com/ca/app/vk/id564177498) – Новости, чат и музыка.
 
 ### Maps
-* [Yandex.Maps – Cityguide](https://apps.apple.com/ca/app/yandex-maps/id313877526) – Transport, Transit, Navigation.
+* [Yandex.Maps & Navigator](https://apps.apple.com/ca/app/yandex-maps/id313877526) – Transport, Transit, Navigation.
 * [2GIS: Offline Map & Navigation](https://apps.apple.com/ca/app/2gis-offline-maps/id481627348) – City Routes, Traffic & Transit.
 
 ### Transport

@@ -36,9 +36,10 @@ keywords: windows, apps, applications, programs, macos
 * [WhatsApp](https://www.whatsapp.com/) — Simple. Secure.
 Reliable messaging.
 * [Messenger](https://www.messenger.com/desktop) — A simple app that lets you text, video chat, and stay close with people you care about.
-
+* [Skype](https://www.skype.com/en/) — Preserving the connections that matter most with Skype.
 * [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software) — Meet, chat, call, and collaborate in just one place.
 * [Slack](https://slack.com/) — With the Slack app, your team is never more than a click away.
+* [VK Messenger](https://vk.com/landings/desktop_messenger)
 
 ## Music
 * [Spotify](https://www.spotify.com) — With Spotify, it’s easy to find the right music or podcast for every moment – on your phone, your computer, your tablet and more.
