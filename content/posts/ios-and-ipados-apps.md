@@ -31,9 +31,6 @@ keywords: ios, ipados, apps, applications, programs
 ## VPN
 * [Cisco AnyConnect](https://apps.apple.com/ca/app/cisco-anyconnect/id1135064690) — New Cisco AnyConnect
 
-## Notes
-* [Simplenote – Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962) — Simple notes, todos and memos.
-
 ## Communication
 * [Jami](https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
 * [Telegram Messenger](https://apps.apple.com/ca/app/telegram-messenger/id686449807?mt=8&ign-mpt=uo%3D4) — Fast. Secure. Powerful‪.‬
@@ -54,30 +51,39 @@ keywords: ios, ipados, apps, applications, programs
 * [Yandex.Disk](https://apps.apple.com/ca/app/yandex-disk/id553266487)
 * [Microsoft OneDrive](https://apps.apple.com/ca/app/microsoft-onedrive/id477537958) — File & photo cloud storage.
 
-## Misc
-* [Google Maps - Transit & Food](https://apps.apple.com/ca/app/google-maps-navigation-transport/id585027354) — GPS, City Navigation & Traffic.
-* [Tabata HIIT Interval Timer](https://apps.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975) — TSP - Tabata Stopwatch Pro.
-* [Asana: Your work manager](https://apps.apple.com/ca/app/asana-team-tasks-conversations/id489969512) — Organize. Plan. Get work done.
-* [Adobe Acrobat Reader PDF Maker](https://apps.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564) — File Viewer & Document Editor.
+## Authenticators
 * [Twilio Authy](https://apps.apple.com/us/app/twilio-authy/id494168017)
-* [TeamViewer Remote Control](https://apps.apple.com/ca/app/teamviewer/id692035811)
-* [Grammarly - Grammar Keyboard](https://apps.apple.com/ca/app/grammarly-grammar-keyboard/id1158877342) — English grammar & writing app.
-* [Google Assistant](https://apps.apple.com/ca/app/google-assistant/id1220976145) — Your own personal Google.
-* [GitHub](https://apps.apple.com/app/github/id1477376905) — Projects, ideas, & code to go.
+* [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458) — Protects your online identity.
 * [Yandex.Key–one-time passwords](https://apps.apple.com/ca/app/yandex-key-one-time-passwords/id957324816)
+
+## Maps
+* [Google Maps - Transit & Food](https://apps.apple.com/ca/app/google-maps-navigation-transport/id585027354) — GPS, City Navigation & Traffic.
+
+## Productivity
+* [TeamViewer Remote Control](https://apps.apple.com/ca/app/teamviewer/id692035811)
+* [Grammarly - Keyboard & Editor](https://apps.apple.com/ca/app/grammarly-grammar-keyboard/id1158877342) — English grammar and writing.
+* [Simplenote – Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962) — Simple notes, todos and memos.
+
+## Developer Tools
+* [GitHub](https://apps.apple.com/app/github/id1477376905) — Projects, ideas, & code to go.
 
 ## Weather
 * [The Weather Network](https://apps.apple.com/ca/app/the-weather-network/id473299958) — Detailed Weather Forecast.
 
 ## Books
 * [Bookmate. Books and audiobooks](https://apps.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450) — Read & listen to great books.
-* [Audible: Audiobooks & Podcast‪s‬](https://apps.apple.com/ca/app/audible-audio-books-podcasts/id379693831) — The app to stream audio books.
+* [Audible audio books & podcasts](https://apps.apple.com/ca/app/audible-audio-books-podcasts/id379693831) — Stream & listen to Audiobooks.
 * [Kindle](https://apps.apple.com/ca/app/kindle/id302584613) — Read eBooks & Magazines.
 
 ## Social
 * [Twitter](https://apps.apple.com/ca/app/twitter/id333903271) — Live news, sports, and chat.
 * [Facebook](https://apps.apple.com/ca/app/facebook/id284882215)
 * [LinkedIn: Job Search & News](https://apps.apple.com/ca/app/linkedin/id288429040) — Network & Find Jobs For You.
+
+## Business
+* [xMatters](https://apps.apple.com/ca/app/xmatters/id409162401)
+* [Asana: Your work manager](https://apps.apple.com/ca/app/asana-team-tasks-conversations/id489969512) — Get to your goals faster.
+* [Adobe Acrobat Reader PDF Maker](https://apps.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564) — File Viewer & Document Editor.
 
 ## Entertainment
 * [9GAG: Best LOL Pics & GIFs](https://apps.apple.com/ca/app/9gag-best-lol-pics-gifs/id545551605) — LOL Pics & GIFs Search Engine.
@@ -111,6 +117,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Multitran - English Translator](https://apps.apple.com/ca/app/multitran/id1090468498) — Speak & Translate Dictionary.
 
 ## Utilities
+* [Google Assistant](https://apps.apple.com/ca/app/google-assistant/id1220976145) — Your own personal Google.
 * [Apple Support](https://apps.apple.com/ca/app/apple-support/id1130498044) — We're here to help.
 * [MultiTimer: Multiple timers](https://apps.apple.com/ca/app/multitimer-multiple-timers/id973421278) — Visual countdown seconds timer.
 
@@ -118,28 +125,8 @@ keywords: ios, ipados, apps, applications, programs
 * [UPS Mobile](https://apps.apple.com/ca/app/ups-mobile/id336377331)
 * [FedEx Mobile](https://apps.apple.com/ca/app/fedex-mobile/id1010729050) — Track, ship, locations & more.
 
-### Languages
+## Languages
 * [Duolingo - Language Lessons](https://apps.apple.com/ca/app/duolingo-language-lessons/id570060128) — Learn Spanish, French, German.
-
-## Paid
-
-### Utils
-* [1Password - Password Manager](https://apps.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — Generate & keep passwords safe — 2.99 C$/month
-* [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter. — 1 C$
-* [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$
-* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers. — 5.39 C$/month
-* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events. — 3.99 C$
-
-### Languages
-* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards. — 35 C$
-
-### Streaming
-* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — 9.99 C$/month (SD), 14.99 C$/month (Full HD), 18.99 C$/month (4K)
-* [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports. — 6.58 C$/month
-* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment. — C$11.99/month
-
-### Video
-* [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player. — 104.99 C$
 
 ## Reference
 * [Wikipedia](https://apps.apple.com/ca/app/wikipedia/id324715238) — The Free Encyclopedia.
@@ -158,6 +145,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Health & Fitness
 * [Lose It! – Calorie Counter](https://apps.apple.com/ca/app/lose-it-calorie-counter/id297368629) – Food Tracker for Weight Loss.
+* [Tabata HIIT Interval Timer](https://apps.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975) — TSP - Tabata Stopwatch Pro.
 
 ## Devices
 * [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981) – Total Control. All your music.
@@ -222,3 +210,23 @@ keywords: ios, ipados, apps, applications, programs
 
 ### Food & Drinks
 * [Яндекс.Еда для ресторанов](https://apps.apple.com/ca/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B5%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%BE%D0%B2/id1440757437)
+
+## Paid
+
+### Utils
+* [1Password - Password Manager](https://apps.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — Generate & keep passwords safe — 2.99 C$/month
+* [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter. — 1 C$
+* [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$
+* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers. — 5.39 C$/month
+* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events. — 3.99 C$
+
+### Languages
+* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards. — 35 C$
+
+### Streaming
+* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — 9.99 C$/month (SD), 14.99 C$/month (Full HD), 18.99 C$/month (4K)
+* [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports. — 6.58 C$/month
+* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment. — C$11.99/month
+
+### Video
+* [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player. — 104.99 C$
