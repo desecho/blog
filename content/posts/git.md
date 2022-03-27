@@ -27,16 +27,17 @@ keywords: git, source control
 * `--abort`
 
 ### Main
-| Command                     | Description                  |
-| --------------------------- | ---------------------------- |
-| `git init [project]`        | Initialize a `project`       |
-| `git merge [branch]`        | Merge `branch`               |
-| `git pull`                  | Pull                         |
-| `git push`                  | Push                         |
-| `git push -f`               | Force push                   |
-| `git status`                | Show the working tree status |
-| `git revert [commit]`       | Revert a `commit`            |
-| `git cherry-pick [commit]]` | Add a `commit`               |
+| Command                          | Description                  |
+| -------------------------------- | ---------------------------- |
+| `git init [project]`             | Initialize a `project`       |
+| `git merge [branch]`             | Merge `branch`               |
+| `git pull`                       | Pull                         |
+| `git push`                       | Push                         |
+| `git push -f`                    | Force push                   |
+| `git status`                     | Show the working tree status |
+| `git revert [commit]`            | Revert a `commit`            |
+| `git cherry-pick [commit]`       | Add a `commit`               |
+| `git push --delete origin [tag]` | Delete a `tag` from origin   |
 
 ### Miscellaneous
 | Command                                                        | Description                                            |
