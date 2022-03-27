@@ -16,10 +16,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Install linter
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 15.x
+          registry-url: https://registry.npmjs.org
+
+      - name: Install linters
         run: |
           curl -L https://github.com/mvdan/sh/releases/download/v${SHFMT_VERSION}/shfmt_v${SHFMT_VERSION}_linux_amd64 -o /usr/local/bin/shfmt
           chmod +x /usr/local/bin/shfmt
+          sudo npm install -g markdownlint-cli
         env:
           SHFMT_VERSION: 3.4.3
 
