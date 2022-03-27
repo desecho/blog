@@ -1,5 +1,7 @@
 # IT Blog
 
+[![Deployment](https://github.com/desecho/blog/actions/workflows/deployment.yaml/badge.svg)](https://github.com/desecho/blog/actions/workflows/deployment.yaml)
+
 Powered by [Hugo](https://gohugo.io/).
 
 Uses [Minimal theme](https://github.com/calintat/minimal).
