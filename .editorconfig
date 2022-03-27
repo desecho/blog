@@ -15,7 +15,7 @@ shell_variant = bash
 switch_case_indent = true
 space_redirects = true
 
-[*.{css,html,js,json,less,scss,yml,yaml}]
+[*.{css,html,js,json,less,scss,yml,yaml,md}]
 indent_size = 2
 max_line_length = 119
 

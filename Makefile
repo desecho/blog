@@ -76,15 +76,17 @@ update-minimal:
 	git submodule update --remote themes/minimal
 
 .PHONY: lint
-## Run lint checks for *.sh files
+## Run linters
 lint:
 	shfmt -l -d .
 	shellcheck scripts/*.sh
+	markdownlint README.md "content/posts/*.md"
 
 .PHONY: format
-## Format *.sh files
+## Format files
 format:
 	shfmt -l -w .
+	markdownlint README.md "content/posts/*.md" --fix
 
 #------------------------------------
 # Hugo Commands
