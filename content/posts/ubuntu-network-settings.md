@@ -7,20 +7,24 @@ keywords: ubuntu, network, configuration, administration
 ---
 
 ## IP Configuration
-1. Clear the configuration file
+
+Clear the configuration file.
+
 ```bash
 sudo cat /dev/null > /etc/network/interfaces
 ```
 
-2. Edit configuration file with appropriate settings
-3. Restart networking service
+Edit configuration file with appropriate settings.
+
+Restart networking service.
 
 ```bash
 sudo service networking restart
 ```
 
 ### Static IP
-```
+
+```bash
 auto lo eth0
 iface lo inet loopback
 iface eth0 inet static
@@ -33,18 +37,20 @@ iface eth0 inet static
 ```
 
 ### Dynamic IP
-```
+
+```bash
 auto lo eth0
 iface lo inet loopback
 iface eth0 inet dhcp
 ```
 
 ## VLAN Configuration
+
 ```bash
 sudo apt-get install -y vlan
 ```
 
-```
+```bash
 auto lo eth0.10 eth0.20
 iface lo inet loopback
 iface eth0.10 inet static

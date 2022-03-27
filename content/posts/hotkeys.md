@@ -9,6 +9,7 @@ keywords: hotkeys
 ## Operating systems
 
 ### Ubuntu/Windows
+
 `Super` key is `Win` key for Windows
 
 | Hotkey                      | Action                                           |
@@ -42,6 +43,7 @@ keywords: hotkeys
 | [Alt + Prnt Scrn]           | Take a screenshot of a window                    |
 
 ### Ubuntu
+
 | Hotkey                      | Action                                                                                                                                               |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Super]                     | Switch between the Activities overview and desktop. In the overview,<br> start typing to instantly search your applications, contacts, and documents |
@@ -57,6 +59,7 @@ keywords: hotkeys
 | [Ctrl + Alt + Shift + R]    | Start and stop screencast recording                                                                                                                  |
 
 ### Windows
+
 | Hotkey               | Action                                     |
 | -------------------- | ------------------------------------------ |
 | [Win]                | Open Start                                 |
@@ -71,6 +74,7 @@ keywords: hotkeys
 | [Win + Ctrl + ←]     | Switch to the virtual desktop on the left  |
 
 ### macOS
+
 | Hotkey                       | Action                                       |
 | ---------------------------- | -------------------------------------------- |
 | [Command + Option + Esc]     | Open Force Quit Applications window          |
@@ -81,6 +85,7 @@ keywords: hotkeys
 | [Shift + Cmd + 4 + Spacebar] | Take a screenshot of a window or menu        |
 
 ### iOS
+
 | Hotkey                   | Action            |
 | ------------------------ | ----------------- |
 | [Power + Volume up]      | Take a screenshot |
@@ -92,26 +97,28 @@ keywords: hotkeys
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Ctrl + Q] | Park a command. It "parks" the command you're currently typing and takes you back to the prompt,<br> letting you start over and type another command.<br> Once you run that other command, the original command is un-parked and refills the command line. |
 
-
-
 ## Editors
 
 ### Nano
+
 | Hotkey     | Action |
 | ---------- | ------ |
 | [Ctrl + W] | Search |
 
 ### VS Code
+
 [VS Code](https://code.visualstudio.com/)
 
 [Full list of hotkeys](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 #### General
+
 | Hotkey                 | Action               |
 | ---------------------- | -------------------- |
 | [Ctrl + Shift + P, F1] | Show Command Palette |
 
 #### Basic editing
+
 | Hotkey              | Action                       |
 | ------------------- | ---------------------------- |
 | [Alt + ↑/↓]         | Move line up/down            |
@@ -121,6 +128,7 @@ keywords: hotkeys
 | [Ctrl + /]          | Toggle line comment          |
 
 #### Navigation
+
 | Hotkey             | Action       |
 | ------------------ | ------------ |
 | [Ctrl + P]         | Go to file   |
@@ -128,6 +136,7 @@ keywords: hotkeys
 | [Ctrl + Shift + O] | Go to Symbol |
 
 #### Search and replace
+
 | Hotkey              | Action                                 |
 | ------------------- | -------------------------------------- |
 | [Ctrl + D]          | Add selection to next Find match       |
@@ -139,6 +148,7 @@ keywords: hotkeys
 | [F3/Shift + F3]     | Find next/previous                     |
 
 #### Rich languages editing
+
 | Hotkey             | Action           |
 | ------------------ | ---------------- |
 | [F12]              | Go to Definition |
@@ -146,6 +156,7 @@ keywords: hotkeys
 | [Ctrl + Shift + I] | Format document  |
 
 #### Multi-cursor and selection
+
 | Hotkey                       | Action                                      |
 | ---------------------------- | ------------------------------------------- |
 | [Alt + Click]                | Insert cursor                               |
@@ -154,6 +165,7 @@ keywords: hotkeys
 | [Shift + Alt + (drag mouse)] | Column (box) selection                      |
 
 #### Display
+
 | Hotkey             | Action                     |
 | ------------------ | -------------------------- |
 | [Ctrl + Shift + F] | Show Search                |
@@ -161,6 +173,7 @@ keywords: hotkeys
 | [Ctrl + B]         | Toggle Sidebar visibility  |
 
 ### Sublime Text
+
 | Hotkey                    | Action                                |
 | ------------------------- | ------------------------------------- |
 | [Cmd + P]                 | Switch files                          |
@@ -187,6 +200,7 @@ keywords: hotkeys
 | [Ctrl + M]                | Go to matching bracket                |
 
 #### Bookmarks
+
 | Hotkey             | Action                  |
 | ------------------ | ----------------------- |
 | [Cmd + F2]         | Create/delete bookmark  |
@@ -195,6 +209,7 @@ keywords: hotkeys
 | [Shift + F2]       | Go to previous bookmark |
 
 ## CLI
+
 | Hotkey         | Action                                                  |
 | -------------- | ------------------------------------------------------- |
 | [Ctrl + A]     | Move the cursor to the start of the line                |
@@ -206,6 +221,7 @@ keywords: hotkeys
 | [TAB]          | Auto-complete a command                                 |
 
 ### Terminator
+
 | Hotkey             | Action                                                                           |
 | ------------------ | -------------------------------------------------------------------------------- |
 | [Ctrl + Page Down] | Go to next tab                                                                   |
@@ -227,6 +243,7 @@ keywords: hotkeys
 | [Ctrl + 0]         | Restore font size to original setting                                            |
 
 ### Screen
+
 | Hotkey            | Action              |
 | ----------------- | ------------------- |
 | [Ctrl + A, D]     | Detach from screen  |

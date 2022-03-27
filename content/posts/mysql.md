@@ -7,6 +7,7 @@ keywords: mysql, db
 ---
 
 ## Reset Root Password
+
 ```bash
 sudo service mysql stop
 sudo mysqld --skip-grant-tables &
@@ -19,6 +20,7 @@ FLUSH PRIVILEGES;
 ```
 
 ## Administer Users
+
 `[ip]` can be `%`, which means `any`, `localhost`, or `ip-address`
 
 ```sql
@@ -27,6 +29,7 @@ DROP USER '[user]'@'[ip]';
 ```
 
 ## Open Access
+
 Instead of `[db]` and `[table]` can be `*`, which means `any`.
 
 `[privilege]` can be `ALL`, `USAGE`, `SELECT`, etc.
@@ -44,27 +47,31 @@ FLUSH PRIVILEGES;
 ```
 
 ## Create a new DB
+
 ```sql
 CREATE DATABASE `[name]` CHARACTER SET utf8 COLLATE utf8_general_ci;
 ```
 
 ## Open Access to External Users
+
 ```bash
 mysql -uroot -p[password] -e "GRANT ALL ON *.* to root@'%' IDENTIFIED BY '[password]' WITH GRANT OPTION; FLUSH PRIVILEGES;"
 sed -i 's/127.0.0.1/0.0.0.0/g' /etc/mysql/my.cnf
 service mysql restart
 ```
 
-# Encoding
+## Encoding
 
-## Check the Encoding
+### Check the Encoding
 
-### For a DB
+#### For a DB
+
 ```sql
 SELECT default_character_set_name FROM information_schema.SCHEMATA WHERE schema_name = "[db_name]";
 ```
 
-### For Tables
+#### For Tables
+
 ```sql
 SELECT CCSA.character_set_name FROM information_schema.`TABLES` T,
        information_schema.`COLLATION_CHARACTER_SET_APPLICABILITY` CCSA
@@ -73,18 +80,21 @@ WHERE CCSA.collation_name = T.table_collation
   AND T.table_name = "[table_name]";
 ```
 
-### For Columns
+#### For Columns
+
 ```sql
 SHOW FULL COLUMNS FROM [tablename];
 ```
 
-## Change Collation for a DB
+### Change Collation for a DB
+
 ```sql
 ALTER DATABASE [dbname] CHARACTER SET utf8 COLLATE utf8_general_ci;
 ALTER TABLE [tablename] CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 ```
 
 ## Add Timezone Info to a DB
+
 ```bash
 mysql_tzinfo_to_sql /usr/share/zoneinfo | mysql -D mysql -u root -p
 mysql -u root -p -e "flush tables;"

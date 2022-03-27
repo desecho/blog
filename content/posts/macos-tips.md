@@ -7,6 +7,7 @@ keywords: macos, tips
 ---
 
 ## Installation
+
 Do not format your drive as a case-sensitive partition. You won't be able to run applications like Steam or Photoshop.
 
 ## Settings
@@ -17,9 +18,11 @@ Open `Finder` → `Preferences`
 ![Finder Preferences Advanced](/images/finder-preferences-advanced.png)
 
 ## macOS Configuration
+
 `Contacts` → `File` → `New Smart Group` → Card/is not member of/any group.
 
 ## Remove Duplicates in "open with"
+
 ```bash
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user
 ```
@@ -31,6 +34,7 @@ pmset -g log|grep -e " Sleep  " -e " Wake  "
 ```
 
 ## Reindex Spotlight Index
+
 ```bash
 sudo mdutil -E /
 sudo mdutil -i on /

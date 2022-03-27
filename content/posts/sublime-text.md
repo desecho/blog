@@ -11,6 +11,7 @@ keywords: sublime text, editor
 ## Settings
 
 ### Project Settings Example
+
 ```json
 {
     "folders":
@@ -27,9 +28,11 @@ keywords: sublime text, editor
 ## Tips
 
 ### Edit Current Projects in the Switch Project List
+
 Edit workspaces: `~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session`.
 
 ### Enable Middle Mouse Button Support in Ubuntu
+
 ```bash
 nano ~/.config/sublime-text-3/Packages/User/Default\ \(Linux\).sublime-mousemap
 ```

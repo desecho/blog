@@ -7,20 +7,24 @@ keywords: chrome, extensions, browser
 ---
 
 ## Development
+
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) — EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) — Validate and view JSON documents.
 * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif) — Click the icon in the address bar or press Alt+Shift+V to validate the current page. Results can be seen in Chrome's JS console.
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) — Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
 ## Shopping
+
 * [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) — Automatically find and apply coupon codes when you shop online!
 * [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en) — Amazon's official browser extension.
 
 ## YouTube
+
 * [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) — Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 * [YouTube Like-Dislike Shortcut](https://chrome.google.com/webstore/detail/youtube-like-dislike-shor/fdkpkpelkkdkjhpacficichkfifijipc) — Shift+Plus to like, Shift+Minus to dislike. Can't get any simpler.
 
 ## Utils
+
 * [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) — Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser or a Chromebook.
 * [Close download bar](https://chrome.google.com/webstore/detail/close-download-bar/bkfclmjddajodogcbpohgfpdkgdecgmg) — Closes the download bar via a hotkey.
 * [1Password extension (desktop app required)](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) — Extends the 1Password app on your Mac or Windows PC, so you can fill and save passwords in your browser.
@@ -32,4 +36,5 @@ keywords: chrome, extensions, browser
 * [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) — Re-implements the Google Images' "View Image" and "Search by Image" buttons.
 
 ## Editing
+
 * [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) — From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.

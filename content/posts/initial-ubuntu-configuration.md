@@ -7,6 +7,7 @@ keywords: ubuntu, configuration
 ---
 
 ### Setup SSH Access From One Computer to Another Without Passwords
+
 ```bash
 EMAIL="[email]"
 PORT="[port]"
@@ -17,6 +18,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub "-p $PORT $USERNAME@$IP"
 ```
 
 ### Run Sudo Commands Without Password Request
+
 ```bash
 USERNAME="[username]"
 sudo su
@@ -24,20 +26,23 @@ echo "$USERNAME ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
 ```
 
 ### Set a DNS Server
+
 ```bash
 sudo nano /etc/resolv.conf
 ```
 
-```
+```bash
 nameserver [ip]
 ```
 
 ### Enable Password Authentication Through SSH
+
 ```bash
 sudo nano /etc/ssh/sshd_config
 ```
 
-Change PasswordAuthentication and ChallengeResponseAuthentication to yes.
+Change `PasswordAuthentication` and `ChallengeResponseAuthentication` to yes.
+
 ```bash
 service ssh restart
 ```

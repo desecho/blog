@@ -10,6 +10,7 @@ keywords: git, source control
 * [Git Documentation](https://git-scm.com/doc)
 
 ## Basics
+
 | Label                | Description                         |
 | -------------------- | ----------------------------------- |
 | `master`             | Default branch                      |
@@ -27,6 +28,7 @@ keywords: git, source control
 * `--abort`
 
 ### Main
+
 | Command                          | Description                  |
 | -------------------------------- | ---------------------------- |
 | `git init [project]`             | Initialize a `project`       |
@@ -40,6 +42,7 @@ keywords: git, source control
 | `git push --delete origin [tag]` | Delete a `tag` from origin   |
 
 ### Miscellaneous
+
 | Command                                                        | Description                                            |
 | -------------------------------------------------------------- | ------------------------------------------------------ |
 | `git remot­e add origi­n git@g­ithub.com:[user]/[project].git` | Set origin                                             |
@@ -48,6 +51,7 @@ keywords: git, source control
 | `git merge-base [branch1] [branch2]`                           | Find as good common ancestors as possible for a merge  |
 
 ### Show
+
 | Command                               | Description                                                          |
 | ------------------------------------- | -------------------------------------------------------------------- |
 | `git show [commit]`                   | Show commit changes                                                  |
@@ -56,12 +60,14 @@ keywords: git, source control
 | `git show :3:[file] > [file-other]`   | On merge conflicts, save changes of the other branch to `file-other` |
 
 ### Clone
+
 | Command                 | Description                   |
 | ----------------------- | ----------------------------- |
 | `git clone [url]`       | Clone a repository            |
 | `git clone [url] [dir]` | Clone a repository to a `dir` |
 
 ### Branch
+
 | Command                  | Description                           |
 | ------------------------ | ------------------------------------- |
 | `git branch`             | List all local branches               |
@@ -72,6 +78,7 @@ keywords: git, source control
 | `git branch [branch]`    | Create a new `branch`                 |
 
 ### Switch/Checkout
+
 | Command                                               | Description                                                   |
 | ----------------------------------------------------- | ------------------------------------------------------------- |
 | `git switch [branch]` / `git checkout [branch]`       | Switch to a `branch`                                          |
@@ -79,6 +86,7 @@ keywords: git, source control
 | `git checkout -b [new-branch] [existing-branch]`      | Create a new `branch` from `existing-branch` and switch to it |
 
 ### Log
+
 | Command                        | Description                                                                                                                      |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | `git log`                      | Show commit logs                                                                                                                 |
@@ -90,6 +98,7 @@ keywords: git, source control
 | `git log [commit1]..[commit2]` | Show logs between `commit1` and `commit2`                                                                                        |
 
 ### Diff
+
 | Command                                                | Description                               |
 | ------------------------------------------------------ | ----------------------------------------- |
 | `git diff`                                             | Show changes you made in the working tree |
@@ -98,6 +107,7 @@ keywords: git, source control
 | `git diff --word-diff [commit1] [commit2] --unified=0` | Show a word diff and hide context         |
 
 ### Add
+
 | Command             | Description                                                                                                                                                          |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `git add .`         | Stage all files                                                                                                                                                      |
@@ -105,12 +115,14 @@ keywords: git, source control
 | `git add -N [file]` | Record only the fact that the path will be added later.<br>An entry for the path is placed in the index with no content.                                             |
 
 ### Reset/Checkout
+
 | Command                                       | Description                           |
 | --------------------------------------------- | ------------------------------------- |
 | `git restore [file] / git checkout -- [file]` | Removes all changes to `file`         |
 | `git reset --hard / git checkout -f`          | Remove all changes to the last commit |
 
 ### Reset
+
 | Command                       | Description                                                |
 | ----------------------------- | ---------------------------------------------------------- |
 | `git reset`                   | Unstage all files                                          |
@@ -120,18 +132,21 @@ keywords: git, source control
 | `git reset [commit] --hard`   | Reset to `commit` and remove all changes after this commit |
 
 ### Reset
+
 | Command                  | Description                        |
 | ------------------------ | ---------------------------------- |
 | `git rebase [branch]`    | Reapply commits on top of `branch` |
 | `git rebase -i [branch]` | Interactive rebase                 |
 
 ### Clean
+
 | Command        | Description                                            |
 | -------------- | ------------------------------------------------------ |
 | `git clean -n` | List files which would be deleted by the command below |
 | `git clean -f` | Delete untracked files                                 |
 
 ### Commit
+
 | Command                                          | Description                                                                     |
 | ------------------------------------------------ | ------------------------------------------------------------------------------- |
 | `git commit`                                     | Commit                                                                          |
@@ -142,6 +157,7 @@ keywords: git, source control
 | `git commit --amend --author="[Name] <[email]>"` | Change the author of previous commit                                            |
 
 ### Commit
+
 | Command                   | Description                    |
 | ------------------------- | ------------------------------ |
 | `git stash`               | Stash changes                  |
@@ -154,46 +170,55 @@ keywords: git, source control
 | `git stash clear`         | Clear all stashes              |
 
 ### Blame
+
 | Command                                       | Description                                                       |
 | --------------------------------------------- | ----------------------------------------------------------------- |
 | `git blame [file]`                            | Show what revision and author last modified each line of a `file` |
 | `git blame -L [line-start],[line-end] [file]` | Annotate only the line range given by `line-start`, `line-end`    |
 
 ### Ls-files
+
 | Command                                             | Description                                          |
 | --------------------------------------------------- | ---------------------------------------------------- |
 | `git ls-files --other --ignored --exclude-standard` | List all ignored files                               |
 | `git ls-files -v | grep "^[[:lower:]]"`             | Get a list of files marked with `--assume-unchanged` |
 
 ### Update-index
+
 | Command                                         | Description                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | `git update-index --assume-unchanged [file]`    | Ignore `file` without adding it go `.gitignore` |
 | `git update-index --no-assume-unchanged [file]` | Remove `--assume-unchanged` mark for a `file`   |
 
 ### Update-index
+
 | Command                                      | Description                                     |
 | -------------------------------------------- | ----------------------------------------------- |
 | `git update-index --assume-unchanged [file]` | Ignore `file` without adding it go `.gitignore` |
 
 ## Submodules
+
 ### Initiate Submodules and Load Them
+
 ```bash
 git submodule init
 git submodule update
 ```
 
 ### How to Add a Submodule
+
 ```bash
 git submodule add http://github.com/[username]/[repo].git my/path
 ```
 
 ### How to Remove a Submodule
+
 Delete the relevant section from the `.gitmodules` file
 
 ```bash
 git add .gitmodules
 ```
+
 Delete the relevant section from `.git/config`
 
 ```bash
@@ -204,6 +229,7 @@ rm -rf [path-to-submodule]
 ```
 
 ## How to Update Branch With Upstream
+
 ```bash
 git remote add upstream https://github.com/[user]/[project].git
 git fetch upstream
@@ -214,9 +240,11 @@ git rebase upstream/master
 ## Tips
 
 ### Ignore Files Without Adding Them to .gitignore
+
 Edit file `.git/info/exclude`
 
 ### Ignore Files Only in Diff Command
+
 Create a repository specific diff driver:
 
 ```bash
@@ -232,4 +260,5 @@ echo "$FILE    diff=nodiff" >> .git/info/attributes
 ```
 
 ### Remove Data From Repository’s History
+
 [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)

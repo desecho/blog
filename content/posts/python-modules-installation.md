@@ -7,9 +7,10 @@ keywords: python, installation, modules
 ---
 
 ## Python
+
 Create a `requirements.txt` file with the following format:
 
-```
+```bash
 Django==2.0.2
 mysql-python>=1.0
 -e git+https://github.com/desecho/django-tqdm@1.0.3.git#egg=django-tqdm
@@ -17,6 +18,7 @@ mysql-python>=1.0
 ```
 
 Install using command:
+
 ```bash
 pip install -r requirements.txt
 ```

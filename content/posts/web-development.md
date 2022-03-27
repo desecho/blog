@@ -11,6 +11,7 @@ keywords: python, javascript, web development
 ### jQuery
 
 #### Add jQuery Through the Console
+
 ```javascript
 var jq = document.createElement('script');
 jq.src = "https://code.jquery.com/jquery-3.6.0.min.js";
@@ -18,11 +19,13 @@ document.getElementsByTagName('head')[0].appendChild(jq);
 ```
 
 Give time for script to load, then enter
+
 ```javascript
 jQuery.noConflict();
 ```
 
 #### Extend jQuery
+
 ```javascript
 $.fn.visible = function() {
     return this.css('visibility', 'visible');
@@ -36,11 +39,13 @@ $.fn.invisible = function() {
 ## Python
 
 ### Helpful Command to Clean Cache Files if Anything Behaves Strangely
+
 ```bash
 find . -name "*.pyc" -exec rm -rf {} \;
 ```
 
 ### Kill Debugger
+
 ```python
 import os; os.system("kill -9 %d" % os.getpid())
 ```
@@ -48,18 +53,20 @@ import os; os.system("kill -9 %d" % os.getpid())
 ### Django
 
 #### Management Commands
+
 * `dumpdata [app].[Model] --indent 2 > /[project]/src/[app]/fixtures/[data].json`
 * `collectstatic`
 * `makemigrations`
-    - `[app]` — create initial migration
-    - `--empty [app]`
+  * `[app]` — create initial migration
+  * `--empty [app]`
 * `createsuperuser`
 * `migrate`
-    - `--fake [app] [0002]`
-    - `--fake-initial [app]`
+  * `--fake [app] [0002]`
+  * `--fake-initial [app]`
 * `shell`
 
 #### Data Migration Example
+
 ```python
 from django.db import migrations
 
@@ -77,6 +84,7 @@ class Migration(migrations.Migration):
 ```
 
 #### Data Migration Example to Load Fixtures
+
 ```python
 from django.db import migrations
 from django.core.management import call_command
@@ -99,7 +107,9 @@ class Migration(migrations.Migration):
 ```
 
 #### How to Setup Internalization
+
 Add to settings:
+
 ```python
 from django.utils.translation import ugettext_lazy as _
 from os.path import dirname, join
@@ -123,12 +133,14 @@ TEMPLATES = [
 ```
 
 Add to templates:
-```
+
+```python
 {% trans 'text' %}
 {% blocktrans %}Back to '{{ race }}' homepage{% endblocktrans %}
 ```
 
 To create/update necessary `.po` files:
+
 ```bash
 python manage.py makemessages -a
 ```
@@ -138,6 +150,7 @@ Install [django-rosetta](https://pypi.python.org/pypi/django-rosetta)
 You can then access your translations here - `/rosetta`
 
 ##### JavaScript
+
 To create/update necessary `.po` files:
 
 ```bash
@@ -186,6 +199,7 @@ Additional info in [django docs](https://docs.djangoproject.com/en/dev/topics/i1
 #### Py.test
 
 ##### pytest.ini
+
 ```ini
 [pytest]
 DJANGO_SETTINGS_MODULE = settings
@@ -195,11 +209,13 @@ addopts = --nomigrations --reuse-db
 ```
 
 ##### Installation
+
 ```bash
 pip install pytest-django
 ```
 
 ##### Usage
+
 [Documentation](http://pytest.org/latest/usage.html#usage)
 
 ```bash
@@ -214,6 +230,7 @@ py.test apps/app_name -k test_function --create-db
 ```
 
 ## Services for Your Projects
+
 * [PyPI](https://pypi.python.org) — The Python Package Index.
 * [Read the Docs](https://readthedocs.io) — Create, host, and browse the documentation.
 * [Transifex](https://www.transifex.com/) — Manage translations, translate content, collaborate with translators, and automate your localization process from one central place.

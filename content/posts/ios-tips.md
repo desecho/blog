@@ -7,6 +7,7 @@ keywords: ios, tips
 ---
 
 ## Settings
+
 * `Accounts & Passwords` → `iCloud` → enable all
 * `Accounts & Passwords` → `iCloud` → disable `iCloud Backup`
 * `Contacts` → `Sort Order` → `First, Last`

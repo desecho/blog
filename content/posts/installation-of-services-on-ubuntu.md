@@ -7,7 +7,9 @@ keywords: ubuntu, samba, installation, ssl, stunnel4, service
 ---
 
 ## Install a Service
+
 Create file `/etc/systemd/system/[name].service` with contents:
+
 ```ini
 [Unit]
 Description=[Service Name]
@@ -24,12 +26,14 @@ WantedBy=multi-user.target
 ```
 
 Run
+
 ```bash
 chmod 644 /etc/systemd/system/[name].service
 systemctl daemon-reload
 ```
 
 ## Samba
+
 ```bash
 sudo apt-get install samba
 sudo smbpasswd -a [user] # Set a password for your user in Samba
@@ -37,6 +41,7 @@ sudo nano /etc/samba/smb.conf
 ```
 
 Add this to the end of the file:
+
 ```ini
 [[name]]
 path = [path]
@@ -71,6 +76,7 @@ sudo nano /etc/stunnel/stunnel.conf
 ```
 
 Change:
+
 ```ini
 cert = /etc/ssl/certs/mail.pem
 sslVersion = all
