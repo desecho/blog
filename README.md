@@ -14,7 +14,7 @@ Run `make bootstrap`.
 
 ## Usage
 
-Run `make post [post_name]` to create a new post.
+Run `make post [post-name]` to create a new post.
 
 Run `make run` to preview the site. The preview is available here - <http://localhost:1313>.
 
