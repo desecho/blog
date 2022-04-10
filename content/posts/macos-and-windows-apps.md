@@ -21,8 +21,8 @@ keywords: windows, apps, applications, programs, macos
 * [KeePassX](http://www.keepassx.org/) — KeePassX is an application for people with extremely high demands on secure personal data management.
 * [LICEcap](https://www.cockos.com/licecap/) — Simple animated screen captures.
 * [MakeMKV](http://makemkv.com/) — MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere. MakeMKV is a format converter, otherwise called "transcoder". It converts the video clips from proprietary (and usually encrypted) disc into a set of MKV files, preserving most information but not changing it in any way.
-* [TeamViewer](https://www.teamviewer.com/en-us/) — Connect. Engage. Support. Enhance. Manage.
-* [muCommander](https://www.mucommander.com/) — The easy to use file manager
+* [AnyDesk](https://anydesk.com/) — Remote desktop.
+* [muCommander](https://www.mucommander.com/) — The easy to use file manager.
 
 ## Notes
 
@@ -73,7 +73,6 @@ Reliable messaging.
 ## Downloaders
 
 * [Free Download Manager](http://freedownloadmanager.org) — It's a powerful modern download accelerator and organizer for Windows, macOS, Android, and Linux.
-* [μTorrent](http://www.utorrent.com/) — Play torrents while you download. Ideal for new users.
 
 ## TV/Movies/Streaming
 

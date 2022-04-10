@@ -29,25 +29,25 @@ sudo -u postgres psql "user='[user]' password='[password]' host='[localhost]' po
 ### Create a new DB
 
 ```bash
-sudo -u postgres createdb -O user_owner --encoding='utf-8' --locale=en_US.utf8 my_database
+sudo -u postgres createdb -O [user_owner] --encoding='utf-8' --locale=en_US.utf8 [my_database]
 ```
 
 ### Run Command
 
 ```bash
-sudo -u postgres psql "user='postgres' password='password' host='localhost' port='5432' dbname=my_database" -c "CREATE EXTENSION postgis";
+sudo -u postgres psql "user='postgres' password='[password]' host='localhost' port='5432' dbname=[my_database]" -c "CREATE EXTENSION postgis";
 ```
 
 ### Import DB Dump
 
 ```bash
-sudo -u postgres psql "user='postgres' password='password' host='localhost' port='5432' dbname=my_database" -f file.sql
+sudo -u postgres psql "user='postgres' password='[password]' host='localhost' port='5432' dbname=[my_database]" -f [file.sql]
 ```
 
 ### Create a DB From Template
 
 ```bash
-sudo -u postgres createdb -O user_owner --encoding='utf-8' --locale=en_US.utf8 -T my_database my_database2
+sudo -u postgres createdb -O [user_owner] --encoding='utf-8' --locale=en_US.utf8 -T [my_database] [my_database2]
 ```
 
 ## Activate Correct Encoding

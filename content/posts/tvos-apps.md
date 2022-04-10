@@ -28,5 +28,5 @@ keywords: tvos, apps, applications, programs
 ### Streaming
 
 * [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333#?platform=appleTV) — Originals, movies, TV, sports. — 6.58 C$/month
-* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051#?platform=appleTV) — 9.99 C$/month (SD), 14.99 C$/month (Full HD), 18.99 C$/month (4K)
+* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051#?platform=appleTV) — 16.49 C$/month (Full HD), 20.99 C$/month (4K)
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923#?platform=appleTV) — Unlimited entertainment. — C$11.99/month
