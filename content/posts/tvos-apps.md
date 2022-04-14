@@ -2,7 +2,7 @@
 title: "tvOS Apps"
 date: 2020-09-11T11:00:00-04:00
 comments: true
-categories: ['tvOS']
+categories: tvOS
 keywords: tvos, apps, applications, programs
 ---
 

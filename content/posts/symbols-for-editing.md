@@ -1,9 +1,9 @@
 ---
-title: "Symbols for Editing"
+title: "Symbols for Text Editing"
 date: 2021-04-14T00:23:27-04:00
 comments: true
-categories: editing
-keywords: editing
+categories: Text Editing
+keywords: text editing, symbols
 ---
 
 * —

@@ -1,9 +1,9 @@
 ---
-title: "Ubuntu CLI"
+title: "Linux CLI"
 date: 2012-08-30T02:28:00
 comments: true
-categories: Ubuntu
-keywords: ubuntu, commands, cli
+categories: Linux
+keywords: linux, commands, cli
 ---
 
 ## Files/Directories

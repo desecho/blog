@@ -2,7 +2,7 @@
 title: "Development Tools"
 date: 2014-07-06T21:53:00
 comments: true
-categories: ['Coding']
+categories: Coding
 keywords: development, tools, coding
 ---
 

@@ -2,8 +2,8 @@
 title: "Oh My Zsh Aliases"
 date: 2021-09-17T15:54:20-04:00
 comments: true
-categories: Ubuntu
-keywords: zsh oh-my-zsh alias
+categories: Linux
+keywords: zsh, oh-my-zsh, alias, shell, linux
 ---
 
 | Alias | Command    |

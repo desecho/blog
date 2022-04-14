@@ -1,9 +1,9 @@
 ---
-title: "Installation Of Services On Ubuntu"
+title: "Installation of Services on Linux"
 date: 2015-03-07T15:55:00
 comments: true
-categories: Ubuntu
-keywords: ubuntu, samba, installation, ssl, stunnel4, service
+categories: Linux
+keywords: linux, samba, installation, ssl, stunnel4, service
 ---
 
 ## Install a Service

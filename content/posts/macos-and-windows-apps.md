@@ -1,5 +1,5 @@
 ---
-title: "macOS and Windows Apps"
+title: "macOS & Windows Apps"
 date: 2020-09-11T10:46:21-04:00
 comments: true
 categories: ['macOS', 'Windows']

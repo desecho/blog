@@ -2,7 +2,7 @@
 title: "iOS Tips"
 date: 2018-02-25T20:43:49-05:00
 comments: true
-categories: ['iOS']
+categories: iOS
 keywords: ios, tips
 ---
 

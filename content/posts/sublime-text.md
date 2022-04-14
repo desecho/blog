@@ -2,8 +2,8 @@
 title: "Sublime Text"
 date: 2014-07-13T17:28:00
 comments: true
-categories: ['Sublime Text']
-keywords: sublime text, editor
+categories: Text Editing
+keywords: sublime text, editor, editing
 ---
 
 [Sublime Text](http://www.sublimetext.com/)

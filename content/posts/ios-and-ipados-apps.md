@@ -1,5 +1,5 @@
 ---
-title: "iOS and iPadOS Apps"
+title: "iOS & iPadOS Apps"
 date: 2021-09-19T17:52:15-04:00
 comments: true
 categories: ['iOS', 'iPadOS']

@@ -2,7 +2,7 @@
 title: "iPadOS Apps"
 date: 2021-09-19T17:51:43-04:00
 comments: true
-categories: ['iPadOS']
+categories: iPadOS
 keywords: ipados, apps, applications, programs
 ---
 

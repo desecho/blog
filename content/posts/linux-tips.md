@@ -1,9 +1,9 @@
 ---
-title: "Ubuntu Tips"
+title: "Linux Tips"
 date: 2014-06-16T10:40:00
 comments: true
-categories: Ubuntu
-keywords: ubuntu, tips
+categories: Linux
+keywords: linux, tips
 ---
 
 ## How to Run Programs for X Server

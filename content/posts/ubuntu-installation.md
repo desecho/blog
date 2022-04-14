@@ -2,8 +2,8 @@
 title: "Ubuntu Installation"
 date: 2013-07-09T08:10:00
 comments: true
-categories: Ubuntu
-keywords: ubuntu, installation
+categories: Linux
+keywords: ubuntu, linux, installation
 ---
 
 ## Ubuntu Installation Using a Flash Drive

@@ -2,7 +2,7 @@
 title: "iOS Apps"
 date: 2017-04-09T18:59:00
 comments: true
-categories: ['iOS']
+categories: iOS
 keywords: ios, apps, applications, programs
 ---
 

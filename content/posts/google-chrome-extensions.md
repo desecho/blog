@@ -2,7 +2,7 @@
 title: "Google Chrome Extensions"
 date: 2018-03-11T04:39:01-04:00
 comments: true
-categories: ['Chrome']
+categories: Chrome
 keywords: chrome, extensions, browser
 ---
 

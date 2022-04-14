@@ -1,9 +1,9 @@
 ---
-title: "Ubuntu Apps"
+title: "Linux Apps"
 date: 2019-05-18T22:13:39-04:00
 comments: true
-categories: Ubuntu
-keywords: ubuntu, programs, applications, apps
+categories: Linux
+keywords: linux, programs, applications, apps
 ---
 
 ## Editors

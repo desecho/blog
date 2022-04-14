@@ -1,9 +1,9 @@
 ---
-title: "Initial Ubuntu Configuration"
+title: "Initial Linux Configuration"
 date: 2012-09-05T02:09:00
 comments: true
-categories: Ubuntu
-keywords: ubuntu, configuration
+categories: Linux
+keywords: linux, configuration
 ---
 
 ### Setup SSH Access From One Computer to Another Without Passwords
