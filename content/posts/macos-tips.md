@@ -30,7 +30,7 @@ Open `Finder` → `Preferences`
 ## View Sleep/Wake Log
 
 ```bash
-pmset -g log|grep -e " Sleep  " -e " Wake  "
+pmset -g log | grep -e " Sleep  " -e " Wake  "
 ```
 
 ## Reindex Spotlight Index

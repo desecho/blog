@@ -147,7 +147,7 @@ python manage.py makemessages -a
 
 Install [django-rosetta](https://pypi.python.org/pypi/django-rosetta)
 
-You can then access your translations here - `/rosetta`
+You can then access your translations here — `/rosetta`
 
 ##### JavaScript
 
