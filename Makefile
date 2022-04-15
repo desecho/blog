@@ -6,10 +6,20 @@ include help.mk
 # Installation
 #------------------------------------
 
+HUGO_VERSION=0.97.0
+
 .PHONY: install
 ## Install hugo | Installation
 install:
-	sudo apt install hugo -y
+	cd /tmp && \
+	wget https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz -O hugo.tar.gz && \
+	tar -xvf hugo.tar.gz && \
+	sudo mv ./hugo /usr/local/bin/
+
+.PHONY: uninstall
+## Uninstall hugo
+uninstall:
+	sudo rm /usr/local/bin/hugo
 
 .PHONY: init-submodule
 ## Initialize git submodule
@@ -91,12 +101,12 @@ run: preview
 #------------------------------------
 
 .PHONY: docker-build
-## Run docker-build | Docker
+## Run docker build | Docker
 docker-build:
 	docker build -t blog .
 
 .PHONY: docker-run
-## Run docker-run
+## Run docker run
 docker-run:
 	docker run -p 8000:80 blog
 

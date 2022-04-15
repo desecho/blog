@@ -62,9 +62,9 @@ keywords: zsh, oh-my-zsh, alias, shell, linux
 | `kgaa`  | `kubectl get all --all-namespaces` |
 | `kl`    | `kubectl logs`                     |
 | `kpf`   | `kubectl port-forward`             |
-| `kj`    | `kubectl "$@" -o json | jq`        |
-| `kjx`   | `kubectl "$@" -o json | fx`        |
-| `ky`    | `kubectl "$@" -o yaml | yh`        |
+| `kj`    | `kubectl "$@" -o json \| jq`       |
+| `kjx`   | `kubectl "$@" -o json \| fx`       |
+| `ky`    | `kubectl "$@" -o yaml \| yh`       |
 
 #### Pods
 

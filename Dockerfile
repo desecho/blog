@@ -1,9 +1,11 @@
 FROM nginx:alpine
 
-RUN apk add --no-cache hugo
 ADD . /app
 WORKDIR /app
-RUN hugo -s . && \
-    apk del hugo && \
+RUN apk add --no-cache --virtual .build-deps make sudo && \
+    make install && \
+    hugo -s . && \
+    make uninstall && \
     cp -r /app/public/* /usr/share/nginx/html && \
-    rm -rf /app
+    rm -rf /app && \
+    apk del .build-deps

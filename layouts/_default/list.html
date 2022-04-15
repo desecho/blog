@@ -1,12 +1,8 @@
 {{ partial "header" . }}
 
 <main>
-
-    <h2>{{ .Title }}</h2>
-
-    {{ range .Pages }} {{ partial "list-item" . }} {{ end }}
-
+  <h2>{{ .Title }}</h2>
+  {{ range .Pages }} {{ partial "list-item" . }} {{ end }}
 </main>
-
 
 {{ partial "footer" . }}

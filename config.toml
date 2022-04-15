@@ -11,7 +11,6 @@ paginate = 100
 
 [params]
     author = "Anton Samarchyan"
-    trancate = false
     description = ""
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -41,8 +40,12 @@ paginate = 100
     name = "samarchyan.me"
     weight = 3
 
-[blackfriday]
-  hrefTargetBlank = true # open the external links in a new window
+[markup]
+
+[markup.blackfriday]
+  hrefTargetBlank = true  # open external links in a new window
+
+[markup.goldmark]
 
 [markup.goldmark.renderer]
     unsafe = true
