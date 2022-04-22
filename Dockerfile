@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-ADD . /app
+COPY . /app
 WORKDIR /app
 RUN apk add --no-cache --virtual .build-deps make sudo && \
     make install && \

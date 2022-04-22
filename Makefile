@@ -62,6 +62,7 @@ lint:
 	markdownlint README.md "content/posts/*.md"
 	rst-lint README.rst
 	yamllint .github deployment
+	hadolint Dockerfile
 
 .PHONY: format
 ## Format files
