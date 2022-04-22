@@ -1,3 +1,4 @@
+---
 name: Deployment
 on:
   push:
@@ -25,11 +26,9 @@ jobs:
 
       - name: Install linters
         run: |
-          curl -L https://github.com/mvdan/sh/releases/download/v${SHFMT_VERSION}/shfmt_v${SHFMT_VERSION}_linux_amd64 -o /usr/local/bin/shfmt
-          chmod +x /usr/local/bin/shfmt
+          pip install restructuredtext_lint yamllint
+          make install-shfmt
           sudo npm install -g markdownlint-cli
-        env:
-          SHFMT_VERSION: 3.4.3
 
       - name: Run linters
         run: make lint

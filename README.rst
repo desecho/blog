@@ -51,3 +51,10 @@ Fonts used
 .. _Hugo: https://gohugo.io/
 .. _Minimal theme: https://github.com/calintat/minimal
 .. _Orbitron: https://fonts.google.com/specimen/Orbitron
+.. _GitHub Actions: https://github.com/features/actions
+.. _Cancel Workflow Action: https://github.com/marketplace/actions/cancel-workflow-action
+.. _Checkout: https://github.com/marketplace/actions/checkout
+.. _Setup Node.js environment: https://github.com/marketplace/actions/setup-node-js-environment
+.. _Docker Login: https://github.com/marketplace/actions/docker-login
+.. _Docker Build & Push Action: https://github.com/marketplace/actions/docker-build-push-action
+.. _Kubectl tool installer: https://github.com/marketplace/actions/kubectl-tool-installer

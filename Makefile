@@ -6,10 +6,19 @@ include help.mk
 # Installation
 #------------------------------------
 
+SHFMT_VERSION := 3.4.3
+SHFMT_PATH := /usr/local/bin/shfmt
+
+.PHONY: install-shfmt
+## Install shfmt | Installation
+install-shfmt:
+	sudo curl https://github.com/mvdan/sh/releases/download/v${SHFMT_VERSION}/shfmt_v${SHFMT_VERSION}_linux_amd64 -Lo ${SHFMT_PATH}
+	sudo chmod +x ${SHFMT_PATH}
+
 HUGO_VERSION=0.97.0
 
 .PHONY: install
-## Install hugo | Installation
+## Install hugo
 install:
 	cd /tmp && \
 	wget https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz -O hugo.tar.gz && \
@@ -51,6 +60,8 @@ lint:
 	shfmt -l -d .
 	shellcheck scripts/*.sh
 	markdownlint README.md "content/posts/*.md"
+	rst-lint README.rst
+	yamllint .github deployment
 
 .PHONY: format
 ## Format files
