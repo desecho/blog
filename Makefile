@@ -15,6 +15,15 @@ install-shfmt:
 	sudo curl https://github.com/mvdan/sh/releases/download/v${SHFMT_VERSION}/shfmt_v${SHFMT_VERSION}_linux_amd64 -Lo ${SHFMT_PATH}
 	sudo chmod +x ${SHFMT_PATH}
 
+HADOLINT_VERSION := 2.10.0
+HADOLINT_PATH := /usr/local/bin/hadolint
+
+.PHONY: install-hadolint
+## Install hadolint
+install-hadolint:
+	sudo curl https://github.com/hadolint/hadolint/releases/download/v${HADOLINT_VERSION}/hadolint-Linux-x86_64 -Lo ${HADOLINT_PATH}
+	sudo chmod +x ${HADOLINT_PATH}
+
 HUGO_VERSION=0.97.0
 
 .PHONY: install

@@ -28,6 +28,7 @@ jobs:
         run: |
           pip install restructuredtext_lint yamllint
           make install-shfmt
+          make install-hadolint
           sudo npm install -g markdownlint-cli
 
       - name: Run linters
