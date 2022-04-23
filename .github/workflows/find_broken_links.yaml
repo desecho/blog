@@ -2,7 +2,7 @@
 name: Find Broken Links
 on:
   schedule:
-    - cron: "0 0 0 * *"  # Run every month at midnight
+    - cron: "0 0 1 * *"  # Run every month at midnight
   workflow_dispatch:
 jobs:
   find_broken_links:
