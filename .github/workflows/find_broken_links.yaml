@@ -1,0 +1,27 @@
+---
+name: Find Broken Links
+on:
+  schedule:
+    - cron: "0 0 0 * *"  # Run every month at midnight
+  workflow_dispatch:
+jobs:
+  find_broken_links:
+    name: Find Broken Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 15.x
+          registry-url: https://registry.npmjs.org
+
+      - name: Install requirements
+        run: |
+          npm install markdown-link-check
+
+      - name: Find Broken Links
+        run:
+          make find-broken-links

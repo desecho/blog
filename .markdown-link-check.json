@@ -1,0 +1,7 @@
+{
+  "ignorePatterns": [
+    {"pattern": "^https://codepen.io"},
+    {"pattern": "^https://apps.apple.com/ca/app/twitter/id333903271$"},
+    {"pattern": "^/images"}
+  ]
+}

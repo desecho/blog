@@ -11,7 +11,7 @@ keywords: tvos, apps, applications, programs
 * [Tubi - Watch Movies & TV Shows](https://apps.apple.com/ca/app/tubi-watch-movies-tv-shows/id886445756#?platform=appleTV) — Stream Content: Movies/TV.
 * [Twitch: Live Game Streaming](https://apps.apple.com/ca/app/twitch-live-game-streaming/id460177396#?platform=appleTV) — Watch Fortnite, PUBG & IRL TV.
 * [YouTube: Watch, Listen, Stream](https://apps.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664#?platform=appleTV) — Videos, Music and Live Streams.
-* [The CW](https://apps.apple.com/ca/app/the-cw/id491730359#?platform=appleTV)
+* [The CW](https://apps.apple.com/us/app/the-cw/id491730359?platform=appleTV) — [Available only in the US store].
 * [Plex: Movies, TV, Music & More](https://apps.apple.com/ca/app/plex/id383457673#?platform=appleTV) — The streaming app for everyone.
 * [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595#?platform=appleTV) — Watch Full Episodes & Live TV.
 

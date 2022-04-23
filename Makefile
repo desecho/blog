@@ -79,6 +79,10 @@ format:
 	shfmt -l -w .
 	markdownlint README.md "content/posts/*.md" --fix
 
+.PHONY: find-broken-links
+## Find broken links
+find-broken-links:
+	markdown-link-check content/posts/*.md -c .markdown-link-check.json -p
 #------------------------------------
 # Hugo Commands
 #------------------------------------

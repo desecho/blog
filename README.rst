@@ -41,6 +41,10 @@ The following GitHub Actions are used:
 * `Docker Build & Push Action`_
 * `Kubectl tool installer`_
 
+Cronjobs
+----------------------------
+``Find broken links`` job runs monthly with GitHub Actions.
+
 Fonts used
 ----------------------------
 * Orbitron_ for logo.

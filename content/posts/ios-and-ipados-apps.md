@@ -118,7 +118,7 @@ keywords: ios, ipados, apps, applications, programs
 * [YouTube: Watch, Listen, Stream](https://apps.apple.com/ca/app/youtube-watch-upload-and-share-videos/id544007664) — Videos, Music and Live Streams.
 * [Tubi - Watch Movies & TV Shows](https://apps.apple.com/ca/app/tubi-watch-movies-tv-shows/id886445756) — Stream Content: Movies/TV.
 * [Twitch: Live Game Streaming](https://apps.apple.com/ca/app/twitch-live-game-streaming/id460177396) — Watch Fortnite, PUBG & IRL TV.
-* [The CW](https://apps.apple.com/ca/app/the-cw/id491730359)
+* [The CW](https://apps.apple.com/us/app/the-cw/id491730359) — [Available only in the US store].
 * [Plex: Movies, TV, Music & More](https://apps.apple.com/ca/app/plex/id383457673) — The streaming app for everyone.
 * [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595) — Watch Full Episodes & Live TV.
 
@@ -130,7 +130,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Translation
 
-* [Lingvo Dictionary & Translator](https://apps.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146) — Translate and Learn languages.
+* [Lingvo Dictionary & Translator](https://apps.apple.com/ca/app/lingvo-dictionary-multilingual-translator/id391989146) — [Available only in the Russian store].Translate and Learn languages.
 * [Google Translate](https://apps.apple.com/ca/app/google-translate/id414706506) — Translate 108 languages.
 * [Multitran - English Translator](https://apps.apple.com/ca/app/multitran/id1090468498) — Speak & Translate Dictionary.
 

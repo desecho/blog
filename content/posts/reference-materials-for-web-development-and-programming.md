@@ -21,7 +21,6 @@ keywords: web development, reference, javascript, python, django, css, regex
 * [JavaScript. The Right Way](http://jstherightway.org/)
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 * [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [45 Useful JavaScript Tips, Tricks, and Best Practices | Flippin' Awesome](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices)
 * [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
 * [Rich JavaScript Applications – the Seven Frameworks](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
@@ -66,7 +65,6 @@ keywords: web development, reference, javascript, python, django, css, regex
 
 ### Django
 
-* [Django Books](https://www.twoscoopspress.com/pages/current-django-books)
 * [Test-Driven Web Development with Django](http://test-driven-django-development.readthedocs.org/en/latest/)
 * [Mastering Django](http://masteringdjango.com/)
 
