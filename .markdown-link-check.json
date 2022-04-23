@@ -2,6 +2,7 @@
   "ignorePatterns": [
     {"pattern": "^https://codepen.io"},
     {"pattern": "^https://apps.apple.com/ca/app/twitter/id333903271$"},
+    {"pattern": "^https://apps.apple.com/ca/app/h-m-we-love-fashion/id834465911$"},
     {"pattern": "^/images"}
   ]
 }
