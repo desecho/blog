@@ -20,7 +20,7 @@ jobs:
 
       - name: Install requirements
         run: |
-          npm install markdown-link-check
+          npm install markdown-link-check -g
 
       - name: Find Broken Links
         run:
