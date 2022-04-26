@@ -11,6 +11,8 @@ keywords: windows, apps, applications, programs, macos
 * [Epic Games Launcher](https://www.epicgames.com/store/)
 * [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) — Your favorite games in one place.
 * [Origin](https://www.origin.com/can/en-us/store/download) — Play great PC games and connect with your friends, all in one place.
+* [Steam](http://store.steampowered.com/) — Steam is the ultimate destination for playing, discussing, and creating games.
+* [GOG Galaxy](https://www.gog.com/galaxy) — All your games and friends in one place.
 
 ## Languages
 
@@ -54,9 +56,7 @@ Reliable messaging.
 ## Cloud Storage
 
 * [Dropbox](https://www.dropbox.com/) — Keep life organized and work moving—all in one place.
-
 * [Yandex Disk](https://disk.yandex.com/) — Store your photos for free.
-
 * [NordLocker](https://nordlocker.com/) — Secure your files in a click and back them up on a private cloud. Your data is always within reach. Always encrypted.
 * [OneDrive](https://www.microsoft.com/en-ca/microsoft-365/onedrive) — Save your photos and files to OneDrive and access them from any device, anywhere. Includes encryption.
 
@@ -64,11 +64,6 @@ Reliable messaging.
 
 * [Chrome](https://www.google.com/intl/en/chrome/browser/) — The browser built by Google.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) — Get the browser that protects what’s important. No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
-
-## Games
-
-* [Steam](http://store.steampowered.com/) — Steam is the ultimate destination for playing, discussing, and creating games.
-* [GOG Galaxy](https://www.gog.com/galaxy) — All your games and friends in one place.
 
 ## Downloaders
 
