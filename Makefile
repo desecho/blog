@@ -6,8 +6,10 @@ include help.mk
 # Installation
 #------------------------------------
 
+BIN_DIR := /usr/local/bin
+
 SHFMT_VERSION := 3.4.3
-SHFMT_PATH := /usr/local/bin/shfmt
+SHFMT_PATH := ${BIN_DIR}/shfmt
 
 .PHONY: install-shfmt
 ## Install shfmt | Installation
@@ -16,7 +18,7 @@ install-shfmt:
 	sudo chmod +x ${SHFMT_PATH}
 
 HADOLINT_VERSION := 2.10.0
-HADOLINT_PATH := /usr/local/bin/hadolint
+HADOLINT_PATH := ${BIN_DIR}/hadolint
 
 .PHONY: install-hadolint
 ## Install hadolint
@@ -32,12 +34,12 @@ install:
 	cd /tmp && \
 	wget https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz -O hugo.tar.gz && \
 	tar -xvf hugo.tar.gz && \
-	sudo mv ./hugo /usr/local/bin/
+	sudo mv ./hugo ${BIN_DIR}/
 
 .PHONY: uninstall
 ## Uninstall hugo
 uninstall:
-	sudo rm /usr/local/bin/hugo
+	sudo rm ${BIN_DIR}/hugo
 
 .PHONY: init-submodule
 ## Initialize git submodule
