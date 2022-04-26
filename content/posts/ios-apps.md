@@ -9,6 +9,7 @@ keywords: ios, apps, applications, programs
 ## Finance
 
 * [PayPal](https://apps.apple.com/ca/app/paypal/id283646709) — Transfer Money & Mobile Pay.
+* [Credit Karma](https://apps.apple.com/ca/app/credit-karma/id1398558151) — Credit Score, Reports & Alerts.
 
 ## Internet
 
