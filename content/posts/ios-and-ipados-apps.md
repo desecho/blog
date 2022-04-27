@@ -270,6 +270,9 @@ keywords: ios, ipados, apps, applications, programs
 * [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — 16.49 C$/month (Full HD), 20.99 C$/month (4K)
 * [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports. — 6.58 C$/month
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment. — C$11.99/month
+* [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234) — A Mountain of Entertainment. — 5.99 C$/month
+* [Crave](https://apps.apple.com/ca/app/crave/id942568279) — The best series, movies & more. — 19.99 C$/month
+* [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899) — New Series, Films & LIVE TV. — 8.99 C$/month
 
 ### Video
 

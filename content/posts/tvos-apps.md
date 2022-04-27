@@ -17,7 +17,7 @@ keywords: tvos, apps, applications, programs
 
 ## Games
 
-* [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117) — Stream Your Steam Library.
+* [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117?platform=appleTV) — Stream Your Steam Library.
 
 ## Paid
 
@@ -30,3 +30,6 @@ keywords: tvos, apps, applications, programs
 * [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333#?platform=appleTV) — Originals, movies, TV, sports. — 6.58 C$/month
 * [Netflix](https://apps.apple.com/ca/app/netflix/id363590051#?platform=appleTV) — 16.49 C$/month (Full HD), 20.99 C$/month (4K)
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923#?platform=appleTV) — Unlimited entertainment. — C$11.99/month
+* [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234#?platform=appleTV) — A Mountain of Entertainment. — 5.99 C$/month
+* [Crave](https://apps.apple.com/ca/app/crave/id942568279#?platform=appleTV) — The best series, movies & more. — 19.99 C$/month
+* [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899#?platform=appleTV) — New Series, Films & LIVE TV. — 8.99 C$/month

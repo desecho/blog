@@ -39,3 +39,18 @@ Price — 5.99 C$/month.
 
 Website — <https://www.disneyplus.com/en-ca/>.
 Price — 11.99 C$/month.
+
+### Paramount+
+
+Website — <https://www.paramountplus.com/ca/>.
+Price — 5.99 C$/month.
+
+### AMC+
+
+Website — <https://www.amcplus.com/>.
+Price — 8.99 C$/month.
+
+### Crave
+
+Website — <https://www.crave.ca/en>.
+Price — 19.99 C$/month.
