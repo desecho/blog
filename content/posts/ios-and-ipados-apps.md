@@ -130,7 +130,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Translation
 
-* [Lingvo Dictionary & Translator](https://apps.apple.com/ru/app/lingvo-dictionary-multilingual-translator/id391989146) — [Available only in the Russian store].Translate and Learn languages.
+* [Lingvo Dictionary & Translator](https://apps.apple.com/ru/app/lingvo-dictionary-multilingual-translator/id391989146) — [Available only in the Russian store]. Translate and Learn languages.
 * [Google Translate](https://apps.apple.com/ca/app/google-translate/id414706506) — Translate 108 languages.
 * [Multitran - English Translator](https://apps.apple.com/ca/app/multitran/id1090468498) — Speak & Translate Dictionary.
 
@@ -204,6 +204,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Domino's Canada](https://apps.apple.com/ca/app/dominos-pizza-canada/id621613017)
 * [PayRange](https://apps.apple.com/ca/app/payrange/id845555232)
 * [Burger King Canada](https://apps.apple.com/ca/app/burger-king-canada/id1422864779) – Coupons & Exclusive Offers.
+* [KFC Canada](https://apps.apple.com/ca/app/kfc-canada/id653810744)
 
 ### Movies
 

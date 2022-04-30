@@ -6,6 +6,10 @@ categories: iOS
 keywords: ios, apps, applications, programs
 ---
 
+### Transport & Delivery
+
+* [Yandex Go — taxi and delivery](https://apps.apple.com/ca/app/yandex-taxi/id472650686) — App to order taxi or delivery.
+
 ## Finance
 
 * [PayPal](https://apps.apple.com/ca/app/paypal/id283646709) — Transfer Money & Mobile Pay.
@@ -19,6 +23,7 @@ keywords: ios, apps, applications, programs
 
 * [Nike Run Club](https://apps.apple.com/ca/app/nike-run-club/id387771637) – Running Tracker & Coaching.
 * [Sleep Watch by Bodymatter](https://apps.apple.com/ca/app/sleep-watch-by-bodymatter/id1138066420) — Auto Sleep Tracker.
+* [VR Health Exercise Tracker](https://apps.apple.com/ca/app/vr-health-exercise-tracker/id1438903709) — Official App of the VRHI
 
 ## Lifestyle
 
@@ -64,7 +69,7 @@ keywords: ios, apps, applications, programs
 ## Food & Drinks
 
 * [Starbucks](https://apps.apple.com/ca/app/starbucks/id331177714) – Order, pay, and earn Stars.
-* [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)
+* [SUBWAY®](https://apps.apple.com/ca/app/subway/id901941015)
 
 ## Miscellaneous
 
@@ -101,7 +106,7 @@ keywords: ios, apps, applications, programs
 
 * [Société des alcools du Québec](https://apps.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661) – SAQ.
 * [Tim Hortons](https://apps.apple.com/ca/app/tim-hortons/id1143883086) – Order, pay, and earn rewards.
-* [SUBWAY®](https://apps.apple.com/ca/app/subway/id901941015)
+* [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)
 
 ### Banking
 
@@ -110,13 +115,6 @@ keywords: ios, apps, applications, programs
 ### Health
 
 * [VaxiCode](https://apps.apple.com/ca/app/vaxicode/id1571692711) — Save your QR code.
-* [VR Health Exercise Tracker](https://apps.apple.com/ca/app/vr-health-exercise-tracker/id1438903709) — Official App of the VRHI
-
-## Russia
-
-### Transport
-
-* [Yandex.Taxi](https://apps.apple.com/ca/app/yandex-taxi/id472650686) — App to order taxi or delivery.
 
 ## Paid
 
