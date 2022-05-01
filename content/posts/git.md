@@ -181,7 +181,7 @@ keywords: git, source control
 | Command                                             | Description                                          |
 | --------------------------------------------------- | ---------------------------------------------------- |
 | `git ls-files --other --ignored --exclude-standard` | List all ignored files                               |
-| `git ls-files -v | grep "^[[:lower:]]"`             | Get a list of files marked with `--assume-unchanged` |
+| `git ls-files -v \| grep "^[[:lower:]]"`            | Get a list of files marked with `--assume-unchanged` |
 
 ### Update-index
 

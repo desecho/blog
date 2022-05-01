@@ -83,14 +83,14 @@ WHERE CCSA.collation_name = T.table_collation
 #### For Columns
 
 ```sql
-SHOW FULL COLUMNS FROM [tablename];
+SHOW FULL COLUMNS FROM [table_name];
 ```
 
 ### Change Collation for a DB
 
 ```sql
-ALTER DATABASE [dbname] CHARACTER SET utf8 COLLATE utf8_general_ci;
-ALTER TABLE [tablename] CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+ALTER DATABASE [db_name] CHARACTER SET utf8 COLLATE utf8_general_ci;
+ALTER TABLE [table_name] CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 ```
 
 ## Add Timezone Info to a DB
