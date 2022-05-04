@@ -184,6 +184,7 @@ keywords: ios, ipados, apps, applications, programs
 ### Travelling
 
 * [CanBorder – eDeclaration](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
+* [Air Canada + Aeroplan](https://apps.apple.com/ca/app/air-canada-aeroplan/id326459697) – Book, Fly, Aeroplan.
 
 ### Internet
 
