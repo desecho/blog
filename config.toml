@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "IT Blog"
 theme = "minimal"
 disqusShortname = "desechosblog"
-googleAnalytics = "UA-655582-4"
+googleAnalytics = "G-TB27X6BHHP"
 enableEmoji = "true"
 
 # Number of blog posts in each pagination page
