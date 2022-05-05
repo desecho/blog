@@ -215,6 +215,7 @@ keywords: ios, ipados, apps, applications, programs
 ### Banking
 
 * [TD Canada](https://apps.apple.com/ca/app/td-canada/id358790776) – Bank on the go with the TD app.
+* [TD Authenticate](https://apps.apple.com/ca/app/td-authenticate/id1570439365) – Offline Two-Step Verification.
 * [RBC Mobile](https://apps.apple.com/ca/app/rbc-mobile/id407597290) – Better banking.
 * [Omni by Desjardins](https://apps.apple.com/ca/app/omni-by-desjardins/id778593359) – Desjardins group plans.
 * [Desjardins mobile services](https://apps.apple.com/ca/app/desjardins-mobile-services/id386636953) – Mobile banking simplified.
