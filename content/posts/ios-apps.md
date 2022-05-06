@@ -70,6 +70,7 @@ keywords: ios, apps, applications, programs
 
 * [Starbucks](https://apps.apple.com/ca/app/starbucks/id331177714) – Order, pay, and earn Stars.
 * [SUBWAY®](https://apps.apple.com/ca/app/subway/id901941015)
+* [A&W](https://apps.apple.com/ca/app/a-w/id1236416092) – Mobile order & pay.
 
 ## Miscellaneous
 
@@ -107,6 +108,7 @@ keywords: ios, apps, applications, programs
 * [Société des alcools du Québec](https://apps.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661) – SAQ.
 * [Tim Hortons](https://apps.apple.com/ca/app/tim-hortons/id1143883086) – Order, pay, and earn rewards.
 * [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)
+* [Wendy’s Canada](https://apps.apple.com/ca/app/my-wendys/id540518599) – Hamburgers, Offers, & Pay.
 
 ### Banking
 

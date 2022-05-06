@@ -63,9 +63,10 @@ keywords: ios, ipados, apps, applications, programs
 * [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458) — Protects your online identity.
 * [Yandex.Key–one-time passwords](https://apps.apple.com/ca/app/yandex-key-one-time-passwords/id957324816)
 
-## Maps
+## Maps/Navigation
 
 * [Google Maps - Transit & Food](https://apps.apple.com/ca/app/google-maps-navigation-transport/id585027354) — GPS, City Navigation & Traffic.
+* [Waze Navigation & Live Traffic](https://apps.apple.com/ca/app/waze-navigation-live-traffic/id323229106) — Avoid traffic, police, hazards.
 
 ## Productivity
 
@@ -233,6 +234,7 @@ keywords: ios, ipados, apps, applications, programs
 ### Shipping
 
 * [Purolator](https://apps.apple.com/ca/app/purolator/id438701193)
+* [Canada Post](https://apps.apple.com/ca/app/canada-post/id394391577) – Track and get delivery updates.
 
 ## Russia
 
