@@ -10,7 +10,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Steam Mobile](https://apps.apple.com/ca/app/steam-mobile/id495369748)
 * [Chess - Play & Learn](https://apps.apple.com/ca/app/chess-play-learn/id329218549) — Games, Puzzles, and Friends!
 * [lichess • Online Chess](https://apps.apple.com/ca/app/lichess-online-chess/id968371784)
-* [Akinator](https://apps.apple.com/ca/app/akinator/id933135994?l=en) — Genie who can read your mind.
+* [Akinator](https://apps.apple.com/ca/app/akinator/id933135994) — Genie who can read your mind.
 * [Ubisoft Connect](https://apps.apple.com/ca/app/ubisoft-club/id405228226)
 * [Xbox](https://apps.apple.com/ca/app/xbox/id736179781)
 * [Xbox Game Pass](https://apps.apple.com/ca/app/xbox-game-pass/id1374542474)
@@ -23,7 +23,7 @@ keywords: ios, ipados, apps, applications, programs
 ## Email
 
 * [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596) — Secure Email, Calendar & Files.
-* [Gmail - Email by Google](https://apps.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480) — Secure, fast & organized email
+* [Gmail - Email by Google](https://apps.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480) — Secure, fast & organized email.
 
 ## Internet
 
@@ -33,12 +33,12 @@ keywords: ios, ipados, apps, applications, programs
 
 ## VPN
 
-* [Cisco AnyConnect](https://apps.apple.com/ca/app/cisco-anyconnect/id1135064690) — New Cisco AnyConnect
+* [Cisco AnyConnect](https://apps.apple.com/ca/app/cisco-anyconnect/id1135064690) — New Cisco AnyConnect.
 
 ## Communication
 
 * [Jami](https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
-* [Telegram Messenger](https://apps.apple.com/ca/app/telegram-messenger/id686449807?mt=8&ign-mpt=uo%3D4) — Fast. Secure. Powerful‪.‬
+* [Telegram Messenger](https://apps.apple.com/ca/app/telegram-messenger/id686449807) — Fast. Secure. Powerful.
 * [Skype](https://apps.apple.com/ca/app/skype-for-iphone/id304878510) — Talk. Chat. Collaborate.
 * [Viber Messenger: Chats & Calls](https://apps.apple.com/ca/app/viber-messenger/id382617920) — Group Chat & Text Messages.
 * [Messenger](https://apps.apple.com/ca/app/messenger/id454638411) — Text, audio and video calls.
@@ -254,31 +254,31 @@ keywords: ios, ipados, apps, applications, programs
 
 ### Food & Drinks
 
-* [Яндекс.Еда для ресторанов](https://apps.apple.com/ca/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B5%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%BE%D0%B2/id1440757437)
+* [Yandex Eats — food delivery](https://apps.apple.com/ca/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B5%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1078986931) — Order food from restaurants.
 
 ## Paid
 
 ### Utils
 
-* [1Password - Password Manager](https://apps.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — Generate & keep passwords safe — 2.99 C$/month
-* [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter. — 1 C$
-* [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$
-* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers. — 5.39 C$/month
-* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events. — 3.99 C$
+* [1Password - Password Manager](https://apps.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — Generate & keep passwords safe — 2.99 C$/month.
+* [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter. — 1 C$.
+* [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$.
+* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers. — 5.39 C$/month.
+* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events. — 3.99 C$.
 
 ### Languages
 
-* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards. — 35 C$
+* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards. — 35 C$.
 
 ### Streaming
 
-* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — 16.49 C$/month (Full HD), 20.99 C$/month (4K)
-* [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports. — 6.58 C$/month
-* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment. — C$11.99/month
-* [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234) — A Mountain of Entertainment. — 5.99 C$/month
-* [Crave](https://apps.apple.com/ca/app/crave/id942568279) — The best series, movies & more. — 19.99 C$/month
-* [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899) — New Series, Films & LIVE TV. — 8.99 C$/month
+* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — 16.49 C$/month (Full HD), 20.99 C$/month (4K).
+* [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports. — 6.58 C$/month.
+* [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment. — C$11.99/month.
+* [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234) — A Mountain of Entertainment. — 5.99 C$/month.
+* [Crave](https://apps.apple.com/ca/app/crave/id942568279) — The best series, movies & more. — 19.99 C$/month.
+* [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899) — New Series, Films & LIVE TV. — 8.99 C$/month.
 
 ### Video
 
-* [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player. — 104.99 C$
+* [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player. — 104.99 C$.

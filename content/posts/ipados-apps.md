@@ -12,4 +12,4 @@ keywords: ipados, apps, applications, programs
 
 ### Paid
 
-* [Procreate](https://apps.apple.com/ca/app/procreate/id425073498) — Sketch, paint, create. — 14 C$
+* [Procreate](https://apps.apple.com/ca/app/procreate/id425073498) — Sketch, paint, create. — 14 C$.

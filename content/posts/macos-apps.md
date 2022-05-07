@@ -40,9 +40,9 @@ keywords: macos, apps, applications, programs
 
 ## Paid
 
-* [CleanMyMac](http://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — 40 C$
-* [ForkLift](http://www.binarynights.com/forklift/) — The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS. — 30 C$
-* [CrossOver](http://www.codeweavers.com/products/) — Install Windows applications and PC Games on your Mac OS. — 40 C$
-* [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) — Firewall. — 45 C$
-* [TaskPaper](https://www.taskpaper.com/) — Plain text to-do lists. — 25 C$
-* [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player. — 104.99 C$
+* [CleanMyMac](http://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — 40 C$.
+* [ForkLift](http://www.binarynights.com/forklift/) — The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS. — 30 C$.
+* [CrossOver](http://www.codeweavers.com/products/) — Install Windows applications and PC Games on your Mac OS. — 40 C$.
+* [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) — Firewall. — 45 C$.
+* [TaskPaper](https://www.taskpaper.com/) — Plain text to-do lists. — 25 C$.
+* [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player. — 104.99 C$.

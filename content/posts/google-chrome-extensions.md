@@ -15,7 +15,7 @@ keywords: chrome, extensions, browser
 
 ## Shopping
 
-* [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) — Automatically find and apply coupon codes when you shop online!
+* [Honey Automatic Coupons & Cash Back](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) — Save money and earn rewards when you shop online.
 * [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam?hl=en) — Amazon's official browser extension.
 
 ## YouTube
@@ -27,12 +27,11 @@ keywords: chrome, extensions, browser
 
 * [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) — Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser or a Chromebook.
 * [Close download bar](https://chrome.google.com/webstore/detail/close-download-bar/bkfclmjddajodogcbpohgfpdkgdecgmg) — Closes the download bar via a hotkey.
-* [1Password extension (desktop app required)](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) — Extends the 1Password app on your Mac or Windows PC, so you can fill and save passwords in your browser.
+* [1Password – Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) — The best way to experience 1Password in your browser. Easily sign in to sites, generate passwords, and store secure information.
 * [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl) — Opt out of non-essential cookies and automatically remove cookie popups.
 * [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs.
 * [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa) — Puts Google Chrome into read mode for a pleasant reading experience.
 * [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj) — Automatically sort bookmarks by title, date, or URL.
-* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) — Finally, an efficient blocker. Easy on CPU and memory.
 * [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) — Re-implements the Google Images' "View Image" and "Search by Image" buttons.
 
 ## Editing
