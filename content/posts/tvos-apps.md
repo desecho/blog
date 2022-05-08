@@ -33,3 +33,4 @@ keywords: tvos, apps, applications, programs
 * [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234#?platform=appleTV) — A Mountain of Entertainment. — 5.99 C$/month.
 * [Crave](https://apps.apple.com/ca/app/crave/id942568279#?platform=appleTV) — The best series, movies & more. — 19.99 C$/month.
 * [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899#?platform=appleTV) — New Series, Films & LIVE TV. — 8.99 C$/month.
+* [Crucnhyroll](https://apps.apple.com/ca/app/crunchyroll/id329913454) — Stream anime shows and movies. — 7.99 C$/month.

@@ -1,5 +1,5 @@
 ---
-title: "Movies & TV Shows"
+title: "Streaming"
 date: 2018-03-01T00:41:11-05:00
 comments: true
 categories: Streaming
@@ -54,3 +54,8 @@ Price — 8.99 C$/month.
 
 Website — <https://www.crave.ca/en>.
 Price — 19.99 C$/month.
+
+### Crunchyroll
+
+Website — <https://www.crunchyroll.com/>.
+Price — 7.99 C$/month.

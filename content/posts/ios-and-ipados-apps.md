@@ -113,6 +113,7 @@ keywords: ios, ipados, apps, applications, programs
 * [eBay](https://apps.apple.com/ca/app/ebay/id282614216) — Start buying and selling now.
 * [H&M - we love fashion](https://apps.apple.com/ca/app/h-m-we-love-fashion/id834465911)
 * [Urban Outfitters](https://apps.apple.com/ca/app/urban-outfitters/id358821736) — Shop for Clothes & Home Décor.
+* [Costco](https://apps.apple.com/ca/app/costco/id535509415)
 
 ## TV/Movies/Streaming
 
@@ -278,6 +279,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234) — A Mountain of Entertainment. — 5.99 C$/month.
 * [Crave](https://apps.apple.com/ca/app/crave/id942568279) — The best series, movies & more. — 19.99 C$/month.
 * [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899) — New Series, Films & LIVE TV. — 8.99 C$/month.
+* [Crucnhyroll](https://apps.apple.com/ca/app/crunchyroll/id329913454) — Stream anime shows and movies. — 7.99 C$/month.
 
 ### Video
 
