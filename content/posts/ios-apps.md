@@ -102,6 +102,7 @@ keywords: ios, apps, applications, programs
 * [My Metro](https://apps.apple.com/ca/app/my-metro/id694386842)
 * [Couche-Tard](https://apps.apple.com/ca/app/couche-tard/id663345373)
 * [Triangle](https://apps.apple.com/ca/app/triangle/id1343453471)
+* [Walmart – Shopping Made Easy](https://apps.apple.com/ca/app/walmart-shopping-made-easy/id1084793516) – One Stop Shop.
 
 ### Food & Drinks
 
