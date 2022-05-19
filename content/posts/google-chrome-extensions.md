@@ -31,7 +31,6 @@ keywords: chrome, extensions, browser
 * [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl) — Opt out of non-essential cookies and automatically remove cookie popups.
 * [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs.
 * [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa) — Puts Google Chrome into read mode for a pleasant reading experience.
-* [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj) — Automatically sort bookmarks by title, date, or URL.
 * [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) — Re-implements the Google Images' "View Image" and "Search by Image" buttons.
 
 ## Editing
