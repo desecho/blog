@@ -27,7 +27,6 @@ keywords: chrome, extensions, browser
 
 * [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) — Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser or a Chromebook.
 * [Close download bar](https://chrome.google.com/webstore/detail/close-download-bar/bkfclmjddajodogcbpohgfpdkgdecgmg) — Closes the download bar via a hotkey.
-* [1Password – Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) — The best way to experience 1Password in your browser. Easily sign in to sites, generate passwords, and store secure information.
 * [Ninja Cookie](https://chrome.google.com/webstore/detail/ninja-cookie/jifeafcpcjjgnlcnkffmeegehmnmkefl) — Opt out of non-essential cookies and automatically remove cookie popups.
 * [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs.
 * [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa) — Puts Google Chrome into read mode for a pleasant reading experience.
@@ -36,3 +35,7 @@ keywords: chrome, extensions, browser
 ## Editing
 
 * [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) — From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
+
+## Paid
+
+* [1Password – Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) — The best way to experience 1Password in your browser. Easily sign in to sites, generate passwords, and store secure information. — 2.99 C$/month.
