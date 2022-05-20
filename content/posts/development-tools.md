@@ -19,9 +19,7 @@ keywords: development, tools, coding
 
 ### Paid
 
-* [Genymotion Android Emulator](https://www.genymotion.com/desktop/) — The most powerful Android emulation platform for app developers & testers.
-* [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE for professional developers.
-* [Navicat](http://www.navicat.com/products) — Database management tools.
+* [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE for professional developers. — 255 C$/year
 
 ### DB
 
