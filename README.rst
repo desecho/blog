@@ -38,7 +38,7 @@ The following GitHub Actions are used:
 * Checkout_
 * `Setup Node.js environment`_
 * `Docker Login`_
-* `Docker Build & Push Action`_
+* `Build and push Docker images`_
 * `Kubectl tool installer`_
 * Cache_
 * `Docker Setup Buildx`_
@@ -63,7 +63,7 @@ Fonts used
 .. _Checkout: https://github.com/marketplace/actions/checkout
 .. _Setup Node.js environment: https://github.com/marketplace/actions/setup-node-js-environment
 .. _Docker Login: https://github.com/marketplace/actions/docker-login
-.. _Docker Build & Push Action: https://github.com/marketplace/actions/docker-build-push-action
+.. _Build and push Docker images: https://github.com/marketplace/actions/build-and-push-docker-images
 .. _Kubectl tool installer: https://github.com/marketplace/actions/kubectl-tool-installer
 .. _Cache: https://github.com/marketplace/actions/cache
 .. _Docker Setup Buildx: https://github.com/marketplace/actions/docker-setup-buildx
