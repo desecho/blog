@@ -40,6 +40,8 @@ The following GitHub Actions are used:
 * `Docker Login`_
 * `Docker Build & Push Action`_
 * `Kubectl tool installer`_
+* Cache_
+* `Docker Setup Buildx`_
 
 Cronjobs
 ----------------------------
@@ -56,9 +58,12 @@ Fonts used
 .. _Minimal theme: https://github.com/calintat/minimal
 .. _Orbitron: https://fonts.google.com/specimen/Orbitron
 .. _GitHub Actions: https://github.com/features/actions
+
 .. _Cancel Workflow Action: https://github.com/marketplace/actions/cancel-workflow-action
 .. _Checkout: https://github.com/marketplace/actions/checkout
 .. _Setup Node.js environment: https://github.com/marketplace/actions/setup-node-js-environment
 .. _Docker Login: https://github.com/marketplace/actions/docker-login
 .. _Docker Build & Push Action: https://github.com/marketplace/actions/docker-build-push-action
 .. _Kubectl tool installer: https://github.com/marketplace/actions/kubectl-tool-installer
+.. _Cache: https://github.com/marketplace/actions/cache
+.. _Docker Setup Buildx: https://github.com/marketplace/actions/docker-setup-buildx

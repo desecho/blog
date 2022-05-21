@@ -18,6 +18,12 @@ jobs:
           node-version: 15.x
           registry-url: https://registry.npmjs.org
 
+      - name: Use npm cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: npm
+
       - name: Install requirements
         run: |
           npm install markdown-link-check -g
