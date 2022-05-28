@@ -49,6 +49,7 @@ keywords: git, source control
 | `git rm [file]`                                                | Remove `file` from the working tree and from the index |
 | `git mv [file-original] [file-moved]`                          | Move a file                                            |
 | `git merge-base [branch1] [branch2]`                           | Find as good common ancestors as possible for a merge  |
+| `git reflog`                                                   | Manage reflog information                              |
 
 ### Show
 
