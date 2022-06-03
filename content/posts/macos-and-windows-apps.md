@@ -8,7 +8,7 @@ keywords: windows, apps, applications, programs, macos
 
 ## Games
 
-* [Epic Games Launcher](https://www.epicgames.com/store/)
+* [Epic Games Launcher](https://store.epicgames.com/en-US/)
 * [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) — Your favorite games in one place.
 * [Origin](https://www.origin.com/can/en-us/store/download) — Play great PC games and connect with your friends, all in one place.
 * [Steam](http://store.steampowered.com/) — Steam is the ultimate destination for playing, discussing, and creating games.

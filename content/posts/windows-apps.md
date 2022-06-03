@@ -52,7 +52,7 @@ keywords: windows, apps, applications, programs
 * [Avast Free Antivirus](https://www.avast.com/) — Essential protection that’s light, powerful, and completely free.
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) — The NVIDIA Broadcast app transforms any room into a home studio.
 * [Monitor Profile Switcher](https://sourceforge.net/projects/monitorswitcher/) — Save and easily switch between Windows multi-monitor configurations.
-* [PC Health Check Application](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewpchealth)
+* [PC Health Check Application](https://aka.ms/GetPCHealthCheckApp)
 * [Java](https://java.com/en/)
 
 ## Graphics

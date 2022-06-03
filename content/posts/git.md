@@ -262,4 +262,4 @@ echo "$FILE    diff=nodiff" >> .git/info/attributes
 
 ### Remove Data From Repository’s History
 
-[Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
+[Removing sensitive data from a repository](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
