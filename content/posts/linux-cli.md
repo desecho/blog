@@ -142,8 +142,8 @@ For all of the commands below: `-r` — recursive change.
 
 ## Patches
 
-* `diff [old_file] [new_file] > [patch]` — create a `patch`
-* `patch [old_file] [patch]` — apply a `patch`
+* `diff [old-file] [new-file] > [patch]` — create a `patch`
+* `patch [old-file] [patch]` — apply a `patch`
 
 ## Miscellaneous
 

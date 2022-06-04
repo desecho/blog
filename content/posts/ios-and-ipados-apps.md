@@ -77,10 +77,6 @@ keywords: ios, ipados, apps, applications, programs
 
 * [GitHub](https://apps.apple.com/app/github/id1477376905) — Projects, ideas, & code to go.
 
-## Weather
-
-* [The Weather Network](https://apps.apple.com/ca/app/the-weather-network/id473299958) — Detailed Weather Forecast.
-
 ## Books
 
 * [Bookmate. Books and audiobooks](https://apps.apple.com/ca/app/bookmate-stacks-of-ebooks-to-enjoy/id386177450) — Read & listen to great books.

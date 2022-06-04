@@ -10,7 +10,7 @@ keywords: hotkeys
 
 ### Ubuntu/Windows
 
-`Super` key is `Win` key for Windows
+[Super] key is [Win] key for Windows
 
 | Hotkey                      | Action                                           |
 | --------------------------- | ------------------------------------------------ |

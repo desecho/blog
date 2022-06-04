@@ -202,9 +202,8 @@ Additional info in [django docs](https://docs.djangoproject.com/en/dev/topics/i1
 
 ```ini
 [pytest]
-DJANGO_SETTINGS_MODULE = settings
-python_paths = apps
-python_files = tests.py
+DJANGO_SETTINGS_MODULE = app.settings
+python_files = test_*
 addopts = --nomigrations --reuse-db
 ```
 
@@ -218,16 +217,9 @@ pip install pytest-django
 
 [Documentation](http://pytest.org/latest/usage.html#usage)
 
-```bash
-# With db recreate
-py.test --create-db
-
-# To ignore directory
-py.test --ignore=apps/app_name
-
-# To run only test_function from apps/app_name directory
-py.test apps/app_name -k test_function --create-db
-```
+* `py.test --create-db` — with db recreate
+* `py.test --ignore=[ignore-dir]` — skip tests in `ignore-dir`
+* `py.test -k [test]` — run only `test`
 
 ## Services for Your Projects
 
