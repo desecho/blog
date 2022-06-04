@@ -266,25 +266,25 @@ keywords: ios, ipados, apps, applications, programs
 ### Utils
 
 * [1Password - Password Manager](https://apps.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — Generate & keep passwords safe. — 2.99 C$/month.
-* [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter. — 1 C$.
-* [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — 2.79 C$.
-* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers. — 5.39 C$/month.
-* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events. — 3.99 C$.
+* [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter. — C$1.
+* [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — C$2.79.
+* [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers. — C$5.39/month.
+* [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023) — Track your important events. — C$3.99.
 
 ### Languages
 
-* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards. — 35 C$.
+* [AnkiMobile Flashcards](https://apps.apple.com/ca/app/ankimobile-flashcards/id373493387) — Smart & powerful flashcards. — C$35.
 
 ### Streaming
 
-* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — 16.49 C$/month (Full HD), 20.99 C$/month (4K).
-* [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports. — 6.58 C$/month.
+* [Netflix](https://apps.apple.com/ca/app/netflix/id363590051) — C$16.49/month (Full HD), C$20.99/month (4K).
+* [Amazon Prime Video](https://apps.apple.com/ca/app/amazon-prime-video/id545519333) — Originals, movies, TV, sports. — C$6.58/month.
 * [Disney+](https://apps.apple.com/ca/app/disney/id1446075923) — Unlimited entertainment. — C$11.99/month.
-* [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234) — A Mountain of Entertainment. — 5.99 C$/month.
-* [Crave](https://apps.apple.com/ca/app/crave/id942568279) — The best series, movies & more. — 19.99 C$/month.
-* [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899) — New Series, Films & LIVE TV. — 8.99 C$/month.
-* [Crucnhyroll](https://apps.apple.com/ca/app/crunchyroll/id329913454) — Stream anime shows and movies. — 7.99 C$/month.
+* [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234) — A Mountain of Entertainment. — C$5.99/month.
+* [Crave](https://apps.apple.com/ca/app/crave/id942568279) — The best series, movies & more. — C$19.99/month.
+* [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899) — New Series, Films & LIVE TV. — C$8.99/month.
+* [Crucnhyroll](https://apps.apple.com/ca/app/crunchyroll/id329913454) — Stream anime shows and movies. — C$7.99/month.
 
 ### Video
 
-* [Infuse 7](https://apps.apple.com/app/id1136220934) — An elegant video player. — 104.99 C$.
+* [Infuse 7](https://apps.apple.com/ca/app/infuse-7/id1136220934) — An elegant video player. — C$104.99.

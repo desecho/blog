@@ -38,4 +38,4 @@ keywords: chrome, extensions, browser
 
 ## Paid
 
-* [1Password – Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) — The best way to experience 1Password in your browser. Easily sign in to sites, generate passwords, and store secure information. — 2.99 C$/month.
+* [1Password – Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) — The best way to experience 1Password in your browser. Easily sign in to sites, generate passwords, and store secure information. — C$2.99/month.

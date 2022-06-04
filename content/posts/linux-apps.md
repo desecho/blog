@@ -45,4 +45,4 @@ keywords: linux, programs, applications, apps
 
 ## Paid
 
-* [1Password](https://1password.com/) — The world’s most-loved password manager — 2.99 C$/month.
+* [1Password](https://1password.com/) — The world’s most-loved password manager — C$2.99/month.

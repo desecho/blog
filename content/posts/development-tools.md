@@ -19,7 +19,7 @@ keywords: development, tools, coding
 
 ### Paid
 
-* [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE for professional developers. — 255 C$/year
+* [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE for professional developers. — C$255/year
 
 ### DB
 

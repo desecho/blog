@@ -85,6 +85,6 @@ Reliable messaging.
 
 ## Paid
 
-* [1Password](https://1password.com/) — The world’s most-loved password manager. — 2.99 C$/month.
-* [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html) — Make. Believe. Photoshop. — 10 C$/month.
-* [NordVPN](https://nordvpn.com) — Secure & Private VPN Servers. — 5.39C$/month.
+* [1Password](https://1password.com/) — The world’s most-loved password manager. — C$2.99/month.
+* [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html) — Make. Believe. Photoshop. — C$10/month.
+* [NordVPN](https://nordvpn.com) — Secure & Private VPN Servers. — C$5.39/month.

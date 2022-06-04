@@ -121,4 +121,4 @@ keywords: ios, apps, applications, programs
 
 ## Paid
 
-* [AutoSleep Track Sleep on Watch](https://apps.apple.com/ca/app/autosleep-track-sleep-on-watch/id1164801111) — Auto Sleep Tracker & Alarm. — 5.49 C$.
+* [AutoSleep Track Sleep on Watch](https://apps.apple.com/ca/app/autosleep-track-sleep-on-watch/id1164801111) — Auto Sleep Tracker & Alarm. — C$5.49.

@@ -61,4 +61,4 @@ keywords: windows, apps, applications, programs
 
 ## Paid
 
-* [CCleaner](https://www.ccleaner.com/ccleaner) — CCleaner is the number-one tool for cleaning your PC. It protects your privacy and makes your computer faster and more secure! — 34.95 C$/year.
+* [CCleaner](https://www.ccleaner.com/ccleaner) — CCleaner is the number-one tool for cleaning your PC. It protects your privacy and makes your computer faster and more secure! — C$34.95/year.
