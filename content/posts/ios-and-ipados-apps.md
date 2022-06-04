@@ -54,7 +54,7 @@ keywords: ios, ipados, apps, applications, programs
 * [Google Docs: Sync, Edit, Share](https://apps.apple.com/ca/app/google-docs/id842842640) — Edit Documents and Collaborate.
 * [Google Sheets](https://apps.apple.com/ca/app/google-sheets/id842849113) — Open, Edit & Share Spreadsheet.
 * [Dropbox: Cloud Storage & Drive](https://apps.apple.com/ca/app/dropbox/id327630330) — Photo Share | Docs & PDF files.
-* [Yandex.Disk](https://apps.apple.com/ca/app/yandex-disk/id553266487)
+* [Yandex.Disk](https://apps.apple.com/ca/app/yandex-disk/id553266487) — Photo unlim.
 * [Microsoft OneDrive](https://apps.apple.com/ca/app/microsoft-onedrive/id477537958) — File & photo cloud storage.
 
 ## Authenticators
