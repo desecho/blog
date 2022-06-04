@@ -39,7 +39,7 @@ nano ~/.config/sublime-text-3/Packages/User/Default\ \(Linux\).sublime-mousemap
 
 ```json
 [
-    // Mouse 3 column select
+    // Mouse button 3 column select
     {
         "button": "button3",
         "press_command": "drag_select",

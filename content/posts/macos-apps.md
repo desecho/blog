@@ -15,7 +15,7 @@ keywords: macos, apps, applications, programs
   * [wget](https://www.gnu.org/software/wget/) — GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc.
   * [python3](https://www.python.org/) — Python is a programming language that lets you work quickly and integrate systems more effectively.
 
-## Movies/Video
+## Video
 
 * [MPlayer OSX Extended](http://mplayerosx.ch/) — MPlayer OSX Extended is the future of MPlayer OSX. Leveraging the power of the MPlayer and FFmpeg open source projects, MPlayer OSX Extended aims to deliver a powerful, functional and no frills video player for OSX.
 
@@ -23,13 +23,10 @@ keywords: macos, apps, applications, programs
 
 * [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117) — Stream Your Steam Library.
 
-## Administration
+## Utils
 
 * [Chicken](http://chicken.sourceforge.net/) — A VNC client for Mac OS X. A VNC client allows remote access to another computer over the network. Chicken is based on Chicken of the VNC.
 * [iTerm2](http://www.iterm2.com/) — A replacement for Terminal and the successor to iTerm.
-
-## Utils
-
 * [Disk Inventory X](http://www.derlien.com/) — Disk Inventory X is a disk usage utility.
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) — Powerful free data recovery software.
 * [What's Keeping Me](http://www.hamsoftengineering.com/products/wkm/wkm.html) — Have you ever have a problem where you can’t empty the Trash or eject a disk because something is preventing you? Usually, the reason is that some application has a file open, and thus you can’t get rid of the disk or trash the file. That’s why we made What’s Keeping Me! What’s Keeping Me will identify the application that is holding the item open. You can then use What's Keeping Me to quit the problem application (or kill it if needed) so you can perform your task. What’s Keeping Me includes an Automator workflow so you can perform searches directly from the Finder too!
