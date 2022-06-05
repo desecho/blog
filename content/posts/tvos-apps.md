@@ -33,4 +33,8 @@ keywords: tvos, apps, applications, programs
 * [Paramount+](https://apps.apple.com/ca/app/paramount/id1340650234#?platform=appleTV) — A Mountain of Entertainment. — C$5.99/month.
 * [Crave](https://apps.apple.com/ca/app/crave/id942568279#?platform=appleTV) — The best series, movies & more. — C$19.99/month.
 * [AMC+ | TV Shows & Movies](https://apps.apple.com/ca/app/amc-tv-shows-movies/id1578728899#?platform=appleTV) — New Series, Films & LIVE TV. — C$8.99/month.
-* [Crucnhyroll](https://apps.apple.com/ca/app/crunchyroll/id329913454) — Stream anime shows and movies. — C$7.99/month.
+* [Crunchyroll](https://apps.apple.com/ca/app/crunchyroll/id329913454) — Stream anime shows and movies. — C$7.99/month.
+* [Shudder: Horror & Thrillers](https://apps.apple.com/ca/app/shudder-screams-on-demand/id919790315) — Watch Movies and Series. — C$5.99/month.
+* [The Criterion Channel](https://apps.apple.com/ca/app/the-criterion-channel/id1454275199) — Watch classic movies and more. — C$14.49/month.
+* [FlixFling Streaming](https://apps.apple.com/ca/app/flixfling-streaming/id379167709) — Streaming Movies and Music. — C$7.99/month.
+* [Sundance Now: Films & Series](https://apps.apple.com/ca/app/sundance-now-films-series/id879902807) — C$6.99/month.

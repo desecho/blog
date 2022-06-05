@@ -37,6 +37,8 @@ Price — C$5.99/month.
 
 ### Disney+
 
+Includes "Star".
+
 Website — <https://www.disneyplus.com/en-ca/>.
 Price — C$11.99/month.
 
@@ -47,10 +49,14 @@ Price — C$5.99/month.
 
 ### AMC+
 
+Includes "Shudder" and "Sundance Now".
+
 Website — <https://www.amcplus.com/>.
 Price — C$8.99/month.
 
 ### Crave
+
+Includes "HBO", "STARZ", "Showtime"
 
 Website — <https://www.crave.ca/en>.
 Price — C$19.99/month.
@@ -59,3 +65,23 @@ Price — C$19.99/month.
 
 Website — <https://www.crunchyroll.com/>.
 Price — C$7.99/month.
+
+### Shudder
+
+Website — <https://www.shudder.com/>.
+Price — C$5.99/month.
+
+### The Criterion Channel
+
+Website — <https://www.criterionchannel.com/>.
+Price — C$14.49/month.
+
+### FlixFling
+
+Website — <https://www.flixfling.com/>.
+Price — C$7.99/month.
+
+### Sundance Now
+
+Website — <https://www.sundancenow.com/>.
+Price — C$6.99/month.
