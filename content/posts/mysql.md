@@ -21,7 +21,7 @@ FLUSH PRIVILEGES;
 
 ## Administer Users
 
-`[ip]` can be `%`, which means `any`, `localhost`, or `ip-address`
+`[ip]` can be an ip address, host name and `%` can be used as a wildcard.
 
 ```sql
 CREATE USER '[user]'@'[ip]' IDENTIFIED BY '[password]';
@@ -39,8 +39,8 @@ You can optionally add `WITH GRANT OPTION` to the `GRANT` command for the user t
 See [details](http://dev.mysql.com/doc/refman/5.1/en/grant.html#idm47213304336736).
 
 ```sql
-GRANT [privilege] ON `[db]`.`[table]` to '[user]'@'[ip]' IDENTIFIED BY '[password]';
-GRANT [privilege] ON *.* to '[user]'@'[ip]' IDENTIFIED BY '[password]';
+GRANT [privilege] ON `[db]`.`[table]` TO '[user]'@'[ip]'
+GRANT [privilege] ON *.* to '[user]'@'[ip]'
 SHOW GRANTS for '[user]'@'[ip]';
 REVOKE [privilege] ON *.* FROM '[user]'@'[ip]';
 FLUSH PRIVILEGES;

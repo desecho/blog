@@ -83,6 +83,8 @@ keywords: ios, apps, applications, programs
 ## Shopping
 
 * [AE + Aerie](https://apps.apple.com/ca/app/ae-aerie/id467738064)
+* [Redbubble - Shop original art](https://apps.apple.com/ca/app/redbubble-shop-original-art/id1145737091) – On stickers, tees, and gifts.
+* [Shop: All your favorite brands](https://apps.apple.com/ca/app/shop-package-order-tracker/id1223471316) – Shopping app & package tracker.
 
 ## Canada
 

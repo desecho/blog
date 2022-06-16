@@ -54,6 +54,7 @@ keywords: windows, apps, applications, programs
 * [Monitor Profile Switcher](https://sourceforge.net/projects/monitorswitcher/) — Save and easily switch between Windows multi-monitor configurations.
 * [PC Health Check Application](https://aka.ms/GetPCHealthCheckApp)
 * [Java](https://java.com/en/)
+* [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
 
 ## Graphics
 
