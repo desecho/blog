@@ -2,8 +2,11 @@
 name: Find Broken Links
 on:
   schedule:
-    - cron: "0 0 1 * *"  # Run every month at midnight
+    - cron: "0 4 1 * *"  # runs at 04:00 UTC (00:00 EDT) on the first day of the month.
   workflow_dispatch:
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   find_broken_links:
     name: Find Broken Links
@@ -25,9 +28,7 @@ jobs:
           key: npm
 
       - name: Install requirements
-        run: |
-          npm install markdown-link-check -g
+        run: npm install markdown-link-check -g
 
       - name: Find Broken Links
-        run:
-          make find-broken-links
+        run: make find-broken-links

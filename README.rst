@@ -34,7 +34,6 @@ Deployment is automatically done in master branch.
 
 The following GitHub Actions are used:
 
-* `Cancel Workflow Action`_
 * Checkout_
 * `Setup Node.js environment`_
 * `Docker Login`_
@@ -43,9 +42,11 @@ The following GitHub Actions are used:
 * Cache_
 * `Docker Setup Buildx`_
 
-Cronjobs
+Cron jobs
 ----------------------------
-``Find broken links`` job runs monthly with GitHub Actions.
+Cron jobs are run with `GitHub Actions`_. Time zone is UTC.
+
+``Find broken links`` runs at 04:00 UTC (00:00 EDT) on the first day of the month.
 
 Fonts used
 ----------------------------
@@ -59,7 +60,6 @@ Fonts used
 .. _Orbitron: https://fonts.google.com/specimen/Orbitron
 .. _GitHub Actions: https://github.com/features/actions
 
-.. _Cancel Workflow Action: https://github.com/marketplace/actions/cancel-workflow-action
 .. _Checkout: https://github.com/marketplace/actions/checkout
 .. _Setup Node.js environment: https://github.com/marketplace/actions/setup-node-js-environment
 .. _Docker Login: https://github.com/marketplace/actions/docker-login

@@ -5,18 +5,14 @@ on:
     branches:
       - master
   workflow_dispatch:
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
-  deployment:
-    name: Deployment
+  test:
+    name: Test
     runs-on: ubuntu-latest
-    env:
-      PROJECT: blog
     steps:
-      - name: Cancel previous runs
-        uses: styfle/cancel-workflow-action@0.9.1
-        with:
-          access_token: ${{ github.token }}
-
       - name: Checkout code
         uses: actions/checkout@v3
 
@@ -41,13 +37,15 @@ jobs:
       - name: Install linters
         run: |
           pip install restructuredtext_lint yamllint
-          make install-shfmt
-          make install-hadolint
+          make install-linters-binaries
           sudo npm install -g markdownlint-cli
 
       - name: Run linters
         run: make lint
-
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2
 
@@ -65,14 +63,19 @@ jobs:
           tags: ghcr.io/${{ github.repository }}:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
-
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    env:
+      PROJECT: blog
+    steps:
       - name: Install kubectl
         uses: azure/setup-kubectl@v2.1
 
       - name: Configure kubectl
         run: |
           mkdir ~/.kube
-          echo $KUBECONFIG > ~/.kube/config
+          echo "$KUBECONFIG" > ~/.kube/config
         env:
           KUBECONFIG: ${{ secrets.KUBECONFIG }}  # Done as a variable because it doesn't work in place.
 
