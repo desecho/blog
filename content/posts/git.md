@@ -88,16 +88,16 @@ keywords: git, source control
 
 ### Log
 
-| Command                                   | Description                                                                                                                      |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| `git log`                                 | Show commit logs                                                                                                                 |
-| `git log --oneline`                       | Show logs in a one-line format with shortened commit SHAs                                                                        |
-| `git log --follow [file]`                 | Continue listing the history of a `file` beyond renames                                                                          |
-| `git log --all --full-history -- [file] ` | Show history for the file even if it was deleted                                                                                 |
-| `git log -n [N]`                          | Show logs for `N` last commits                                                                                                   |
-| `git log --grep="[pattern]"`              | Limit the commits output to ones with log message<br> that matches the specified `pattern` (regular expression)                  |
-| `git log --author="[pattern]"`            | Limit the commits output to ones with author/committer<br> header lines that match the specified `pattern` (regular expression). |
-| `git log [commit1]..[commit2]`            | Show logs between `commit1` and `commit2`                                                                                        |
+| Command                                  | Description                                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `git log`                                | Show commit logs                                                                                                                 |
+| `git log --oneline`                      | Show logs in a one-line format with shortened commit SHAs                                                                        |
+| `git log --follow [file]`                | Continue listing the history of a `file` beyond renames                                                                          |
+| `git log --all --full-history -- [file]` | Show history for the file even if it was deleted                                                                                 |
+| `git log -n [N]`                         | Show logs for `N` last commits                                                                                                   |
+| `git log --grep="[pattern]"`             | Limit the commits output to ones with log message<br> that matches the specified `pattern` (regular expression)                  |
+| `git log --author="[pattern]"`           | Limit the commits output to ones with author/committer<br> header lines that match the specified `pattern` (regular expression). |
+| `git log [commit1]..[commit2]`           | Show logs between `commit1` and `commit2`                                                                                        |
 
 ### Diff
 
