@@ -36,9 +36,9 @@ jobs:
 
       - name: Install linters
         run: |
-          pip install restructuredtext_lint yamllint
+          pip install restructuredtext_lint
           make install-linters-binaries
-          sudo npm install -g markdownlint-cli
+          sudo npm install -g markdownlint-cli prettier
 
       - name: Run linters
         run: make lint
@@ -82,7 +82,7 @@ jobs:
           mkdir ~/.kube
           echo "$KUBECONFIG" > ~/.kube/config
         env:
-          KUBECONFIG: ${{ secrets.KUBECONFIG }}  # Done as a variable because it doesn't work in place.
+          KUBECONFIG: ${{ secrets.KUBECONFIG }} # Done as a variable because it doesn't work in place.
 
       - name: Deploy
         run: |

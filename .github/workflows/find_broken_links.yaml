@@ -2,7 +2,7 @@
 name: Find Broken Links
 on:
   schedule:
-    - cron: "0 4 1 * *"  # runs at 04:00 UTC (00:00 EDT) on the first day of the month.
+    - cron: "0 4 1 * *" # runs at 04:00 UTC (00:00 EDT) on the first day of the month.
   workflow_dispatch:
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}

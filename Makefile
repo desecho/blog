@@ -90,7 +90,7 @@ lint:
 	shellcheck scripts/*.sh
 	markdownlint README.md "content/posts/*.md"
 	rst-lint README.rst
-	yamllint .github deployment
+	prettier --check ./.github/**/*.yaml ./**/*.yaml
 	hadolint Dockerfile
 	actionlint
 
@@ -99,6 +99,7 @@ lint:
 format:
 	shfmt -l -w .
 	markdownlint README.md "content/posts/*.md" --fix
+	prettier --write ./.github/**/*.yaml ./**/*.yaml
 
 .PHONY: find-broken-links
 ## Find broken links
