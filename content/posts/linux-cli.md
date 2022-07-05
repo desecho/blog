@@ -17,7 +17,9 @@ keywords: linux, commands, cli
   * `-n` — don't ovewrite
 * `mv [source] [destination]` — move files/directories
 * `scp -P [port] [user]@[hostname]:[source] [target]` — copy files/directories
-* `rsync -ah --stats -P [source] [target]` — copy files/directories with ability to resume
+* `rsync -a --stats [source] [target]` — copy files/directories with ability to resume and mirror
+* `rsync -a --stats --delete -P [source] [target]` — copy files/directories with ability to resume and delete files in
+  destination that are not in the source.
 * `rsync --rsync-path="sudo rsync" [source] [target]` — copy files/directories with sudo
 * `tar -cvzf [archive.tar.gz] [file/dir]` — archive a `file/dir`
 

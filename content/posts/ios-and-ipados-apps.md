@@ -192,6 +192,10 @@ keywords: ios, ipados, apps, applications, programs
 
 * [Fizz Wi-Fi](https://apps.apple.com/ca/app/fizz-wi-fi/id1449022170)
 
+### Health
+
+* [Jean Coutu](https://apps.apple.com/ca/app/jean-coutu/id351461407)
+
 ### Lifestyle
 
 * [Centris.ca](https://apps.apple.com/ca/app/centris-ca/id604024675) – Find Your Next Home.
