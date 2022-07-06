@@ -43,6 +43,7 @@ keywords: linux, commands, cli
 
 * `ln -s [file] [link-file]` — create a symbolic link (need to use full paths)
 * `cat [file]` — print `file` contents
+* `cat > [file]` — create file. After entering the command, enter the file content and press [Ctrl + D].
 * `more [file]` — show `file` contents with ability to browse through the `file`
 * `head [file]` — get the `file` header
   * `-n [x]` — show `x` number of lines
@@ -51,6 +52,7 @@ keywords: linux, commands, cli
   * `-f` — auto-update
 * `touch [file]` — create an empty `file`
 * `sed -i 's/[old-text]/[new-text]/g' [file]` — replace text in a `file`
+* `sed -i '/^$/d' [file]` — remove empty lines in a `file`
 * `truncate -s 0 [file]` — truncate a `file` to 0 bytes
 
 ## Processes
@@ -108,6 +110,7 @@ For all of the commands below: `-r` — recursive change.
 * `uname -a` — show information about the installed version of Linux
 * `sudo hostname your-new-name` — change the hostname. Permanent value is in `/etc/hostname`
 * `sudo /usr/sbin/ntpdate ntp.ubuntu.com` — synchronize date and time
+* `journalctl -S [date-time1] -U [date-time2]` — show journal records from `date-time1` until `date-time2`. Where date-time format is like this: `2022-01-01 00:00:00`
 
 ### User Administration
 
