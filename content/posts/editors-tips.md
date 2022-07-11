@@ -3,7 +3,7 @@ title: "Editors Tips"
 date: 2014-07-13T17:28:00
 comments: true
 categories: Text Editing
-keywords: sublime text, vs code, editor, editing
+keywords: sublime text, vs code, editor, editing, tips
 ---
 ## VS Code
 
