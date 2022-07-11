@@ -1,16 +1,28 @@
 ---
-title: "Sublime Text"
+title: "Editors Tips"
 date: 2014-07-13T17:28:00
 comments: true
 categories: Text Editing
-keywords: sublime text, editor, editing
+keywords: sublime text, vs code, editor, editing
 ---
+## VS Code
+
+### Tips
+
+#### Disable Hardware Acceleration
+
+* Open the Command Palette [Ctrl + Shift + P]
+* Run the `Preferences: Configure Runtime Arguments` command
+* Add `"disable-hardware-acceleration": true`
+* Restart VS Code
+
+## Sublime Text
 
 [Sublime Text](http://www.sublimetext.com/)
 
-## Settings
+### Settings
 
-### Project Settings Example
+#### Project Settings Example
 
 ```json
 {
@@ -25,13 +37,13 @@ keywords: sublime text, editor, editing
 }
 ```
 
-## Tips
+### Tips
 
-### Edit Current Projects in the Switch Project List
+#### Edit Current Projects in the Switch Project List
 
 Edit workspaces: `~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session`.
 
-### Enable Middle Mouse Button Support in Ubuntu
+#### Enable Middle Mouse Button Support in Ubuntu
 
 ```bash
 nano ~/.config/sublime-text-3/Packages/User/Default\ \(Linux\).sublime-mousemap
