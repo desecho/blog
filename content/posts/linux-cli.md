@@ -96,6 +96,7 @@ For all of the commands below: `-r` — recursive change.
 
 * `netstat -peanut` — show open ports
 * `netstat -peanut | grep ":[port]"` — find process which uses `port`
+* `nc -zv [host] [port]` — check connection to a `host:port`
 
 ## Administration
 
@@ -110,7 +111,7 @@ For all of the commands below: `-r` — recursive change.
 * `uname -a` — show information about the installed version of Linux
 * `sudo hostname your-new-name` — change the hostname. Permanent value is in `/etc/hostname`
 * `sudo /usr/sbin/ntpdate ntp.ubuntu.com` — synchronize date and time
-* `journalctl -S [date-time1] -U [date-time2]` — show journal records from `date-time1` until `date-time2`. Where date-time format is like this: `2022-01-01 00:00:00`
+* `journalctl -S [date-time1] -U [date-time2]` — show journal records from `date-time1` until `date-time2`. Where date-time format is like this: `2022-01-0100:00:00`
 
 ### User Administration
 
@@ -150,6 +151,11 @@ For all of the commands below: `-r` — recursive change.
 * `diff [old-file] [new-file] > [patch]` — create a `patch`
 * `patch [old-file] [patch]` — apply a `patch`
 
+## Conversion
+
+* `yq eval -j [file-yaml] > [file-json]` — convert a YAML file `file-yaml` to a JSON file `file-json`.
+* `cat [file-json] | yq e -P - > [file-yaml]` — convert a JSON file `file-json` to a YAML file `file-yaml`.
+
 ## Miscellaneous
 
 * `wget [file-url]` — download a file
@@ -166,3 +172,4 @@ For all of the commands below: `-r` — recursive change.
   * `-r` — restore screen
 * `ssh [user]@[ip]` — connect to an `ip` with `user` through SSH
   * `-i [key]` — connect with key
+* `timedatectl` — find the current time sync status

@@ -14,12 +14,24 @@ sudo Xvfb :10 -ac
 export DISPLAY=:10
 ```
 
+## How to install telnet on Alpine
+
+```bash
+apk add busybox-extras
+```
+
 ## Fix Locales
 
 ```bash
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 export LANGUAGE=en_US.UTF-8
+```
+
+## Sync time in Fedora
+
+```bash
+sudo systemctl restart chronyd
 ```
 
 ## VirtualBox
