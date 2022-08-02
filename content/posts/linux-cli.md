@@ -59,12 +59,12 @@ keywords: linux, commands, cli
 
 * `ps` — show running processes
   * `ps aux` — show running processes in more detail. See [What does aux mean in "ps aux"?](https://unix.stackexchange.com/questions/106847/what-does-aux-mean-in-ps-aux) for more details
-* `kill [PID]` — kill process `PID` (soft)
-  * `-9` — kill process `PID` (hard)
+* `kill [PID]` — kill process with `PID` (soft)
+  * `-9` — kill process with `PID` (hard)
 
 ## Access Rights
 
-For all of the commands below: `-r` — recursive change.
+For all of the `chrgrp` and `chown` commands below: `-r` — recursive change.
 
 * `chgrp [group] [file/dir]` — change `group` for a `file/dir`
 * `chown [user]:[group] [file/dir]` — change `file/dir`'s `group` and owner
@@ -84,7 +84,7 @@ For all of the commands below: `-r` — recursive change.
   * `sudo updatedb` — update the search index
 * `find [dir] -name "[mask]" -type f` — list files in a `dir` recursively. `mask` can be `*.*` for example
   * `-delete` — remove the found files
-* `find . -type f -exec cat {} +` — output contents of all files in the current directory
+* `find . -type f -exec cat {} +` — output contents of all files in the current directory recursively
 
 ## Device Mounting
 
@@ -106,11 +106,9 @@ For all of the commands below: `-r` — recursive change.
 * `sudo shutdown now`/`sudo init 0` — shutdown
 * `sudo reboot` — reboot
 * `df -h` — show disk space
-* `lsb_release -a` — show Ubuntu information
 * `free -h` — show RAM utilization
 * `uname -a` — show information about the installed version of Linux
 * `sudo hostname your-new-name` — change the hostname. Permanent value is in `/etc/hostname`
-* `sudo /usr/sbin/ntpdate ntp.ubuntu.com` — synchronize date and time
 * `journalctl -S [date-time1] -U [date-time2]` — show journal records from `date-time1` until `date-time2`. Where date-time format is like this: `2022-01-0100:00:00`
 
 ### User Administration
@@ -119,7 +117,7 @@ For all of the commands below: `-r` — recursive change.
 * `sudo userdel [user]` — delete a `user`
 * `sudo passwd [user]` — change `user`'s password
 
-### Package Management
+### Package Management (Debian)
 
 * `sudo dpkg -i [package]` — install a `package`
 * `sudo apt` — package manager
@@ -130,6 +128,15 @@ For all of the commands below: `-r` — recursive change.
   * `autoremove` — remove unused packages
 * `sudo add-apt-repository ppa:[user]/[name]` — add apt sources.list entries
 * `sudo add-apt-repository ppa:[user]/[name] --remove` — remove apt sources.list entries
+
+## Fedora
+
+* `sudo systemctl restart chronyd` — sync date & time
+
+## Ubuntu
+
+* `lsb_release -a` — show Ubuntu information
+* `sudo /usr/sbin/ntpdate ntp.ubuntu.com` — synchronize date and time
 
 ## Variables
 
@@ -163,7 +170,8 @@ For all of the commands below: `-r` — recursive change.
   * `watch '[command1] | [command2]'` — watch changes of the command continuously when using pipes
 * `man [program]` — get `program`'s manual
 * `date` — show current date and time
-  * `date -d "yesterday" '+%d-%m-%Y'` — get yesterday's day in a specified format
+  * `date [format]` — show date in a specified `format`. Format can be `+%d-%m-%Y` for example
+  * `date -d "yesterday"` — get yesterday's day
 * `echo [text]` — print `text`
 * `time [program]` — show how long a `program` is running
 * `sleep [x]` — wait for `x` seconds

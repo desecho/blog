@@ -28,12 +28,6 @@ export LANG=en_US.UTF-8
 export LANGUAGE=en_US.UTF-8
 ```
 
-## Sync time in Fedora
-
-```bash
-sudo systemctl restart chronyd
-```
-
 ## VirtualBox
 
 Enable auto time synchronization with host

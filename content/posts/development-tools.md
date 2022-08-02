@@ -33,7 +33,6 @@ keywords: development, tools, coding
 
 ### Virtual Machines
 
-* [Vagrant](http://www.vagrantup.com/) — Create and configure lightweight, reproducible, and portable development environments.
 * [VirtualBox](https://www.virtualbox.org/) — VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product.
 * [VMware Workstation Player](https://www.vmware.com/ca/products/workstation-player.html) — Easily run multiple operating systems as virtual machines on your Windows or Linux PC with VMware Workstation Player.
 
