@@ -10,10 +10,6 @@ keywords: macos, apps, applications, programs
 
 * [Homebrew](http://brew.sh/) — The missing package manager for macOS (or Linux).
 * [Cakebrew](https://www.cakebrew.com/) — The Mac App for Homebrew.
-* Packages
-  * [git](http://git-scm.com/) — Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-  * [wget](https://www.gnu.org/software/wget/) — GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc.
-  * [python3](https://www.python.org/) — Python is a programming language that lets you work quickly and integrate systems more effectively.
 
 ## Video
 
@@ -29,7 +25,7 @@ keywords: macos, apps, applications, programs
 * [iTerm2](http://www.iterm2.com/) — A replacement for Terminal and the successor to iTerm.
 * [Disk Inventory X](http://www.derlien.com/) — Disk Inventory X is a disk usage utility.
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) — Powerful free data recovery software.
-* [What's Keeping Me](http://www.hamsoftengineering.com/products/wkm/wkm.html) — Have you ever have a problem where you can’t empty the Trash or eject a disk because something is preventing you? Usually, the reason is that some application has a file open, and thus you can’t get rid of the disk or trash the file. That’s why we made What’s Keeping Me! What’s Keeping Me will identify the application that is holding the item open. You can then use What's Keeping Me to quit the problem application (or kill it if needed) so you can perform your task. What’s Keeping Me includes an Automator workflow so you can perform searches directly from the Finder too!
+* [What's Keeping Me](https://www.macupdate.com/app/mac/27807/whats-keeping-me) — Have you ever have a problem where you can’t empty the Trash or eject a disk because something is preventing you? Usually, the reason is that some application has a file open, and thus you can’t get rid of the disk or trash the file. That’s why we made What’s Keeping Me! What’s Keeping Me will identify the application that is holding the item open. You can then use What's Keeping Me to quit the problem application (or kill it if needed) so you can perform your task. What’s Keeping Me includes an Automator workflow so you can perform searches directly from the Finder too!
 * [Jing](http://www.techsmith.com/jing.html) — Free and simple way to start sharing images and short videos of your computer screen.
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/) — Scroll Reverser is a free Mac app that reverses the direction of scrolling, with independent settings for trackpads and mice.
 * [BeardedSpice](https://beardedspice.github.io/) — Mac Media Keys for the Masses.
