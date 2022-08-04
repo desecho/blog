@@ -18,6 +18,7 @@ keywords: windows, apps, applications, programs
 * [Legacy Games](https://legacygames.com/)
 * [Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) — Discover and download new games with Game Pass, play console games on your Windows PC with cloud gaming, and chat with friends across PC, mobile, and Xbox console.
 * [Rockstar Games Launcher](https://socialclub.rockstargames.com/rockstar-games-launcher) — Download and play the latest Rockstar Games PC titles.
+* [Xbox Accessories](https://apps.microsoft.com/store/detail/xbox-accessories/9NBLGGH30XJ3)
 
 ## Cloud Storage
 
