@@ -21,7 +21,6 @@ keywords: documentation, styleguide, python, javascript, html, css, sass, web de
 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
-* [Vue.js Style Guide](https://vuejs.org/v2/style-guide/)
 
 #### HTML/CSS
 

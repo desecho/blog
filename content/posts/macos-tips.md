@@ -10,6 +10,11 @@ keywords: macos, tips
 
 Do not format your drive as a case-sensitive partition. You won't be able to run applications like Steam or Photoshop.
 
+## Connect to a Windows Share Network Host
+
+* Open Finder → `Go` → `Connect to Server`
+* Enter `smb://[host]` where `host` is your network host
+
 ## macOS Configuration
 
 `Contacts` → `File` → `New Smart Group` → Card/is not member of/any group.
