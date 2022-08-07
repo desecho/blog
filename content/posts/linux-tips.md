@@ -50,10 +50,33 @@ vboxmanage setextradata [vbox] "VBoxInternal/Devices/VMMDev/0/Config/GetHostTime
 | `take`     | Create a new directory and change to it, will create intermediate directories as required |
 | `exec zsh` | Apply changes made to `.zshrc`                                                            |
 
-## Fix broken sudoers file
+## Fix Broken sudoers File
 
 Run this:
 
 ```bash
 pkexec visudo
 ```
+
+## Bash
+
+### Make it so that the Script will always run Commands from the Directory the Script is in
+
+```bash
+cd "$(dirname "$0")"
+```
+
+### A Good Way to Start a Bash Script
+
+```bash
+#!/bin/bash
+
+set -eou pipefail
+```
+
+* `pipefail` - If set, the return value of a pipeline is the value of the last (rightmost) command to exit with a non-zero status, or zero if all commands in the pipeline exit successfully.
+* `-e` - Exit immediately if a pipeline, which may consist of a single simple command, a list, or a compound command returns a non-zero status.
+* `-u` - Treat unset variables and parameters other than the special parameters ‘@’ or ‘*’ as an error when performing parameter expansion. An error message will be written to the standard error, and a non-interactive shell will exit.
+* `-o [option-name]` - Set the option corresponding to `option-name`.
+
+See details in the docs - [The Set Builtin](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html).
