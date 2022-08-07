@@ -77,8 +77,8 @@ keywords: hotkeys
 
 | Hotkey                       | Action                                       |
 | ---------------------------- | -------------------------------------------- |
-| [Command + Option + Esc]     | Open Force Quit Applications window          |
-| [Command + Spacebar]         | Open Spotlight Search                        |
+| [Cmd + Option + Esc]         | Open Force Quit Applications window          |
+| [Cmd + Spacebar]             | Open Spotlight Search                        |
 | [Ctrl + Spacebar]            | Switch input source                          |
 | [Shift + Cmd + 3]            | Take a screenshot                            |
 | [Shift + Cmd + 4]            | Take a screenshot of a portion of the screen |
@@ -106,8 +106,6 @@ keywords: hotkeys
 | [Ctrl + W] | Search |
 
 ### VS Code
-
-[VS Code](https://code.visualstudio.com/)
 
 [Full list of hotkeys](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 

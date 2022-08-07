@@ -6,13 +6,9 @@ categories: Streaming
 keywords: streaming, movies, tv shows
 ---
 
-## VPN
-
-It is better to use VPN to stream videos. I would recommend [NordVPN](https://nordvpn.com). It costs about C$5.39/month. It could increase the speed and it is also good for security and privacy. It will also allow you to watch Netflix & Amazon Prime videos that are not available in your country.
-
 ## JustWatch
 
-You can find a list of movies and TV shows available on Netflix, Amazon Prime, Disney+, Apple TV+ on [JustWatch](https://www.justwatch.com/).
+You can find a list of movies and TV shows available on Netflix, etc. on [JustWatch](https://www.justwatch.com/).
 
 ### Netflix
 

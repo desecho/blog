@@ -10,7 +10,6 @@ keywords: development, tools, coding
 
 * [Codepen](https://codepen.io/) — A playground for the front end web.
 * [Diffchecker](http://www.diffchecker.com/diff) — Diffchecker will compare text to find the difference between two text files.
-* [Hurl.it](http://www.hurl.it/) — Make HTTP requests.
 * [My regex tester](http://www.myregextester.com/index.php)
 * [JS Nice](http://jsnice.org/) — Statistical renaming, type inference, and deobfuscation.
 * [Terraform Cloud](https://www.terraform.io/cloud)The easiest way to use Terraform in production at any scale.
@@ -19,7 +18,7 @@ keywords: development, tools, coding
 
 ### Paid
 
-* [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE for professional developers. — C$255/year
+* [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE for professional developers. — C$128/year
 
 ### DB
 
@@ -61,9 +60,3 @@ keywords: development, tools, coding
 ### DB
 
 * [MongoHub](https://github.com/bububa/MongoHub-Mac) — MongoHub is a native mac GUI application for MongoDB.
-
-## Windows Apps
-
-### DB
-
-* [SQLyog](https://www.webyog.com/product/sqlyog) — A Powerful MySQL Development and Administration Solution.

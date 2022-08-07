@@ -24,18 +24,6 @@ Give time for script to load, then enter
 jQuery.noConflict();
 ```
 
-#### Extend jQuery
-
-```javascript
-$.fn.visible = function() {
-    return this.css('visibility', 'visible');
-};
-
-$.fn.invisible = function() {
-    return this.css('visibility', 'hidden');
-};
-```
-
 ## Python
 
 ### Helpful Command to Clean Cache Files if Anything Behaves Strangely

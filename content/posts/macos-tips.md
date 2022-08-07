@@ -15,10 +15,6 @@ Do not format your drive as a case-sensitive partition. You won't be able to run
 * Open Finder → `Go` → `Connect to Server`
 * Enter `smb://[host]` where `host` is your network host
 
-## macOS Configuration
-
-`Contacts` → `File` → `New Smart Group` → Card/is not member of/any group.
-
 ## Remove Duplicates in "open with"
 
 ```bash

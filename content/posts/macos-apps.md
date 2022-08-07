@@ -33,9 +33,9 @@ keywords: macos, apps, applications, programs
 
 ## Paid
 
-* [CleanMyMac](http://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — C$40.
-* [ForkLift](http://www.binarynights.com/forklift/) — The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS. — C$30.
-* [CrossOver](http://www.codeweavers.com/products/) — Install Windows applications and PC Games on your Mac OS. — C$40.
-* [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) — Firewall. — C$45.
-* [TaskPaper](https://www.taskpaper.com/) — Plain text to-do lists. — C$25.
-* [Infuse 7](https://apps.apple.com/ca/app/infuse-7/id1136220934) — An elegant video player. — C$104.99.
+* [CleanMyMac](http://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — C$52.69.
+* [ForkLift](http://www.binarynights.com/forklift/) — The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS. — C$25.8.
+* [CrossOver](http://www.codeweavers.com/products/) — Install Windows applications and PC Games on your Mac OS. — C$76.29.
+* [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) — Firewall. — C$58.19.
+* [TaskPaper](https://www.taskpaper.com/) — Plain text to-do lists. — C$33.93.
+* [Infuse 7](https://apps.apple.com/ca/app/infuse-7/id1136220934) — An elegant video player. — C$129.99.

@@ -6,7 +6,7 @@ categories: Linux
 keywords: linux, tips
 ---
 
-## How to Run Programs for X Server
+## Run Programs for X Server
 
 ```bash
 sudo apt-get install xvfb
@@ -14,10 +14,16 @@ sudo Xvfb :10 -ac
 export DISPLAY=:10
 ```
 
-## How to install telnet on Alpine
+## Install telnet on Alpine
 
 ```bash
 apk add busybox-extras
+```
+
+## Install ps on Ubuntu
+
+```bash
+sudo apt install procps
 ```
 
 ## Fix Locales

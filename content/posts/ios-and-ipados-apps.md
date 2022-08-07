@@ -241,10 +241,6 @@ keywords: ios, ipados, apps, applications, programs
 * [Purolator](https://apps.apple.com/ca/app/purolator/id438701193)
 * [Canada Post](https://apps.apple.com/ca/app/canada-post/id394391577) – Track and get delivery updates.
 
-### Citizenship
-
-* [Canadian Citizenship Prep 2022](https://apps.apple.com/ca/app/canadian-citizenship-prep-2022/id1474568862) – Book & Practice Test Questions.
-
 ## Russia
 
 ### Social
