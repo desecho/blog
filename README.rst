@@ -41,12 +41,14 @@ The following GitHub Actions are used:
 * `Kubectl tool installer`_
 * Cache_
 * `Docker Setup Buildx`_
+* `GitHub Actions Version Updater`_
 
 Cron jobs
 ----------------------------
 Cron jobs are run with `GitHub Actions`_. Time zone is UTC.
 
-``Find broken links`` runs at 04:00 UTC (00:00 EDT) on the first day of the month.
+- ``Find broken links`` runs at 04:00 UTC (00:00 EDT) on the first day of the month.
+- ``Update GitHub actions`` runs at 04:00 UTC (00:00 EDT) on the first day of the month
 
 Fonts used
 ----------------------------
@@ -67,3 +69,4 @@ Fonts used
 .. _Kubectl tool installer: https://github.com/marketplace/actions/kubectl-tool-installer
 .. _Cache: https://github.com/marketplace/actions/cache
 .. _Docker Setup Buildx: https://github.com/marketplace/actions/docker-setup-buildx
+.. _GitHub Actions Version Updater: https://github.com/marketplace/actions/github-actions-version-updater
