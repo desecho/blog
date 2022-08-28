@@ -12,7 +12,7 @@ keywords: development, tools, coding
 * [Diffchecker](http://www.diffchecker.com/diff) — Diffchecker will compare text to find the difference between two text files.
 * [My regex tester](http://www.myregextester.com/index.php)
 * [JS Nice](http://jsnice.org/) — Statistical renaming, type inference, and deobfuscation.
-* [Terraform Cloud](https://www.terraform.io/cloud)The easiest way to use Terraform in production at any scale.
+* [Terraform Cloud](https://www.terraform.io/cloud) — The easiest way to use Terraform in production at any scale.
 
 ## macOS, Ubuntu, and Windows Apps
 

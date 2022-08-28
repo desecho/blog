@@ -258,7 +258,7 @@ TRUE=/usr/bin/true
 git config diff.nodiff.command $TRUE
 # Assign the new diff driver to those files you want to be ignored
 FILE="[file]"
-echo "$FILE    diff=nodiff" >> .git/info/attributes
+echo "$FILE diff=nodiff" >> .git/info/attributes
 ```
 
 ### Remove Data From Repository’s History

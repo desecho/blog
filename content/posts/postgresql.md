@@ -8,9 +8,9 @@ keywords: postgresql, db
 
 ## Main Commands
 
-* `\list` - show list of DBs
-* `\dt` - show tables
-* `\d+ [table]` - show database structure
+* `\list` — show list of DBs
+* `\dt` — show tables
+* `\d+ [table]` — show database structure
 
 ## Copy a DB
 

@@ -36,7 +36,7 @@ sudo mdutil -i on /
 
 ## How to Wipe Your Mac & Reset to Factory Settings
 
-* Restart, then hold down the [Command + R] until you see an Apple logo or spinning globe
+* Restart, then hold down the [Cmd + R] until you see an Apple logo or spinning globe
 * Select `Disk Utility` and click `Continue`
 * Click the Erase button
 * Select `Reinstall macOS`

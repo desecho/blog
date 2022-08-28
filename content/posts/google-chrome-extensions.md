@@ -21,7 +21,7 @@ keywords: chrome, extensions, browser
 ## YouTube
 
 * [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) — Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
-* [YouTube Like-Dislike Shortcut](https://chrome.google.com/webstore/detail/youtube-like-dislike-shor/fdkpkpelkkdkjhpacficichkfifijipc) — Shift+Plus to like, Shift+Minus to dislike. Can't get any simpler.
+* [YouTube Like-Dislike Shortcut](https://chrome.google.com/webstore/detail/youtube-like-dislike-shor/fdkpkpelkkdkjhpacficichkfifijipc) — [Shift + Plus] to like, [Shift + Minus] to dislike. Can't get any simpler.
 
 ## Utils
 
@@ -38,4 +38,4 @@ keywords: chrome, extensions, browser
 
 ## Paid
 
-* [1Password – Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) — The best way to experience 1Password in your browser. Easily sign in to sites, generate passwords, and store secure information. — C$2.99/month.
+* [1Password — Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) — The best way to experience 1Password in your browser. Easily sign in to sites, generate passwords, and store secure information. — C$2.99/month.

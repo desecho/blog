@@ -51,7 +51,7 @@ Reliable messaging.
 
 ## Music
 
-* [Spotify](https://www.spotify.com) — With Spotify, it’s easy to find the right music or podcast for every moment – on your phone, your computer, your tablet and more.
+* [Spotify](https://www.spotify.com) — With Spotify, it’s easy to find the right music or podcast for every moment — on your phone, your computer, your tablet and more.
 
 ## Cloud Storage
 

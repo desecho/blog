@@ -75,7 +75,7 @@ For all of the `chrgrp` and `chown` commands below: `-r` — recursive change.
 
 ## Search
 
-* `grep [text] [file/dir]` - search for `text`
+* `grep [text] [file/dir]` — search for `text`
   * `-r` — recursive search
   * `-i` — case insensitive search
   * `-I` — ignore binary files
@@ -179,5 +179,5 @@ For all of the `chrgrp` and `chown` commands below: `-r` — recursive change.
 * `screen` — screen manager
   * `-r` — restore screen
 * `ssh [user]@[ip]` — connect to an `ip` with `user` through SSH
-  * `-i [key]` — connect with key
+  * `-i [key]` — connect with `key`
 * `timedatectl` — find the current time sync status

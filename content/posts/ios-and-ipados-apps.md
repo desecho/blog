@@ -61,7 +61,7 @@ keywords: ios, ipados, apps, applications, programs
 
 * [Twilio Authy](https://apps.apple.com/us/app/twilio-authy/id494168017)
 * [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458) — Protects your online identity.
-* [Yandex.Key–one-time passwords](https://apps.apple.com/ca/app/yandex-key-one-time-passwords/id957324816)
+* [Yandex.Key—one-time passwords](https://apps.apple.com/ca/app/yandex-key-one-time-passwords/id957324816)
 
 ## Maps/Navigation
 
@@ -71,7 +71,7 @@ keywords: ios, ipados, apps, applications, programs
 ## Productivity
 
 * [Grammarly - Keyboard & Editor](https://apps.apple.com/ca/app/grammarly-grammar-keyboard/id1158877342) — English grammar and writing.
-* [Simplenote – Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962) — Simple notes, todos and memos.
+* [Simplenote — Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962) — Simple notes, todos and memos.
 
 ## Developer Tools
 
@@ -103,7 +103,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Shopping
 
-* [Amazon](https://apps.apple.com/ca/app/amazon/id297606951) — Search, Browse, Shop – Easy.
+* [Amazon](https://apps.apple.com/ca/app/amazon/id297606951) — Search, Browse, Shop — Easy.
 * [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498) — Augmented Reality Furnishing.
 * [IKEA](https://apps.apple.com/ca/app/ikea/id1452164827) — Inspired shopping.
 * [eBay](https://apps.apple.com/ca/app/ebay/id282614216) — Start buying and selling now.
@@ -172,21 +172,21 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Health & Fitness
 
-* [Lose It! – Calorie Counter](https://apps.apple.com/ca/app/lose-it-calorie-counter/id297368629) – Food Tracker for Weight Loss.
+* [Lose It! — Calorie Counter](https://apps.apple.com/ca/app/lose-it-calorie-counter/id297368629) — Food Tracker for Weight Loss.
 * [Tabata HIIT Interval Timer](https://apps.apple.com/ca/app/tabata-stopwatch-pro-tabata-timer-and-hiit-timer/id664563975) — TSP - Tabata Stopwatch Pro.
 
 ## Devices
 
-* [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981) – Total Control. All your music.
+* [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981) — Total Control. All your music.
 * [Amazon Alexa](https://apps.apple.com/ca/app/amazon-alexa/id944011620)
-* [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310) – Official Philips Hue app.
+* [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310) — Official Philips Hue app.
 
 ## Canada
 
 ### Travelling
 
-* [CanBorder – eDeclaration](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
-* [Air Canada + Aeroplan](https://apps.apple.com/ca/app/air-canada-aeroplan/id326459697) – Book, Fly, Aeroplan.
+* [CanBorder — eDeclaration](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
+* [Air Canada + Aeroplan](https://apps.apple.com/ca/app/air-canada-aeroplan/id326459697) — Book, Fly, Aeroplan.
 
 ### Internet
 
@@ -198,39 +198,39 @@ keywords: ios, ipados, apps, applications, programs
 
 ### Lifestyle
 
-* [Centris.ca](https://apps.apple.com/ca/app/centris-ca/id604024675) – Find Your Next Home.
+* [Centris.ca](https://apps.apple.com/ca/app/centris-ca/id604024675) — Find Your Next Home.
 
 ### Shopping
 
-* [Best Buy Canada](https://apps.apple.com/ca/app/best-buy-canada/id386960831) – Shop Online For Deals & Save.
+* [Best Buy Canada](https://apps.apple.com/ca/app/best-buy-canada/id386960831) — Shop Online For Deals & Save.
 * [AIR MILES® Reward Program](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)
-* [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520) – Shop your local marketplace.
+* [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520) — Shop your local marketplace.
 
 ### Food & Drinks
 
 * [Domino's Canada](https://apps.apple.com/ca/app/dominos-pizza-canada/id621613017)
 * [PayRange](https://apps.apple.com/ca/app/payrange/id845555232)
-* [Burger King Canada](https://apps.apple.com/ca/app/burger-king-canada/id1422864779) – Coupons & Exclusive Offers.
+* [Burger King Canada](https://apps.apple.com/ca/app/burger-king-canada/id1422864779) — Coupons & Exclusive Offers.
 * [KFC Canada](https://apps.apple.com/ca/app/kfc-canada/id653810744)
 
 ### Movies
 
-* [Cineplex Mobile](https://apps.apple.com/ca/app/cineplex-mobile/id404011384) – New and improved experience!
+* [Cineplex Mobile](https://apps.apple.com/ca/app/cineplex-mobile/id404011384) — New and improved experience!
 * [TimePlay](https://apps.apple.com/ca/app/timeplay/id462974334)
 
 ### Banking
 
-* [TD Canada](https://apps.apple.com/ca/app/td-canada/id358790776) – Bank on the go with the TD app.
-* [TD Authenticate](https://apps.apple.com/ca/app/td-authenticate/id1570439365) – Offline Two-Step Verification.
-* [RBC Mobile](https://apps.apple.com/ca/app/rbc-mobile/id407597290) – Better banking.
-* [Omni by Desjardins](https://apps.apple.com/ca/app/omni-by-desjardins/id778593359) – Desjardins group plans.
-* [Desjardins mobile services](https://apps.apple.com/ca/app/desjardins-mobile-services/id386636953) – Mobile banking simplified.
+* [TD Canada](https://apps.apple.com/ca/app/td-canada/id358790776) — Bank on the go with the TD app.
+* [TD Authenticate](https://apps.apple.com/ca/app/td-authenticate/id1570439365) — Offline Two-Step Verification.
+* [RBC Mobile](https://apps.apple.com/ca/app/rbc-mobile/id407597290) — Better banking.
+* [Omni by Desjardins](https://apps.apple.com/ca/app/omni-by-desjardins/id778593359) — Desjardins group plans.
+* [Desjardins mobile services](https://apps.apple.com/ca/app/desjardins-mobile-services/id386636953) — Mobile banking simplified.
 
 ### Health
 
 * [Manulife Mobile](https://apps.apple.com/ca/app/manulife-mobile/id1214009312)
 * [Dialogue Health](https://apps.apple.com/ca/app/dialogue-health/id1118013424)
-* [Picard & Desjardins Pharmacy](https://apps.apple.com/ca/app/picard-desjardins-pharmacy/id1552288920) – Quebec Online Pharmacy.
+* [Picard & Desjardins Pharmacy](https://apps.apple.com/ca/app/picard-desjardins-pharmacy/id1552288920) — Quebec Online Pharmacy.
 
 ### Utilities
 
@@ -239,19 +239,19 @@ keywords: ios, ipados, apps, applications, programs
 ### Shipping
 
 * [Purolator](https://apps.apple.com/ca/app/purolator/id438701193)
-* [Canada Post](https://apps.apple.com/ca/app/canada-post/id394391577) – Track and get delivery updates.
+* [Canada Post](https://apps.apple.com/ca/app/canada-post/id394391577) — Track and get delivery updates.
 
 ## Russia
 
 ### Social
 
-* [Odnoklassniki: Live messenger](https://apps.apple.com/ca/app/ok/id398465290) – Видео, музыка, мессенджер, чат.
-* [VK](https://apps.apple.com/ca/app/vk/id564177498) – Новости, чат и музыка.
+* [Odnoklassniki: Live messenger](https://apps.apple.com/ca/app/ok/id398465290) — Видео, музыка, мессенджер, чат.
+* [VK](https://apps.apple.com/ca/app/vk/id564177498) — Новости, чат и музыка.
 
 ### Maps
 
-* [Yandex.Maps & Navigator](https://apps.apple.com/ca/app/yandex-maps/id313877526) – Transport, Transit, Navigation.
-* [2GIS: Offline Map & Navigation](https://apps.apple.com/ca/app/2gis-offline-maps/id481627348) – City Routes, Traffic & Transit.
+* [Yandex.Maps & Navigator](https://apps.apple.com/ca/app/yandex-maps/id313877526) — Transport, Transit, Navigation.
+* [2GIS: Offline Map & Navigation](https://apps.apple.com/ca/app/2gis-offline-maps/id481627348) — City Routes, Traffic & Transit.
 
 ### Transport
 
@@ -265,7 +265,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ### Utils
 
-* [1Password - Password Manager](https://apps.apple.com/ca/app/1password-password-manager-and-secure-wallet/id568903335) — Generate & keep passwords safe. — 2.99 C$/month.
+* [1Password 8 - Password Manager](https://apps.apple.com/ca/app/id1511601750) — Store your passwords safely. — 2.99 C$/month.
 * [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783) — Simple unit converter. — C$1.
 * [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472) — C$2.79.
 * [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485) — Secure & Private VPN Servers. — C$5.39/month.
