@@ -11,14 +11,14 @@ keywords: git, source control
 
 ## Basics
 
-| Label                | Description                         |
-| -------------------- | ----------------------------------- |
-| `master`             | Default branch                      |
-| `origin`             | Upstream repository by default      |
-| `HEAD`               | Current branch                      |
-| `HEAD^`              | Parent branch of the current branch |
-| `HEAD~~` or `HEAD~2` | N-th parent of the current branch   |
-| `ORIG_HEAD`          | Previous state of `HEAD`            |
+| Label       | Description                                                              |
+| ----------- | ------------------------------------------------------------------------ |
+| `master`    | Default branch                                                           |
+| `origin`    | Upstream repository by default                                           |
+| `HEAD`      | Current branch                                                           |
+| `HEAD^`     | Parent branch of the current branch                                      |
+| `HEAD~[N]`  | N-th parent of the current branch. Also `HEAD~~` is the same as `HEAD~2` |
+| `ORIG_HEAD` | Previous state of `HEAD`                                                 |
 
 ## Commands
 
@@ -93,7 +93,7 @@ keywords: git, source control
 | `git log`                                | Show commit logs                                                                                                                 |
 | `git log --oneline`                      | Show logs in a one-line format with shortened commit SHAs                                                                        |
 | `git log --follow [file]`                | Continue listing the history of a `file` beyond renames                                                                          |
-| `git log --all --full-history -- [file]` | Show history for the file even if it was deleted                                                                                 |
+| `git log --all --full-history -- [file]` | Show history for a `file` even if it was deleted                                                                                 |
 | `git log -n [N]`                         | Show logs for `N` last commits                                                                                                   |
 | `git log --grep="[pattern]"`             | Limit the commits output to ones with log message<br> that matches the specified `pattern` (regular expression)                  |
 | `git log --author="[pattern]"`           | Limit the commits output to ones with author/committer<br> header lines that match the specified `pattern` (regular expression). |

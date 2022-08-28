@@ -21,3 +21,4 @@ keywords: ios, tips
 * `Cellular` → `Cellular Data Options` → enable `Low Data Mode`
 * `Wallpaper` → `Choose a New Wallpaper`
 * `Music` → `Downloads` → `Download in Dolby Atmos`
+* `Sounds & Haptics` → `Keyboard Feedback` → enable `Haptic`
