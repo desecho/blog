@@ -27,7 +27,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Internet
 
-* [Google](https://apps.apple.com/ca/app/google/id284815942) — Search made just for mobile.
+* [Google](https://apps.apple.com/ca/app/google/id284815942) — Search with images using Lens.
 * [Google Chrome](https://apps.apple.com/ca/app/chrome-web-browser-by-google/id535886823) — Fast & Secure Web Browser.
 * [Firefox: Private, Safe Browser](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926) — Fast and Secure Web Browsing.
 
@@ -67,6 +67,7 @@ keywords: ios, ipados, apps, applications, programs
 
 * [Google Maps - Transit & Food](https://apps.apple.com/ca/app/google-maps-navigation-transport/id585027354) — GPS, City Navigation & Traffic.
 * [Waze Navigation & Live Traffic](https://apps.apple.com/ca/app/waze-navigation-live-traffic/id323229106) — Avoid traffic, police, hazards.
+* [Google Earth](https://apps.apple.com/ca/app/google-earth/id293622097) — Gain a new perspective.
 
 ## Productivity
 

@@ -33,7 +33,7 @@ keywords: macos, apps, applications, programs
 
 ## Paid
 
-* [CleanMyMac](http://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — C$52.69.
+* [CleanMyMac](https://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — C$52.69.
 * [ForkLift](http://www.binarynights.com/forklift/) — The most advanced file manager and FTP + SFTP + Amazon S3 + WEBDav client for Mac OS. — C$25.8.
 * [CrossOver](http://www.codeweavers.com/products/) — Install Windows applications and PC Games on your Mac OS. — C$76.29.
 * [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) — Firewall. — C$58.19.

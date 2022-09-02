@@ -10,6 +10,8 @@ keywords: macos, tips
 
 Do not format your drive as a case-sensitive partition. You won't be able to run applications like Steam or Photoshop.
 
+[macOS Setup Guide](https://github.com/desecho/macos-setup).
+
 ## Connect to a Windows Share Network Host
 
 * Open Finder → `Go` → `Connect to Server`

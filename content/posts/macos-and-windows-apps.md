@@ -57,7 +57,6 @@ Reliable messaging.
 
 * [Dropbox](https://www.dropbox.com/) — Keep life organized and work moving—all in one place.
 * [Yandex Disk](https://disk.yandex.com/) — Store your photos for free.
-* [NordLocker](https://nordlocker.com/) — Secure your files in a click and back them up on a private cloud. Your data is always within reach. Always encrypted.
 * [OneDrive](https://www.microsoft.com/en-ca/microsoft-365/onedrive) — Save your photos and files to OneDrive and access them from any device, anywhere. Includes encryption.
 
 ## Browsers
