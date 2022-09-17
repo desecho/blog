@@ -22,6 +22,7 @@ keywords: chrome, extensions, browser
 
 * [SponsorBlock for YouTube - Skip Sponsorships](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) — Skip sponsorships, subscription begging, and more on YouTube videos. Report sponsors on videos you watch to save others' time.
 * [YouTube Like-Dislike Shortcut](https://chrome.google.com/webstore/detail/youtube-like-dislike-shor/fdkpkpelkkdkjhpacficichkfifijipc) — [Shift + +] to like, [Shift + -] to dislike. Can't get any simpler.
+* [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) — Return YouTube Dislike restores the ability to see dislikes on YouTube.
 
 ## Utils
 

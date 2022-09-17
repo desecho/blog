@@ -37,6 +37,7 @@ keywords: linux, programs, applications, apps
 ## Downloaders
 
 * [Free Download Manager](http://freedownloadmanager.org) — It's a powerful modern download accelerator and organizer for Windows, macOS, Android, and Linux.
+* [Deluge](https://deluge-torrent.org/) — Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 
 ## Utils
 

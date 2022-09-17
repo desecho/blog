@@ -120,6 +120,7 @@ keywords: ios, ipados, apps, applications, programs
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359) — [Available only in the US store].
 * [Plex: Movies, TV, Music & More](https://apps.apple.com/ca/app/plex/id383457673) — The streaming app for everyone.
 * [Global TV](https://apps.apple.com/ca/app/global-tv/id404050595) — Watch Full Episodes & Live TV.
+* [Trovo - Live Stream & Games](https://apps.apple.com/ca/app/trovo-live-stream-games/id1498583637) — Gamers Take Center Stage.
 
 ## Music
 
