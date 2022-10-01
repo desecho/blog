@@ -74,6 +74,7 @@ Reliable messaging.
 * [Kodi](https://kodi.tv/) — Kodi spawned from the love of media. It is media center and entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices. It is supported by a dedicated team of volunteers and a huge community.
 * [Twitch Desktop App](https://app.twitch.tv/) — Everything you love about Twitch plus a ton of games and mods.
 * [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you.
+* [OBS Studio](https://obsproject.com/) — Free and open source software for video recording and live streaming.
 
 ## Miscellaneous
 

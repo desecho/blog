@@ -187,7 +187,6 @@ keywords: ios, ipados, apps, applications, programs
 
 ### Travelling
 
-* [CanBorder — eDeclaration](https://apps.apple.com/ca/app/canborder-edeclaration/id1209044444)
 * [Air Canada + Aeroplan](https://apps.apple.com/ca/app/air-canada-aeroplan/id326459697) — Book, Fly, Aeroplan.
 
 ### Internet
@@ -218,7 +217,6 @@ keywords: ios, ipados, apps, applications, programs
 ### Movies
 
 * [Cineplex Mobile](https://apps.apple.com/ca/app/cineplex-mobile/id404011384) — New and improved experience!
-* [TimePlay](https://apps.apple.com/ca/app/timeplay/id462974334)
 
 ### Banking
 
@@ -248,12 +246,12 @@ keywords: ios, ipados, apps, applications, programs
 ### Social
 
 * [Odnoklassniki: Live messenger](https://apps.apple.com/ca/app/ok/id398465290) — Видео, музыка, мессенджер, чат.
-* [VK](https://apps.apple.com/ca/app/vk/id564177498) — Новости, чат и музыка.
+<!-- * [VK](https://apps.apple.com/ca/app/vk/id564177498) — Новости, чат и музыка. -->
 
 ### Maps
 
 * [Yandex.Maps & Navigator](https://apps.apple.com/ca/app/yandex-maps/id313877526) — Transport, Transit, Navigation.
-* [2GIS: Offline Map & Navigation](https://apps.apple.com/ca/app/2gis-offline-maps/id481627348) — City Routes, Traffic & Transit.
+<!-- * [2GIS: Offline Map & Navigation](https://apps.apple.com/ca/app/2gis-offline-maps/id481627348) — City Routes, Traffic & Transit. -->
 
 ### Transport
 

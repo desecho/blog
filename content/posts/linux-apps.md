@@ -29,6 +29,7 @@ keywords: linux, programs, applications, apps
 ## TV/Movies/Streaming
 
 * [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you.
+* [OBS Studio](https://obsproject.com/) — Free and open source software for video recording and live streaming.
 
 ## Notes
 
