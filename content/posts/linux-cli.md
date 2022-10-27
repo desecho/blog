@@ -53,6 +53,7 @@ keywords: linux, commands, cli
 * `touch [file]` — create an empty `file`
 * `sed -i 's/[old-text]/[new-text]/g' [file]` — replace text in a `file`
 * `sed -i '/^$/d' [file]` — remove empty lines in a `file`
+* `grep -v [text] [file] > [file2]` — remove lines containing `text` in a `file` and save to `file2`
 * `truncate -s 0 [file]` — truncate a `file` to 0 bytes
 
 ## Processes
