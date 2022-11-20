@@ -21,8 +21,8 @@ Netflix is the only streaming service that allows you to watch 4K videos on a PC
 
 Websites:
 
-* <https://www.primevideo.com/>
-* [Amazon Prime US Video Search](https://www.amazon.com/Amazon-Video/b/ref=topnav_storetab_atv?_encoding=UTF8&node=2858778011)
+- <https://www.primevideo.com/>
+- [Amazon Prime US Video Search](https://www.amazon.com/Amazon-Video/b/ref=topnav_storetab_atv?_encoding=UTF8&node=2858778011)
 
 Price — about C$6.58/month. It includes other [benefits](https://www.amazon.com/gp/help/customer/display.html?nodeId=201910360) as well.
 

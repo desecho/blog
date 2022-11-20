@@ -14,11 +14,11 @@ Download and install [Windows Update](https://www.microsoft.com/en-us/software-d
 
 #### System
 
-* `Display` → `Scale and layout` → `Change the size of text, apps, and other items` → `200%`
-* `Power & Sleep` → `Screen` → `Never`
-* `Power & Sleep` → `Sleep` → `Never`
-* `Notification & actions` → `Notifications` → `Get notifications from apps and other senders` → `Off`
-* `Storage` → `Storage Sense` → `On`
+- `Display` → `Scale and layout` → `Change the size of text, apps, and other items` → `200%`
+- `Power & Sleep` → `Screen` → `Never`
+- `Power & Sleep` → `Sleep` → `Never`
+- `Notification & actions` → `Notifications` → `Get notifications from apps and other senders` → `Off`
+- `Storage` → `Storage Sense` → `On`
 
 #### Personalization
 
@@ -30,9 +30,9 @@ Download and install [Windows Update](https://www.microsoft.com/en-us/software-d
 
 #### Misc
 
-* `Color management` → `Advanced` → `Display calibration` → `Calibrate display`
-* Right-click on the taskbar → uncheck `Show People Button`
-* Run `GeForce Experience` → `Settings` → `Desktop Notifications` → check `GeForce driver update is available`
+- `Color management` → `Advanced` → `Display calibration` → `Calibrate display`
+- Right-click on the taskbar → uncheck `Show People Button`
+- Run `GeForce Experience` → `Settings` → `Desktop Notifications` → check `GeForce driver update is available`
 
 ### Install Posy's Improved Cursors
 
@@ -44,8 +44,8 @@ Download and install [Windows Update](https://www.microsoft.com/en-us/software-d
 
 Open Settings:
 
-* `Auto connect` → `VPN protocol` → `NordLynx`
-* `Kill Switch` → `App Kill Switch` → enable, then select applications you want to kill if a VPN connection drops
+- `Auto connect` → `VPN protocol` → `NordLynx`
+- `Kill Switch` → `App Kill Switch` → enable, then select applications you want to kill if a VPN connection drops
 
 ### Google Chrome
 
@@ -57,36 +57,36 @@ Open Settings:
 
 Open `Steam` → `Settings`:
 
-* `Downloads` → `Content Libraries` → `Steam library folders` → add a library folder
-* `Downloads` → `Download Restrictions` → `Allow downloads during gameplay`
+- `Downloads` → `Content Libraries` → `Steam library folders` → add a library folder
+- `Downloads` → `Download Restrictions` → `Allow downloads during gameplay`
 
 ### Ubisoft Connect
 
 Open `Settings`:
 
-* `Downloads` → `Default game installation location` → `Change`
+- `Downloads` → `Default game installation location` → `Change`
 
 ### GOG Galaxy
 
 Open `Settings` → `Downloads`:
 
-* `Installing games` → `Game installation folder`
-* `Installing games` → `Create a shortcut on desktop` → check
-* `Bandwidth` → `While playing` → `Pause downloads when playing` → uncheck
+- `Installing games` → `Game installation folder`
+- `Installing games` → `Create a shortcut on desktop` → check
+- `Bandwidth` → `While playing` → `Pause downloads when playing` → uncheck
 
 ## Usage Tips
 
-* Open `Add or remove programs` to uninstall programs
-* Manage processes: `Task Manager` → `Processes`
-* Monitor network activity: `Task Manager` → `Performance` → select `Ethernet`
-* Press [Win + R], enter `shell:startup` to access startup
-* Press [Win + R], enter `shell:AppsFolder` to access application folder
-* To find out if your drive is an SSD drive or not, press [Win + R], enter `dfrgui`
+- Open `Add or remove programs` to uninstall programs
+- Manage processes: `Task Manager` → `Processes`
+- Monitor network activity: `Task Manager` → `Performance` → select `Ethernet`
+- Press [Win + R], enter `shell:startup` to access startup
+- Press [Win + R], enter `shell:AppsFolder` to access application folder
+- To find out if your drive is an SSD drive or not, press [Win + R], enter `dfrgui`
 
 ### Add a Custom Host
 
-* Run Notepad as administrator and open `C:\Windows\System32\drivers\etc\hosts`
-* Add a new host
+- Run Notepad as administrator and open `C:\Windows\System32\drivers\etc\hosts`
+- Add a new host
 
 ### Run System File Checker
 

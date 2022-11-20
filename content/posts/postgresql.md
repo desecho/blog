@@ -8,9 +8,9 @@ keywords: postgresql, db
 
 ## Main Commands
 
-* `\list` — show list of DBs
-* `\dt` — show tables
-* `\d+ [table]` — show database structure
+- `\list` — show list of DBs
+- `\dt` — show tables
+- `\d+ [table]` — show database structure
 
 ## Copy a DB
 
@@ -58,17 +58,17 @@ SET client_encoding = 'UTF8';
 
 ## Open Access
 
-* 192.168.0.0/24 - example of a subnet to trust
+- 192.168.0.0/24 - example of a subnet to trust
 
 ```bash
 echo 'host all all [subnet] trust' >> /etc/postgresql/9.1/main/pg_hba.conf
 ```
 
-* We need to edit `/etc/postgresql/9.1/main/postgresql.conf`, where `ip` can be `*` which means any.
+- We need to edit `/etc/postgresql/9.1/main/postgresql.conf`, where `ip` can be `*` which means any.
 
 `listen_addresses='[ip]'`
 
-* Then restart the service:
+- Then restart the service:
 
 ```bash
 service postgresql restart

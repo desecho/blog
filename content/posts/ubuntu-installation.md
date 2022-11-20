@@ -10,9 +10,9 @@ keywords: ubuntu, linux, installation
 
 How to create a bootable USB stick
 
-* [Ubuntu](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu)
-* [Windows](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows)
-* [macOS](https://ubuntu.com/tutorials/create-a-usb-stick-on-macos)
+- [Ubuntu](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu)
+- [Windows](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows)
+- [macOS](https://ubuntu.com/tutorials/create-a-usb-stick-on-macos)
 
 ## Ubuntu Installation on a VM
 

@@ -6,8 +6,8 @@ categories: Text Editing
 keywords: text editing, symbols
 ---
 
-* —
-* →
-* ←
-* ↑
-* ↓
+- —
+- →
+- ←
+- ↑
+- ↓

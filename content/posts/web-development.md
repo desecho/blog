@@ -2,10 +2,10 @@
 title: "Web Development"
 date: 2016-07-13T22:21:00
 comments: true
-categories: ['Python', 'JavaScript', 'Web Development']
+categories: ["Python", "JavaScript", "Web Development"]
 keywords: python, javascript, web development
-
 ---
+
 ## JavaScript
 
 ### jQuery
@@ -13,9 +13,9 @@ keywords: python, javascript, web development
 #### Add jQuery Through the Console
 
 ```javascript
-var jq = document.createElement('script');
+var jq = document.createElement("script");
 jq.src = "https://code.jquery.com/jquery-3.6.0.min.js";
-document.getElementsByTagName('head')[0].appendChild(jq);
+document.getElementsByTagName("head")[0].appendChild(jq);
 ```
 
 Give time for script to load, then enter
@@ -42,16 +42,16 @@ import os; os.system("kill -9 %d" % os.getpid())
 
 #### Management Commands
 
-* `dumpdata [app].[Model] --indent 2 > /[project]/src/[app]/fixtures/[data].json`
-* `collectstatic`
-* `makemigrations`
-  * `[app]` — create initial migration
-  * `--empty [app]`
-* `createsuperuser`
-* `migrate`
-  * `--fake [app] [0002]`
-  * `--fake-initial [app]`
-* `shell`
+- `dumpdata [app].[Model] --indent 2 > /[project]/src/[app]/fixtures/[data].json`
+- `collectstatic`
+- `makemigrations`
+  - `[app]` — create initial migration
+  - `--empty [app]`
+- `createsuperuser`
+- `migrate`
+  - `--fake [app] [0002]`
+  - `--fake-initial [app]`
+- `shell`
 
 #### Data Migration Example
 
@@ -170,16 +170,16 @@ Add to templates before any js code:
 If you also need access to the language in js add:
 
 ```html
-  {% get_current_language as LANGUAGE_CODE %}
-  <script>
-    var language = '{{ LANGUAGE_CODE }}';
-  </script>
+{% get_current_language as LANGUAGE_CODE %}
+<script>
+  var language = "{{ LANGUAGE_CODE }}";
+</script>
 ```
 
 To use:
 
 ```js
-gettext('this is to be translated');
+gettext("this is to be translated");
 ```
 
 Additional info in [django docs](https://docs.djangoproject.com/en/dev/topics/i18n/translation/)
@@ -205,19 +205,19 @@ pip install pytest-django
 
 [Documentation](http://pytest.org/latest/usage.html#usage)
 
-* `py.test --create-db` — with db recreate
-* `py.test --ignore=[ignore-dir]` — skip tests in `ignore-dir`
-* `py.test -k [test]` — run only `test`
+- `py.test --create-db` — with db recreate
+- `py.test --ignore=[ignore-dir]` — skip tests in `ignore-dir`
+- `py.test -k [test]` — run only `test`
 
 ## Services for Your Projects
 
-* [PyPI](https://pypi.python.org) — The Python Package Index.
-* [Read the Docs](https://readthedocs.io) — Create, host, and browse the documentation.
-* [Transifex](https://www.transifex.com/) — Manage translations, translate content, collaborate with translators, and automate your localization process from one central place.
-* [Requires.io](https://requires.io/) — Stop wasting your time by manually keeping track of changelogs. Requires.io keeps your python projects secure by monitoring their dependencies.
-* [Gitter](https://gitter.im/) — Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
-* [Sentry](https://sentry.io) — Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
-* [Say Thanks](https://saythanks.io/) — SayThanks.io provides a handy URL for you to share with your open source projects — it encourages users to send a simple thank you note to you, the creator of that project.
-* [Codecov](https://codecov.io) — Code coverage done right.
-* [Re:plain](https://replain.cc) — The simplest live chat in the world.
-* [pepy.tech](https://pepy.tech/) — A service that provides badges with a number of downloads.
+- [PyPI](https://pypi.python.org) — The Python Package Index.
+- [Read the Docs](https://readthedocs.io) — Create, host, and browse the documentation.
+- [Transifex](https://www.transifex.com/) — Manage translations, translate content, collaborate with translators, and automate your localization process from one central place.
+- [Requires.io](https://requires.io/) — Stop wasting your time by manually keeping track of changelogs. Requires.io keeps your python projects secure by monitoring their dependencies.
+- [Gitter](https://gitter.im/) — Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
+- [Sentry](https://sentry.io) — Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
+- [Say Thanks](https://saythanks.io/) — SayThanks.io provides a handy URL for you to share with your open source projects — it encourages users to send a simple thank you note to you, the creator of that project.
+- [Codecov](https://codecov.io) — Code coverage done right.
+- [Re:plain](https://replain.cc) — The simplest live chat in the world.
+- [pepy.tech](https://pepy.tech/) — A service that provides badges with a number of downloads.

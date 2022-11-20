@@ -6,8 +6,8 @@ categories: Git
 keywords: git, source control
 ---
 
-* [Git](http://git-scm.com/)
-* [Git Documentation](https://git-scm.com/doc)
+- [Git](http://git-scm.com/)
+- [Git Documentation](https://git-scm.com/doc)
 
 ## Basics
 
@@ -24,8 +24,8 @@ keywords: git, source control
 
 `Rebase`, `cherry-pick` and `merge` commands all have the following arguments:
 
-* `--continue`
-* `--abort`
+- `--continue`
+- `--abort`
 
 ### Main
 
@@ -43,13 +43,13 @@ keywords: git, source control
 
 ### Miscellaneous
 
-| Command                                                        | Description                                            |
-| -------------------------------------------------------------- | ------------------------------------------------------ |
-| `git remot­e add origi­n git@g­ithub.com:[user]/[project].git` | Set origin                                             |
-| `git rm [file]`                                                | Remove `file` from the working tree and from the index |
-| `git mv [file-original] [file-moved]`                          | Move a file                                            |
-| `git merge-base [branch1] [branch2]`                           | Find as good common ancestors as possible for a merge  |
-| `git reflog`                                                   | Manage reflog information                              |
+| Command                                                       | Description                                            |
+| ------------------------------------------------------------- | ------------------------------------------------------ |
+| `git remote add origi­n git@g­ithub.com:[user]/[project].git` | Set origin                                             |
+| `git rm [file]`                                               | Remove `file` from the working tree and from the index |
+| `git mv [file-original] [file-moved]`                         | Move a file                                            |
+| `git merge-base [branch1] [branch2]`                          | Find as good common ancestors as possible for a merge  |
+| `git reflog`                                                  | Manage reflog information                              |
 
 ### Show
 

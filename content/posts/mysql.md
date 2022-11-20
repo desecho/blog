@@ -74,7 +74,7 @@ SELECT default_character_set_name FROM information_schema.SCHEMATA WHERE schema_
 
 ```sql
 SELECT CCSA.character_set_name FROM information_schema.`TABLES` T,
-       information_schema.`COLLATION_CHARACTER_SET_APPLICABILITY` CCSA
+  information_schema.`COLLATION_CHARACTER_SET_APPLICABILITY` CCSA
 WHERE CCSA.collation_name = T.table_collation
   AND T.table_schema = "[db]"
   AND T.table_name = "[table]";

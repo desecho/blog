@@ -40,6 +40,10 @@ jobs:
           make install-linters-binaries
           sudo npm install -g markdownlint-cli prettier
 
+      # It is important not to change the name of this step
+      - name: pre-commit-ci-lite
+        uses: pre-commit-ci/lite-action@v1.0.0
+
       - name: Run linters
         run: make lint
   build:

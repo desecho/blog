@@ -60,6 +60,18 @@ install:
 	tar -xvf hugo.tar.gz && \
 	sudo mv ./hugo ${BIN_DIR}/
 
+.PHONY: install-pre-commit
+## Install pre-commit
+install-pre-commit:
+	$(call print,Installing pre-commit)
+	@sudo pip3 install pre-commit
+
+.PHONY: setup-pre-commit
+## Set up pre-commit. Activate git hooks
+set-up-pre-commit:
+	$(call print,Setting up pre-commit)
+	@pre-commit install
+
 .PHONY: uninstall
 ## Uninstall hugo
 uninstall:
@@ -96,21 +108,14 @@ update-minimal:
 ## Run linters
 lint:
 	$(call print,Running linters)
-	@shfmt -l -d .
-	@shellcheck scripts/*.sh
-	@markdownlint README.md "content/posts/*.md"
 	@rst-lint README.rst
-	@prettier --check ./.github/**/*.yaml ./**/*.yaml
-	@hadolint Dockerfile
 	@actionlint
 
-.PHONY: format
-## Format files
-format:
-	$(call print,Formatting)
-	@shfmt -l -w .
-	@markdownlint README.md "content/posts/*.md" --fix
-	@prettier --write ./.github/**/*.yaml ./**/*.yaml
+.PHONY: lint-pre-commit
+## Run pre-commit for all files
+lint-pre-commit:
+	$(call print,Running pre-commit)
+	@pre-commit run --all-files
 
 .PHONY: find-broken-links
 ## Find broken links
@@ -123,10 +128,10 @@ find-broken-links:
 # Hugo Commands
 #------------------------------------
 ifeq (new-post,$(firstword $(MAKECMDGOALS)))
-  # Use the rest as arguments
-  NEW_POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
-  # Turn them into do-nothing targets
-  $(eval $(NEW_POST_ARGS):;@:)
+	# Use the rest as arguments
+	NEW_POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+	# Turn them into do-nothing targets
+	$(eval $(NEW_POST_ARGS):;@:)
 endif
 
 .PHONY: new-post
@@ -136,10 +141,10 @@ new-post:
 	@scripts/new_post.sh ${NEW_POST_ARGS}
 
 ifeq (post,$(firstword $(MAKECMDGOALS)))
-  # Use the rest as arguments
-  POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
-  # Turn them into do-nothing targets
-  $(eval $(POST_ARGS):;@:)
+	# Use the rest as arguments
+	POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+	# Turn them into do-nothing targets
+	$(eval $(POST_ARGS):;@:)
 endif
 
 .PHONY: post

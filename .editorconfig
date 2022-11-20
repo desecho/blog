@@ -7,17 +7,27 @@ charset = utf-8
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
-indent_style = space
-indent_size = 4
+max_line_length = 120
 
 [*.sh]
-shell_variant = bash
-switch_case_indent = true
-space_redirects = true
-
-[*.{css,html,js,json,less,scss,yml,yaml,md}]
+indent_style = space
 indent_size = 2
-max_line_length = 119
+# shfmt options
+binary_next_line = true
+switch_case_indent = true
+space_redirects = false
+keep_padding = false
+function_next_line = false
+
+[*.{css,html,js,json,less,scss,yml,yaml}]
+indent_style = space
+indent_size = 2
 
 [Makefile]
 indent_style = tab
+max_line_length = 180
+
+[*.md]
+indent_style = space
+indent_size = 2
+max_line_length = off
