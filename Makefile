@@ -110,11 +110,6 @@ lint:
 	$(call print,Running linters)
 	@rst-lint README.rst
 	@actionlint
-
-.PHONY: lint-pre-commit
-## Run pre-commit for all files
-lint-pre-commit:
-	$(call print,Running pre-commit)
 	@pre-commit run --all-files
 
 .PHONY: find-broken-links
