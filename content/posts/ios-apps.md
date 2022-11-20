@@ -120,6 +120,7 @@ keywords: ios, apps, applications, programs
 ### Banking
 
 * [RBC Launch](https://apps.apple.com/ca/app/rbc-wallet/id1022830198) — Simplifying your finances.
+* [Avion Rewards](https://apps.apple.com/ca/app/avion-rewards/id1132694061) — Shop. Earn. Redeem. Save.
 
 ### Health
 

@@ -56,6 +56,11 @@ keywords: linux, commands, cli
 * `grep -v [text] [file] > [file2]` — remove lines containing `text` in a `file` and save to `file2`
 * `truncate -s 0 [file]` — truncate a `file` to 0 bytes
 
+## Text
+
+* `echo [text]` — print `text`
+* `echo [text] | awk '{ print $1 }'` — print first column of `text`
+
 ## Processes
 
 * `ps` — show running processes
@@ -173,7 +178,6 @@ For all of the `chrgrp` and `chown` commands below: `-r` — recursive change.
 * `date` — show current date and time
   * `date [format]` — show date in a specified `format`. Format can be `+%d-%m-%Y` for example
   * `date -d "yesterday"` — get yesterday's day
-* `echo [text]` — print `text`
 * `time [program]` — show how long a `program` is running
 * `sleep [x]` — wait for `x` seconds
 * `pwgen -ys 15 1` — generate password
@@ -182,3 +186,4 @@ For all of the `chrgrp` and `chown` commands below: `-r` — recursive change.
 * `ssh [user]@[ip]` — connect to an `ip` with `user` through SSH
   * `-i [key]` — connect with `key`
 * `timedatectl` — find the current time sync status
+* `[command] 2>[file]` — redirect error output to `file`. Example - `file` = `/dev/null`

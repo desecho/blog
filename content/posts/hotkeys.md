@@ -140,7 +140,7 @@ keywords: hotkeys
 | [Ctrl + D]          | Add selection to next Find match       |
 | [Ctrl + F]          | Find                                   |
 | [Ctrl + H]          | Replace                                |
-| [Alt + Enter]       | Select all occurences of Find match    |
+| [Alt + Enter]       | Select all occurrences of Find match   |
 | [Ctrl + K Ctrl + D] | Move last selection to next Find match |
 | [Alt + C/R/W]       | Toggle case-sensitive/regex/whole word |
 | [F3/Shift + F3]     | Find next/previous                     |
@@ -169,6 +169,7 @@ keywords: hotkeys
 | [Ctrl + Shift + F] | Show Search                |
 | [Ctrl + Shift + E] | Show Explorer/Toggle focus |
 | [Ctrl + B]         | Toggle Sidebar visibility  |
+| [Ctrl + K Z]       | Zen Mode (Esc Esc to exit) |
 
 ### Sublime Text
 
