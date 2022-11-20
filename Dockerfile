@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN apk add --no-cache --virtual .build-deps make sudo && \
+RUN apk add --no-cache --virtual .build-deps make=4.3-r0 sudo=1.9.12-r1 && \
     make install && \
     hugo -s . && \
     make uninstall && \
