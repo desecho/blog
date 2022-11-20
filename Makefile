@@ -11,28 +11,42 @@ include makefiles/macros.mk
 BIN_DIR := /usr/local/bin
 
 SHFMT_VERSION := 3.4.3
-SHFMT_PATH    := ${BIN_DIR}/shfmt
+SHFMT_PATH    := $(BIN_DIR)/shfmt
 
 .PHONY: install-shfmt
 ## Install shfmt | Installation
 install-shfmt:
 	$(call print,Installing shfmt)
-	@sudo curl https://github.com/mvdan/sh/releases/download/v${SHFMT_VERSION}/shfmt_v${SHFMT_VERSION}_linux_amd64 -Lo ${SHFMT_PATH}
-	@sudo chmod +x ${SHFMT_PATH}
+	@sudo curl https://github.com/mvdan/sh/releases/download/v$(SHFMT_VERSION)/shfmt_v$(SHFMT_VERSION)_linux_amd64 -Lo $(SHFMT_PATH)
+	@sudo chmod +x $(SHFMT_PATH)
+
+SHELLCHECK_VERSION := 0.8.0
+SHELLCHECK_PATH    := $(BIN_DIR)/shellcheck
+SHELLCHECK_TMP_DIR := $(shell mktemp -d)
+SHELLCHECK_ARCHIVE := shellcheck.tar.xz
+
+.PHONY: install-shellcheck
+## Install shellcheck
+install-shellcheck:
+	$(call print,Installing shellcheck)
+	@cd $(SHELLCHECK_TMP_DIR) \
+		&& curl https://github.com/koalaman/shellcheck/releases/download/v$(SHELLCHECK_VERSION)/shellcheck-v$(SHELLCHECK_VERSION).linux.x86_64.tar.xz -Lo $(SHELLCHECK_ARCHIVE) \
+		&& tar -xf $(SHELLCHECK_ARCHIVE) \
+		&& sudo cp shellcheck-v$(SHELLCHECK_VERSION)/shellcheck $(SHELLCHECK_PATH)
 
 HADOLINT_VERSION := 2.10.0
-HADOLINT_PATH    := ${BIN_DIR}/hadolint
+HADOLINT_PATH    := $(BIN_DIR)/hadolint
 
 .PHONY: install-hadolint
 ## Install hadolint
 install-hadolint:
 	$(call print,Installing hadolint)
-	@sudo curl https://github.com/hadolint/hadolint/releases/download/v${HADOLINT_VERSION}/hadolint-Linux-x86_64 -Lo ${HADOLINT_PATH}
-	@sudo chmod +x ${HADOLINT_PATH}
+	@sudo curl https://github.com/hadolint/hadolint/releases/download/v$(HADOLINT_VERSION)/hadolint-Linux-x86_64 -Lo $(HADOLINT_PATH)
+	@sudo chmod +x $(HADOLINT_PATH)
 
 ACTIONLINT_VERSION := 1.6.13
-ACTIONLINT_PATH    := ${BIN_DIR}/actionlint
-ACTIONLINT_URL     := https://github.com/rhysd/actionlint/releases/download/v${ACTIONLINT_VERSION}/actionlint_${ACTIONLINT_VERSION}_linux_amd64.tar.gz
+ACTIONLINT_PATH    := $(BIN_DIR)/actionlint
+ACTIONLINT_URL     := https://github.com/rhysd/actionlint/releases/download/v$(ACTIONLINT_VERSION)/actionlint_$(ACTIONLINT_VERSION)_linux_amd64.tar.gz
 ACTIONLINT_TMP_DIR := $(shell mktemp -d)
 ACTIONLINT_ARCHIVE := actionlint.tar.gz
 
@@ -40,14 +54,14 @@ ACTIONLINT_ARCHIVE := actionlint.tar.gz
 ## Install actionlint
 install-actionlint:
 	$(call print,Installing actionlint)
-	@cd ${ACTIONLINT_TMP_DIR} && \
-	curl ${ACTIONLINT_URL} -Lo ${ACTIONLINT_ARCHIVE} && \
-	tar -xvf ${ACTIONLINT_ARCHIVE} && \
-	sudo mv actionlint ${ACTIONLINT_PATH}
+	@cd $(ACTIONLINT_TMP_DIR) \
+		&& curl $(ACTIONLINT_URL) -Lo $(ACTIONLINT_ARCHIVE) \
+		&& tar -xvf $(ACTIONLINT_ARCHIVE) \
+		&& sudo mv actionlint $(ACTIONLINT_PATH)
 
 .PHONY: install-linters-binaries
 ## Install linters binaries
-install-linters-binaries: install-shfmt install-hadolint install-actionlint
+install-linters-binaries: install-shfmt install-hadolint install-actionlint install-shellcheck
 
 HUGO_VERSION=0.97.0
 
@@ -58,7 +72,7 @@ install:
 	@cd /tmp && \
 	wget https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz -O hugo.tar.gz && \
 	tar -xvf hugo.tar.gz && \
-	sudo mv ./hugo ${BIN_DIR}/
+	sudo mv ./hugo $(BIN_DIR)/
 
 .PHONY: install-pre-commit
 ## Install pre-commit
@@ -76,7 +90,7 @@ set-up-pre-commit:
 ## Uninstall hugo
 uninstall:
 	$(call print,Uninstalling Hugo)
-	@sudo rm ${BIN_DIR}/hugo
+	@sudo rm $(BIN_DIR)/hugo
 
 .PHONY: init-submodule
 ## Initialize git submodule
@@ -132,8 +146,8 @@ endif
 .PHONY: new-post
 ## Create a new post. Usage: [post_name] | Hugo
 new-post:
-	$(call print,Creating new post `${NEW_POST_ARGS}`)
-	@scripts/new_post.sh ${NEW_POST_ARGS}
+	$(call print,Creating new post `$(NEW_POST_ARGS)`)
+	@scripts/new_post.sh $(NEW_POST_ARGS)
 
 ifeq (post,$(firstword $(MAKECMDGOALS)))
 	# Use the rest as arguments
@@ -145,8 +159,8 @@ endif
 .PHONY: post
 ## Create a new post. Usage: [post_name]. (Alias for new-post)
 post:
-	$(call print,Creating new post `${POST_ARGS}`)
-	@scripts/new_post.sh ${POST_ARGS}
+	$(call print,Creating new post `$(POST_ARGS)`)
+	@scripts/new_post.sh $(POST_ARGS)
 
 .PHONY: preview
 ## Preview

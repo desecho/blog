@@ -36,7 +36,7 @@ jobs:
 
       - name: Install linters
         run: |
-          pip install restructuredtext_lint
+          pip install restructuredtext-lint
           make install-pre-commit
           make install-linters-binaries
 
