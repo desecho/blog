@@ -18,8 +18,6 @@ repos:
       - id: check-symlinks
       - id: destroyed-symlinks
       - id: forbid-new-submodules
-      # This is not available yet. See https://github.com/pre-commit/pre-commit-hooks/issues/835
-      # - id: forbid-submodules
       - id: mixed-line-ending
 
   - repo: https://github.com/jumanjihouse/pre-commit-hooks
@@ -32,7 +30,7 @@ repos:
     rev: v0.0.17
     hooks:
       - id: shfmt
-        args: [-bn, -ci, -l, -w, -i, "4"]
+        args: [-bn, -ci, -l, -w, -i, "2"]
         types: [file]
         files: ^scripts/.*\.sh$$
 

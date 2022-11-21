@@ -5,6 +5,14 @@ include makefiles/help.mk
 include makefiles/macros.mk
 
 #------------------------------------
+# Helpers
+#------------------------------------
+
+.PHONY: pre-commit
+.pre-commit:
+	@pre-commit run --all-files
+
+#------------------------------------
 # Installation
 #------------------------------------
 
@@ -118,13 +126,17 @@ update-minimal:
 	$(call print,Updating Minimal theme)
 	@git submodule update --remote themes/minimal
 
+.PHONY: format
+## Format files
+format: .pre-commit
+	$(call print,Formatting files)
+
 .PHONY: lint
 ## Run linters
-lint:
+lint: .pre-commit
 	$(call print,Running linters)
 	@rst-lint README.rst
 	@actionlint
-	@pre-commit run --all-files
 
 .PHONY: find-broken-links
 ## Find broken links
