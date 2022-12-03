@@ -207,6 +207,7 @@ keywords: ios, ipados, apps, applications, programs
 - [Best Buy Canada](https://apps.apple.com/ca/app/best-buy-canada/id386960831) — Shop Online For Deals & Save.
 - [AIR MILES® Reward Program](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)
 - [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520) — Shop your local marketplace.
+- [Canadian Tire: Shop Smarter](https://apps.apple.com/ca/app/canadian-tire-shop-smarter/id403884878) — Shop & Get Canadian Tire Money.
 
 ### Food & Drinks
 
