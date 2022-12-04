@@ -8,7 +8,13 @@ keywords: ios, apps, applications, programs
 
 Apps marked with `*` are to be installed on the device initially.
 
+## Gaming
+
+- [PLINK – Team Up, Chat, Play](https://apps.apple.com/ca/app/plink-team-up-chat-play/id1306783602)\* — Find Teammates for any Game.
+
 ## Weather
+
+<!-- This app is also available on the iPadOS but is a totally different app. -->
 
 - [The Weather Network](https://apps.apple.com/ca/app/the-weather-network/id473299958)\* — Detailed Weather Forecast.
 
@@ -51,7 +57,7 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [CamScanner: PDF Scanner App](https://apps.apple.com/ca/app/camscanner-free-pdf-document-scanner-and-ocr/id388627783)\* — Document Scan & Edit with OCR.
 
-## Utilities
+## Utils
 
 - [Speedtest by Ookla](https://apps.apple.com/ca/app/speedtest-by-ookla/id300704847)\* — 34 billion tests and counting.
 - [Truecaller](https://apps.apple.com/ca/app/truecaller/id448142450)\* — Identify Spam + Search Numbers.
@@ -86,6 +92,10 @@ Apps marked with `*` are to be installed on the device initially.
 
 ## Canada
 
+### Utilities
+
+- [Bell Wi-Fi](https://apps.apple.com/ca/app/bell-wi-fi/id1294709587)\*
+
 ### Travelling
 
 - [ArriveCAN](https://apps.apple.com/ca/app/arrivecan/id1505394667)\*
@@ -116,6 +126,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)\*
 - [Wendy’s Canada](https://apps.apple.com/ca/app/my-wendys/id540518599)\* — Hamburgers, Offers, & Pay.
 - [A&W](https://apps.apple.com/ca/app/a-w/id1236416092)\* — Mobile order & pay.
+- [Second Cup Café Rewards](https://apps.apple.com/ca/app/second-cup-caf%C3%A9-rewards/id985820057)\*
 
 ### Banking
 
