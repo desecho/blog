@@ -26,28 +26,11 @@ keywords: windows, apps, applications, programs, macos
 - [AnyDesk](https://anydesk.com/) — Remote desktop.
 - [muCommander](https://www.mucommander.com/) — The easy to use file manager.
 
-## Notes
-
-- [Simplenote](https://simplenote.com/) — The simplest way to keep notes.
-
-## Editors
-
-- [Sublime Text](https://www.sublimetext.com/) — Text Editing, Done Right.
-- [VS Code](https://code.visualstudio.com/) — Code editing. Redefined.
-- [Apache OpenOffice](https://www.openoffice.org/download/index.html) — Compatible with other major office suites.
-
 ## Communication
 
-- [Jami](https://jami.net/) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
-- [Discord](https://discord.com/) — Imaging a place where you can belong to a school club, a gaming group, or a worldwide art community. Where just you and a handful of friends can spend time together. A place that makes it easy to talk every day and hang out more often.
-- [Telegram Desktop](https://desktop.telegram.org/) — Fast and secure desktop app, perfectly synced with your mobile phone.
 - [WhatsApp](https://www.whatsapp.com/) — Simple. Secure.
   Reliable messaging.
 - [Messenger](https://www.messenger.com/desktop) — A simple app that lets you text, video chat, and stay close with people you care about.
-- [Skype](https://www.skype.com/en/) — Preserving the connections that matter most with Skype.
-- [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software) — Meet, chat, call, and collaborate in just one place.
-- [Slack](https://slack.com/) — With the Slack app, your team is never more than a click away.
-- [VK Messenger](https://vk.com/landings/desktop_messenger)
 
 ## Music
 
@@ -62,19 +45,11 @@ keywords: windows, apps, applications, programs, macos
 ## Browsers
 
 - [Chrome](https://www.google.com/intl/en/chrome/browser/) — The browser built by Google.
-- [Firefox](http://www.mozilla.org/en-US/firefox/new/) — Get the browser that protects what’s important. No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
-
-## Downloaders
-
-- [Free Download Manager](http://freedownloadmanager.org) — It's a powerful modern download accelerator and organizer for Windows, macOS, Android, and Linux.
-- [Deluge](https://deluge-torrent.org/) — Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 
 ## TV/Movies/Streaming
 
 - [Kodi](https://kodi.tv/) — Kodi spawned from the love of media. It is media center and entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices. It is supported by a dedicated team of volunteers and a huge community.
 - [Twitch Desktop App](https://app.twitch.tv/) — Everything you love about Twitch plus a ton of games and mods.
-- [Plex](https://www.plex.tv/) — Plex brings together all the media that matters to you.
-- [OBS Studio](https://obsproject.com/) — Free and open source software for video recording and live streaming.
 
 ## Miscellaneous
 

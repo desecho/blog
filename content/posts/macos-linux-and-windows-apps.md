@@ -1,30 +1,36 @@
 ---
-title: "Linux Apps"
-date: 2019-05-18T22:13:39-04:00
+title: "macOS, Linux & Windows Apps"
+date: 2022-12-04T02:00:09-05:00
 comments: true
-categories: Linux
-keywords: linux, programs, applications, apps
+categories: ["macOS", "Linux", "Windows"]
+keywords: windows, apps, applications, programs, macos, linux
 ---
+
+## Browsers
+
+- [Firefox](http://www.mozilla.org/en-US/firefox/new/) — Get the browser that protects what’s important. No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
+- [Brave](https://brave.com/download/) — The new Brave browser blocks ads and trackers that slow you down and invade your privacy. Discover a new way of thinking about how the web can work.
 
 ## Editors
 
 - [Sublime Text](https://www.sublimetext.com/) — Text Editing, Done Right.
 - [VS Code](https://code.visualstudio.com/) — Code editing. Redefined.
-- [Apache OpenOffice](https://www.openoffice.org/) — Compatible with other major office suites.
-
-## Browsers
-
-- [Firefox](http://www.mozilla.org/en-US/firefox/new/) — Get the browser that protects what’s important. No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
+- [Apache OpenOffice](https://www.openoffice.org/download/index.html) — Compatible with other major office suites.
 
 ## Communication
 
 - [Jami](https://jami.net/) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
 - [Discord](https://discord.com/) — Imaging a place where you can belong to a school club, a gaming group, or a worldwide art community. Where just you and a handful of friends can spend time together. A place that makes it easy to talk every day and hang out more often.
 - [Telegram Desktop](https://desktop.telegram.org/) — Fast and secure desktop app, perfectly synced with your mobile phone.
-- [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software) — Meet, chat, call, and collaborate in just one place.
-- [Slack](https://slack.com) — With the Slack app, your team is never more than a click away.
 - [Skype](https://www.skype.com/en/) — Preserving the connections that matter most with Skype.
+- [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software) — Meet, chat, call, and collaborate in just one place.
+- [Slack](https://slack.com/) — With the Slack app, your team is never more than a click away.
 - [VK Messenger](https://vk.com/landings/desktop_messenger)
+
+## Utils
+
+- [AnyDesk](https://anydesk.com/) — Remote desktop.
+- [muCommander](https://www.mucommander.com/) — The easy to use file manager.
 
 ## TV/Movies/Streaming
 

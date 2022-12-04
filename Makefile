@@ -149,23 +149,23 @@ find-broken-links:
 # Hugo Commands
 #------------------------------------
 ifeq (new-post,$(firstword $(MAKECMDGOALS)))
-	# Use the rest as arguments
-	NEW_POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
-	# Turn them into do-nothing targets
-	$(eval $(NEW_POST_ARGS):;@:)
+# Use the rest as arguments
+NEW_POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+# Turn them into do-nothing targets
+$(eval $(NEW_POST_ARGS):;@:)
 endif
 
 .PHONY: new-post
 ## Create a new post. Usage: [post_name] | Hugo
 new-post:
 	$(call print,Creating new post `$(NEW_POST_ARGS)`)
-	@scripts/new_post.sh $(NEW_POST_ARGS)
+	scripts/new_post.sh $(NEW_POST_ARGS)
 
 ifeq (post,$(firstword $(MAKECMDGOALS)))
-	# Use the rest as arguments
-	POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
-	# Turn them into do-nothing targets
-	$(eval $(POST_ARGS):;@:)
+# Use the rest as arguments
+POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+# Turn them into do-nothing targets
+$(eval $(POST_ARGS):;@:)
 endif
 
 .PHONY: post

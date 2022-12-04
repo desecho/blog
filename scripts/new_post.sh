@@ -3,7 +3,7 @@ set -Eeuo pipefail
 IFS=$'\n\t'
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
-cd "${DIR}"
+cd "${DIR}/.."
 
 post_name=$1
 post_file_name=${post_name}.md
