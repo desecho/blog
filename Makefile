@@ -15,6 +15,8 @@ include makefiles/helpers.mk
 ## Install linters binaries | Installation
 install-linters-binaries: .install-shfmt .install-hadolint .install-actionlint .install-shellcheck
 
+# hugo
+# https://github.com/gohugoio/hugo/releases
 HUGO_VERSION := 0.107.0
 
 .PHONY: install
@@ -25,20 +27,6 @@ install:
 	wget https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz -O hugo.tar.gz && \
 	tar -xvf hugo.tar.gz && \
 	sudo mv ./hugo $(BIN_DIR)/
-
-PRE_COMMIT_VERSION := 2.20.0
-
-.PHONY: install-pre-commit
-## Install pre-commit
-install-pre-commit:
-	$(call print,Installing pre-commit)
-	sudo pip3 install pre-commit==$(PRE_COMMIT_VERSION)
-
-.PHONY: setup-pre-commit
-## Set up pre-commit. Activate git hooks
-set-up-pre-commit:
-	$(call print,Setting up pre-commit)
-	pre-commit install
 
 .PHONY: uninstall
 ## Uninstall hugo
@@ -61,6 +49,22 @@ update-submodule:
 .PHONY: bootstrap
 ## Bootstrap
 bootstrap: install init-submodule update-submodule
+
+# pre-commit
+# https://pypi.org/project/pre-commit/
+PRE_COMMIT_VERSION := 2.20.0
+
+.PHONY: install-pre-commit
+## Install pre-commit
+install-pre-commit:
+	$(call print,Installing pre-commit)
+	sudo pip3 install pre-commit==$(PRE_COMMIT_VERSION)
+
+.PHONY: setup-pre-commit
+## Set up pre-commit. Activate git hooks
+set-up-pre-commit:
+	$(call print,Setting up pre-commit)
+	pre-commit install
 
 #------------------------------------
 
@@ -95,7 +99,7 @@ find-broken-links:
 #------------------------------------
 
 #------------------------------------
-# Hugo Commands
+# Hugo
 #------------------------------------
 
 ifeq (new-post,$(firstword $(MAKECMDGOALS)))
@@ -137,7 +141,7 @@ run: preview
 #------------------------------------
 
 #------------------------------------
-# Docker commands
+# Docker
 #------------------------------------
 
 .PHONY: docker-build
@@ -164,6 +168,7 @@ docker-sh:
 # Scripts
 #------------------------------------
 
+# Used in the CI.
 .PHONY: flush-cdn-cache
 flush-cdn-cache:
 	$(call print,Running flush CDN cache script)
