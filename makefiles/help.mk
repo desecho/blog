@@ -1,11 +1,11 @@
-TARGET_MAX_CHAR_NUM := 25
+TARGET_MAX_CHAR_NUM := 30
 
 .PHONY: help
 ## Show help | Help
 help:
 	echo ''
 	echo 'Usage:'
-	printf "  ${YELLOW}make${RESET} ${GREEN}<target>${RESET}"
+	printf "  $(YELLOW)make$(RESET) $(GREEN)<target>$(RESET)"
 	echo ''
 	echo ''
 	echo 'Targets:'
@@ -21,7 +21,7 @@ help:
 			if (index(lastLine, "|") != 0) { \
 				helpMessage = substr(helpMessage, 0, index(helpMessage, "|")-1); \
 			} \
-			printf "    ${YELLOW}%-$(TARGET_MAX_CHAR_NUM)s${RESET} ${GREEN}%s${RESET}\n", helpCommand, helpMessage; \
+			printf "    $(YELLOW)%-$(TARGET_MAX_CHAR_NUM)s$(RESET) $(GREEN)%s$(RESET)\n", helpCommand, helpMessage; \
 		} \
 	} \
 	{ lastLine = $$0 }' $(MAKEFILE_LIST)

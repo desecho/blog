@@ -15,7 +15,7 @@ include makefiles/helpers.mk
 ## Install linters binaries | Installation
 install-linters-binaries: .install-shfmt .install-hadolint .install-actionlint .install-shellcheck
 
-HUGO_VERSION=0.97.0
+HUGO_VERSION=0.107.0
 
 .PHONY: install
 ## Install hugo
