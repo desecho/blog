@@ -47,12 +47,12 @@ Cron jobs
 ----------------------------
 Cron jobs are run with `GitHub Actions`_. Time zone is UTC.
 
-- ``Find broken links`` runs at 04:00 UTC (00:00 EDT) on the first day of the month.
+- ``Find broken links`` runs at 04:00 UTC (00:00 EDT) on the first day of the month
 - ``Update GitHub actions`` runs at 04:00 UTC (00:00 EDT) on the first day of the month
 
 Fonts used
 ----------------------------
-* Orbitron_ for logo.
+* Orbitron_ for logo
 
 .. |Deployment Status| image:: https://github.com/desecho/blog/actions/workflows/deployment.yaml/badge.svg
    :target: https://github.com/desecho/blog/actions/workflows/deployment.yaml
