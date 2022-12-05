@@ -58,11 +58,13 @@ update-submodule:
 .PHONY: bootstrap
 ## Bootstrap
 bootstrap: install init-submodule update-submodule
+
 #------------------------------------
 
 #------------------------------------
 # Commands
 #------------------------------------
+
 .PHONY: update-minimal
 ## Update Minimal theme | Commands
 update-minimal:
@@ -86,11 +88,13 @@ lint: .pre-commit
 find-broken-links:
 	$(call print,Finding broken links)
 	@markdown-link-check content/posts/*.md -c .markdown-link-check.json -p
+
 #------------------------------------
 
 #------------------------------------
 # Hugo Commands
 #------------------------------------
+
 ifeq (new-post,$(firstword $(MAKECMDGOALS)))
 # Use the rest as arguments
 NEW_POST_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
@@ -126,11 +130,13 @@ preview:
 .PHONY: run
 ## Preview (preview alias)
 run: preview
+
 #------------------------------------
 
 #------------------------------------
 # Docker commands
 #------------------------------------
+
 .PHONY: docker-build
 ## Run docker build | Docker
 docker-build:
@@ -148,13 +154,16 @@ docker-run:
 docker-sh:
 	$(call print,Running docker shell)
 	@docker run -ti blog sh
+
 #------------------------------------
 
 #------------------------------------
 # Scripts
 #------------------------------------
+
 .PHONY: flush-cdn-cache
 flush-cdn-cache:
 	$(call print,Running flush CDN cache script)
 	@scripts/flush_cdn_cache.sh
+
 #------------------------------------
