@@ -14,6 +14,17 @@ sudo Xvfb :10 -ac
 export DISPLAY=:10
 ```
 
+## Tmux
+
+```bash
+# Create new session
+tmux new -s [session-name]
+# List session
+tmux ls
+# Attach session
+tmux attach-session -t [session-number/session-name]
+```
+
 ## Install telnet on Alpine
 
 ```bash
@@ -59,12 +70,6 @@ pkexec visudo
 ```
 
 ## Bash
-
-### Make it so that the Script will always run Commands from the Directory the Script is in
-
-```bash
-cd "$(dirname "$0")"
-```
 
 ### A Good Way to Start a Bash Script
 
