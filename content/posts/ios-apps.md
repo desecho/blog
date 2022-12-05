@@ -31,6 +31,8 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [Nike Run Club](https://apps.apple.com/ca/app/nike-run-club/id387771637) — Running Tracker & Coaching.
 - [Sleep Watch by Bodymatter](https://apps.apple.com/ca/app/sleep-watch-by-bodymatter/id1138066420) — Auto Sleep Tracker.
+- [Qardio heart health](https://apps.apple.com/ca/app/qardio-heart-health/id855275752)\* — Blood pressure, weight, ECG.
+- [AllTrails: Hike, Bike & Run](https://apps.apple.com/ca/app/alltrails-hike-bike-run/id405075943)\* — GPS Hiking & Biking Trail Maps.
 
 ## Lifestyle
 
@@ -63,14 +65,9 @@ Apps marked with `*` are to be installed on the device initially.
 - [Truecaller](https://apps.apple.com/ca/app/truecaller/id448142450)\* — Identify Spam + Search Numbers.
 - [View Source](https://apps.apple.com/ca/app/view-source/id1041817284)
 
-## Devices
+## TV
 
-- [Qardio heart health](https://apps.apple.com/ca/app/qardio-heart-health/id855275752)\* — Blood pressure, weight, ECG.
 - [LG ThinQ](https://apps.apple.com/ca/app/lg-thinq/id993504342)\*
-
-## Hiking
-
-- [AllTrails: Hike, Bike & Run](https://apps.apple.com/ca/app/alltrails-hike-bike-run/id405075943)\* — GPS Hiking & Biking Trail Maps.
 
 ## Food & Drinks
 
@@ -121,8 +118,6 @@ Apps marked with `*` are to be installed on the device initially.
 
 ### Food & Drinks
 
-- [Société des alcools du Québec](https://apps.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661)\* — SAQ.
-- [Tim Hortons](https://apps.apple.com/ca/app/tim-hortons/id1143883086)\* — Order, pay, and earn rewards.
 - [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)\*
 - [Wendy’s Canada](https://apps.apple.com/ca/app/my-wendys/id540518599)\* — Hamburgers, Offers, & Pay.
 - [A&W](https://apps.apple.com/ca/app/a-w/id1236416092)\* — Mobile order & pay.
@@ -142,6 +137,12 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [Yandex Go — taxi and delivery](https://apps.apple.com/ca/app/yandex-taxi/id472650686) — App to order taxi or delivery.
 
+### Food & Drinks
+
+- [Yandex Eats: food delivery](https://apps.apple.com/ca/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B5%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1078986931) — Order pizza, sushi, groceries.
+
 ## Paid
+
+### Health & Fitness
 
 - [AutoSleep Track Sleep on Watch](https://apps.apple.com/ca/app/autosleep-track-sleep-on-watch/id1164801111)\* — Auto Sleep Tracker & Alarm. — C$5.49.

@@ -6,6 +6,8 @@ categories: iPadOS
 keywords: ipados, apps, applications, programs
 ---
 
+Apps marked with `*` are to be installed on the device initially.
+
 ## Utils
 
 - [Calculator Air](https://apps.apple.com/ca/app/calculator-irocks/id1173365557)\* — Scientific math calculator.

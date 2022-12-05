@@ -6,6 +6,8 @@ categories: ["iOS", "iPadOS"]
 keywords: ios, ipados, apps, applications, programs
 ---
 
+Apps marked with `*` are to be installed on the device initially.
+
 ## Gaming
 
 - [Steam Mobile](https://apps.apple.com/ca/app/steam-mobile/id495369748)\*iOS
@@ -219,6 +221,8 @@ keywords: ios, ipados, apps, applications, programs
 
 ### Food & Drinks
 
+- [Société des alcools du Québec](https://apps.apple.com/ca/app/saq-soci%C3%A9t%C3%A9-des-alcools-du-qu%C3%A9bec/id382431661)\* — SAQ.
+- [Tim Hortons](https://apps.apple.com/ca/app/tim-hortons/id1143883086)\* — Order, pay, and earn rewards.
 - [Domino's Canada](https://apps.apple.com/ca/app/dominos-pizza-canada/id621613017)\*
 - [PayRange](https://apps.apple.com/ca/app/payrange/id845555232)\*iOS
 - [Burger King Canada](https://apps.apple.com/ca/app/burger-king-canada/id1422864779)\* — Coupons & Exclusive Offers.
@@ -270,10 +274,6 @@ keywords: ios, ipados, apps, applications, programs
 
 - [Yandex.Trains](https://apps.apple.com/ca/app/yandex-trains/id387272416)
 
-### Food & Drinks
-
-- [Yandex Eats — food delivery](https://apps.apple.com/ca/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B5%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1078986931) — Order food from restaurants.
-
 ## Paid
 
 ### Utils
@@ -281,7 +281,7 @@ keywords: ios, ipados, apps, applications, programs
 - [1Password 8 - Password Manager](https://apps.apple.com/ca/app/id1511601750)\* — Store your passwords safely. — 2.99 C$/month.
 - [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783)\* — Simple unit converter. — C$1.
 - [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472)\*iOS — C$2.79.
-- [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485)\* — Secure & Private VPN Servers. — C$5.39/month.
+- [VPN for privacy | NordVPN](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485)\* — Connect for private Wi-Fi. — C$5.39/month.
 - [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023)\*iOS — Track your important events. — C$3.99.
 
 ### Languages
