@@ -163,15 +163,3 @@ docker-sh:
 	docker run -ti blog sh
 
 #------------------------------------
-
-#------------------------------------
-# Scripts
-#------------------------------------
-
-# Used in the CI.
-.PHONY: flush-cdn-cache
-flush-cdn-cache:
-	$(call print,Running flush CDN cache script)
-	scripts/flush_cdn_cache.sh
-
-#------------------------------------
