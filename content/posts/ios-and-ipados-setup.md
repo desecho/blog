@@ -1,9 +1,9 @@
 ---
-title: "iOS Tips"
+title: "iOS & iPadOS Setup"
 date: 2018-02-25T20:43:49-05:00
 comments: true
-categories: iOS
-keywords: ios, tips
+categories: iOS, iPadOS
+keywords: ios, ipados, setup
 ---
 
 ## Settings

@@ -8,13 +8,13 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Gaming
 
-- [Steam Mobile](https://apps.apple.com/ca/app/steam-mobile/id495369748)\*
+- [Steam Mobile](https://apps.apple.com/ca/app/steam-mobile/id495369748)\*iOS
 - [Ubisoft Connect](https://apps.apple.com/ca/app/ubisoft-club/id405228226)
 - [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117) — Stream Your Steam Library.
 
 ### PlayStation
 
-- [PlayStation App](https://apps.apple.com/ca/app/playstation-app/id410896080)\*
+- [PlayStation App](https://apps.apple.com/ca/app/playstation-app/id410896080)\*iOS
 - [PS Remote Play](https://apps.apple.com/ca/app/ps-remote-play/id1436192460)
 - [PS4 Second Screen](https://apps.apple.com/ca/app/ps4-second-screen/id1201372796)
 
@@ -32,25 +32,25 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Email
 
-- [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596)\* — Secure Email, Calendar & Files.
+- [Microsoft Outlook](https://apps.apple.com/ca/app/microsoft-outlook/id951937596)\*iOS — Secure Email, Calendar & Files.
 - [Gmail - Email by Google](https://apps.apple.com/ca/app/gmail-email-by-google-secure-fast-organized/id422689480)\* — Secure, fast & organized email.
 
 ## Internet
 
-- [Google](https://apps.apple.com/ca/app/google/id284815942)\* — Search with images using Lens.
+- [Google](https://apps.apple.com/ca/app/google/id284815942)\*iOS — Search with images using Lens.
 - [Google Chrome](https://apps.apple.com/ca/app/chrome-web-browser-by-google/id535886823)\* — Fast & Secure Web Browser.
 - [Firefox: Private, Safe Browser](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926) — Fast and Secure Web Browsing.
 
 ## VPN
 
-- [Cisco AnyConnect](https://apps.apple.com/ca/app/cisco-anyconnect/id1135064690)\* — New Cisco AnyConnect.
+- [Cisco AnyConnect](https://apps.apple.com/ca/app/cisco-anyconnect/id1135064690)\*iOS — New Cisco AnyConnect.
 
 ## Communication
 
 - [Jami](https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
 - [Telegram Messenger](https://apps.apple.com/ca/app/telegram-messenger/id686449807)\* — Fast. Secure. Powerful.
 - [Skype](https://apps.apple.com/ca/app/skype-for-iphone/id304878510) — Talk. Chat. Collaborate.
-- [Viber Messenger: Chats & Calls](https://apps.apple.com/ca/app/viber-messenger/id382617920)\* — Group Chat & Text Messages.
+- [Viber Messenger: Chats & Calls](https://apps.apple.com/ca/app/viber-messenger/id382617920)\*iOS — Group Chat & Text Messages.
 - [Messenger](https://apps.apple.com/ca/app/messenger/id454638411)\* — Text, audio and video calls.
 - [Slack](https://apps.apple.com/ca/app/slack/id618783545)\* — Business Communication.
 - [Discord - Talk, Chat, Hang Out](http://apps.apple.com/ca/app/discord-chat-for-games/id985746746)\* — Friends, Communities & Gaming.
@@ -70,19 +70,21 @@ keywords: ios, ipados, apps, applications, programs
 ## Authenticators
 
 - [Twilio Authy](https://apps.apple.com/us/app/twilio-authy/id494168017)\*
-- [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458)\* — Protects your online identity.
+- [Microsoft Authenticator](https://apps.apple.com/ca/app/microsoft-authenticator/id983156458)\*iOS — Protects your online identity.
 - [Yandex.Key—one-time passwords](https://apps.apple.com/ca/app/yandex-key-one-time-passwords/id957324816)\*
 
 ## Maps/Navigation
 
 - [Google Maps - Transit & Food](https://apps.apple.com/ca/app/google-maps-navigation-transport/id585027354)\* — GPS, City Navigation & Traffic.
-- [Waze Navigation & Live Traffic](https://apps.apple.com/ca/app/waze-navigation-live-traffic/id323229106)\* — Avoid traffic, police, hazards.
+- [Waze Navigation & Live Traffic](https://apps.apple.com/ca/app/waze-navigation-live-traffic/id323229106)\*iOS — Avoid traffic, police, hazards.
 - [Google Earth](https://apps.apple.com/ca/app/google-earth/id293622097)\* — Gain a new perspective.
 
 ## Productivity
 
 - [Grammarly - Keyboard & Editor](https://apps.apple.com/ca/app/grammarly-grammar-keyboard/id1158877342) — English grammar and writing.
 - [Simplenote — Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962)\* — Simple notes, todos and memos.
+- [Evernote - Notes Organizer](https://apps.apple.com/ca/app/evernote-notes-organizer/id281796108)\* — Note pad, to-do list, planner.
+- [OfficeSpace App](https://apps.apple.com/ca/app/officespace-app/id1446665105)\*iOS — For the next gen workplace.
 
 ## Developer Tools
 
@@ -102,9 +104,8 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Business
 
-- [xMatters](https://apps.apple.com/ca/app/xmatters/id409162401)\*
+- [xMatters](https://apps.apple.com/ca/app/xmatters/id409162401)\*iOS
 - [Asana: Your work manager](https://apps.apple.com/ca/app/asana-team-tasks-conversations/id489969512)\* — Get to your goals faster.
-- [Adobe Acrobat Reader PDF Maker](https://apps.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564)\* — File Viewer & Document Editor.
 
 ## Entertainment
 
@@ -115,7 +116,7 @@ keywords: ios, ipados, apps, applications, programs
 ## Shopping
 
 - [Amazon](https://apps.apple.com/ca/app/amazon/id297606951)\* — Search, Browse, Shop — Easy.
-- [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498)\* — Augmented Reality Furnishing.
+- [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498)\*iOS — Augmented Reality Furnishing.
 - [IKEA](https://apps.apple.com/ca/app/ikea/id1452164827)\* — Inspired shopping.
 - [eBay](https://apps.apple.com/ca/app/ebay/id282614216)\* — Start buying and selling now.
 - [H&M - we love fashion](https://apps.apple.com/ca/app/h-m-we-love-fashion/id834465911)\*
@@ -148,8 +149,9 @@ keywords: ios, ipados, apps, applications, programs
 
 - [Google Assistant](https://apps.apple.com/ca/app/google-assistant/id1220976145) — Your own personal Google.
 - [Apple Support](https://apps.apple.com/ca/app/apple-support/id1130498044)\* — We're here to help.
-- [MultiTimer: Multiple timers](https://apps.apple.com/ca/app/multitimer-multiple-timers/id973421278)\* — Visual countdown seconds timer.
+- [MultiTimer: Multiple timers](https://apps.apple.com/ca/app/multitimer-multiple-timers/id973421278)\*iOS — Visual countdown seconds timer.
 - [AnyDesk Remote Desktop](https://apps.apple.com/ca/app/anydesk-remote-desktop/id1176131273) — Remote access from anywhere.
+- [Adobe Acrobat Reader PDF Maker](https://apps.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564)\* — File Viewer & Document Editor.
 
 ## Environment
 
@@ -176,7 +178,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Travel
 
-- [Uber - Request a ride](https://apps.apple.com/ca/app/uber/id368677368)\* — Need a ride? Get the Uber app.
+- [Uber - Request a ride](https://apps.apple.com/ca/app/uber/id368677368)\*iOS — Need a ride? Get the Uber app.
 - [Tripadvisor: Plan & Book Trips](https://apps.apple.com/ca/app/tripadvisor-hotels-flights-restaurants/id284876795)\* — Hotels, Restaurants, Tours.
 - [Airbnb](https://apps.apple.com/ca/app/airbnb/id401626263)\* — Vacation Rentals & Experiences.
 - [WiFi Map: Internet, eSIM, VPN](https://apps.apple.com/ca/app/wifi-map-scan-get-fast-internet-password-free/id548925969)\* — Best Mobile Internet Provider.
@@ -189,15 +191,15 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Devices
 
-- [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981)\* — Total Control. All your music.
-- [Amazon Alexa](https://apps.apple.com/ca/app/amazon-alexa/id944011620)\*
+- [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981)\*iOS — Total Control. All your music.
+- [Amazon Alexa](https://apps.apple.com/ca/app/amazon-alexa/id944011620)\*iOS
 - [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310)\* — Official Philips Hue app.
 
 ## Canada
 
 ### Travelling
 
-- [Air Canada + Aeroplan](https://apps.apple.com/ca/app/air-canada-aeroplan/id326459697)\* — Book, Fly, Aeroplan.
+- [Air Canada + Aeroplan](https://apps.apple.com/ca/app/air-canada-aeroplan/id326459697)\*iOS — Book, Fly, Aeroplan.
 
 ### Lifestyle
 
@@ -206,14 +208,19 @@ keywords: ios, ipados, apps, applications, programs
 ### Shopping
 
 - [Best Buy Canada](https://apps.apple.com/ca/app/best-buy-canada/id386960831)\* — Shop Online For Deals & Save.
-- [AIR MILES® Reward Program](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)\*
 - [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520)\* — Shop your local marketplace.
 - [Canadian Tire: Shop Smarter](https://apps.apple.com/ca/app/canadian-tire-shop-smarter/id403884878)\* — Shop & Get Canadian Tire Money.
+- [The Bay](https://apps.apple.com/ca/app/the-bay/id1455098954)\* — Fashion, Home, Beauty, & More.
+- [Dollarama](https://apps.apple.com/ca/app/dollarama/id1518652697)\* — Dollarama Mobile App.
+
+### Points
+
+- [AIR MILES® Reward Program](https://apps.apple.com/ca/app/air-miles-reward-program/id388705262)\*iOS
 
 ### Food & Drinks
 
 - [Domino's Canada](https://apps.apple.com/ca/app/dominos-pizza-canada/id621613017)\*
-- [PayRange](https://apps.apple.com/ca/app/payrange/id845555232)\*
+- [PayRange](https://apps.apple.com/ca/app/payrange/id845555232)\*iOS
 - [Burger King Canada](https://apps.apple.com/ca/app/burger-king-canada/id1422864779)\* — Coupons & Exclusive Offers.
 - [KFC Canada](https://apps.apple.com/ca/app/kfc-canada/id653810744)\*
 
@@ -223,24 +230,24 @@ keywords: ios, ipados, apps, applications, programs
 
 ### Banking
 
-- [TD Canada](https://apps.apple.com/ca/app/td-canada/id358790776)\* — Bank on the go with the TD app.
-- [TD Authenticate](https://apps.apple.com/ca/app/td-authenticate/id1570439365)\* — Offline Two-Step Verification.
-- [RBC Mobile](https://apps.apple.com/ca/app/rbc-mobile/id407597290)\* — Better banking.
-- [Omni by Desjardins](https://apps.apple.com/ca/app/omni-by-desjardins/id778593359)\* — Desjardins group plans.
-- [Desjardins mobile services](https://apps.apple.com/ca/app/desjardins-mobile-services/id386636953)\* — Mobile banking simplified.
+- [TD Canada](https://apps.apple.com/ca/app/td-canada/id358790776)\*iOS — Bank on the go with the TD app.
+- [TD Authenticate](https://apps.apple.com/ca/app/td-authenticate/id1570439365)\*iOS — Offline Two-Step Verification.
+- [RBC Mobile](https://apps.apple.com/ca/app/rbc-mobile/id407597290)\*iOS — Better banking.
+- [Omni by Desjardins](https://apps.apple.com/ca/app/omni-by-desjardins/id778593359)\*iOS — Desjardins group plans.
+- [Desjardins mobile services](https://apps.apple.com/ca/app/desjardins-mobile-services/id386636953)\*iOS — Mobile banking simplified.
 
 ### Health
 
-- [Manulife Mobile](https://apps.apple.com/ca/app/manulife-mobile/id1214009312)\*
+- [Manulife Mobile](https://apps.apple.com/ca/app/manulife-mobile/id1214009312)\*iOS
 - [Dialogue Health](https://apps.apple.com/ca/app/dialogue-health/id1118013424)\*
 - [Picard & Desjardins Pharmacy](https://apps.apple.com/ca/app/picard-desjardins-pharmacy/id1552288920) — Quebec Online Pharmacy.
 - [Jean Coutu](https://apps.apple.com/ca/app/jean-coutu/id351461407)\*
 
 ### Utilities
 
-- [Hydro-Québec](https://apps.apple.com/ca/app/hydro-qu%C3%A9bec/id1045080947)\*
+- [Hydro-Québec](https://apps.apple.com/ca/app/hydro-qu%C3%A9bec/id1045080947)\*iOS
 - [Fizz Wi-Fi](https://apps.apple.com/ca/app/fizz-wi-fi/id1449022170)
-- [MyBell](https://apps.apple.com/ca/app/mybell/id850549838)\* — Manage your Bell account.
+- [MyBell](https://apps.apple.com/ca/app/mybell/id850549838)\*iOS — Manage your Bell account.
 
 ### Shipping
 
@@ -273,9 +280,9 @@ keywords: ios, ipados, apps, applications, programs
 
 - [1Password 8 - Password Manager](https://apps.apple.com/ca/app/id1511601750)\* — Store your passwords safely. — 2.99 C$/month.
 - [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783)\* — Simple unit converter. — C$1.
-- [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472)\* — C$2.79.
+- [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472)\*iOS — C$2.79.
 - [NordVPN: VPN Fast & Secure](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485)\* — Secure & Private VPN Servers. — C$5.39/month.
-- [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023)\* — Track your important events. — C$3.99.
+- [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023)\*iOS — Track your important events. — C$3.99.
 
 ### Languages
 

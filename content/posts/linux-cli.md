@@ -138,8 +138,9 @@ For all of the `chrgrp` and `chown` commands below: `-r` — recursive change.
 ## Fedora
 
 - `sudo systemctl restart chronyd` — sync date & time
+- `sudo rpm -i [file]` — install rpm package
 
-## Ubuntu
+## Ubuntu/Debian
 
 - `lsb_release -a` — show Ubuntu information
 - `sudo /usr/sbin/ntpdate ntp.ubuntu.com` — synchronize date and time

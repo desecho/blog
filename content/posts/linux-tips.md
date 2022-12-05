@@ -20,7 +20,7 @@ export DISPLAY=:10
 apk add busybox-extras
 ```
 
-## Install ps on Ubuntu
+## Install ps on Ubuntu/Debian
 
 ```bash
 sudo apt install procps

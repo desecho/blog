@@ -59,6 +59,10 @@ keywords: windows, apps, applications, programs, macos
 
 - [Asana](https://asana.com/) — Work on big ideas, without the busywork.
 
+## Productivity
+
+- [Evernote](https://evernote.com/download) — Tame your work, organize your life.
+
 ## Paid
 
 - [1Password](https://1password.com/) — The world’s most-loved password manager. — C$2.99/month.

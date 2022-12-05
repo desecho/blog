@@ -8,7 +8,7 @@ keywords: hotkeys
 
 ## Operating systems
 
-### Ubuntu/Windows
+### Linux/Windows
 
 [Super] key is [Win] key for Windows
 
@@ -42,7 +42,7 @@ keywords: hotkeys
 | [Prnt Scrn]                 | Take a screenshot                                |
 | [Alt + Prnt Scrn]           | Take a screenshot of a window                    |
 
-### Ubuntu
+### Linux
 
 | Hotkey                      | Action                                                                                                                                               |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -248,3 +248,9 @@ keywords: hotkeys
 | [Ctrl + A, D]     | Detach from screen  |
 | [Ctrl + A, C]     | Create a new screen |
 | [Ctrl + A, Space] | Switch screens      |
+
+### Tmux
+
+| Hotkey        | Action              |
+| ------------- | ------------------- |
+| [Ctrl + B, D] | Detach from session |

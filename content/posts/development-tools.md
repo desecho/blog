@@ -14,7 +14,7 @@ keywords: development, tools, coding
 - [JS Nice](http://jsnice.org/) — Statistical renaming, type inference, and deobfuscation.
 - [Terraform Cloud](https://www.terraform.io/cloud) — The easiest way to use Terraform in production at any scale.
 
-## macOS, Ubuntu, and Windows Apps
+## macOS, Linux, and Windows Apps
 
 ### Paid
 

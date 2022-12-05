@@ -92,6 +92,10 @@ Open `Settings` → `Downloads`:
 
 Run `Command Prompt` → `sfc /scannow`
 
+### Run chkdsk
+
+Run `Command Prompt` → `chkdsk /f /x /r [disk]:`
+
 ### Boost Microphone
 
 Install [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
