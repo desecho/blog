@@ -1,8 +1,8 @@
 ---
-title: "WatchOS Apps"
+title: "watchOS Apps"
 date: 2022-12-05T00:14:29-05:00
 comments: true
-categories: WatchOS
+categories: watchOS
 keywords: watchos, apps, applications, programs
 ---
 
