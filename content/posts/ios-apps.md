@@ -12,12 +12,6 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [PLINK – Team Up, Chat, Play](https://apps.apple.com/ca/app/plink-team-up-chat-play/id1306783602)\* — Find Teammates for any Game.
 
-## Weather
-
-<!-- This app is also available on the iPadOS but is a totally different app. -->
-
-- [The Weather Network](https://apps.apple.com/ca/app/the-weather-network/id473299958)\* — Detailed Weather Forecast.
-
 ## Banking
 
 - [PayPal](https://apps.apple.com/ca/app/paypal/id283646709)\* — Transfer Money & Mobile Pay.

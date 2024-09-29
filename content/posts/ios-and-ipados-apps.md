@@ -61,6 +61,10 @@ Apps marked with `*` are to be installed on the device initially.
 - [Signal - Private Messenger](https://apps.apple.com/us/app/signal-private-messenger/id874139669)\* — Say “hello” to privacy.
 - [TextNow: Call + Text Unlimited](https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233) — Phone Number For Texts & Calls.
 
+## Weather
+
+- [The Weather Network](https://apps.apple.com/ca/app/the-weather-network/id473299958)\* — Detailed Weather Forecast.
+
 ## Cloud Storage
 
 - [Google Drive](https://apps.apple.com/ca/app/google-drive-free-online-storage/id507874739)\* — Cloud storage space.
@@ -119,7 +123,6 @@ Apps marked with `*` are to be installed on the device initially.
 ## Shopping
 
 - [Amazon](https://apps.apple.com/ca/app/amazon/id297606951)\* — Search, Browse, Shop — Easy.
-- [IKEA Place](https://apps.apple.com/ca/app/ikea-place/id1279244498)\*iOS — Augmented Reality Furnishing.
 - [IKEA](https://apps.apple.com/ca/app/ikea/id1452164827)\* — Inspired shopping.
 - [eBay](https://apps.apple.com/ca/app/ebay/id282614216)\* — Start buying and selling now.
 - [H&M - we love fashion](https://apps.apple.com/ca/app/h-m-we-love-fashion/id834465911)\*
@@ -146,7 +149,6 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [Lingvo Dictionary & Translator](https://apps.apple.com/ru/app/lingvo-dictionary-multilingual-translator/id391989146)\* — [Available only in the Russian store]. Translate and Learn languages.
 - [Google Translate](https://apps.apple.com/ca/app/google-translate/id414706506)\* — Translate 108 languages.
-- [Multitran - English Translator](https://apps.apple.com/ca/app/multitran/id1090468498)\* — Speak & Translate Dictionary.
 
 ## Utils
 
@@ -213,7 +215,6 @@ Apps marked with `*` are to be installed on the device initially.
 - [Best Buy Canada](https://apps.apple.com/ca/app/best-buy-canada/id386960831)\* — Shop Online For Deals & Save.
 - [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520)\* — Shop your local marketplace.
 - [Canadian Tire: Shop Smarter](https://apps.apple.com/ca/app/canadian-tire-shop-smarter/id403884878)\* — Shop & Get Canadian Tire Money.
-- [The Bay](https://apps.apple.com/ca/app/the-bay/id1455098954)\* — Fashion, Home, Beauty, & More.
 - [Dollarama](https://apps.apple.com/ca/app/dollarama/id1518652697)\* — Dollarama Mobile App.
 
 ### Points
@@ -251,7 +252,6 @@ Apps marked with `*` are to be installed on the device initially.
 ### Utilities
 
 - [Hydro-Québec](https://apps.apple.com/ca/app/hydro-qu%C3%A9bec/id1045080947)\*iOS
-- [Fizz Wi-Fi](https://apps.apple.com/ca/app/fizz-wi-fi/id1449022170)
 - [MyBell](https://apps.apple.com/ca/app/mybell/id850549838)\*iOS — Manage your Bell account.
 
 ### Shipping

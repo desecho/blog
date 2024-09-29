@@ -11,10 +11,8 @@ keywords: web development, reference, javascript, python, django, css, regex
 - [Superhero.js](http://superherojs.com) — A collection of the best articles, videos, and presentations on "Creating, testing and maintaining a large JavaScript codebase".
 - [JavaScript: The Good Parts](http://gnab.github.io/js-workshop/)
 - [JavaScript. The Right Way](http://jstherightway.org/)
-- [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
-- [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 
 ## GitHub
 
@@ -41,7 +39,6 @@ keywords: web development, reference, javascript, python, django, css, regex
 - [Software Licenses in Plain English](https://tldrlegal.com/)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Web Concepts: Overview](https://webconcepts.info/concepts/)
-- [Vocabs](http://apps.workflower.fi/vocabs/)
 
 ## Coding
 
@@ -52,7 +49,6 @@ keywords: web development, reference, javascript, python, django, css, regex
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Must-watch videos about Python](https://github.com/s16h/py-must-watch)
 - [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
-- [Get started with pyenv & poetry. Saviors in the python chaos!](https://blog.jayway.com/2019/12/28/pyenv-poetry-saviours-in-the-python-chaos/)
 
 ### Django
 

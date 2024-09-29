@@ -217,7 +217,6 @@ pip install pytest-django
 - [Requires.io](https://requires.io/) — Stop wasting your time by manually keeping track of changelogs. Requires.io keeps your python projects secure by monitoring their dependencies.
 - [Gitter](https://gitter.im/) — Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 - [Sentry](https://sentry.io) — Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
-- [Say Thanks](https://saythanks.io/) — SayThanks.io provides a handy URL for you to share with your open source projects — it encourages users to send a simple thank you note to you, the creator of that project.
 - [Codecov](https://codecov.io) — Code coverage done right.
 - [Re:plain](https://replain.cc) — The simplest live chat in the world.
 - [pepy.tech](https://pepy.tech/) — A service that provides badges with a number of downloads.

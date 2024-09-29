@@ -8,15 +8,9 @@ keywords: ipados, apps, applications, programs
 
 Apps marked with `*` are to be installed on the device initially.
 
-## Utils
+## Translation
 
-- [Calculator Air](https://apps.apple.com/ca/app/calculator-irocks/id1173365557)\* — Scientific math calculator.
-
-## Weather
-
-<!-- This app is also available on the iOS but is a totally different app. -->
-
-- [The Weather Network](https://apps.apple.com/ca/app/the-weather-network-for-ipad/id407173878)\* — Detailed Weather Forecast.
+- [Multitran](https://apps.apple.com/ca/app/multitran/id1470678581)\* — Speak & Translate Dictionary.
 
 ### Paid
 
