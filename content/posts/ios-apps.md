@@ -121,10 +121,6 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [RBC Launch](https://apps.apple.com/ca/app/rbc-wallet/id1022830198)\* — Simplifying your finances.
 
-### Health
-
-- [VaxiCode](https://apps.apple.com/ca/app/vaxicode/id1571692711) — Save your QR code.
-
 ## Russia
 
 ### Transport & Delivery

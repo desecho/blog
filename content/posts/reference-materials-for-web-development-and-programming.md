@@ -53,7 +53,6 @@ keywords: web development, reference, javascript, python, django, css, regex
 ### Django
 
 - [Test-Driven Web Development with Django](http://test-driven-django-development.readthedocs.org/en/latest/)
-- [Mastering Django](http://masteringdjango.com/)
 
 ## CSS
 

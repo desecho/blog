@@ -11,7 +11,6 @@ Apps marked with `*` are to be installed on the device initially.
 ## Gaming
 
 - [Steam Mobile](https://apps.apple.com/ca/app/steam-mobile/id495369748)\*iOS
-- [Ubisoft Connect](https://apps.apple.com/ca/app/ubisoft-club/id405228226)
 - [Steam Link](https://apps.apple.com/ca/app/steam-link/id1246969117) — Stream Your Steam Library.
 - [Postparty](https://apps.apple.com/ca/app/postparty/id1595225946) — Gameplay Clipping.
 
@@ -24,7 +23,6 @@ Apps marked with `*` are to be installed on the device initially.
 ### Xbox
 
 - [Xbox](https://apps.apple.com/ca/app/xbox/id736179781)
-- [Xbox Game Pass](https://apps.apple.com/ca/app/xbox-game-pass/id1374542474)\*
 
 ## Games
 
