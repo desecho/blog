@@ -22,7 +22,6 @@ keywords: windows, apps, applications, programs, macos, linux
 - [Jami](https://jami.net/) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
 - [Discord](https://discord.com/) — Imaging a place where you can belong to a school club, a gaming group, or a worldwide art community. Where just you and a handful of friends can spend time together. A place that makes it easy to talk every day and hang out more often.
 - [Telegram Desktop](https://desktop.telegram.org/) — Fast and secure desktop app, perfectly synced with your mobile phone.
-- [Skype](https://www.skype.com/en/) — Preserving the connections that matter most with Skype.
 - [Microsoft Teams](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software) — Meet, chat, call, and collaborate in just one place.
 - [Slack](https://slack.com/) — With the Slack app, your team is never more than a click away.
 - [VK Messenger](https://vk.com/landings/desktop_messenger)

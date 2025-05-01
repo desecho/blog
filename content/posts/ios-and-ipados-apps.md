@@ -50,7 +50,6 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [Jami](https://apps.apple.com/ca/app/ring-a-gnu-package/id1306951055) — Jami is free software for universal communication which respects the freedoms and privacy of its users.
 - [Telegram Messenger](https://apps.apple.com/ca/app/telegram-messenger/id686449807)\* — Fast. Secure. Powerful.
-- [Skype](https://apps.apple.com/ca/app/skype-for-iphone/id304878510) — Talk. Chat. Collaborate.
 - [Viber Messenger: Chats & Calls](https://apps.apple.com/ca/app/viber-messenger/id382617920)\*iOS — Group Chat & Text Messages.
 - [Messenger](https://apps.apple.com/ca/app/messenger/id454638411)\* — Text, audio and video calls.
 - [Slack](https://apps.apple.com/ca/app/slack/id618783545)\* — Business Communication.
