@@ -48,7 +48,6 @@ keywords: web development, reference, javascript, python, django, css, regex
 
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Must-watch videos about Python](https://github.com/s16h/py-must-watch)
-- [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
 
 ### Django
 
@@ -73,7 +72,7 @@ keywords: web development, reference, javascript, python, django, css, regex
 ## Miscellaneous
 
 - [Introduction to Docker](http://www.youtube.com/watch?v=9bvdc55xYdo)
-- [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+- [Blameless PostMortems and a Just Culture](https://www.etsy.com/codeascraft/blameless-postmortems/)
 - [Readability Checklist](https://readabilityguidelines.co.uk/readability-checklist/)
 
 ## Books

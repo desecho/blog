@@ -36,7 +36,7 @@ Instead of `[db]` and `[table]` can be `*`, which means `any`.
 
 You can optionally add `WITH GRANT OPTION` to the `GRANT` command for the user to be able to grant permissions.
 
-See [details](http://dev.mysql.com/doc/refman/5.1/en/grant.html#idm47213304336736).
+See [details](https://dev.mysql.com/doc/refman/8.4/en/grant.html#idm47213304336736).
 
 ```sql
 GRANT [privilege] ON `[db]`.`[table]` TO '[user]'@'[ip]'

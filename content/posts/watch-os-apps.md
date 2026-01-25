@@ -22,7 +22,6 @@ keywords: watchos, apps, applications, programs
 
 - [Nike Run Club](https://apps.apple.com/ca/app/nike-run-club/id387771637) — Running Tracker & Coaching.
 - [Sleep Watch by Bodymatter](https://apps.apple.com/ca/app/sleep-watch-by-bodymatter/id1138066420) — Auto Sleep Tracker.
-- [Qardio heart health](https://apps.apple.com/ca/app/qardio-heart-health/id855275752) — Blood pressure, weight, ECG.
 - [AllTrails: Hike, Bike & Run](https://apps.apple.com/ca/app/alltrails-hike-bike-run/id405075943) — GPS Hiking & Biking Trail Maps.
 
 ## Food & Drinks
@@ -107,4 +106,4 @@ keywords: watchos, apps, applications, programs
 
 ### Health & Fitness
 
-- [AutoSleep Track Sleep on Watch](https://apps.apple.com/ca/app/autosleep-track-sleep-on-watch/id1164801111) — Auto Sleep Tracker & Alarm. — C$5.49.
+- [AutoSleep: Watch Sleep Tracker](https://apps.apple.com/ca/app/autosleep-watch-sleep-tracker/id1164801111)\* — Auto Sleep Tracker & Alarm. — C$5.49.

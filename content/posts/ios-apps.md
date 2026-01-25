@@ -25,7 +25,6 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [Nike Run Club](https://apps.apple.com/ca/app/nike-run-club/id387771637) — Running Tracker & Coaching.
 - [Sleep Watch by Bodymatter](https://apps.apple.com/ca/app/sleep-watch-by-bodymatter/id1138066420) — Auto Sleep Tracker.
-- [Qardio heart health](https://apps.apple.com/ca/app/qardio-heart-health/id855275752)\* — Blood pressure, weight, ECG.
 - [AllTrails: Hike, Bike & Run](https://apps.apple.com/ca/app/alltrails-hike-bike-run/id405075943)\* — GPS Hiking & Biking Trail Maps.
 
 ## Lifestyle
@@ -125,14 +124,14 @@ Apps marked with `*` are to be installed on the device initially.
 
 ### Transport & Delivery
 
-- [Yandex Go — taxi and delivery](https://apps.apple.com/ca/app/yandex-taxi/id472650686) — App to order taxi or delivery.
+- [Yandex Go: Taxi Food Market](https://apps.apple.com/ca/app/yandex-go-taxi-food-market/id472650686) — App to order taxi or delivery.
 
 ### Food & Drinks
 
-- [Yandex Eats: food delivery](https://apps.apple.com/ca/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B5%D0%B4%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/id1078986931) — Order pizza, sushi, groceries.
+- [Yandex Eats: food delivery](https://apps.apple.com/ca/app/yandex-eats-food-delivery/id1078986931) — Order pizza, sushi, groceries.
 
 ## Paid
 
 ### Health & Fitness
 
-- [AutoSleep Track Sleep on Watch](https://apps.apple.com/ca/app/autosleep-track-sleep-on-watch/id1164801111)\* — Auto Sleep Tracker & Alarm. — C$5.49.
+- [AutoSleep: Watch Sleep Tracker](https://apps.apple.com/ca/app/autosleep-watch-sleep-tracker/id1164801111)\* — Auto Sleep Tracker & Alarm. — C$5.49.

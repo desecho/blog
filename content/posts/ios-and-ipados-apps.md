@@ -212,7 +212,6 @@ Apps marked with `*` are to be installed on the device initially.
 - [Best Buy Canada](https://apps.apple.com/ca/app/best-buy-canada/id386960831)\* — Shop Online For Deals & Save.
 - [Kijiji: Buy & sell, get deals](https://apps.apple.com/ca/app/kijiji-ads-shop-local-save/id318979520)\* — Shop your local marketplace.
 - [Canadian Tire: Shop Smarter](https://apps.apple.com/ca/app/canadian-tire-shop-smarter/id403884878)\* — Shop & Get Canadian Tire Money.
-- [Dollarama](https://apps.apple.com/ca/app/dollarama/id1518652697)\* — Dollarama Mobile App.
 
 ### Points
 
