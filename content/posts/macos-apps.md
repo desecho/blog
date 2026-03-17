@@ -31,6 +31,10 @@ keywords: macos, apps, applications, programs
 - [BeardedSpice](https://beardedspice.github.io/) — Mac Media Keys for the Masses.
 - [The Unarchiver](https://apps.apple.com/app/the-unarchiver/id425424353?mt=12&ls=1) — The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files.
 
+## Finances
+
+- [Subtrack: Track Subscriptions](https://apps.apple.com/ca/app/subtrack-track-subscriptions/id1519946553) - Manage Bills, Budget, Expenses.
+
 ## Paid
 
 - [CleanMyMac](https://macpaw.com/cleanmymac) — The Simplest, Safest Way to Clean Your Mac. — C$52.69.

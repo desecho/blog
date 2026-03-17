@@ -125,6 +125,7 @@ Apps marked with `*` are to be installed on the device initially.
 ### Transport & Delivery
 
 - [Yandex Go: Taxi Food Market](https://apps.apple.com/ca/app/yandex-go-taxi-food-market/id472650686) — App to order taxi or delivery.
+- [Lyft](https://apps.apple.com/ca/app/lyft/id529379082) - One app. All the rides.
 
 ### Food & Drinks
 

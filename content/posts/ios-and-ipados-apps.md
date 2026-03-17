@@ -102,7 +102,7 @@ Apps marked with `*` are to be installed on the device initially.
 
 ## Social
 
-- [Twitter](https://apps.apple.com/ca/app/twitter/id333903271)\* — Live news, sports, and chat.
+- [X](https://apps.apple.com/ca/app/x/id333903271)\* — Breaking News & Social Media.
 - [Facebook](https://apps.apple.com/ca/app/facebook/id284882215)\*
 - [LinkedIn: Job Search & News](https://apps.apple.com/ca/app/linkedin/id288429040)\* — Network & Find Jobs For You.
 
@@ -196,6 +196,10 @@ Apps marked with `*` are to be installed on the device initially.
 - [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981)\*iOS — Total Control. All your music.
 - [Amazon Alexa](https://apps.apple.com/ca/app/amazon-alexa/id944011620)\*iOS
 - [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310)\* — Official Philips Hue app.
+
+## Finances
+
+- [Subtrack: Track Subscriptions](https://apps.apple.com/ca/app/subtrack-track-subscriptions/id1519946553) - Manage Bills, Budget, Expenses.
 
 ## Canada
 
@@ -302,3 +306,7 @@ Apps marked with `*` are to be installed on the device initially.
 ### Video
 
 - [Infuse 7](https://apps.apple.com/ca/app/infuse-7/id1136220934)\* — An elegant video player. — C$104.99.
+
+### Books
+
+- [Litres: Книги и аудиокниги](https://apps.apple.com/ca/app/litres-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/id438441429) - Books & audiobooks: E-library. - C$3.99/month
