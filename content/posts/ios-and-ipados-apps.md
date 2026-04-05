@@ -8,6 +8,14 @@ keywords: ios, ipados, apps, applications, programs
 
 Apps marked with `*` are to be installed on the device initially.
 
+
+## AI
+
+- [Grok - AI Chat & Video](https://apps.apple.com/ca/app/grok-ai-chat-video/id6670324846) - The real-time AI assistant
+- [ChatGPT](https://apps.apple.com/ca/app/chatgpt/id6448311069) - The official app by OpenAI
+- [Google Gemini](https://apps.apple.com/ca/app/google-gemini/id6477489729) - Your AI assistant from Google
+- [Claude by Anthropic](https://apps.apple.com/ca/app/claude-by-anthropic/id6473753684) - AI assistant for life and work
+
 ## Gaming
 
 - [Steam Mobile](https://apps.apple.com/ca/app/steam-mobile/id495369748)\*iOS
@@ -27,7 +35,7 @@ Apps marked with `*` are to be installed on the device initially.
 ## Games
 
 - [Chess - Play & Learn](https://apps.apple.com/ca/app/chess-play-learn/id329218549)\* — Games, Puzzles, and Friends!
-- [lichess • Online Chess](https://apps.apple.com/ca/app/lichess-online-chess/id968371784)
+- [Lichess](https://apps.apple.com/ca/app/lichess/id1662361230) - Online chess game.
 - [Among Us!](https://apps.apple.com/ca/app/among-us/id1351168404)
 - [Akinator](https://apps.apple.com/ca/app/akinator/id933135994)\* — Genie who can read your mind.
 
@@ -57,6 +65,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [Microsoft Teams](https://apps.apple.com/ca/app/microsoft-teams/id1113153706)\* — Call. Chat. Collaborate.
 - [Signal - Private Messenger](https://apps.apple.com/us/app/signal-private-messenger/id874139669)\* — Say “hello” to privacy.
 - [TextNow: Call + Text Unlimited](https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233) — Phone Number For Texts & Calls.
+- [imo-International Calls & Chat](https://apps.apple.com/ca/app/imo-international-calls-chat/id336435697) - Global. Efficient. Reliable
 
 ## Weather
 
@@ -146,6 +155,7 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [Lingvo Dictionary & Translator](https://apps.apple.com/ru/app/lingvo-dictionary-multilingual-translator/id391989146)\* — [Available only in the Russian store]. Translate and Learn languages.
 - [Google Translate](https://apps.apple.com/ca/app/google-translate/id414706506)\* — Translate 108 languages.
+- [Multitran](https://apps.apple.com/ca/app/multitran/id1470678581)\* — Translation Dictionary.
 
 ## Utils
 
@@ -283,6 +293,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [Amount - Unit Converter](https://apps.apple.com/ca/app/amount-unit-and-currency-converter/id560750783)\* — Simple unit converter. — C$1.
 - [Hours & Minutes Calculator](https://apps.apple.com/ca/app/hours-minutes-calculator/id539607472)\*iOS — C$2.79.
 - [VPN for privacy | NordVPN](https://apps.apple.com/ca/app/nordvpn-easy-unlimited-vpn/id905953485)\* — Connect for private Wi-Fi. — C$5.39/month.
+- [Surfshark VPN: Secure VPN App](https://apps.apple.com/ca/app/surfshark-vpn-secure-vpn-app/id1391782046) — Fast VPN for iPhone and iPad — C$2.69/month.
 - [Last Time Tracker](https://apps.apple.com/ca/app/last-time-tracker/id534982023)\*iOS — Track your important events. — C$3.99.
 
 ### Languages

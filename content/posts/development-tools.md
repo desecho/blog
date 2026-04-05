@@ -10,7 +10,7 @@ keywords: development, tools, coding
 
 - [Codepen](https://codepen.io/) — A playground for the front end web.
 - [Diffchecker](http://www.diffchecker.com/diff) — Diffchecker will compare text to find the difference between two text files.
-- [My regex tester](http://www.myregextester.com/index.php)
+- [Regular expressions 101](https://regex101.com/)
 - [JS Nice](http://jsnice.org/) — Statistical renaming, type inference, and deobfuscation.
 - [Terraform Cloud](https://www.hashicorp.com/en/products/terraform) — The easiest way to use Terraform in production at any scale.
 
