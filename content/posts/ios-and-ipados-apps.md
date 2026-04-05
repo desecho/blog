@@ -8,7 +8,6 @@ keywords: ios, ipados, apps, applications, programs
 
 Apps marked with `*` are to be installed on the device initially.
 
-
 ## AI
 
 - [Grok - AI Chat & Video](https://apps.apple.com/ca/app/grok-ai-chat-video/id6670324846) - The real-time AI assistant
