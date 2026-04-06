@@ -214,7 +214,6 @@ pip install pytest-django
 - [PyPI](https://pypi.python.org) — The Python Package Index.
 - [Read the Docs](https://readthedocs.io) — Create, host, and browse the documentation.
 - [Transifex](https://www.transifex.com/) — Manage translations, translate content, collaborate with translators, and automate your localization process from one central place.
-- [Requires.io](https://requires.io/) — Stop wasting your time by manually keeping track of changelogs. Requires.io keeps your python projects secure by monitoring their dependencies.
 - [Gitter](https://gitter.im/) — Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 - [Sentry](https://sentry.io) — Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 - [Codecov](https://codecov.io) — Code coverage done right.
