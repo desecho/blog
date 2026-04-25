@@ -65,6 +65,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [Signal - Private Messenger](https://apps.apple.com/us/app/signal-private-messenger/id874139669)\* — Say “hello” to privacy.
 - [TextNow: Call + Text Unlimited](https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233) — Phone Number For Texts & Calls.
 - [imo-International Calls & Chat](https://apps.apple.com/ca/app/imo-international-calls-chat/id336435697) - Global. Efficient. Reliable
+- [Google Chat](https://apps.apple.com/ca/app/google-chat/id1163852619)
 
 ## Weather
 
@@ -97,6 +98,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [Simplenote — Notes and Todos](https://apps.apple.com/ca/app/simplenote/id289429962)\* — Simple notes, todos and memos.
 - [Evernote - Notes Organizer](https://apps.apple.com/ca/app/evernote-notes-organizer/id281796108)\* — Note pad, to-do list, planner.
 - [OfficeSpace App](https://apps.apple.com/ca/app/officespace-app/id1446665105)\*iOS — For the next gen workplace.
+- [Google Calendar](https://apps.apple.com/ca/app/google-calendar/id909319292)
 
 ## Developer Tools
 
@@ -163,6 +165,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [MultiTimer: Multiple timers](https://apps.apple.com/ca/app/multitimer-multiple-timers/id973421278)\*iOS — Visual countdown seconds timer.
 - [AnyDesk Remote Desktop](https://apps.apple.com/ca/app/anydesk-remote-desktop/id1176131273) — Remote access from anywhere.
 - [Adobe Acrobat Reader PDF Maker](https://apps.apple.com/ca/app/adobe-acrobat-reader-annotate-scan-send-pdfs/id469337564)\* — File Viewer & Document Editor.
+- [Recyclable CheckLists](https://apps.apple.com/ca/app/recyclable-checklists/id1252464852) - Just to reuse checklists
 
 ## Environment
 
@@ -205,6 +208,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [Sonos](https://apps.apple.com/ca/app/sonos/id1488977981)\*iOS — Total Control. All your music.
 - [Amazon Alexa](https://apps.apple.com/ca/app/amazon-alexa/id944011620)\*iOS
 - [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310)\* — Official Philips Hue app.
+- [Withings](https://apps.apple.com/ca/app/withings/id542701020)
 
 ## Finances
 
