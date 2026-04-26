@@ -2,7 +2,7 @@
 title: "Apple Support"
 date: 2026-04-26T07:19:20-04:00
 comments: true
-categories: ['apple']
+categories: ["apple"]
 keywords:
 ---
 
