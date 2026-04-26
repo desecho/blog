@@ -209,6 +209,7 @@ Apps marked with `*` are to be installed on the device initially.
 - [Amazon Alexa](https://apps.apple.com/ca/app/amazon-alexa/id944011620)\*iOS
 - [Philips Hue](https://apps.apple.com/ca/app/philips-hue/id1055281310)\* — Official Philips Hue app.
 - [Withings](https://apps.apple.com/ca/app/withings/id542701020)
+- [Meta Horizon](https://apps.apple.com/ca/app/meta-horizon/id1366478176)
 
 ## Finances
 
