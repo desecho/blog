@@ -273,6 +273,10 @@ Apps marked with `*` are to be installed on the device initially.
 - [Purolator](https://apps.apple.com/ca/app/purolator/id438701193)
 - [Canada Post](https://apps.apple.com/ca/app/canada-post/id394391577) — Track and get delivery updates.
 
+### Transportation
+
+- [BIXI](https://apps.apple.com/ca/app/bixi/id628543321)
+
 ## Russia
 
 ### Social
