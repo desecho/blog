@@ -6,16 +6,18 @@ categories: iOS
 keywords: ios, apps, applications, programs
 ---
 
-Apps marked with `*` are to be installed on the device initially.
-
 ## Gaming
 
-- [PLINK – Team Up, Chat, Play](https://apps.apple.com/ca/app/plink-team-up-chat-play/id1306783602)\* — Find Teammates for any Game.
+- [PLINK – Team Up, Chat, Play](https://apps.apple.com/ca/app/plink-team-up-chat-play/id1306783602) — Find Teammates for any Game.
 
 ## Banking
 
-- [PayPal](https://apps.apple.com/ca/app/paypal/id283646709)\* — Transfer Money & Mobile Pay.
-- [Credit Karma](https://apps.apple.com/ca/app/credit-karma/id1398558151)\* — Credit Score, Reports & Alerts.
+- [PayPal](https://apps.apple.com/ca/app/paypal/id283646709) — Transfer Money & Mobile Pay.
+- [Credit Karma](https://apps.apple.com/ca/app/credit-karma/id1398558151) — Credit Score, Reports & Alerts.
+
+#### Taxi
+
+- [Lyft](https://apps.apple.com/ca/app/lyft/id529379082) - One app. All the rides.
 
 ## Internet
 
@@ -25,11 +27,11 @@ Apps marked with `*` are to be installed on the device initially.
 
 - [Nike Run Club](https://apps.apple.com/ca/app/nike-run-club/id387771637) — Running Tracker & Coaching.
 - [Sleep Watch by Bodymatter](https://apps.apple.com/ca/app/sleep-watch-by-bodymatter/id1138066420) — Auto Sleep Tracker.
-- [AllTrails: Hike, Bike & Run](https://apps.apple.com/ca/app/alltrails-hike-bike-run/id405075943)\* — GPS Hiking & Biking Trail Maps.
+- [AllTrails: Hike, Bike & Run](https://apps.apple.com/ca/app/alltrails-hike-bike-run/id405075943) — GPS Hiking & Biking Trail Maps.
 
 ## Lifestyle
 
-- [Meetup: Local groups & events](https://apps.apple.com/ca/app/meetup/id375990038)\* — Meet new people, do new things.
+- [Meetup: Local groups & events](https://apps.apple.com/ca/app/meetup/id375990038) — Meet new people, do new things.
 
 ## Calculators
 
@@ -37,95 +39,94 @@ Apps marked with `*` are to be installed on the device initially.
 
 ## Messengers
 
-- [WhatsApp Messenger](https://apps.apple.com/ca/app/whatsapp-messenger/id310633997)\* — Simple. Reliable. Private.
-- [Snapchat](https://apps.apple.com/ca/app/snapchat/id447188370)\* — Share the moment.
+- [WhatsApp Messenger](https://apps.apple.com/ca/app/whatsapp-messenger/id310633997) — Simple. Reliable. Private.
+- [Snapchat](https://apps.apple.com/ca/app/snapchat/id447188370) — Share the moment.
 
 ## Social
 
-- [Instagram](https://apps.apple.com/ca/app/instagram/id389801252)\*
+- [Instagram](https://apps.apple.com/ca/app/instagram/id389801252)
 
 ## TV
 
-- [Next Episode - Track TV Shows](https://apps.apple.com/ca/app/next-episode-track-tv-shows/id347009526)\* — TV Series and Movies tracker.
+- [Next Episode - Track TV Shows](https://apps.apple.com/ca/app/next-episode-track-tv-shows/id347009526) — TV Series and Movies tracker.
 
 ## Images
 
-- [CamScanner: PDF Scanner App](https://apps.apple.com/ca/app/camscanner-free-pdf-document-scanner-and-ocr/id388627783)\* — Document Scan & Edit with OCR.
+- [CamScanner: PDF Scanner App](https://apps.apple.com/ca/app/camscanner-free-pdf-document-scanner-and-ocr/id388627783) — Document Scan & Edit with OCR.
 
 ## Utils
 
-- [Speedtest by Ookla](https://apps.apple.com/ca/app/speedtest-by-ookla/id300704847)\* — 34 billion tests and counting.
-- [Truecaller](https://apps.apple.com/ca/app/truecaller/id448142450)\* — Identify Spam + Search Numbers.
+- [Speedtest by Ookla](https://apps.apple.com/ca/app/speedtest-by-ookla/id300704847) — 34 billion tests and counting.
+- [Truecaller](https://apps.apple.com/ca/app/truecaller/id448142450) — Identify Spam + Search Numbers.
 - [View Source](https://apps.apple.com/ca/app/view-source/id1041817284)
 
 ## TV
 
-- [LG ThinQ](https://apps.apple.com/ca/app/lg-thinq/id993504342)\*
+- [LG ThinQ](https://apps.apple.com/ca/app/lg-thinq/id993504342)
 
 ## Food & Drinks
 
-- [Starbucks](https://apps.apple.com/ca/app/starbucks/id331177714)\* — Order, pay, and earn Stars.
-- [SUBWAY®](https://apps.apple.com/ca/app/subway/id901941015)\* — Subway® at your fingertips.
+- [Starbucks](https://apps.apple.com/ca/app/starbucks/id331177714) — Order, pay, and earn Stars.
+- [SUBWAY®](https://apps.apple.com/ca/app/subway/id901941015) — Subway® at your fingertips.
 
 ## Miscellaneous
 
-- [Booksy for Customers](https://apps.apple.com/ca/app/booksy-for-customers/id723961236)\* — Book your appointments.
+- [Booksy for Customers](https://apps.apple.com/ca/app/booksy-for-customers/id723961236) — Book your appointments.
 
 ## Shopping
 
-- [AE + Aerie](https://apps.apple.com/ca/app/ae-aerie/id467738064)\*
-- [Redbubble - Shop original art](https://apps.apple.com/ca/app/redbubble-shop-original-art/id1145737091)\* — On stickers, tees, and gifts.
+- [AE + Aerie](https://apps.apple.com/ca/app/ae-aerie/id467738064)
+- [Redbubble - Shop original art](https://apps.apple.com/ca/app/redbubble-shop-original-art/id1145737091) — On stickers, tees, and gifts.
 
 ## Package tracking
 
-- [Shop: All your favorite brands](https://apps.apple.com/ca/app/shop-package-order-tracker/id1223471316)\* — Shopping app & package tracker.
+- [Shop: All your favorite brands](https://apps.apple.com/ca/app/shop-package-order-tracker/id1223471316) — Shopping app & package tracker.
 
 ## Canada
 
 ### Utilities
 
-- [Bell Wi-Fi](https://apps.apple.com/ca/app/bell-wi-fi/id1294709587)\*
+- [Bell Wi-Fi](https://apps.apple.com/ca/app/bell-wi-fi/id1294709587)
 
 ### Travelling
 
-- [ArriveCAN](https://apps.apple.com/ca/app/arrivecan/id1505394667)\*
+- [ArriveCAN](https://apps.apple.com/ca/app/arrivecan/id1505394667)
 
 ### Montreal
 
 #### Taxi
 
-- [Téo, solution verte et locale](https://apps.apple.com/ca/app/t%C3%A9o-taxi/id1097805638)\*
+- [Téo, solution verte et locale](https://apps.apple.com/ca/app/t%C3%A9o-taxi/id1097805638)
 
 ### Points
 
-- [SCENE+](https://apps.apple.com/ca/app/scene-movies-meals-more/id1204940340)\* — Join SCENE+ today!
-- [PC Optimum](https://apps.apple.com/ca/app/pc-optimum/id634040057)\* — Shop. Earn Points. Repeat.
-- [My Metro](https://apps.apple.com/ca/app/my-metro/id694386842)\*
-- [Triangle](https://apps.apple.com/ca/app/triangle/id1343453471)\*
+- [SCENE+](https://apps.apple.com/ca/app/scene-movies-meals-more/id1204940340) — Join SCENE+ today!
+- [PC Optimum](https://apps.apple.com/ca/app/pc-optimum/id634040057) — Shop. Earn Points. Repeat.
+- [My Metro](https://apps.apple.com/ca/app/my-metro/id694386842)
+- [Triangle](https://apps.apple.com/ca/app/triangle/id1343453471)
 - [Avion Rewards](https://apps.apple.com/ca/app/avion-rewards/id1132694061) — Shop. Earn. Redeem. Save.
 
 ### Shopping
 
-- [Couche-Tard](https://apps.apple.com/ca/app/couche-tard/id663345373)\*
-- [Walmart — Shopping Made Easy](https://apps.apple.com/ca/app/walmart-shopping-made-easy/id1084793516)\* — One Stop Shop.
+- [Couche-Tard](https://apps.apple.com/ca/app/couche-tard/id663345373)
+- [Walmart — Shopping Made Easy](https://apps.apple.com/ca/app/walmart-shopping-made-easy/id1084793516) — One Stop Shop.
 
 ### Food & Drinks
 
-- [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)\*
-- [Wendy’s Canada](https://apps.apple.com/ca/app/my-wendys/id540518599)\* — Hamburgers, Offers, & Pay.
-- [A&W](https://apps.apple.com/ca/app/a-w/id1236416092)\* — Mobile order & pay.
-- [Second Cup Café Rewards](https://apps.apple.com/ca/app/second-cup-caf%C3%A9-rewards/id985820057)\*
+- [McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)
+- [Wendy’s Canada](https://apps.apple.com/ca/app/my-wendys/id540518599) — Hamburgers, Offers, & Pay.
+- [A&W](https://apps.apple.com/ca/app/a-w/id1236416092) — Mobile order & pay.
+- [Second Cup Café Rewards](https://apps.apple.com/ca/app/second-cup-caf%C3%A9-rewards/id985820057)
 
 ### Banking
 
-- [RBC Launch](https://apps.apple.com/ca/app/rbc-wallet/id1022830198)\* — Simplifying your finances.
+- [RBC Launch](https://apps.apple.com/ca/app/rbc-wallet/id1022830198) — Simplifying your finances.
 
 ## Russia
 
 ### Transport & Delivery
 
 - [Yandex Go: Taxi Food Market](https://apps.apple.com/ca/app/yandex-go-taxi-food-market/id472650686) — App to order taxi or delivery.
-- [Lyft](https://apps.apple.com/ca/app/lyft/id529379082) - One app. All the rides.
 
 ### Food & Drinks
 
@@ -135,4 +136,4 @@ Apps marked with `*` are to be installed on the device initially.
 
 ### Health & Fitness
 
-- [AutoSleep: Watch Sleep Tracker](https://apps.apple.com/ca/app/autosleep-watch-sleep-tracker/id1164801111)\* — Auto Sleep Tracker & Alarm. — C$5.49.
+- [AutoSleep: Watch Sleep Tracker](https://apps.apple.com/ca/app/autosleep-watch-sleep-tracker/id1164801111) — Auto Sleep Tracker & Alarm. — C$5.49.
