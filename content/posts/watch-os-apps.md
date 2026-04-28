@@ -45,10 +45,6 @@ keywords: watchos, apps, applications, programs
 
 - [Audible audio books & podcasts](https://apps.apple.com/ca/app/audible-audio-books-podcasts/id379693831) — Stream & listen to Audiobooks.
 
-## Business
-
-- [xMatters](https://apps.apple.com/ca/app/xmatters/id409162401)
-
 ## Music
 
 - [Spotify New Music and podcasts](https://apps.apple.com/ca/app/spotify-music/id324684580) — Discover playlists and songs.
@@ -95,7 +91,6 @@ keywords: watchos, apps, applications, programs
 ### Maps
 
 - [Yandex.Maps & Navigator](https://apps.apple.com/ca/app/yandex-maps/id313877526) — Transport, Transit, Navigation.
-<!-- * [2GIS: Offline Map & Navigation](https://apps.apple.com/ca/app/2gis-offline-maps/id481627348) — City Routes, Traffic & Transit. -->
 
 ## Paid
 
