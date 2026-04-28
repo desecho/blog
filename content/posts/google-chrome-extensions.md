@@ -8,10 +8,10 @@ keywords: chrome, extensions, browser
 
 ## Development
 
-- [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) — EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
+- [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm)
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) — Validate and view JSON documents.
-- [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif) — Click the icon in the address bar or press Alt+Shift+V to validate the current page. Results can be seen in Chrome's JS console.
 - [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) — Chrome and Firefox DevTools extension for debugging Vue.js applications.
+- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 ## Shopping
 
@@ -32,10 +32,15 @@ keywords: chrome, extensions, browser
 - [Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh) — Opens a list of URLs.
 - [Read Mode](https://chrome.google.com/webstore/detail/read-mode/nagcaahojecfeopbghgihcabgiepploa) — Puts Google Chrome into read mode for a pleasant reading experience.
 - [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) — Re-implements the Google Images' "View Image" and "Search by Image" buttons.
+- [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
 
 ## Editing
 
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) — From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
+
+## Banking
+
+- [MetaMask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 ## Paid
 

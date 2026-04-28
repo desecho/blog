@@ -171,42 +171,6 @@ keywords: hotkeys
 | [Ctrl + B]         | Toggle Sidebar visibility  |
 | [Ctrl + K Z]       | Zen Mode (Esc Esc to exit) |
 
-### Sublime Text
-
-| Hotkey                    | Action                                |
-| ------------------------- | ------------------------------------- |
-| [Cmd + P]                 | Switch files                          |
-| [Cmd + R]                 | Go to functions/classes               |
-| [Cmd + D]                 | Quick select                          |
-| [Cmd + K], [Cmd + d]      | Skip selection                        |
-| [Cmd + Shift + L]         | Create multiple cursors               |
-| [Cmd + Shift + P]         | Command mode                          |
-| [Cmd + F]                 | Find text                             |
-| [Cmd + F], [alt + enter]  | Find text and then select them all    |
-| [Cmd + Alt + F]           | Replace text                          |
-| [Cmd + /]                 | Comment/uncomment                     |
-| [Cmd + Ctrl + F]          | Full screen                           |
-| [Cmd + Ctrl + Shift + F]  | Distraction free                      |
-| [Cmd + K + B]             | Toggle sidebar                        |
-| [Ctrl + G]                | Go to line number                     |
-| [Ctrl + L]                | Center window                         |
-| [Cmd + L]                 | Select line                           |
-| [Ctrl + Shift + K]        | Delete line                           |
-| [Cmd + ]]                 | Indent                                |
-| [Cmd + []                 | Unindent                              |
-| [Cmd + Shift + Alt + 2/3] | Change window layout to 2 or 3 rows   |
-| [Cmd + Alt + 1/2/3]       | Change window layout to 1/2/3 columns |
-| [Ctrl + M]                | Go to matching bracket                |
-
-#### Bookmarks
-
-| Hotkey             | Action                  |
-| ------------------ | ----------------------- |
-| [Cmd + F2]         | Create/delete bookmark  |
-| [Cmd + Shift + F2] | Clear bookmarks         |
-| [F2]               | Go to next bookmark     |
-| [Shift + F2]       | Go to previous bookmark |
-
 ## CLI
 
 | Hotkey         | Action                                                  |

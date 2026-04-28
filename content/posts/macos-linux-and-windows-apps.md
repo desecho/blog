@@ -13,7 +13,6 @@ keywords: windows, apps, applications, programs, macos, linux
 
 ## Editors
 
-- [Sublime Text](https://www.sublimetext.com/) — Text Editing, Done Right.
 - [VS Code](https://code.visualstudio.com/) — Code editing. Redefined.
 - [Apache OpenOffice](https://www.openoffice.org/download/index.html) — Compatible with other major office suites.
 
