@@ -48,6 +48,10 @@ keywords: ios, ipados, apps, applications, programs
 - [Google Chrome](https://apps.apple.com/ca/app/chrome-web-browser-by-google/id535886823) — Fast & Secure Web Browser.
 - [Firefox: Private, Safe Browser](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926) — Fast and Secure Web Browsing.
 
+## Tracking
+- [Goodreads: Book Tracker & More](https://apps.apple.com/ca/app/goodreads-book-tracker-more/id355833469)
+- [Event Counter & Count down](https://apps.apple.com/ca/app/event-counter-count-down/id1533996161)
+
 ## VPN
 
 - [Cisco AnyConnect](https://apps.apple.com/ca/app/cisco-anyconnect/id1135064690) — New Cisco AnyConnect.
@@ -123,6 +127,8 @@ keywords: ios, ipados, apps, applications, programs
 - [9GAG: Best LOL Pics & GIFs](https://apps.apple.com/ca/app/9gag-best-lol-pics-gifs/id545551605) — LOL Pics & GIFs Search Engine.
 - [Reddit](https://apps.apple.com/ca/app/reddit-official-trending-news/id1064216828) — Dive into anything.
 - [TikTok](https://apps.apple.com/ca/app/tiktok/id835599320) — ⁣Videos, Music & Live Streams.
+- [Ticketmaster－Buy, Sell Tickets](https://apps.apple.com/ca/app/ticketmaster-buy-sell-tickets/id500003565)
+- [Patreon](https://apps.apple.com/ca/app/patreon/id1044456188)
 
 ## Shopping
 
@@ -273,6 +279,7 @@ keywords: ios, ipados, apps, applications, programs
 ### Transportation
 
 - [BIXI](https://apps.apple.com/ca/app/bixi/id628543321)
+- [Chrono - Trips and fares](https://apps.apple.com/ca/app/chrono-trips-and-fares/id1261397728)
 
 ## Russia
 
