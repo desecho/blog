@@ -49,6 +49,7 @@ keywords: ios, ipados, apps, applications, programs
 - [Firefox: Private, Safe Browser](https://apps.apple.com/ca/app/firefox-private-safe-browser/id989804926) — Fast and Secure Web Browsing.
 
 ## Tracking
+
 - [Goodreads: Book Tracker & More](https://apps.apple.com/ca/app/goodreads-book-tracker-more/id355833469)
 - [Event Counter & Count down](https://apps.apple.com/ca/app/event-counter-count-down/id1533996161)
 
