@@ -13,6 +13,7 @@ keywords: ios, ipados, apps, applications, programs
 - [Google Gemini](https://apps.apple.com/ca/app/google-gemini/id6477489729) - Your AI assistant from Google
 - [Claude by Anthropic](https://apps.apple.com/ca/app/claude-by-anthropic/id6473753684) - AI assistant for life and work
 - [Meta AI – Assistant & glasses](https://apps.apple.com/ca/app/meta-ai-assistant-glasses/id1558240027)
+- [Microsoft Copilot](https://apps.apple.com/ca/app/microsoft-copilot/id6472538445)
 
 ## Gaming
 
@@ -103,6 +104,10 @@ keywords: ios, ipados, apps, applications, programs
 - [Evernote - Notes Organizer](https://apps.apple.com/ca/app/evernote-notes-organizer/id281796108) — Note pad, to-do list, planner.
 - [Google Calendar](https://apps.apple.com/ca/app/google-calendar/id909319292)
 
+## Misc
+
+- [Patreon](https://apps.apple.com/ca/app/patreon/id1044456188)
+
 ## Developer Tools
 
 - [GitHub](https://apps.apple.com/app/github/id1477376905) — Projects, ideas, & code to go.
@@ -129,7 +134,7 @@ keywords: ios, ipados, apps, applications, programs
 - [Reddit](https://apps.apple.com/ca/app/reddit-official-trending-news/id1064216828) — Dive into anything.
 - [TikTok](https://apps.apple.com/ca/app/tiktok/id835599320) — ⁣Videos, Music & Live Streams.
 - [Ticketmaster－Buy, Sell Tickets](https://apps.apple.com/ca/app/ticketmaster-buy-sell-tickets/id500003565)
-- [Patreon](https://apps.apple.com/ca/app/patreon/id1044456188)
+- [IMDb](https://apps.apple.com/ca/app/imdb/id342792525)
 
 ## Shopping
 

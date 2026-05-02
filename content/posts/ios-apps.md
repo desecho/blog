@@ -32,6 +32,7 @@ keywords: ios, apps, applications, programs
 ## Lifestyle
 
 - [Meetup: Local groups & events](https://apps.apple.com/ca/app/meetup/id375990038) — Meet new people, do new things.
+- [Eventbrite](https://apps.apple.com/ca/app/eventbrite/id487922291)
 
 ## Calculators
 
