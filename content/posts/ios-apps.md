@@ -78,6 +78,7 @@ keywords: ios, apps, applications, programs
 
 - [AE + Aerie](https://apps.apple.com/ca/app/ae-aerie/id467738064)
 - [Redbubble - Shop original art](https://apps.apple.com/ca/app/redbubble-shop-original-art/id1145737091) — On stickers, tees, and gifts.
+- [adidas: Shop Shoes & Clothing](https://apps.apple.com/ca/app/adidas-shop-shoes-clothing/id1266591536)
 
 ## Package tracking
 
@@ -92,6 +93,7 @@ keywords: ios, apps, applications, programs
 ### Travelling
 
 - [ArriveCAN](https://apps.apple.com/ca/app/arrivecan/id1505394667)
+- [Six Flags](https://apps.apple.com/ca/app/six-flags/id988953433)
 
 ### Montreal
 
