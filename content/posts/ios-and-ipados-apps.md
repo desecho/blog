@@ -120,7 +120,7 @@ keywords: ios, ipados, apps, applications, programs
 
 ## Social
 
-- [X](https://apps.apple.com/ca/app/x/id333903271) — Breaking News & Social Media.
+- <a href="https://apps.apple.com/ca/app/x/id333903271" target="_blank">X</a> — Breaking News & Social Media.
 - [Facebook](https://apps.apple.com/ca/app/facebook/id284882215)
 - [LinkedIn: Job Search & News](https://apps.apple.com/ca/app/linkedin/id288429040) — Network & Find Jobs For You.
 
