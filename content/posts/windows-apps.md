@@ -56,6 +56,7 @@ keywords: windows, apps, applications, programs
 - [PC Health Check Application](https://aka.ms/GetPCHealthCheckApp)
 - [Java](https://java.com/en/)
 - [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
+- [Rufus](https://rufus.ie/en/) - Create bootable USB drives the easy way
 
 ## Graphics
 

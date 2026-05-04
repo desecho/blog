@@ -48,6 +48,7 @@ keywords: windows, apps, applications, programs, macos, linux
 
 - [AnyDesk](https://anydesk.com/) — Remote desktop.
 - [muCommander](https://www.mucommander.com/) — The easy to use file manager.
+- [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives, safely and easily.
 
 ## Paid
 
