@@ -17,7 +17,7 @@ install-linters-binaries: .install-shfmt .install-hadolint .install-actionlint .
 
 # hugo
 # https://github.com/gohugoio/hugo/releases
-HUGO_VERSION := 0.107.0
+HUGO_VERSION := 0.161.1
 
 .PHONY: install
 ## Install hugo
