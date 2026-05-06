@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.Language.Locale }}">
   <head>
     {{ partial "head-open" . }}
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
     <link rel="icon" type="image/png" href="{{ "favicon.png" | absURL }}">
     <title>{{ .Title }}</title>
-    {{ partial "css" . }} {{ partial "js" . }} {{ hugo.Generator }} {{ if .Site.GoogleAnalytics }}
+    {{ partial "css" . }} {{ partial "js" . }} {{ hugo.Generator }} {{ with .Site.Config.Services.GoogleAnalytics.ID }}
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -16,7 +16,7 @@
       }
       gtag("js", new Date());
 
-      gtag("config", "{{ .Site.GoogleAnalytics }}");
+      gtag("config", "{{ . }}");
     </script>
     {{ end }}
   </head>

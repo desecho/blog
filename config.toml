@@ -1,9 +1,8 @@
 baseURL = "https://blog.samarchyan.me"
-languageCode = "en-us"
+locale = "en-us"
 title = "IT Blog"
 theme = "minimal"
 disqusShortname = "desechosblog"
-googleAnalytics = "G-TB27X6BHHP"
 enableEmoji = "true"
 
 # Number of blog posts in each pagination page
@@ -19,6 +18,9 @@ paginate = 100
     highlightLanguages = ["python", "javascript", "bash"]
     defaultKeywords = []
     navigationNewWindow = true
+
+[services.googleAnalytics]
+    id = "G-TB27X6BHHP"
 
 [[menu.main]]
     url = "/"

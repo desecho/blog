@@ -77,6 +77,7 @@ set-up-pre-commit:
 update-minimal:
 	$(call print,Updating Minimal theme)
 	git submodule update --remote themes/minimal
+	git submodule update --remote themes/hugo-coder
 
 .PHONY: format
 ## Format files
